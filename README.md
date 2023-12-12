@@ -21,6 +21,16 @@ This repository contains Python scripts to fetch, merge, and analyze Internet Ex
    - Resolves duplicates based on the `peeringlan` field.
    - Outputs the final merged data to `data/ixps.json`.
 
+## Merging Logic
+The merge_ixp_data.py script follows a systematic approach to merge data from different sources while avoiding duplicates based on the peeringlan field. Here's a step-by-step breakdown:
+1. Load data from PeeringDB, creating a dictionary based on the `peeringlan` field for uniqueness.
+2. Load data from PCH, adding entries that are missing in PeeringDB.
+3. Load data from Hurricane Electric, adding entries that are missing in both PeeringDB and PCH.
+4. Standardize region names for consistency.
+5. Save the final merged data to `data/ixps.json`.
+
+This process ensures a comprehensive and non-redundant dataset from multiple sources, avoiding duplicates based on the `peeringlan` field.
+
 ## Instructions
 
 1. Run each script in order to collect data from different sources.
