@@ -1,5 +1,8 @@
 import requests
 import json
+from xml.etree import ElementTree as ET
+import csv
+import os
 
 # Function to fetch data from the first endpoint
 def get_ixp_data():
@@ -32,16 +35,36 @@ def get_subnet_data(ixp_id):
 def extract_subnet_fields(data):
     extracted_data = []
     for item in data:
-        if "version" in item and "subnet" in item and item["subnet"]:
+        if  "subnet" in item and item["subnet"]:
             extracted_item = {
-                "af": item["version"],
                 "peeringlan": item["subnet"]
             }
             extracted_data.append(extracted_item)
     return extracted_data
 
+def load_country_code_mapping():
+    country_code_mapping = {}
+
+    with open(os.path.join('data', 'country_codes.csv'), newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            country_code_mapping[row['Country']] = row['CC']
+
+    return country_code_mapping
+
+def translate_country_to_code(country_name, country_code_mapping):
+    country_code = country_code_mapping.get(country_name)
+
+    if country_code is None:
+        print(f"Country code not found for: {country_name}")
+
+    return country_code
+
 # Main function to generate the desired JSON output
 def generate_output():
+    # Load country code mapping from the CSV file
+    country_codes_mapping = load_country_code_mapping()
+
     ixp_data = get_ixp_data()
     filtered_ixp_data = filter_fields(ixp_data)
 
@@ -54,10 +77,12 @@ def generate_output():
         if extracted_subnet_data:
             # Loop over each subnet and create a separate record
             for subnet_item in extracted_subnet_data:
+                # Translate country name to country code
+                country_code = translate_country_to_code(item["country"], country_codes_mapping)
                 output_item = {
                     "id": f"pch_{item['id']}",
                     "name": item["name"],
-                    "country": item["country"],
+                    "country": country_code,
                     "city": item["city"],
                     "region": item["region"],
                     "url": item["url"],
@@ -75,4 +100,3 @@ with open(output_file_path, "w") as output_file:
     json.dump(result, output_file, indent=2)
 
 print(f"Output saved to {output_file_path}")
-
