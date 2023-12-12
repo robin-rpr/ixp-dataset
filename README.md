@@ -10,10 +10,12 @@ This repository contains Python scripts to fetch, merge, and analyze Internet Ex
 
 2. **PCH Script (`get_pch_data.py`):**
    - Retrieves data from the PCH API.
+   - Only cosider data for IXPs whcih have status active
    - Outputs data to `data/pch.json`.
 
 3. **Hurricane Electric Script (`get_he_ixps.py`):**
    - Scrapes data from the [bgp.he.net](https://bgp.he.net) website.
+   - Added a further check, and only consider prefixes where data feed health is not bad
    - Outputs data to `data/he.json`.
 
 4. **Merge IXP Data Script (`merge_ixp_data.py`):**
