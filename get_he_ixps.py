@@ -11,6 +11,10 @@ def scrape_exchange_data():
     exchange_data = []
 
     for row in soup.select('#exchangestable tbody tr'):
+        # Skip records with the specified pattern
+        if row.select_one('td:nth-of-type(3) img[src*="x.png"]'):
+            continue
+
         exchange_name = row.select_one('td a').text.strip()
         country_code = row.select_one('td:nth-of-type(4)').text.strip()
         city = row.select_one('td:nth-of-type(5)').text.strip()
