@@ -34,7 +34,7 @@ This repository contains Python scripts to fetch, merge, and analyze Internet Ex
 After running the scripts, execute the merge script.
 python merge_ixp_data.py
 The merged data will be saved in data/ixps.json.
-
+```json
 [
   {
     "id": "pdb_2",  // Prefix indicates PeeringDB
@@ -65,7 +65,7 @@ The merged data will be saved in data/ixps.json.
   },
 
 ]
-
+```
 ## Dependencies
 Python 3.x
 Requests
