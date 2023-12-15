@@ -59,7 +59,7 @@ The merged data will be saved in data/ixps.json.
 ```json
 [
   {
-    "id": "pdb_2",  // Prefix indicates PeeringDB
+    "id": "pdb_2_{counter:02}",  // Prefix indicates PeeringDB
     "name": "IXP Name",
    "country": 
     "city": 
@@ -68,7 +68,7 @@ The merged data will be saved in data/ixps.json.
     "peeringlan": "v4/v6 Prefix of Peeringlan"
   },
   {
-    "id": "pch_5",  // Prefix indicates PCH
+    "id": "pch_5_{counter:02}",  // Prefix indicates PCH
     "name": "IXP Name",
     "country": 
     "city": 
@@ -77,7 +77,7 @@ The merged data will be saved in data/ixps.json.
     "peeringlan": "v4/v6 Prefix of Peeringlan"
   },
   {
-    "id": "he_3",  // Prefix indicates Hurricane Electric
+    "id": "he_3_{counter:02}",  // Prefix indicates Hurricane Electric
     "name": "IXP Name",
     "country": 
     "city": 
