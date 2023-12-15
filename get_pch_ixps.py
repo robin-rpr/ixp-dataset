@@ -1,8 +1,10 @@
 import requests
 import json
+import ipaddress
 from xml.etree import ElementTree as ET
 import csv
 import os
+from pprint import pprint
 
 # Function to fetch data from the first endpoint
 def get_ixp_data():
@@ -31,16 +33,36 @@ def get_subnet_data(ixp_id):
     response = requests.get(url)
     return response.json()
 
+# Function to validate whether a given string is a valid IP network subnet
+def is_valid_subnet(subnet_str):
+    try:
+        ipaddress.ip_network(subnet_str,strict=False)
+        return True
+    except (ipaddress.AddressValueError, ipaddress.NetmaskValueError, ValueError):
+        return False
+
 # Function to extract required fields from the second endpoint response
 def extract_subnet_fields(data):
     extracted_data = []
+    parsing_errors = []
+
     for item in data:
-        if  "subnet" in item and item["subnet"]:
-            extracted_item = {
-                "peeringlan": item["subnet"]
-            }
-            extracted_data.append(extracted_item)
-    return extracted_data
+        subnet_str = item.get("subnet")
+
+        if item.get("status") == "Active" and subnet_str:
+            subnet_str =subnet_str.strip()
+            if is_valid_subnet(subnet_str):
+                extracted_item = {
+                    "peeringlan": subnet_str
+                }
+                extracted_data.append(extracted_item)
+            else:
+                parsing_errors.append({
+                    "id": item.get("id"),
+                    "subnet": subnet_str
+                })
+
+    return extracted_data, parsing_errors
 
 def load_country_code_mapping():
     country_code_mapping = {}
@@ -69,10 +91,12 @@ def generate_output():
     filtered_ixp_data = filter_fields(ixp_data)
 
     output_data = []
+    parsing_errors = []
+
     for item in filtered_ixp_data:
         ixp_id = item["id"]
         subnet_data = get_subnet_data(ixp_id)
-        extracted_subnet_data = extract_subnet_fields(subnet_data)
+        extracted_subnet_data, errors = extract_subnet_fields(subnet_data)
 
         if extracted_subnet_data:
             # Loop over each subnet and create a separate record
@@ -90,13 +114,24 @@ def generate_output():
                 }
                 output_data.append(output_item)
 
-    return output_data
+        if errors:
+            parsing_errors.extend(errors)
+
+    return output_data, parsing_errors
 
 # Run the main function and save the result to a file
-result = generate_output()
+result, errors = generate_output()
 
 output_file_path = "data/pch.json"
 with open(output_file_path, "w") as output_file:
     json.dump(result, output_file, indent=2)
 
 print(f"Output saved to {output_file_path}")
+
+# Save parsing errors to a separate file
+error_file_path = "data/pch_parsing_errors.json"
+with open(error_file_path, "w") as error_file:
+    json.dump(errors, error_file, indent=2)
+
+print(f"Parsing errors saved to {error_file_path}")
+
