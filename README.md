@@ -24,7 +24,7 @@ This repository contains Python scripts to fetch, merge, and analyze Internet Ex
    - Outputs the final merged data to `data/ixps.json`.
 
 ## Merging Logic
-The merge_ixp_data.py script processes data from different sources related to internet exchange points (IXPs) and merges them into a unified dataset. The data includes information about regions, cities, countries, and peering LAN prefixes associated with various IXPs. The script uses the `ipaddress` module to handle IPv4 and IPv6 prefixes.
+The merge_ixp_data.py script processes data from different sources related to internet exchange points (IXPs) and merges them into a unified dataset. The data includes information about ixp name, regions, countries, and peering LAN prefixes associated with various IXPs. Please keep in mind there are IXPs that have colocations in several countries. We have not mapped those in our dataset.
 
 The `process_data_file` function reads data from JSON files and populates a dictionary (`ip_dict`) with information about each IXP entry, including the peering LAN prefix. It checks for duplicate prefixes and handles cases where a prefix is a subnet or supernet of an existing entry. If a supernet is found, it removes subnets of that supernet from the dictionary to ensure a consistent and non-overlapping dataset.
 
