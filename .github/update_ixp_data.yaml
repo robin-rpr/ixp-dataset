@@ -1,0 +1,50 @@
+name: Update IXP Data
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # Runs "Every day at 00:00" (see https://crontab.guru)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Install Packages
+        run: |
+           pip3 install beautifulsoup4
+           pip3 install requests
+        
+      - name: Run get_peeringdb_ixps.py
+        run: python3 get_peeringdb_ixps.py --output-peeringlan --apikey "${{ secrets.API_KEY_PEERINGDB }}"
+
+      - name: Run get_he_ixps.py
+        run: python3 get_he_ixps.py
+
+      - name: Run get_he_ixps.py
+        run: python3 get_he_ixps.py
+
+      - name: Run get_pch_ixps.py
+        run: python3 get_pch_ixps.py
+
+      - name: Run merge_ixp_data.py
+        run: pyhton3 merge_ixp_data.py
+
+      - name: Commit changes
+        if: success()
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Workflow
+          author_email: actions@github.com
+          message: 'Updating IXPs'
+          add: 'data/*.json'
