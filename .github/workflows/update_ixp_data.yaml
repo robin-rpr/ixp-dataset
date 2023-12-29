@@ -38,7 +38,7 @@ jobs:
         run: python3 get_pch_ixps.py
 
       - name: Run merge_ixp_data.py
-        run: pyhton3 merge_ixp_data.py
+        run: python3 merge_ixp_data.py
 
       - name: Commit changes
         if: success()
