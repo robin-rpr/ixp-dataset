@@ -26,7 +26,7 @@ jobs:
            pip3 install requests
         
       - name: Run get_peeringdb_ixps.py
-        run: python3 get_peeringdb_ixps.py --output-peeringlan --apikey "${{ secrets.API_KEY_PEERINGDB }}"
+        run: python3 get_peeringdb_ixps.py --output-peeringlan "${{ secrets.API_KEY_PEERINGDB }}"
 
       - name: Run get_he_ixps.py
         run: python3 get_he_ixps.py
