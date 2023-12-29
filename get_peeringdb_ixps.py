@@ -4,13 +4,13 @@ from collections import defaultdict
 from pprint import pprint
 import argparse
 
-KEY = ""
-with open("/Users/qlone/.peeringdb") as inf:
-    KEY = inf.readline().strip()
+#KEY = ""
+#with open("/Users/qlone/.peeringdb") as inf:
+#    KEY = inf.readline().strip()
 
-headers = {"Authorization": "Api-Key " + KEY}
 
-def get_peeringdb_info(output_peeringlan):
+def get_peeringdb_info(output_peeringlani,apikey):
+    headers = {"Authorization": "Api-Key " + apikey}
     ix2lans = {}
     ixlan2ixpfx = defaultdict(lambda: {"peeringlan": []})
 
@@ -87,9 +87,10 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process PeeringDB data.')
     parser.add_argument('--output-peeringlan', action='store_true',
                         help='Output peeringlan separately.')
+    parser.add_argument('apikey', help='API key for authentication')
     args = parser.parse_args()
 
-    peeringdb_data = get_peeringdb_info(args.output_peeringlan)
+    peeringdb_data = get_peeringdb_info(args.output_peeringlan,args.apikey)
 
     output_filename = 'data/peeringdb_peeringlan.json' if args.output_peeringlan else 'data/peeringdb.json'
 
