@@ -9,7 +9,7 @@ import argparse
 #    KEY = inf.readline().strip()
 
 
-def get_peeringdb_info(output_peeringlani,apikey):
+def get_peeringdb_info(output_peeringlan,apikey):
     headers = {"Authorization": "Api-Key " + apikey}
     ix2lans = {}
     ixlan2ixpfx = defaultdict(lambda: {"peeringlan": []})
