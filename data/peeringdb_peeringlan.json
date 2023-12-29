@@ -4357,7 +4357,7 @@
   },
   {
     "id": "pdb_474",
-    "name": "EPIX.Warszawa-KIX",
+    "name": "EPIX.Warszawa",
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
@@ -4366,7 +4366,7 @@
   },
   {
     "id": "pdb_474",
-    "name": "EPIX.Warszawa-KIX",
+    "name": "EPIX.Warszawa",
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
@@ -6647,7 +6647,7 @@
     "country": "ID",
     "city": "Yogyakarta",
     "region": "Asia Pacific",
-    "url": "http://puskom.uny.ac.id",
+    "url": "https://ix.uny.id",
     "peeringlan": "202.37.120.0/24"
   },
   {
@@ -6656,7 +6656,7 @@
     "country": "ID",
     "city": "Yogyakarta",
     "region": "Asia Pacific",
-    "url": "http://puskom.uny.ac.id",
+    "url": "https://ix.uny.id",
     "peeringlan": "2406:7040:706:74::/64"
   },
   {
@@ -9178,6 +9178,15 @@
     "region": "South America",
     "url": "http://www.pitconcepcion.cl",
     "peeringlan": "45.71.9.0/24"
+  },
+  {
+    "id": "pdb_1915",
+    "name": "PIT Concepcion - PIT Chile-LAN",
+    "country": "CL",
+    "city": "Concepcion",
+    "region": "South America",
+    "url": "http://www.pitconcepcion.cl",
+    "peeringlan": "2803:3440:9026::/64"
   },
   {
     "id": "pdb_1916",
@@ -13026,7 +13035,7 @@
     "id": "pdb_3122",
     "name": "PIONIER-IX",
     "country": "PL",
-    "city": "Bia\u0142ystok, Pozna\u0144, Wroc\u0142aw, Szczecin, Opole",
+    "city": "Bia\u0142ystok, Pozna\u0144, Wroc\u0142aw, Szczecin, Opole, Cz\u0119stochowa",
     "region": "Europe",
     "url": "https://docs.psnc.pl/display/PIONIERIX/PIONIER-IX",
     "peeringlan": "185.1.164.0/24"
@@ -13035,7 +13044,7 @@
     "id": "pdb_3122",
     "name": "PIONIER-IX",
     "country": "PL",
-    "city": "Bia\u0142ystok, Pozna\u0144, Wroc\u0142aw, Szczecin, Opole",
+    "city": "Bia\u0142ystok, Pozna\u0144, Wroc\u0142aw, Szczecin, Opole, Cz\u0119stochowa",
     "region": "Europe",
     "url": "https://docs.psnc.pl/display/PIONIERIX/PIONIER-IX",
     "peeringlan": "2001:7f8:f0::/64"
@@ -14851,7 +14860,7 @@
   },
   {
     "id": "pdb_3528",
-    "name": "SIIX IXP ITALY",
+    "name": "SIIX IXP POMEZIA (ITALY)",
     "country": "IT",
     "city": "Pomezia",
     "region": "Europe",
@@ -14860,7 +14869,7 @@
   },
   {
     "id": "pdb_3528",
-    "name": "SIIX IXP ITALY",
+    "name": "SIIX IXP POMEZIA (ITALY)",
     "country": "IT",
     "city": "Pomezia",
     "region": "Europe",
@@ -19828,7 +19837,7 @@
   },
   {
     "id": "pdb_4320",
-    "name": "Arexico IXP - D\u00fcsseldorf",
+    "name": "AXCIX Dusseldorf",
     "country": "DE",
     "city": "D\u00fcsseldorf",
     "region": "Europe",
@@ -19879,5 +19888,104 @@
     "region": "Asia Pacific",
     "url": "https://getafix.ph",
     "peeringlan": "2401:fdc0:0:2::/64"
+  },
+  {
+    "id": "pdb_4339",
+    "name": "Lightboard Springfield IX (Massachusetts)",
+    "country": "US",
+    "city": "Springfield, MA Hartford CT New Haven, CT",
+    "region": "North America",
+    "url": "https://springfield-ix.net",
+    "peeringlan": "2001:504:136::/64"
+  },
+  {
+    "id": "pdb_4339",
+    "name": "Lightboard Springfield IX (Massachusetts)",
+    "country": "US",
+    "city": "Springfield, MA Hartford CT New Haven, CT",
+    "region": "North America",
+    "url": "https://springfield-ix.net",
+    "peeringlan": "23.167.200.0/24"
+  },
+  {
+    "id": "pdb_4340",
+    "name": "Lightboard Burlington IX (Vermont)",
+    "country": "US",
+    "city": "Burlington, VT",
+    "region": "North America",
+    "url": "https://vermont-ix.net",
+    "peeringlan": "2001:504:137::/64"
+  },
+  {
+    "id": "pdb_4340",
+    "name": "Lightboard Burlington IX (Vermont)",
+    "country": "US",
+    "city": "Burlington, VT",
+    "region": "North America",
+    "url": "https://vermont-ix.net",
+    "peeringlan": "149.112.81.0/24"
+  },
+  {
+    "id": "pdb_4341",
+    "name": "BSCIX",
+    "country": "BD",
+    "city": "Dhaka",
+    "region": "Asia Pacific",
+    "url": "https://www.bsccl.com.bd/",
+    "peeringlan": "163.47.82.0/24"
+  },
+  {
+    "id": "pdb_4343",
+    "name": "PIT Guatemala - Ciudad de Guatemala",
+    "country": "GT",
+    "city": "Guatemala City",
+    "region": "North America",
+    "url": "https://www.pit.gt/",
+    "peeringlan": "45.68.48.0/24"
+  },
+  {
+    "id": "pdb_4343",
+    "name": "PIT Guatemala - Ciudad de Guatemala",
+    "country": "GT",
+    "city": "Guatemala City",
+    "region": "North America",
+    "url": "https://www.pit.gt/",
+    "peeringlan": "2801:155:6:4157::/64"
+  },
+  {
+    "id": "pdb_4345",
+    "name": "OMGNET-SGIX",
+    "country": "SG",
+    "city": "\u65b0\u52a0\u5761",
+    "region": "Asia Pacific",
+    "url": "https://net.omegai.cc",
+    "peeringlan": "2406:840:eabf:2000::/64"
+  },
+  {
+    "id": "pdb_4346",
+    "name": "OMGNET-HKIX",
+    "country": "HK",
+    "city": "\u9999\u6e2f",
+    "region": "Asia Pacific",
+    "url": "https://net.omegai.cc",
+    "peeringlan": "2406:840:eabf:2100::/64"
+  },
+  {
+    "id": "pdb_4347",
+    "name": "Lightboard Manchester IX (New Hampshire)",
+    "country": "US",
+    "city": "Manchester, NH",
+    "region": "North America",
+    "url": "https://nh-ix.net",
+    "peeringlan": "149.112.82.0/24"
+  },
+  {
+    "id": "pdb_4347",
+    "name": "Lightboard Manchester IX (New Hampshire)",
+    "country": "US",
+    "city": "Manchester, NH",
+    "region": "North America",
+    "url": "https://nh-ix.net",
+    "peeringlan": "2001:504:138::/64"
   }
 ]
