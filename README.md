@@ -88,6 +88,9 @@ The merged data will be saved in data/ixps.json.
 
 ]
 ```
+## TODO
+- Remove IXP peeringlan if they are inactive in either of the sources
+- Add webhook to report changes to mattermost
 ## Dependencies
 Python 3.x
 Requests
