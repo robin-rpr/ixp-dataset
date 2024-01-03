@@ -12954,7 +12954,7 @@
     "id": "pdb_3286_01",
     "name": "SBIX FRE",
     "country": "US",
-    "city": "Fremont",
+    "city": "Fremont / Neuheim",
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:5d::/64"
@@ -12963,7 +12963,7 @@
     "id": "pdb_3286_02",
     "name": "SBIX FRE",
     "country": "US",
-    "city": "Fremont",
+    "city": "Fremont / Neuheim",
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "164.132.186.192/26"
@@ -12972,7 +12972,7 @@
     "id": "pdb_3286_03",
     "name": "SBIX FRE",
     "country": "US",
-    "city": "Fremont",
+    "city": "Fremont / Neuheim",
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "185.0.31.0/24"
@@ -12981,7 +12981,7 @@
     "id": "pdb_3286_04",
     "name": "SBIX FRE",
     "country": "US",
-    "city": "Fremont",
+    "city": "Fremont / Neuheim",
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:5::/64"
@@ -18981,6 +18981,15 @@
     "peeringlan": "103.191.134.0/24"
   },
   {
+    "id": "pdb_4350_01",
+    "name": "OPTIMA-NET",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "https://saranaoptimaberdikari.com",
+    "peeringlan": "103.245.168.0/23"
+  },
+  {
     "id": "pch_83_01",
     "name": "Deutscher Commercial Internet Exchange DE-CIX Frankfurt",
     "country": "DE",
@@ -19044,15 +19053,6 @@
     "peeringlan": "2001:0628:04fe::/64"
   },
   {
-    "id": "pch_64_01",
-    "name": "London Network Access Point",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.lonap.net/",
-    "peeringlan": "2001:7f8:17::/48"
-  },
-  {
     "id": "pch_1936_01",
     "name": "DE-CIX Madrid",
     "country": "ES",
@@ -19060,6 +19060,15 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/en/locations/spain/madrid",
     "peeringlan": "2001:7f8:a0::/48"
+  },
+  {
+    "id": "pch_64_01",
+    "name": "London Network Access Point",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.lonap.net/",
+    "peeringlan": "2001:7f8:17::/48"
   },
   {
     "id": "pch_49_01",
@@ -19107,6 +19116,24 @@
     "peeringlan": "2001:de8:c:2::/48"
   },
   {
+    "id": "pch_1905_01",
+    "name": "DET-IX",
+    "country": "US",
+    "city": "Detroit",
+    "region": "North America",
+    "url": "http://www.detroitix.com/",
+    "peeringlan": "2067:f790:100::0/64"
+  },
+  {
+    "id": "pch_1137_01",
+    "name": "Bulgarian Internet eXchange",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.bix.bg/en/home.html",
+    "peeringlan": "2001:7f8:58::/48"
+  },
+  {
     "id": "pch_804_01",
     "name": "InterLAN-IX",
     "country": "RO",
@@ -19123,33 +19150,6 @@
     "region": "Africa",
     "url": "https://www.napafrica.net/",
     "peeringlan": "196.10.140.0/24"
-  },
-  {
-    "id": "pch_1905_01",
-    "name": "DET-IX",
-    "country": "US",
-    "city": "Detroit",
-    "region": "North America",
-    "url": "http://www.detroitix.com/",
-    "peeringlan": "2067:f790:100::0/64"
-  },
-  {
-    "id": "pch_120_01",
-    "name": "Roma Internet Exchange Point",
-    "country": "IT",
-    "city": "Rome",
-    "region": "Europe",
-    "url": "https://www.namex.it/",
-    "peeringlan": "2001:7f8:10::/48"
-  },
-  {
-    "id": "pch_1137_01",
-    "name": "Bulgarian Internet eXchange",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.bix.bg/en/home.html",
-    "peeringlan": "2001:7f8:58::/48"
   },
   {
     "id": "pch_1935_01",
@@ -19188,22 +19188,13 @@
     "peeringlan": "2001:7f8:d:200::/48"
   },
   {
-    "id": "pch_1233_01",
-    "name": "Milan Neutral Access Point",
+    "id": "pch_120_01",
+    "name": "Roma Internet Exchange Point",
     "country": "IT",
-    "city": "Milan",
+    "city": "Rome",
     "region": "Europe",
-    "url": "https://www.minap.it/",
-    "peeringlan": "92.60.70.0/24"
-  },
-  {
-    "id": "pch_1233_02",
-    "name": "Milan Neutral Access Point",
-    "country": "IT",
-    "city": "Milan",
-    "region": "Europe",
-    "url": "https://www.minap.it/",
-    "peeringlan": "2A01:658:FFFF::/48"
+    "url": "https://www.namex.it/",
+    "peeringlan": "2001:7f8:10::/48"
   },
   {
     "id": "pch_1187_01",
@@ -19242,6 +19233,15 @@
     "peeringlan": "2001:478:124::/48"
   },
   {
+    "id": "pch_1234_01",
+    "name": "Luxembourg Commercial Internet Exchange",
+    "country": "LU",
+    "city": "Luxembourg",
+    "region": "Europe",
+    "url": "http://www.lu-cix.lu/",
+    "peeringlan": "2001:7F8:4C::/48"
+  },
+  {
     "id": "pch_58_01",
     "name": "NAP AEPROVI Quito",
     "country": "EC",
@@ -19260,13 +19260,31 @@
     "peeringlan": "2001:13C7:6F00::/48"
   },
   {
-    "id": "pch_1234_01",
-    "name": "Luxembourg Commercial Internet Exchange",
-    "country": "LU",
-    "city": "Luxembourg",
+    "id": "pch_613_01",
+    "name": "Neutral czFree eXchange",
+    "country": "CZ",
+    "city": "Prague",
     "region": "Europe",
-    "url": "http://www.lu-cix.lu/",
-    "peeringlan": "2001:7F8:4C::/48"
+    "url": "http://www.nfx.cz/",
+    "peeringlan": "81.201.48.192/26"
+  },
+  {
+    "id": "pch_1233_01",
+    "name": "Milan Neutral Access Point",
+    "country": "IT",
+    "city": "Milan",
+    "region": "Europe",
+    "url": "https://www.minap.it/",
+    "peeringlan": "92.60.70.0/24"
+  },
+  {
+    "id": "pch_1233_02",
+    "name": "Milan Neutral Access Point",
+    "country": "IT",
+    "city": "Milan",
+    "region": "Europe",
+    "url": "https://www.minap.it/",
+    "peeringlan": "2A01:658:FFFF::/48"
   },
   {
     "id": "pch_51_01",
@@ -19276,15 +19294,6 @@
     "region": "Europe",
     "url": "https://www.cix.hr/",
     "peeringlan": "2001:7f8:28::/48"
-  },
-  {
-    "id": "pch_613_01",
-    "name": "Neutral czFree eXchange",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.nfx.cz/",
-    "peeringlan": "81.201.48.192/26"
   },
   {
     "id": "pch_88_01",
@@ -19323,6 +19332,15 @@
     "peeringlan": "2001:43f8:0060::/48"
   },
   {
+    "id": "pch_145_01",
+    "name": "LGDACOM Internet Exchange",
+    "country": "KR",
+    "city": "Seoul",
+    "region": "Asia Pacific",
+    "url": "",
+    "peeringlan": "198.32.209.0/24"
+  },
+  {
     "id": "pch_29_01",
     "name": "Equinix S\u00e3o Paulo",
     "country": "BR",
@@ -19339,15 +19357,6 @@
     "region": "Latin America",
     "url": "https://ix.equinix.com",
     "peeringlan": "2001:478:122::/64"
-  },
-  {
-    "id": "pch_145_01",
-    "name": "LGDACOM Internet Exchange",
-    "country": "KR",
-    "city": "Seoul",
-    "region": "Asia Pacific",
-    "url": "",
-    "peeringlan": "198.32.209.0/24"
   },
   {
     "id": "pch_373_01",
@@ -19377,6 +19386,15 @@
     "peeringlan": "103.247.139.0/24"
   },
   {
+    "id": "pch_56_01",
+    "name": "Danish Internet Exchange",
+    "country": "DK",
+    "city": "Copenhagen",
+    "region": "Europe",
+    "url": "http://www.dix.dk/",
+    "peeringlan": "2001:07F8:001F::/48"
+  },
+  {
     "id": "pch_57_01",
     "name": "NAP AEPROVI Guayaquil",
     "country": "EC",
@@ -19393,15 +19411,6 @@
     "region": "Latin America",
     "url": "http://aeprovi.org.ec/es/napec",
     "peeringlan": "2001:13C7:6F40::/48"
-  },
-  {
-    "id": "pch_56_01",
-    "name": "Danish Internet Exchange",
-    "country": "DK",
-    "city": "Copenhagen",
-    "region": "Europe",
-    "url": "http://www.dix.dk/",
-    "peeringlan": "2001:07F8:001F::/48"
   },
   {
     "id": "pch_1241_01",
@@ -19827,15 +19836,6 @@
     "peeringlan": "2001:13c7:600d::/48"
   },
   {
-    "id": "pch_1844_01",
-    "name": "Mexico IXP",
-    "country": "MX",
-    "city": "Ciudad de Mexico",
-    "region": "Latin America",
-    "url": "http://ixp.mx/",
-    "peeringlan": "2806:239::/48"
-  },
-  {
     "id": "pch_1406_01",
     "name": "CABASE IXP La Plata",
     "country": "AR",
@@ -19879,6 +19879,15 @@
     "region": "Europe",
     "url": "http://www.beirutix.net/",
     "peeringlan": "198.32.157.0/24"
+  },
+  {
+    "id": "pch_1844_01",
+    "name": "Mexico IXP",
+    "country": "MX",
+    "city": "Ciudad de Mexico",
+    "region": "Latin America",
+    "url": "http://ixp.mx/",
+    "peeringlan": "2806:239::/48"
   },
   {
     "id": "pch_52_01",
@@ -19971,42 +19980,6 @@
     "peeringlan": "172.16.97.0/24"
   },
   {
-    "id": "pch_1976_01",
-    "name": "SVAO-IX",
-    "country": "RU",
-    "city": "Moscow",
-    "region": "Europe",
-    "url": "http://www.svao-ix.ru/",
-    "peeringlan": "89.222.236.0/24"
-  },
-  {
-    "id": "pch_1814_01",
-    "name": "Jamaica Internet Exchange Point",
-    "country": "JM",
-    "city": "Kingston",
-    "region": "Latin America",
-    "url": "",
-    "peeringlan": "206.41.107.0/24"
-  },
-  {
-    "id": "pch_1814_02",
-    "name": "Jamaica Internet Exchange Point",
-    "country": "JM",
-    "city": "Kingston",
-    "region": "Latin America",
-    "url": "",
-    "peeringlan": "2001:504:3E::/64"
-  },
-  {
-    "id": "pch_323_01",
-    "name": "Equinix-NY(former Paix)",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://www.equinix.com/",
-    "peeringlan": "198.32.117.0/24"
-  },
-  {
     "id": "pch_1719_01",
     "name": "Coresite - Any 2",
     "country": "US",
@@ -20023,6 +19996,15 @@
     "region": "North America",
     "url": "https://www.coresite.com/solutions/interconnection/peering-exchanges/any2-internet-peering-exchange",
     "peeringlan": "2001:504:13:7::/64"
+  },
+  {
+    "id": "pch_1976_01",
+    "name": "SVAO-IX",
+    "country": "RU",
+    "city": "Moscow",
+    "region": "Europe",
+    "url": "http://www.svao-ix.ru/",
+    "peeringlan": "89.222.236.0/24"
   },
   {
     "id": "pch_357_01",
@@ -20059,6 +20041,33 @@
     "region": "North America",
     "url": "https://www.equinix.com/",
     "peeringlan": "2001:504:e::/64"
+  },
+  {
+    "id": "pch_1814_01",
+    "name": "Jamaica Internet Exchange Point",
+    "country": "JM",
+    "city": "Kingston",
+    "region": "Latin America",
+    "url": "",
+    "peeringlan": "206.41.107.0/24"
+  },
+  {
+    "id": "pch_1814_02",
+    "name": "Jamaica Internet Exchange Point",
+    "country": "JM",
+    "city": "Kingston",
+    "region": "Latin America",
+    "url": "",
+    "peeringlan": "2001:504:3E::/64"
+  },
+  {
+    "id": "pch_323_01",
+    "name": "Equinix-NY(former Paix)",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://www.equinix.com/",
+    "peeringlan": "198.32.117.0/24"
   },
   {
     "id": "pch_1850_01",
