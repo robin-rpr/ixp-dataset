@@ -21,7 +21,7 @@ jobs:
           CHANGES: $(git diff HEAD~1 HEAD)
           LAST_COMMIT: $(git rev-parse HEAD)
           PREVIOUS_COMMIT: $(git rev-parse HEAD~1)
-          WEBHOOK_URL: 'https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by'
+          WEBHOOK_URL: 'YOUR_WEBHOOK_URL_HERE'
 
 # Custom GitHub Action Metadata
 name: 'Notify Webhook'
