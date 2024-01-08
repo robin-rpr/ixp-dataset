@@ -40,18 +40,3 @@ jobs:
           author_email: actions@github.com
           message: 'Updating IXPs'
           add: 'data/*.json'
-
-      # Identify changes between last two commits
-      - name: Identify Changes
-        run: |
-          CHANGES=$(git diff HEAD~1 HEAD)
-          LAST_COMMIT=$(git rev-parse HEAD)
-          PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
-          PAYLOAD="{\"last_commit\": \"$LAST_COMMIT\", \"previous_commit\": \"$PREVIOUS_COMMIT\", \"changes\": \"$CHANGES\"}"
-
-      # Send changes to webhook
-      - name: Push Changes to Webhook
-        if: success()
-        run: |
-          WEBHOOK_URL="https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by"
-          curl -X POST -H "Content-Type: application/json" -d "$PAYLOAD" $WEBHOOK_URL
