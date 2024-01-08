@@ -44,20 +44,19 @@ jobs:
       # Send notification to mattermost channel
       - name: Checkout code
         uses: actions/checkout@v3
-        with: fetch-depth: 5
+        with:
+          fetch-depth: 5  # Corrected indentation here
 
       - name: Set Webhook URL
         run: |
-          WEBHOOK_URL="https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by"
-          echo "WEBHOOK_URL=$WEBHOOK_URL" >> $GITHUB_ENV
-
+          echo "WEBHOOK_URL=https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by" >> $GITHUB_ENV 
       - name: Identify Changes on Specific File
         run: |
           FILE_NAME="data/ixps.json"
           CHANGES=$(git diff HEAD~1 HEAD -- $FILE_NAME)
 
           if [[ -n "$CHANGES" ]]; then
-            PAYLOAD="{\"last_commit\": \"$LAST_COMMIT\", \"previous_commit\": \"$PREVIOUS_COMMIT\", \"changes\": \"Changes detected in $FILE_NAME\"}"
+            PAYLOAD="{\"last_commit\": \"$(git rev-parse HEAD)\", \"previous_commit\": \"$(git rev-parse HEAD~1)\", \"changes\": \"Changes detected in $FILE_NAME\"}"
             echo "PAYLOAD=$PAYLOAD" >> $GITHUB_ENV
           else
             echo "No changes detected in $FILE_NAME"
