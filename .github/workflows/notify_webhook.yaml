@@ -1,0 +1,45 @@
+name: Update IXP Data and Notify Webhook
+
+on:
+  schedule:
+    # Runs "Every day at 00:00" (see https://crontab.guru)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Custom action to identify changes and notify webhook
+      - name: Notify Webhook
+        uses: ./.github/actions/notify-webhook
+        with:
+          CHANGES: $(git diff HEAD~1 HEAD)
+          LAST_COMMIT: $(git rev-parse HEAD)
+          PREVIOUS_COMMIT: $(git rev-parse HEAD~1)
+          WEBHOOK_URL: 'https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by'
+
+# Custom GitHub Action Metadata
+name: 'Notify Webhook'
+description: 'Identify changes between the last two commits and notify webhook'
+inputs: {}
+outputs: {}
+runs:
+  using: 'composite'
+  steps:
+    - name: Identify Changes
+      run: |
+        CHANGES="${{ inputs.CHANGES }}"
+        LAST_COMMIT="${{ inputs.LAST_COMMIT }}"
+        PREVIOUS_COMMIT="${{ inputs.PREVIOUS_COMMIT }}"
+        PAYLOAD="{\"last_commit\": \"$LAST_COMMIT\", \"previous_commit\": \"$PREVIOUS_COMMIT\", \"changes\": \"$CHANGES\"}"
+        echo "PAYLOAD=$PAYLOAD" >> $GITHUB_ENV
+    - name: Send Payload to Webhook
+      run: |
+        WEBHOOK_URL="${{ inputs.WEBHOOK_URL }}"
+        PAYLOAD=$(echo $PAYLOAD)
+        curl -X POST -H "Content-Type: application/json" -d "$PAYLOAD" $WEBHOOK_URL
