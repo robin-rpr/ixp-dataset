@@ -1,35 +1,26 @@
-name: Update IXP Data
+name: Update IXP Data and Notify Webhook
 
-# Controls when the workflow will run
 on:
   schedule:
     # Runs "Every day at 00:00" (see https://crontab.guru)
     - cron: '0 0 * * *'
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      # Runs a single command using the runners shell
       - name: Install Packages
         run: |
            pip3 install beautifulsoup4
            pip3 install requests
-        
+
       - name: Run get_peeringdb_ixps.py
         run: python3 get_peeringdb_ixps.py --output-peeringlan "${{ secrets.API_KEY_PEERINGDB }}"
-
-      - name: Run get_he_ixps.py
-        run: python3 get_he_ixps.py
 
       - name: Run get_he_ixps.py
         run: python3 get_he_ixps.py
@@ -40,6 +31,7 @@ jobs:
       - name: Run merge_ixp_data.py
         run: python3 merge_ixp_data.py
 
+      # Commit changes to the repository
       - name: Commit changes
         if: success()
         uses: EndBug/add-and-commit@v9
@@ -48,3 +40,18 @@ jobs:
           author_email: actions@github.com
           message: 'Updating IXPs'
           add: 'data/*.json'
+
+      # Identify changes between last two commits
+      - name: Identify Changes
+        run: |
+          CHANGES=$(git diff HEAD~1 HEAD)
+          LAST_COMMIT=$(git rev-parse HEAD)
+          PREVIOUS_COMMIT=$(git rev-parse HEAD~1)
+          PAYLOAD="{\"last_commit\": \"$LAST_COMMIT\", \"previous_commit\": \"$PREVIOUS_COMMIT\", \"changes\": \"$CHANGES\"}"
+
+      # Send changes to webhook
+      - name: Push Changes to Webhook
+        if: success()
+        run: |
+          WEBHOOK_URL=https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by"
+          curl -X POST -H "Content-Type: application/json" -d "$PAYLOAD" $WEBHOOK_URL
