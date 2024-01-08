@@ -53,5 +53,5 @@ jobs:
       - name: Push Changes to Webhook
         if: success()
         run: |
-          WEBHOOK_URL=https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by"
+          WEBHOOK_URL="https://mattermost.ripe.net/hooks/nwqyskg5gbdxze78ppa3st37by"
           curl -X POST -H "Content-Type: application/json" -d "$PAYLOAD" $WEBHOOK_URL
