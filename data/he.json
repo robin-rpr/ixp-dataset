@@ -621,24 +621,6 @@
     "peeringlan": "2001:504:1::/64"
   },
   {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.52.0/23"
-  },
-  {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:4::/64"
-  },
-  {
     "id": "he_JPNAP%20Tokyo",
     "name": "JPNAP Tokyo",
     "country": "JP",
@@ -655,6 +637,24 @@
     "region": "Asia Pacific",
     "url": "https://www.jpnap.net/en/",
     "peeringlan": "2001:7fa:7:1::/64"
+  },
+  {
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.52.0/23"
+  },
+  {
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:4::/64"
   },
   {
     "id": "he_DE-CIX%20Madrid",
@@ -1161,24 +1161,6 @@
     "peeringlan": "2a00:1b30::/64"
   },
   {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "203.163.222.0/24"
-  },
-  {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "2406:d400:1:133:203:163:222::/112"
-  },
-  {
     "id": "he_ONIX",
     "name": "ONIX",
     "country": "CA",
@@ -1195,6 +1177,24 @@
     "region": "North America",
     "url": "https://www.onix.cx",
     "peeringlan": "2001:504:125:e1::/64"
+  },
+  {
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "203.163.222.0/24"
+  },
+  {
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "2406:d400:1:133:203:163:222::/112"
   },
   {
     "id": "he_IXManchester",
@@ -1512,6 +1512,15 @@
     "peeringlan": "2001:7fa:11:1::/64"
   },
   {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
+  },
+  {
     "id": "he_EdgeIX%20-%20Sydney",
     "name": "EdgeIX - Sydney",
     "country": "AU",
@@ -1528,15 +1537,6 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:5::/64"
-  },
-  {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_BIX%20Budapest",
@@ -3537,24 +3537,6 @@
     "peeringlan": "2001:7f8:b4:4b::/48"
   },
   {
-    "id": "he_SIX%20SI",
-    "name": "SIX SI",
-    "country": "SI",
-    "city": "Ljubljana",
-    "region": "Europe",
-    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
-    "peeringlan": "91.220.194.0/24"
-  },
-  {
-    "id": "he_SIX%20SI",
-    "name": "SIX SI",
-    "country": "SI",
-    "city": "Ljubljana",
-    "region": "Europe",
-    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
-    "peeringlan": "2001:7f8:46::/64"
-  },
-  {
     "id": "he_CN-IX%20Shanghai",
     "name": "CN-IX Shanghai",
     "country": "CN",
@@ -3670,6 +3652,24 @@
     "region": "Africa",
     "url": "http://www.gixa.org.gh",
     "peeringlan": "2001:43f8:ae1::/48"
+  },
+  {
+    "id": "he_SIX%20SI",
+    "name": "SIX SI",
+    "country": "SI",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
+    "peeringlan": "91.220.194.0/24"
+  },
+  {
+    "id": "he_SIX%20SI",
+    "name": "SIX SI",
+    "country": "SI",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
+    "peeringlan": "2001:7f8:46::/64"
   },
   {
     "id": "he_MBIX",
