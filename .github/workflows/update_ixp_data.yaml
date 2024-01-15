@@ -28,6 +28,7 @@ jobs:
           else
             echo "Changes detected"
             echo "::set-output name=no_changes::false"
+          fi
 
       - name: Commit changes
         if: steps.check-changes.outputs.no_changes == 'false'
