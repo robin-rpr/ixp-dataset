@@ -58,8 +58,11 @@ jobs:
           echo "${{ steps.generate-diff.outputs.diff }}"
 
       - name: Send Notification to Mattermost Channel
+        if: steps.check-changes.outputs.no_changes == 'false'
         run: |
-          diff=$(cat diff_output.txt)
-          # Use jq to construct JSON payload
-          payload=$(jq -n --arg text "\`\`\`diff\n$diff\n\`\`\`" '{text: $text}')
-          curl -X POST -H 'Content-type: application/json' --data "$payload" ${{ secrets.MATTERMOST_WEBHOOK_URL }}
+          # Read the diff content into a variable
+          diff_content=$(<diff_output.txt)
+          # Construct the JSON payload with jq
+          json_payload=$(jq -R --slurp --arg codeblock "```diff" '{text: $codeblock + "\n" + . + "\n```"}' <<< "$diff_content")
+          # Send the payload via curl
+          curl -X POST -H 'Content-type: application/json' --data "$json_payload" ${{ secrets.MATTERMOST_WEBHOOK_URL }}
