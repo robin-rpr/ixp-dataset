@@ -22,7 +22,7 @@ jobs:
       - name: Identify Changes on Specific File
         run: |
           FILE_NAME="data/ixps.json"
-          CHANGES=$(git diff HEAD~1 HEAD -- $FILE_NAME)
+          CHANGES=$(git diff HEAD^1 HEAD -- $FILE_NAME)
 
           if [[ -n "$CHANGES" ]]; then
             PAYLOAD="{\"last_commit\": \"$LAST_COMMIT\", \"previous_commit\": \"$PREVIOUS_COMMIT\", \"changes\": \"Changes detected in $FILE_NAME\"}"
