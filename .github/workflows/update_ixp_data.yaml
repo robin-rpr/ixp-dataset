@@ -46,17 +46,23 @@ jobs:
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "SECOND_LAST_COMMIT=$(git rev-parse HEAD~1)" >> $GITHUB_ENV
 
-      - name: Show Full Diff for Debugging
-        run: |
-          echo "Showing full diff for ixps.json:"
-          git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json
-  
       - name: Generate Diff
-        if: steps.check-changes.outputs.no_changes == 'false'
-        id: generate-diff
         run: |
           diff=$(git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json)
+          diff="${diff//'%'/'%25'}"        # Escape %
+          diff="${diff//$'\n'/'%0A'}"      # Escape newlines
+          diff="${diff//$'\r'/'%0D'}"      # Escape carriage returns
+          diff="${diff//\\/\\\\}"          # Escape backslashes
+          diff="${diff//\"/\\\"}"          # Escape double quotes
+          diff="${diff//$'\n'/\\n}"        # Escape newlines
           echo "::set-output name=diff::$diff"
+
+      - name: Send Notification to Mattermost Channel
+        run: |
+          diff=$(cat diff_output.txt)
+          # Escape backslashes, double quotes, and newlines
+          
+          curl -X POST -H 'Content-type: application/json' --data "{\"text\": \"\`\`\`diff\n${diff}\n\`\`\`\"}" ${{ secrets.MATTERMOST_WEBHOOK_URL }}
 
       # Debugging: Print the diff to the GitHub Actions log
       - name: Print Diff
