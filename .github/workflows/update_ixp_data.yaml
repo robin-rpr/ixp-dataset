@@ -51,7 +51,6 @@ jobs:
           git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json > diff_output.txt
 
       - name: Send Notification to Mattermost Channel
-        if: steps.check-changes.outputs.no_changes == 'false'
         run: |
           diff_content=$(cat diff_output.txt)
           json_payload=$(jq -R --slurp --arg codeblock "```diff" '{text: ($codeblock + "\n" + . + "\n```")}' <<< "$diff_content")
