@@ -46,13 +46,9 @@ jobs:
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "SECOND_LAST_COMMIT=$(git rev-parse HEAD~1)" >> $GITHUB_ENV
 
-      - name: Generate Diff
-        if: steps.check-changes.outputs.no_changes == 'false'
-        id: generate-diff
+      - name: Generate Diff and Set Environment Variable
         run: |
-          diff=$(git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json)
-          diff="${diff//\"/\\\"}"          # Escape double quotes
-          echo "diff=$diff" >> $GITHUB_OUTPUT
+          git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json > diff_output.txt
 
       # Debugging: Print the diff to the GitHub Actions log
       - name: Print Diff
@@ -62,6 +58,8 @@ jobs:
           echo "${{ steps.generate-diff.outputs.diff }}"
 
       - name: Send Notification to Mattermost Channel
-        if: steps.check-changes.outputs.no_changes == 'false'
         run: |
-          curl -X POST -H 'Content-type: application/json' --data '{"text": "```diff\n${{ steps.generate-diff.outputs.diff }}\n```"}' ${{ secrets.MATTERMOST_WEBHOOK_URL }}
+          diff=$(cat diff_output.txt)
+          # Use jq to construct JSON payload
+          payload=$(jq -n --arg text "\`\`\`diff\n$diff\n\`\`\`" '{text: $text}')
+          curl -X POST -H 'Content-type: application/json' --data "$payload" ${{ secrets.MATTERMOST_WEBHOOK_URL }}
