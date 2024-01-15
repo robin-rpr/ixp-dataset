@@ -57,13 +57,6 @@ jobs:
           diff="${diff//$'\n'/\\n}"        # Escape newlines
           echo "::set-output name=diff::$diff"
 
-      - name: Send Notification to Mattermost Channel
-        run: |
-          diff=$(cat diff_output.txt)
-          # Escape backslashes, double quotes, and newlines
-          
-          curl -X POST -H 'Content-type: application/json' --data "{\"text\": \"\`\`\`diff\n${diff}\n\`\`\`\"}" ${{ secrets.MATTERMOST_WEBHOOK_URL }}
-
       # Debugging: Print the diff to the GitHub Actions log
       - name: Print Diff
         if: steps.generate-diff.outputs.diff != ''
