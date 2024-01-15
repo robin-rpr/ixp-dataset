@@ -16,22 +16,8 @@ jobs:
         with:
           fetch-depth: 5  # Corrected indentation here
 
-      - name: Install Packages
-        run: |
-           pip3 install beautifulsoup4
-           pip3 install requests
-
-      - name: Run get_peeringdb_ixps.py
-        run: python3 get_peeringdb_ixps.py --output-peeringlan "${{ secrets.API_KEY_PEERINGDB }}"
-
-      - name: Run get_he_ixps.py
-        run: python3 get_he_ixps.py
-
-      - name: Run get_pch_ixps.py
-        run: python3 get_pch_ixps.py
-
-      - name: Run merge_ixp_data.py
-        run: python3 merge_ixp_data.py
+      - name: test
+        run: echo "test" >> data/ixps.json
 
       - name: Check for Changes
         id: check-changes
