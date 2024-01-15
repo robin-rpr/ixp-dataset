@@ -24,13 +24,13 @@ jobs:
         run: |
           if git diff --quiet; then
             echo "No changes to data files"
-            echo "NO_CHANGES=true" >> $GITHUB_ENV
+            echo "::set-output name=no_changes::true"
           else
             echo "Changes detected"
-            echo "NO_CHANGES=false" >> $GITHUB_ENV
+            echo "::set-output name=no_changes::false"
 
       - name: Commit changes
-        if: env.NO_CHANGES == 'false'
+        if: steps.check-changes.outputs.no_changes == 'false'
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Workflow
@@ -39,20 +39,20 @@ jobs:
           add: 'data/*.json'
 
       - name: Get Last Two Commits
-        if: env.NO_CHANGES == 'false'
+        if: steps.check-changes.outputs.no_changes == 'false'
         id: get-commits
         run: |
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "SECOND_LAST_COMMIT=$(git rev-parse HEAD~1)" >> $GITHUB_ENV
   
       - name: Generate Diff
-        if: env.NO_CHANGES == 'false'
+        if: steps.check-changes.outputs.no_changes == 'false'
         id: generate-diff
         run: |
           diff=$(git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json)
           echo "::set-output name=diff::$diff"
 
       - name: Send Notification to Mattermost Channel
-        if: env.NO_CHANGES == 'false'
+        if: steps.check-changes.outputs.no_changes == 'false'
         run: |
           curl -X POST -H 'Content-type: application/json' --data '{"text": "```diff\n${{ steps.generate-diff.outputs.diff }}\n```"}' ${{ secrets.MATTERMOST_WEBHOOK_URL }}
