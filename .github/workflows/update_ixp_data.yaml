@@ -53,6 +53,13 @@ jobs:
           diff=$(git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json)
           echo "::set-output name=diff::$diff"
 
+      # Debugging: Print the diff to the GitHub Actions log
+      - name: Print Diff
+        if: steps.generate-diff.outputs.diff != ''
+        run: |
+          echo "Diff output:"
+          echo "${{ steps.generate-diff.outputs.diff }}"
+
       - name: Send Notification to Mattermost Channel
         if: steps.check-changes.outputs.no_changes == 'false'
         run: |
