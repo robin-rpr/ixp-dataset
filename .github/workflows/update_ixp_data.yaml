@@ -45,6 +45,11 @@ jobs:
         run: |
           echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
           echo "SECOND_LAST_COMMIT=$(git rev-parse HEAD~1)" >> $GITHUB_ENV
+
+      - name: Show Full Diff for Debugging
+        run: |
+          echo "Showing full diff for ixps.json:"
+          git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json
   
       - name: Generate Diff
         if: steps.check-changes.outputs.no_changes == 'false'
