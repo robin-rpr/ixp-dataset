@@ -51,12 +51,7 @@ jobs:
         id: generate-diff
         run: |
           diff=$(git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json)
-          diff="${diff//'%'/'%25'}"        # Escape %
-          diff="${diff//$'\n'/'%0A'}"      # Escape newlines
-          diff="${diff//$'\r'/'%0D'}"      # Escape carriage returns
-          diff="${diff//\\/\\\\}"          # Escape backslashes
           diff="${diff//\"/\\\"}"          # Escape double quotes
-          diff="${diff//$'\n'/\\n}"        # Escape newlines
           echo "diff=$diff" >> $GITHUB_OUTPUT
 
       # Debugging: Print the diff to the GitHub Actions log
