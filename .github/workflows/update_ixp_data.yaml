@@ -16,8 +16,25 @@ jobs:
         with:
           fetch-depth: 5  # Corrected indentation here
 
-      - name: test
-        run: echo "test" >> data/ixps.json
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Packages
+        run: |
+           pip3 install beautifulsoup4
+           pip3 install requests
+
+      - name: Run get_peeringdb_ixps.py
+        run: python3 get_peeringdb_ixps.py --output-peeringlan "${{ secrets.API_KEY_PEERINGDB }}"
+
+      - name: Run get_he_ixps.py
+        run: python3 get_he_ixps.py
+
+      - name: Run get_pch_ixps.py
+        run: python3 get_pch_ixps.py
+
+      - name: Run merge_ixp_data.py
+        run: python3 merge_ixp_data.py
 
       - name: Check for Changes
         id: check-changes
@@ -47,12 +64,19 @@ jobs:
           echo "SECOND_LAST_COMMIT=$(git rev-parse HEAD~1)" >> $GITHUB_ENV
 
       - name: Generate Diff and Set Environment Variable
+        if: steps.check-changes.outputs.no_changes == 'false'
         run: |
           git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json > diff_output.txt
           cat diff_output.txt
 
-      - name: Send Notification to Mattermost Channel
+      - name: Send Update to Mattermost Channel
         run: |
-          diff_content=$(cat diff_output.txt)
-          json_payload=$(jq -R --slurp --arg codeblock "\`\`\`diff" --arg endcodeblock "\`\`\`" '{text: ($codeblock + "\n" + . + "\n" + $endcodeblock)}' <<< "$diff_content")
-          curl -X POST -H 'Content-type: application/json' --data "$json_payload" "${{ secrets.MATTERMOST_WEBHOOK_URL }}"
+          if [ "${{ steps.check-changes.outputs.no_changes }}" == "true" ]; then
+            # No changes detected
+            curl -X POST -H 'Content-type: application/json' --data "{ \"text\": \"No changes were detected in the latest automation run.\" }" "${{ secrets.MATTERMOST_WEBHOOK_URL }}"
+          else
+            # Changes detected, send git diff
+            diff_content=$(cat diff_output.txt)
+            json_payload=$(jq -R --slurp --arg codeblock "\`\`\`diff" --arg endcodeblock "\`\`\`" '{text: ($codeblock + "\n" + . + $endcodeblock)}' <<< "$diff_content")
+            curl -X POST -H 'Content-type: application/json' --data "$json_payload" "${{ secrets.MATTERMOST_WEBHOOK_URL }}"
+          fi
