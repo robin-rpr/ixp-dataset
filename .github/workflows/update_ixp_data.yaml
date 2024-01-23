@@ -64,7 +64,6 @@ jobs:
         if: steps.check-changes.outputs.no_changes == 'false'
         run: |
           git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json > diff_output.txt
-          cat diff_output.txt
 
       - name: Send Update to Mattermost Channel
         run: |
