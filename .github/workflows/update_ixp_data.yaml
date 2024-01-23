@@ -53,7 +53,6 @@ jobs:
 
       - name: Send Notification to Mattermost Channel
         run: |
-          cat diff_output.txt
           diff_content=$(cat diff_output.txt)
-          json_payload=$(jq -R --slurp --arg codeblock "```diff" '{text: ($codeblock + "\n" + . + "\n```")}' <<< "$diff_content")
-          curl -X POST -H 'Content-type: application/json' --data "$json_payload" ${{ secrets.MATTERMOST_WEBHOOK_URL }}
+          json_payload=$(jq -R --slurp --arg codeblock "\`\`\`diff" --arg endcodeblock "\`\`\`" '{text: ($codeblock + "\n" + . + "\n" + $endcodeblock)}' <<< "$diff_content")
+          curl -X POST -H 'Content-type: application/json' --data "$json_payload" "${{ secrets.MATTERMOST_WEBHOOK_URL }}"
