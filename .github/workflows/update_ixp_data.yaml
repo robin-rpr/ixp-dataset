@@ -49,9 +49,11 @@ jobs:
       - name: Generate Diff and Set Environment Variable
         run: |
           git diff $SECOND_LAST_COMMIT $LAST_COMMIT -- data/ixps.json > diff_output.txt
+          cat diff_output.txt
 
       - name: Send Notification to Mattermost Channel
         run: |
+          cat diff_output.txt
           diff_content=$(cat diff_output.txt)
           json_payload=$(jq -R --slurp --arg codeblock "```diff" '{text: ($codeblock + "\n" + . + "\n```")}' <<< "$diff_content")
           curl -X POST -H 'Content-type: application/json' --data "$json_payload" ${{ secrets.MATTERMOST_WEBHOOK_URL }}
