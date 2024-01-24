@@ -927,33 +927,6 @@
     "peeringlan": "2001:504:40:108::/64"
   },
   {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:380:60::/80"
-  },
-  {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:3::/64"
-  },
-  {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:3806:60::/80"
-  },
-  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1105,6 +1078,33 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/dallas",
     "peeringlan": "2001:504:61::/64"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:380:60::/80"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3::/64"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3806:60::/80"
   },
   {
     "id": "he_VIX",
@@ -3213,15 +3213,6 @@
     "peeringlan": "2001:7f8:28::/48"
   },
   {
-    "id": "he_SVAO-IX",
-    "name": "SVAO-IX",
-    "country": "RU",
-    "city": "Moscow",
-    "region": "Europe",
-    "url": "http://www.svao-ix.ru/",
-    "peeringlan": "89.222.236.0/24"
-  },
-  {
     "id": "he_DE-CIX%20Chicago",
     "name": "DE-CIX Chicago",
     "country": "US",
@@ -3238,6 +3229,15 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/united-states/chicago",
     "peeringlan": "2001:504:102::/64"
+  },
+  {
+    "id": "he_SVAO-IX",
+    "name": "SVAO-IX",
+    "country": "RU",
+    "city": "Moscow",
+    "region": "Europe",
+    "url": "http://www.svao-ix.ru/",
+    "peeringlan": "89.222.236.0/24"
   },
   {
     "id": "he_PITER-IX%20Kiev",
@@ -3375,6 +3375,24 @@
     "peeringlan": "2001:504:105::/64"
   },
   {
+    "id": "he_Asteroid%20Mombasa",
+    "name": "Asteroid Mombasa",
+    "country": "KE",
+    "city": "Mombasa",
+    "region": "Africa",
+    "url": "https://asteroidhq.com/ixp-locations/4",
+    "peeringlan": "196.60.66.0/24"
+  },
+  {
+    "id": "he_Asteroid%20Mombasa",
+    "name": "Asteroid Mombasa",
+    "country": "KE",
+    "city": "Mombasa",
+    "region": "Africa",
+    "url": "https://asteroidhq.com/ixp-locations/4",
+    "peeringlan": "2001:7f8:b6:2::/64"
+  },
+  {
     "id": "he_SH-IX",
     "name": "SH-IX",
     "country": "AE",
@@ -3427,24 +3445,6 @@
     "region": "Australia",
     "url": "https://internet.asn.au",
     "peeringlan": "2001:7fa:11:3::/64"
-  },
-  {
-    "id": "he_Asteroid%20Mombasa",
-    "name": "Asteroid Mombasa",
-    "country": "KE",
-    "city": "Mombasa",
-    "region": "Africa",
-    "url": "https://asteroidhq.com/ixp-locations/4",
-    "peeringlan": "196.60.66.0/24"
-  },
-  {
-    "id": "he_Asteroid%20Mombasa",
-    "name": "Asteroid Mombasa",
-    "country": "KE",
-    "city": "Mombasa",
-    "region": "Africa",
-    "url": "https://asteroidhq.com/ixp-locations/4",
-    "peeringlan": "2001:7f8:b6:2::/64"
   },
   {
     "id": "he_Rheintal%20IX",
@@ -4059,6 +4059,24 @@
     "peeringlan": "2001:504:3d:1::/64"
   },
   {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "185.1.100.0/24"
+  },
+  {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "2001:7f8:bb::/48"
+  },
+  {
     "id": "he_MegaIX%20Los%20Angeles",
     "name": "MegaIX Los Angeles",
     "country": "US",
@@ -4131,24 +4149,6 @@
     "peeringlan": "2001:7f8:b0::/64"
   },
   {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "185.1.100.0/24"
-  },
-  {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "2001:7f8:bb::/48"
-  },
-  {
     "id": "he_ROPN-IX",
     "name": "ROPN-IX",
     "country": "RO",
@@ -4210,6 +4210,24 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/phoenix",
     "peeringlan": "2001:504:116::/64"
+  },
+  {
+    "id": "he_HFXIX",
+    "name": "HFXIX",
+    "country": "CA",
+    "city": "Halifax",
+    "region": "North America",
+    "url": "http://www.aixp.ca",
+    "peeringlan": "206.130.15.0/24"
+  },
+  {
+    "id": "he_HFXIX",
+    "name": "HFXIX",
+    "country": "CA",
+    "city": "Halifax",
+    "region": "North America",
+    "url": "http://www.aixp.ca",
+    "peeringlan": "2001:504:37:10::/64"
   },
   {
     "id": "he_TREX",
@@ -4282,24 +4300,6 @@
     "region": "Europe",
     "url": "https://sonix.network",
     "peeringlan": "2001:7f8:117::/64"
-  },
-  {
-    "id": "he_HFXIX",
-    "name": "HFXIX",
-    "country": "CA",
-    "city": "Halifax",
-    "region": "North America",
-    "url": "http://www.aixp.ca",
-    "peeringlan": "206.130.15.0/24"
-  },
-  {
-    "id": "he_HFXIX",
-    "name": "HFXIX",
-    "country": "CA",
-    "city": "Halifax",
-    "region": "North America",
-    "url": "http://www.aixp.ca",
-    "peeringlan": "2001:504:37:10::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Auckland",
