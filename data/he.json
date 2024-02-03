@@ -423,6 +423,24 @@
     "peeringlan": "2001:504:36::/64"
   },
   {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "193.25.180.0/23"
+  },
+  {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "2001:7f8:63::/64"
+  },
+  {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
     "name": "NAPAfrica IX Cape Town",
     "country": "ZA",
@@ -448,24 +466,6 @@
     "region": "Africa",
     "url": "http://www.teraco.co.za",
     "peeringlan": "2001:43f8:6d1::/64"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "193.25.180.0/23"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "2001:7f8:63::/64"
   },
   {
     "id": "he_DE-CIX%20Dusseldorf",
@@ -1692,24 +1692,6 @@
     "peeringlan": "2001:7f8:23:ffff::/64"
   },
   {
-    "id": "he_AKL-IX",
-    "name": "AKL-IX",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.ix.nz",
-    "peeringlan": "43.243.21.0/24"
-  },
-  {
-    "id": "he_AKL-IX",
-    "name": "AKL-IX",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.ix.nz",
-    "peeringlan": "2001:7fa:11:6::/64"
-  },
-  {
     "id": "he_NIXI%20Delhi",
     "name": "NIXI Delhi",
     "country": "IN",
@@ -1735,6 +1717,24 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/delhi-noida",
     "peeringlan": "2001:DE8:1::/64"
+  },
+  {
+    "id": "he_AKL-IX",
+    "name": "AKL-IX",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.ix.nz",
+    "peeringlan": "43.243.21.0/24"
+  },
+  {
+    "id": "he_AKL-IX",
+    "name": "AKL-IX",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.ix.nz",
+    "peeringlan": "2001:7fa:11:6::/64"
   },
   {
     "id": "he_STUIX",
@@ -2007,6 +2007,42 @@
     "peeringlan": "2001:504:58::/64"
   },
   {
+    "id": "he_YYCIX",
+    "name": "YYCIX",
+    "country": "CA",
+    "city": "Calgary",
+    "region": "North America",
+    "url": "http://yycix.ca",
+    "peeringlan": "206.126.225.0/24"
+  },
+  {
+    "id": "he_YYCIX",
+    "name": "YYCIX",
+    "country": "CA",
+    "city": "Calgary",
+    "region": "North America",
+    "url": "http://yycix.ca",
+    "peeringlan": "2001:504:2f::/64"
+  },
+  {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "185.1.240.0/24"
+  },
+  {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "2001:7f8:12a::/64"
+  },
+  {
     "id": "he_IX%20Australia%20WA",
     "name": "IX Australia WA",
     "country": "AU",
@@ -2032,42 +2068,6 @@
     "region": "Australia",
     "url": "https://internet.asn.au",
     "peeringlan": "2001:7fa:11::/64"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "185.1.240.0/24"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "2001:7f8:12a::/64"
-  },
-  {
-    "id": "he_YYCIX",
-    "name": "YYCIX",
-    "country": "CA",
-    "city": "Calgary",
-    "region": "North America",
-    "url": "http://yycix.ca",
-    "peeringlan": "206.126.225.0/24"
-  },
-  {
-    "id": "he_YYCIX",
-    "name": "YYCIX",
-    "country": "CA",
-    "city": "Calgary",
-    "region": "North America",
-    "url": "http://yycix.ca",
-    "peeringlan": "2001:504:2f::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20New%20York",
@@ -4212,6 +4212,24 @@
     "peeringlan": "2001:7f8:fd::/64"
   },
   {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
+  },
+  {
     "id": "he_MegaIX%20Los%20Angeles",
     "name": "MegaIX Los Angeles",
     "country": "US",
@@ -4300,24 +4318,6 @@
     "region": "Middle East",
     "url": "https://www.jedix.net",
     "peeringlan": "2001:7f8:d1::/64"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Auckland",
