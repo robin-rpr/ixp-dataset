@@ -2544,7 +2544,7 @@
     "city": "Kuala Lumpur",
     "region": "Asia Pacific",
     "url": "http://www.myix.my",
-    "peeringlan": "2001:de8:10::/48"
+    "peeringlan": "2001:de8:10::/112"
   },
   {
     "id": "pdb_252",
@@ -18663,7 +18663,7 @@
     "city": "El Paso",
     "region": "North America",
     "url": "https://mdcdatacenters.com/",
-    "peeringlan": "2001:504:127::/64"
+    "peeringlan": "2001:504:127:1::/64"
   },
   {
     "id": "pdb_4092",
@@ -20196,24 +20196,6 @@
     "peeringlan": "2001:7f8:14b::/64"
   },
   {
-    "id": "pdb_4369",
-    "name": "Viva Tecnologia Telecom LTDA",
-    "country": "BR",
-    "city": "Cama\u00e7ari",
-    "region": "South America",
-    "url": "http://vivatecnologia.com.br",
-    "peeringlan": "2804:376c::/64"
-  },
-  {
-    "id": "pdb_4369",
-    "name": "Viva Tecnologia Telecom LTDA",
-    "country": "BR",
-    "city": "Cama\u00e7ari",
-    "region": "South America",
-    "url": "http://vivatecnologia.com.br",
-    "peeringlan": "170.81.100.0/22"
-  },
-  {
     "id": "pdb_4375",
     "name": "TAS-IX",
     "country": "AU",
@@ -20230,15 +20212,6 @@
     "region": "Asia Pacific",
     "url": "https://internet.asn.au",
     "peeringlan": "2001:7fa:11:7::/64"
-  },
-  {
-    "id": "pdb_4376",
-    "name": "IX SAO LUIS",
-    "country": "BR",
-    "city": "SAO LUIS",
-    "region": "South America",
-    "url": "https://www.ix.br/",
-    "peeringlan": "168.232.132.0/22"
   },
   {
     "id": "pdb_4377",
@@ -20260,11 +20233,29 @@
   },
   {
     "id": "pdb_4378",
-    "name": "F4IX",
+    "name": "F4IX MCI",
     "country": "US",
     "city": "Kansas City",
     "region": "North America",
     "url": "https://f4ix.com",
     "peeringlan": "149.112.75.0/24"
+  },
+  {
+    "id": "pdb_4378",
+    "name": "F4IX MCI",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "https://f4ix.com",
+    "peeringlan": "2602:fa3d:f4:1::/64"
+  },
+  {
+    "id": "pdb_4379",
+    "name": "Hyper Group Internet Exchange",
+    "country": "US",
+    "city": "North Kansas City",
+    "region": "North America",
+    "url": "https://net.hnhost.net/as/215617.php",
+    "peeringlan": "2a0f:85c1:363:1::/64"
   }
 ]
