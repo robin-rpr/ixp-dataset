@@ -1224,24 +1224,6 @@
     "peeringlan": "2001:7F8:4:2::/64"
   },
   {
-    "id": "he_BCIX",
-    "name": "BCIX",
-    "country": "DE",
-    "city": "Berlin",
-    "region": "Europe",
-    "url": "https://www.bcix.de/",
-    "peeringlan": "193.178.185.0/24"
-  },
-  {
-    "id": "he_BCIX",
-    "name": "BCIX",
-    "country": "DE",
-    "city": "Berlin",
-    "region": "Europe",
-    "url": "https://www.bcix.de/",
-    "peeringlan": "2001:7f8:19::/48"
-  },
-  {
     "id": "he_NAPAfrica%20IX%20Durban",
     "name": "NAPAfrica IX Durban",
     "country": "ZA",
@@ -1258,6 +1240,24 @@
     "region": "Africa",
     "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
     "peeringlan": "2001:43f8:6d2::/64"
+  },
+  {
+    "id": "he_BCIX",
+    "name": "BCIX",
+    "country": "DE",
+    "city": "Berlin",
+    "region": "Europe",
+    "url": "https://www.bcix.de/",
+    "peeringlan": "193.178.185.0/24"
+  },
+  {
+    "id": "he_BCIX",
+    "name": "BCIX",
+    "country": "DE",
+    "city": "Berlin",
+    "region": "Europe",
+    "url": "https://www.bcix.de/",
+    "peeringlan": "2001:7f8:19::/48"
   },
   {
     "id": "he_MyIX",
@@ -1548,24 +1548,6 @@
     "peeringlan": "2001:7f8:54:5::/64"
   },
   {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "206.197.187.0/24"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "2001:504:30::/48"
-  },
-  {
     "id": "he_UAE-IX",
     "name": "UAE-IX",
     "country": "AE",
@@ -1582,6 +1564,24 @@
     "region": "Middle East",
     "url": "http://www.uae-ix.net",
     "peeringlan": "2001:7f8:73::/64"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "206.197.187.0/24"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "2001:504:30::/48"
   },
   {
     "id": "he_JPNAP%20Osaka",
@@ -1701,6 +1701,33 @@
     "peeringlan": "2001:7fa:11:6::/64"
   },
   {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "196.223.22.0/23"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1::/64"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1:1::/64"
+  },
+  {
     "id": "he_SBIX",
     "name": "SBIX",
     "country": "CH",
@@ -1746,31 +1773,22 @@
     "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
-    "id": "he_CINX",
-    "name": "CINX",
+    "id": "he_DINX",
+    "name": "DINX",
     "country": "ZA",
-    "city": "Cape Town",
+    "city": "Durban",
     "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "196.223.22.0/23"
+    "url": "https://www.inx.net.za/",
+    "peeringlan": "196.223.30.0/23"
   },
   {
-    "id": "he_CINX",
-    "name": "CINX",
+    "id": "he_DINX",
+    "name": "DINX",
     "country": "ZA",
-    "city": "Cape Town",
+    "city": "Durban",
     "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1::/64"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1:1::/64"
+    "url": "https://www.inx.net.za/",
+    "peeringlan": "2001:43f8:1f2::/64"
   },
   {
     "id": "he_Lyonix",
@@ -1789,24 +1807,6 @@
     "region": "Europe",
     "url": "https://www.franceix.net",
     "peeringlan": "2001:7f8:47:47::/64"
-  },
-  {
-    "id": "he_DINX",
-    "name": "DINX",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "https://www.inx.net.za/",
-    "peeringlan": "196.223.30.0/23"
-  },
-  {
-    "id": "he_DINX",
-    "name": "DINX",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "https://www.inx.net.za/",
-    "peeringlan": "2001:43f8:1f2::/64"
   },
   {
     "id": "he_QIX%20Montreal",
