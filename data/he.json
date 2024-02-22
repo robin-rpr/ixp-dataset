@@ -1071,24 +1071,6 @@
     "peeringlan": "2001:67c:29f0::/64"
   },
   {
-    "id": "he_DE-CIX%20Dallas",
-    "name": "DE-CIX Dallas",
-    "country": "US",
-    "city": "Dallas",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/dallas",
-    "peeringlan": "206.53.202.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Dallas",
-    "name": "DE-CIX Dallas",
-    "country": "US",
-    "city": "Dallas",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/dallas",
-    "peeringlan": "2001:504:61::/64"
-  },
-  {
     "id": "he_Frys-IX",
     "name": "Frys-IX",
     "country": "NL",
@@ -1105,6 +1087,24 @@
     "region": "Europe",
     "url": "http://www.frys-IX.net",
     "peeringlan": "2001:7f8:10f::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Dallas",
+    "name": "DE-CIX Dallas",
+    "country": "US",
+    "city": "Dallas",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/dallas",
+    "peeringlan": "206.53.202.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Dallas",
+    "name": "DE-CIX Dallas",
+    "country": "US",
+    "city": "Dallas",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/dallas",
+    "peeringlan": "2001:504:61::/64"
   },
   {
     "id": "he_VIX",
@@ -3168,6 +3168,33 @@
     "peeringlan": "89.222.236.0/24"
   },
   {
+    "id": "he_SBIX%20DUS",
+    "name": "SBIX DUS",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "185.1.154.0/24"
+  },
+  {
+    "id": "he_SBIX%20DUS",
+    "name": "SBIX DUS",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:5a::/64"
+  },
+  {
+    "id": "he_SBIX%20DUS",
+    "name": "SBIX DUS",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:2::/64"
+  },
+  {
     "id": "he_SMILE-LV",
     "name": "SMILE-LV",
     "country": "LV",
@@ -3202,33 +3229,6 @@
     "region": "North America",
     "url": "http://www.omahaix.com",
     "peeringlan": "2001:504:33::/64"
-  },
-  {
-    "id": "he_SBIX%20DUS",
-    "name": "SBIX DUS",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "185.1.154.0/24"
-  },
-  {
-    "id": "he_SBIX%20DUS",
-    "name": "SBIX DUS",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:5a::/64"
-  },
-  {
-    "id": "he_SBIX%20DUS",
-    "name": "SBIX DUS",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:2::/64"
   },
   {
     "id": "he_PITER-IX%20Kiev",
@@ -3717,6 +3717,15 @@
     "peeringlan": "2001:43f8:bb1:150::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_N-IX",
     "name": "N-IX",
     "country": "DE",
@@ -3787,15 +3796,6 @@
     "region": "North America",
     "url": "https://pit-ix.net",
     "peeringlan": "2001:504:77::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_NIXI%20Kolkata",
@@ -4239,6 +4239,15 @@
     "peeringlan": "2001:504:90::/48"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_EdgeIX%20-%20Auckland",
     "name": "EdgeIX - Auckland",
     "country": "NZ",
@@ -4282,15 +4291,6 @@
     "region": "Africa",
     "url": "https://www.af-cix.net/",
     "peeringlan": "2001:43f8:1690::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_SUPRnet",
