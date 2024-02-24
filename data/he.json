@@ -999,24 +999,6 @@
     "peeringlan": "2001:504:91::9/64"
   },
   {
-    "id": "he_MICE",
-    "name": "MICE",
-    "country": "US",
-    "city": "Minneapolis",
-    "region": "North America",
-    "url": "https://micemn.net",
-    "peeringlan": "206.108.255.0/24"
-  },
-  {
-    "id": "he_MICE",
-    "name": "MICE",
-    "country": "US",
-    "city": "Minneapolis",
-    "region": "North America",
-    "url": "https://micemn.net",
-    "peeringlan": "2001:504:27::/64"
-  },
-  {
     "id": "he_NIXI%20Mumbai",
     "name": "NIXI Mumbai",
     "country": "IN",
@@ -1042,6 +1024,24 @@
     "region": "Asia Pacific",
     "url": "https://ix.nixi.in/en/running-noc/mumbai2",
     "peeringlan": "2001:de8:1:1::/64"
+  },
+  {
+    "id": "he_MICE",
+    "name": "MICE",
+    "country": "US",
+    "city": "Minneapolis",
+    "region": "North America",
+    "url": "https://micemn.net",
+    "peeringlan": "206.108.255.0/24"
+  },
+  {
+    "id": "he_MICE",
+    "name": "MICE",
+    "country": "US",
+    "city": "Minneapolis",
+    "region": "North America",
+    "url": "https://micemn.net",
+    "peeringlan": "2001:504:27::/64"
   },
   {
     "id": "he_NetIX",
@@ -2430,6 +2430,24 @@
     "peeringlan": "2001:df0:680:3::/64"
   },
   {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "185.1.104.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "2001:7f8:be::/64"
+  },
+  {
     "id": "he_VSIX",
     "name": "VSIX",
     "country": "IT",
@@ -2482,24 +2500,6 @@
     "region": "Europe",
     "url": "http://www.vsix.it/",
     "peeringlan": "2001:7f8:5f::/64"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "185.1.104.0/24"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "2001:7f8:be::/64"
   },
   {
     "id": "he_DE-CIX%20Chennai",
@@ -3195,24 +3195,6 @@
     "peeringlan": "2001:7f8:d9:2::/64"
   },
   {
-    "id": "he_SMILE-LV",
-    "name": "SMILE-LV",
-    "country": "LV",
-    "city": "Riga",
-    "region": "Europe",
-    "url": "http://www.smile-ixp.net",
-    "peeringlan": "195.246.227.0/24"
-  },
-  {
-    "id": "he_SMILE-LV",
-    "name": "SMILE-LV",
-    "country": "LV",
-    "city": "Riga",
-    "region": "Europe",
-    "url": "http://www.smile-ixp.net",
-    "peeringlan": "2001:7F8:16::/64"
-  },
-  {
     "id": "he_OmahaIX",
     "name": "OmahaIX",
     "country": "US",
@@ -3229,6 +3211,24 @@
     "region": "North America",
     "url": "http://www.omahaix.com",
     "peeringlan": "2001:504:33::/64"
+  },
+  {
+    "id": "he_SMILE-LV",
+    "name": "SMILE-LV",
+    "country": "LV",
+    "city": "Riga",
+    "region": "Europe",
+    "url": "http://www.smile-ixp.net",
+    "peeringlan": "195.246.227.0/24"
+  },
+  {
+    "id": "he_SMILE-LV",
+    "name": "SMILE-LV",
+    "country": "LV",
+    "city": "Riga",
+    "region": "Europe",
+    "url": "http://www.smile-ixp.net",
+    "peeringlan": "2001:7F8:16::/64"
   },
   {
     "id": "he_PITER-IX%20Kiev",
@@ -4941,6 +4941,24 @@
     "peeringlan": "2001:504:9c::/64"
   },
   {
+    "id": "he_AMS-IX%20Bangkok",
+    "name": "AMS-IX Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.net/ban/",
+    "peeringlan": "103.100.140.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Bangkok",
+    "name": "AMS-IX Bangkok",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.net/ban/",
+    "peeringlan": "2402:b740:15:388::/64"
+  },
+  {
     "id": "he_AMS-IX%20Caribbean",
     "name": "AMS-IX Caribbean",
     "country": "CW",
@@ -5065,24 +5083,6 @@
     "region": "North America",
     "url": "http://www.abqix.net",
     "peeringlan": "2001:504:9a::/64"
-  },
-  {
-    "id": "he_AMS-IX%20Bangkok",
-    "name": "AMS-IX Bangkok",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.net/ban/",
-    "peeringlan": "103.100.140.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Bangkok",
-    "name": "AMS-IX Bangkok",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.net/ban/",
-    "peeringlan": "2402:b740:15:388::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Lviv",
