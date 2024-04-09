@@ -19521,8 +19521,8 @@
     "peeringlan": "2a13:df80:e8e8:200::/64"
   },
   {
-    "id": "pdb_4433_01",
-    "name": "IX-Interlink",
+    "id": "pdb_4434_01",
+    "name": "INTERLINK IXP",
     "country": "ID",
     "city": "Jakarta",
     "region": "Asia Pacific",
@@ -19665,13 +19665,13 @@
     "peeringlan": "2067:f790:100::0/64"
   },
   {
-    "id": "pch_120_01",
-    "name": "Roma Internet Exchange Point",
-    "country": "IT",
-    "city": "Rome",
+    "id": "pch_1137_01",
+    "name": "Bulgarian Internet eXchange",
+    "country": "BG",
+    "city": "Sofia",
     "region": "Europe",
-    "url": "https://www.namex.it/",
-    "peeringlan": "2001:7f8:10::/48"
+    "url": "https://www.bix.bg/en/home.html",
+    "peeringlan": "2001:7f8:58::/48"
   },
   {
     "id": "pch_804_01",
@@ -19683,13 +19683,13 @@
     "peeringlan": "2001:7f8:64:225::/48"
   },
   {
-    "id": "pch_1137_01",
-    "name": "Bulgarian Internet eXchange",
-    "country": "BG",
-    "city": "Sofia",
+    "id": "pch_120_01",
+    "name": "Roma Internet Exchange Point",
+    "country": "IT",
+    "city": "Rome",
     "region": "Europe",
-    "url": "https://www.bix.bg/en/home.html",
-    "peeringlan": "2001:7f8:58::/48"
+    "url": "https://www.namex.it/",
+    "peeringlan": "2001:7f8:10::/48"
   },
   {
     "id": "pch_1308_01",
@@ -19737,24 +19737,6 @@
     "peeringlan": "2001:7f8:d:200::/48"
   },
   {
-    "id": "pch_1233_01",
-    "name": "Milan Neutral Access Point",
-    "country": "IT",
-    "city": "Milan",
-    "region": "Europe",
-    "url": "https://www.minap.it/",
-    "peeringlan": "92.60.70.0/24"
-  },
-  {
-    "id": "pch_1233_02",
-    "name": "Milan Neutral Access Point",
-    "country": "IT",
-    "city": "Milan",
-    "region": "Europe",
-    "url": "https://www.minap.it/",
-    "peeringlan": "2A01:658:FFFF::/48"
-  },
-  {
     "id": "pch_58_01",
     "name": "NAP AEPROVI Quito",
     "country": "EC",
@@ -19771,6 +19753,24 @@
     "region": "Latin America",
     "url": "http://aeprovi.org.ec/es/napec",
     "peeringlan": "2001:13C7:6F00::/48"
+  },
+  {
+    "id": "pch_1233_01",
+    "name": "Milan Neutral Access Point",
+    "country": "IT",
+    "city": "Milan",
+    "region": "Europe",
+    "url": "https://www.minap.it/",
+    "peeringlan": "92.60.70.0/24"
+  },
+  {
+    "id": "pch_1233_02",
+    "name": "Milan Neutral Access Point",
+    "country": "IT",
+    "city": "Milan",
+    "region": "Europe",
+    "url": "https://www.minap.it/",
+    "peeringlan": "2A01:658:FFFF::/48"
   },
   {
     "id": "pch_1187_01",
@@ -20043,6 +20043,15 @@
     "peeringlan": "2001:07FA:0004::/48"
   },
   {
+    "id": "pch_1297_01",
+    "name": "Grenada Internet Exchange",
+    "country": "GD",
+    "city": "St. Georges",
+    "region": "Latin America",
+    "url": "http://ix.gd/",
+    "peeringlan": "206.126.244.0/24"
+  },
+  {
     "id": "pch_982_01",
     "name": "AHTIC Internet Exchange Point",
     "country": "HT",
@@ -20059,15 +20068,6 @@
     "region": "Africa",
     "url": "http://www.angonix.net/",
     "peeringlan": "2001:43f8:09d0::/48"
-  },
-  {
-    "id": "pch_1297_01",
-    "name": "Grenada Internet Exchange",
-    "country": "GD",
-    "city": "St. Georges",
-    "region": "Latin America",
-    "url": "http://ix.gd/",
-    "peeringlan": "206.126.244.0/24"
   },
   {
     "id": "pch_1839_01",
@@ -20205,15 +20205,6 @@
     "peeringlan": "2001:13c7:600b::/48"
   },
   {
-    "id": "pch_1844_01",
-    "name": "Mexico IXP",
-    "country": "MX",
-    "city": "Ciudad de Mexico",
-    "region": "Latin America",
-    "url": "http://ixp.mx/",
-    "peeringlan": "2806:239::/48"
-  },
-  {
     "id": "pch_1989_01",
     "name": "Tomsk Internet eXchange",
     "country": "RU",
@@ -20232,15 +20223,6 @@
     "peeringlan": "193.34.203.0/24"
   },
   {
-    "id": "pch_367_01",
-    "name": "Botswana Internet Exchange",
-    "country": "BW",
-    "city": "Gaborone",
-    "region": "Africa",
-    "url": "http://www.info.bw/bispa/binx.html",
-    "peeringlan": "192.168.179.0/24"
-  },
-  {
     "id": "pch_1008_01",
     "name": "IX Australia ACT",
     "country": "AU",
@@ -20248,6 +20230,15 @@
     "region": "Asia Pacific",
     "url": "https://www.ix.asn.au/peering/",
     "peeringlan": "2001:0DE8:0009::/48"
+  },
+  {
+    "id": "pch_367_01",
+    "name": "Botswana Internet Exchange",
+    "country": "BW",
+    "city": "Gaborone",
+    "region": "Africa",
+    "url": "http://www.info.bw/bispa/binx.html",
+    "peeringlan": "192.168.179.0/24"
   },
   {
     "id": "pch_1407_01",
@@ -20266,6 +20257,15 @@
     "region": "Latin America",
     "url": "https://www.cabase.org.ar/nap-de-la-costa/",
     "peeringlan": "2001:13c7:600c::/48"
+  },
+  {
+    "id": "pch_1844_01",
+    "name": "Mexico IXP",
+    "country": "MX",
+    "city": "Ciudad de Mexico",
+    "region": "Latin America",
+    "url": "http://ixp.mx/",
+    "peeringlan": "2806:239::/48"
   },
   {
     "id": "pch_1403_01",
@@ -20313,6 +20313,15 @@
     "peeringlan": "2001:df0:b1:72::/63"
   },
   {
+    "id": "pch_159_01",
+    "name": "Nepal Internet Exchange - Putalisadak",
+    "country": "NP",
+    "city": "Kathmandu",
+    "region": "Asia Pacific",
+    "url": "http://www.npix.net.np/",
+    "peeringlan": "198.32.231.0/24"
+  },
+  {
     "id": "pch_1801_01",
     "name": "C\u00f4te d'Ivoire Internet Exchange Point",
     "country": "CI",
@@ -20338,15 +20347,6 @@
     "region": "Africa",
     "url": "http://ixp.net.ng/",
     "peeringlan": "196.216.150.0/24"
-  },
-  {
-    "id": "pch_159_01",
-    "name": "Nepal Internet Exchange - Putalisadak",
-    "country": "NP",
-    "city": "Kathmandu",
-    "region": "Asia Pacific",
-    "url": "http://www.npix.net.np/",
-    "peeringlan": "198.32.231.0/24"
   },
   {
     "id": "pch_1384_01",
