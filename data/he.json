@@ -239,7 +239,7 @@
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
-    "url": "https://www.tpix.pl/en",
+    "url": "https://www.tpix.pl/en/",
     "peeringlan": "195.149.232.0/23"
   },
   {
@@ -248,7 +248,7 @@
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
-    "url": "https://www.tpix.pl/en",
+    "url": "https://www.tpix.pl/en/",
     "peeringlan": "2001:7f8:27::/48"
   },
   {
@@ -1494,24 +1494,6 @@
     "peeringlan": "2001:df0:680:5::/64"
   },
   {
-    "id": "he_France-IX%20Marseille",
-    "name": "France-IX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.franceix.net/en/france-ix-marseille/",
-    "peeringlan": "37.49.232.0/24"
-  },
-  {
-    "id": "he_France-IX%20Marseille",
-    "name": "France-IX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.franceix.net/en/france-ix-marseille/",
-    "peeringlan": "2001:7f8:54:5::/64"
-  },
-  {
     "id": "he_SFMIX",
     "name": "SFMIX",
     "country": "US",
@@ -1528,6 +1510,24 @@
     "region": "North America",
     "url": "https://sfmix.org/",
     "peeringlan": "2001:504:30::/48"
+  },
+  {
+    "id": "he_France-IX%20Marseille",
+    "name": "France-IX Marseille",
+    "country": "FR",
+    "city": "Marseille",
+    "region": "Europe",
+    "url": "https://www.franceix.net/en/france-ix-marseille/",
+    "peeringlan": "37.49.232.0/24"
+  },
+  {
+    "id": "he_France-IX%20Marseille",
+    "name": "France-IX Marseille",
+    "country": "FR",
+    "city": "Marseille",
+    "region": "Europe",
+    "url": "https://www.franceix.net/en/france-ix-marseille/",
+    "peeringlan": "2001:7f8:54:5::/64"
   },
   {
     "id": "he_BIX%20Budapest",
@@ -1890,6 +1890,24 @@
     "peeringlan": "2001:7f8:26:8000::/64"
   },
   {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
+  },
+  {
     "id": "he_DE-CIX%20Delhi",
     "name": "DE-CIX Delhi",
     "country": "IN",
@@ -1915,24 +1933,6 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.in/locations/de-cix-delhi",
     "peeringlan": "2400:d180:67::/64"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_YYCIX",
@@ -2628,24 +2628,6 @@
     "peeringlan": "2001:7f8:91::/64"
   },
   {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "185.1.131.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "2001:7f8:d5::/64"
-  },
-  {
     "id": "he_DE-CIX%20Istanbul",
     "name": "DE-CIX Istanbul",
     "country": "TR",
@@ -2662,6 +2644,24 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/istanbul",
     "peeringlan": "2001:7f8:3f::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "185.1.131.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "2001:7f8:d5::/64"
   },
   {
     "id": "he_SIX.SK",
