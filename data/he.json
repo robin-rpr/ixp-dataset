@@ -1053,24 +1053,6 @@
     "peeringlan": "2001:504:91::9/64"
   },
   {
-    "id": "he_MICE",
-    "name": "MICE",
-    "country": "US",
-    "city": "Minneapolis",
-    "region": "North America",
-    "url": "https://micemn.net",
-    "peeringlan": "206.108.255.0/24"
-  },
-  {
-    "id": "he_MICE",
-    "name": "MICE",
-    "country": "US",
-    "city": "Minneapolis",
-    "region": "North America",
-    "url": "https://micemn.net",
-    "peeringlan": "2001:504:27::/64"
-  },
-  {
     "id": "he_TPIX-TW",
     "name": "TPIX-TW",
     "country": "TW",
@@ -1087,6 +1069,24 @@
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
     "peeringlan": "2406:d400:1:133:203:163:222::/112"
+  },
+  {
+    "id": "he_MICE",
+    "name": "MICE",
+    "country": "US",
+    "city": "Minneapolis",
+    "region": "North America",
+    "url": "https://micemn.net",
+    "peeringlan": "206.108.255.0/24"
+  },
+  {
+    "id": "he_MICE",
+    "name": "MICE",
+    "country": "US",
+    "city": "Minneapolis",
+    "region": "North America",
+    "url": "https://micemn.net",
+    "peeringlan": "2001:504:27::/64"
   },
   {
     "id": "he_Frys-IX",
@@ -1890,24 +1890,6 @@
     "peeringlan": "2001:7f8:26:8000::/64"
   },
   {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
-  },
-  {
     "id": "he_DE-CIX%20Delhi",
     "name": "DE-CIX Delhi",
     "country": "IN",
@@ -1933,6 +1915,24 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.in/locations/de-cix-delhi",
     "peeringlan": "2400:d180:67::/64"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_YYCIX",
@@ -3897,6 +3897,15 @@
     "peeringlan": "2001:7f8:b8::/48"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_SOX%20Singapore",
     "name": "SOX Singapore",
     "country": "SG",
@@ -4003,15 +4012,6 @@
     "region": "Europe",
     "url": "http://www.anix.al",
     "peeringlan": "2001:7f8:bb::/48"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_MegaIX%20Los%20Angeles",
