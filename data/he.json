@@ -1467,15 +1467,6 @@
     "peeringlan": "2001:07F8:0018:72::/64"
   },
   {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
-  },
-  {
     "id": "he_EdgeIX%20-%20Sydney",
     "name": "EdgeIX - Sydney",
     "country": "AU",
@@ -1492,6 +1483,15 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:5::/64"
+  },
+  {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_SFMIX",
@@ -1890,6 +1890,24 @@
     "peeringlan": "2001:7f8:26:8000::/64"
   },
   {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
+  },
+  {
     "id": "he_DE-CIX%20Delhi",
     "name": "DE-CIX Delhi",
     "country": "IN",
@@ -1915,24 +1933,6 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.in/locations/de-cix-delhi",
     "peeringlan": "2400:d180:67::/64"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_YYCIX",
@@ -2448,24 +2448,6 @@
     "peeringlan": "2001:1ab8:8486::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "103.136.102.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:3::/64"
-  },
-  {
     "id": "he_VSIX",
     "name": "VSIX",
     "country": "IT",
@@ -2518,6 +2500,24 @@
     "region": "Europe",
     "url": "https://www.vs-ix.org/",
     "peeringlan": "2001:7f8:5f::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "103.136.102.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:3::/64"
   },
   {
     "id": "he_Equinix%20London",
@@ -2682,24 +2682,6 @@
     "peeringlan": "2001:7f8:d5::/64"
   },
   {
-    "id": "he_MegaIX%20Perth",
-    "name": "MegaIX Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://megaport.com",
-    "peeringlan": "202.12.243.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Perth",
-    "name": "MegaIX Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://megaport.com",
-    "peeringlan": "2001:dea:0:50::/64"
-  },
-  {
     "id": "he_AMS-IX%20Hong%20Kong",
     "name": "AMS-IX Hong Kong",
     "country": "HK",
@@ -2770,6 +2752,24 @@
     "region": "Europe",
     "url": "http://www.fixo.no",
     "peeringlan": "2001:7f8:41::/48"
+  },
+  {
+    "id": "he_MegaIX%20Perth",
+    "name": "MegaIX Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://megaport.com",
+    "peeringlan": "202.12.243.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Perth",
+    "name": "MegaIX Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://megaport.com",
+    "peeringlan": "2001:dea:0:50::/64"
   },
   {
     "id": "he_BKNIX",
@@ -3843,6 +3843,15 @@
     "peeringlan": "2a10:f780::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_EdgeIX%20-%20Auckland",
     "name": "EdgeIX - Auckland",
     "country": "NZ",
@@ -3859,6 +3868,24 @@
     "region": "Australia",
     "url": "http://www.edgeix.net",
     "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
+    "id": "he_RIX",
+    "name": "RIX",
+    "country": "IS",
+    "city": "Reykjavik",
+    "region": "Europe",
+    "url": "https://www.rix.is/",
+    "peeringlan": "195.130.211.0/26"
+  },
+  {
+    "id": "he_RIX",
+    "name": "RIX",
+    "country": "IS",
+    "city": "Reykjavik",
+    "region": "Europe",
+    "url": "https://www.rix.is/",
+    "peeringlan": "2001:7f8:48::/64"
   },
   {
     "id": "he_UIXP",
@@ -3897,15 +3924,6 @@
     "peeringlan": "2001:7f8:b8::/48"
   },
   {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
-  },
-  {
     "id": "he_SOX%20Singapore",
     "name": "SOX Singapore",
     "country": "SG",
@@ -3922,24 +3940,6 @@
     "region": "Asia Pacific",
     "url": "http://www.sox.net.sg/",
     "peeringlan": "2001:de8:d::/64"
-  },
-  {
-    "id": "he_RIX",
-    "name": "RIX",
-    "country": "IS",
-    "city": "Reykjavik",
-    "region": "Europe",
-    "url": "https://www.rix.is/",
-    "peeringlan": "195.130.211.0/26"
-  },
-  {
-    "id": "he_RIX",
-    "name": "RIX",
-    "country": "IS",
-    "city": "Reykjavik",
-    "region": "Europe",
-    "url": "https://www.rix.is/",
-    "peeringlan": "2001:7f8:48::/64"
   },
   {
     "id": "he_GIX",
@@ -4014,24 +4014,6 @@
     "peeringlan": "2001:7f8:bb::/48"
   },
   {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.172.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:5::/64"
-  },
-  {
     "id": "he_PhillyIX",
     "name": "PhillyIX",
     "country": "US",
@@ -4093,6 +4075,24 @@
     "region": "Africa",
     "url": "https://www.af-cix.net/",
     "peeringlan": "2001:43f8:1690::/64"
+  },
+  {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.172.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:5::/64"
   },
   {
     "id": "he_IXPN%20Abuja",
