@@ -927,24 +927,6 @@
     "peeringlan": "2001:478:132::/64"
   },
   {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.0.17.0/24"
-  },
-  {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13c7:6001::/64"
-  },
-  {
     "id": "he_FL-IX",
     "name": "FL-IX",
     "country": "US",
@@ -961,6 +943,24 @@
     "region": "North America",
     "url": "http://www.communityix.org/index.php/about-fl-ix/",
     "peeringlan": "2001:504:40:108::/64"
+  },
+  {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.0.17.0/24"
+  },
+  {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13c7:6001::/64"
   },
   {
     "id": "he_JINX",
@@ -2286,33 +2286,6 @@
     "peeringlan": "2001:504:47::/64"
   },
   {
-    "id": "he_Phoenix%20IX",
-    "name": "Phoenix IX",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "http://www.phoenix-ix.net",
-    "peeringlan": "206.41.105.0/24"
-  },
-  {
-    "id": "he_Phoenix%20IX",
-    "name": "Phoenix IX",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "http://www.phoenix-ix.net",
-    "peeringlan": "2001:504:3B::/64"
-  },
-  {
-    "id": "he_Phoenix%20IX",
-    "name": "Phoenix IX",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "http://www.phoenix-ix.net",
-    "peeringlan": "2001:504:3b:1::/64"
-  },
-  {
     "id": "he_DE-CIX%20Chennai",
     "name": "DE-CIX Chennai",
     "country": "IN",
@@ -2518,6 +2491,33 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_Phoenix%20IX",
+    "name": "Phoenix IX",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "http://www.phoenix-ix.net",
+    "peeringlan": "206.41.105.0/24"
+  },
+  {
+    "id": "he_Phoenix%20IX",
+    "name": "Phoenix IX",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "http://www.phoenix-ix.net",
+    "peeringlan": "2001:504:3B::/64"
+  },
+  {
+    "id": "he_Phoenix%20IX",
+    "name": "Phoenix IX",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "http://www.phoenix-ix.net",
+    "peeringlan": "2001:504:3b:1::/64"
   },
   {
     "id": "he_Equinix%20London",
@@ -3447,6 +3447,42 @@
     "peeringlan": "2001:7f8:e::/64"
   },
   {
+    "id": "he_GIXA",
+    "name": "GIXA",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "http://www.gixa.org.gh",
+    "peeringlan": "196.201.2.0/24"
+  },
+  {
+    "id": "he_GIXA",
+    "name": "GIXA",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "http://www.gixa.org.gh",
+    "peeringlan": "196.49.14.0/24"
+  },
+  {
+    "id": "he_GIXA",
+    "name": "GIXA",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "http://www.gixa.org.gh",
+    "peeringlan": "2001:43f8:ae0::/48"
+  },
+  {
+    "id": "he_GIXA",
+    "name": "GIXA",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "http://www.gixa.org.gh",
+    "peeringlan": "2001:43f8:ae1::/48"
+  },
+  {
     "id": "he_LIXP%20Vilnius",
     "name": "LIXP Vilnius",
     "country": "LT",
@@ -3526,42 +3562,6 @@
     "region": "Africa",
     "url": "http://angonix.net/",
     "peeringlan": "2001:43f8:09d0::/64"
-  },
-  {
-    "id": "he_GIXA",
-    "name": "GIXA",
-    "country": "GH",
-    "city": "Accra",
-    "region": "Africa",
-    "url": "http://www.gixa.org.gh",
-    "peeringlan": "196.201.2.0/24"
-  },
-  {
-    "id": "he_GIXA",
-    "name": "GIXA",
-    "country": "GH",
-    "city": "Accra",
-    "region": "Africa",
-    "url": "http://www.gixa.org.gh",
-    "peeringlan": "196.49.14.0/24"
-  },
-  {
-    "id": "he_GIXA",
-    "name": "GIXA",
-    "country": "GH",
-    "city": "Accra",
-    "region": "Africa",
-    "url": "http://www.gixa.org.gh",
-    "peeringlan": "2001:43f8:ae0::/48"
-  },
-  {
-    "id": "he_GIXA",
-    "name": "GIXA",
-    "country": "GH",
-    "city": "Accra",
-    "region": "Africa",
-    "url": "http://www.gixa.org.gh",
-    "peeringlan": "2001:43f8:ae1::/48"
   },
   {
     "id": "he_NIXI%20Kolkata",
@@ -4176,6 +4176,24 @@
     "peeringlan": "2403:4ac0::/64"
   },
   {
+    "id": "he_SBIX%20FRE",
+    "name": "SBIX FRE",
+    "country": "US",
+    "city": "Fremont",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "185.0.31.0/24"
+  },
+  {
+    "id": "he_SBIX%20FRE",
+    "name": "SBIX FRE",
+    "country": "US",
+    "city": "Fremont",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:5::/64"
+  },
+  {
     "id": "he_HFXIX",
     "name": "HFXIX",
     "country": "CA",
@@ -4246,24 +4264,6 @@
     "region": "Middle East",
     "url": "https://www.jedix.net",
     "peeringlan": "2001:7f8:d1::/64"
-  },
-  {
-    "id": "he_SBIX%20FRE",
-    "name": "SBIX FRE",
-    "country": "US",
-    "city": "Fremont",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "185.0.31.0/24"
-  },
-  {
-    "id": "he_SBIX%20FRE",
-    "name": "SBIX FRE",
-    "country": "US",
-    "city": "Fremont",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:5::/64"
   },
   {
     "id": "he_SUPRnet",
