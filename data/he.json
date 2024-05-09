@@ -441,6 +441,15 @@
     "peeringlan": "2001:7f8:63::/64"
   },
   {
+    "id": "he_SPEED-IX",
+    "name": "SPEED-IX",
+    "country": "NL",
+    "city": "Dronten",
+    "region": "Europe",
+    "url": "https://speed-ix.net",
+    "peeringlan": "185.1.222.0/23"
+  },
+  {
     "id": "he_DE-CIX%20Dusseldorf",
     "name": "DE-CIX Dusseldorf",
     "country": "DE",
@@ -466,15 +475,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/dusseldorf",
     "peeringlan": "2001:7f8:9e::/64"
-  },
-  {
-    "id": "he_SPEED-IX",
-    "name": "SPEED-IX",
-    "country": "NL",
-    "city": "Dronten",
-    "region": "Europe",
-    "url": "https://speed-ix.net",
-    "peeringlan": "185.1.222.0/23"
   },
   {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
@@ -1611,33 +1611,6 @@
     "peeringlan": "2001:7f8:73::/64"
   },
   {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "196.223.22.0/23"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1::/64"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1:1::/64"
-  },
-  {
     "id": "he_JPNAP%20Osaka",
     "name": "JPNAP Osaka",
     "country": "JP",
@@ -1690,6 +1663,33 @@
     "region": "Europe",
     "url": "http://www.top-ix.org",
     "peeringlan": "2001:7f8:23:ffff::/64"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "196.223.22.0/23"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1::/64"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
     "id": "he_SBIX",
@@ -1863,6 +1863,24 @@
     "peeringlan": "2a05:5840:0:ffff::/64"
   },
   {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
+  },
+  {
     "id": "he_BNIX",
     "name": "BNIX",
     "country": "BE",
@@ -1888,24 +1906,6 @@
     "region": "Europe",
     "url": "https://www.bnix.net",
     "peeringlan": "2001:7f8:26:8000::/64"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_DE-CIX%20Delhi",
@@ -2286,6 +2286,24 @@
     "peeringlan": "2001:504:47::/64"
   },
   {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "206.71.12.0/24"
+  },
+  {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "2001:504:40:12::/64"
+  },
+  {
     "id": "he_DE-CIX%20Chennai",
     "name": "DE-CIX Chennai",
     "country": "IN",
@@ -2311,24 +2329,6 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.in/locations/de-cix-chennai",
     "peeringlan": "2400:d180:68::/64"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "206.71.12.0/24"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "2001:504:40:12::/64"
   },
   {
     "id": "he_NIX",
@@ -2862,6 +2862,24 @@
     "peeringlan": "2001:07F8:000A:2::/64"
   },
   {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "149.112.11.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "2001:504:102::/64"
+  },
+  {
     "id": "he_LINX%20NoVA",
     "name": "LINX NoVA",
     "country": "US",
@@ -2950,24 +2968,6 @@
     "region": "North America",
     "url": "http://www.houix.net",
     "peeringlan": "2001:504:9e::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "149.112.11.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "2001:504:102::/64"
   },
   {
     "id": "he_NSPIXP6",
@@ -3240,24 +3240,6 @@
     "peeringlan": "2001:7F8:16::/64"
   },
   {
-    "id": "he_TWIX",
-    "name": "TWIX",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "https://www.twix.net/index_e.html",
-    "peeringlan": "210.62.255.0/24"
-  },
-  {
-    "id": "he_TWIX",
-    "name": "TWIX",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "https://www.twix.net/index_e.html",
-    "peeringlan": "2001:7fa:1:7481::/64"
-  },
-  {
     "id": "he_SLIX",
     "name": "SLIX",
     "country": "US",
@@ -3292,6 +3274,24 @@
     "region": "North America",
     "url": "http://slix.net",
     "peeringlan": "2001:504:105::/64"
+  },
+  {
+    "id": "he_TWIX",
+    "name": "TWIX",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "https://www.twix.net/index_e.html",
+    "peeringlan": "210.62.255.0/24"
+  },
+  {
+    "id": "he_TWIX",
+    "name": "TWIX",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "https://www.twix.net/index_e.html",
+    "peeringlan": "2001:7fa:1:7481::/64"
   },
   {
     "id": "he_SH-IX",
@@ -3627,6 +3627,24 @@
     "peeringlan": "2001:7f8:46::/64"
   },
   {
+    "id": "he_PIT-IX",
+    "name": "PIT-IX",
+    "country": "US",
+    "city": "Pittsburgh",
+    "region": "North America",
+    "url": "https://pit-ix.net",
+    "peeringlan": "206.71.141.0/24"
+  },
+  {
+    "id": "he_PIT-IX",
+    "name": "PIT-IX",
+    "country": "US",
+    "city": "Pittsburgh",
+    "region": "North America",
+    "url": "https://pit-ix.net",
+    "peeringlan": "2001:504:77::/64"
+  },
+  {
     "id": "he_AMS-IX%20Chicago",
     "name": "AMS-IX Chicago",
     "country": "US",
@@ -3724,24 +3742,6 @@
     "region": "Europe",
     "url": "https://datalogistics.lt/en/litix/",
     "peeringlan": "2a03:67e0:0:9::/64"
-  },
-  {
-    "id": "he_PIT-IX",
-    "name": "PIT-IX",
-    "country": "US",
-    "city": "Pittsburgh",
-    "region": "North America",
-    "url": "https://pit-ix.net",
-    "peeringlan": "206.71.141.0/24"
-  },
-  {
-    "id": "he_PIT-IX",
-    "name": "PIT-IX",
-    "country": "US",
-    "city": "Pittsburgh",
-    "region": "North America",
-    "url": "https://pit-ix.net",
-    "peeringlan": "2001:504:77::/64"
   },
   {
     "id": "he_VarnaIX",
@@ -4302,6 +4302,24 @@
     "peeringlan": "2001:7f8:32::/64"
   },
   {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "185.1.218.0/24"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "2001:7f8:11b::/64"
+  },
+  {
     "id": "he_AMS-IX%20Bay%20Area",
     "name": "AMS-IX Bay Area",
     "country": "US",
@@ -4354,24 +4372,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2001:13C7:6013::/64"
-  },
-  {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "185.1.218.0/24"
-  },
-  {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "2001:7f8:11b::/64"
   },
   {
     "id": "he_Breizh-IX",
@@ -4635,24 +4635,6 @@
     "peeringlan": "2001:19e0:ffff::/64"
   },
   {
-    "id": "he_IXOR",
-    "name": "IXOR",
-    "country": "SE",
-    "city": "Malm\u00f6",
-    "region": "Europe",
-    "url": "https://ixpmanager.ixor.se",
-    "peeringlan": "193.243.183.64/26"
-  },
-  {
-    "id": "he_IXOR",
-    "name": "IXOR",
-    "country": "SE",
-    "city": "Malm\u00f6",
-    "region": "Europe",
-    "url": "https://ixpmanager.ixor.se",
-    "peeringlan": "2001:7f8:53::/48"
-  },
-  {
     "id": "he_CABASE-LPL",
     "name": "CABASE-LPL",
     "country": "AR",
@@ -4759,6 +4741,24 @@
     "region": "North America",
     "url": "http://jxix.org",
     "peeringlan": "2001:504:95::/64"
+  },
+  {
+    "id": "he_IXOR",
+    "name": "IXOR",
+    "country": "SE",
+    "city": "Malm\u00f6",
+    "region": "Europe",
+    "url": "https://ixpmanager.ixor.se",
+    "peeringlan": "193.243.183.64/26"
+  },
+  {
+    "id": "he_IXOR",
+    "name": "IXOR",
+    "country": "SE",
+    "city": "Malm\u00f6",
+    "region": "Europe",
+    "url": "https://ixpmanager.ixor.se",
+    "peeringlan": "2001:7f8:53::/48"
   },
   {
     "id": "he_DE-CIX%20Kolkata",
