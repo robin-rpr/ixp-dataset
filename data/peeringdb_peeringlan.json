@@ -11868,7 +11868,7 @@
     "city": "Denpasar - Jakarta",
     "region": "Asia Pacific",
     "url": "https://cloudxchange.id",
-    "peeringlan": "103.225.172.0/24"
+    "peeringlan": "2400:9c80:0:173::/64"
   },
   {
     "id": "pdb_2737",
@@ -11877,7 +11877,7 @@
     "city": "Denpasar - Jakarta",
     "region": "Asia Pacific",
     "url": "https://cloudxchange.id",
-    "peeringlan": "2400:9c80:0:173::/64"
+    "peeringlan": "103.225.172.0/23"
   },
   {
     "id": "pdb_2741",
@@ -14929,24 +14929,6 @@
     "region": "Asia Pacific",
     "url": "http://ixp.su",
     "peeringlan": "178.236.227.0/24"
-  },
-  {
-    "id": "pdb_3548",
-    "name": "India Internet Exchange",
-    "country": "IN",
-    "city": "Indore",
-    "region": "Asia Pacific",
-    "url": "https://www.india-ix.net",
-    "peeringlan": "137.59.55.0/24"
-  },
-  {
-    "id": "pdb_3548",
-    "name": "India Internet Exchange",
-    "country": "IN",
-    "city": "Indore",
-    "region": "Asia Pacific",
-    "url": "https://www.india-ix.net",
-    "peeringlan": "2001:df4:5c80:3::/64"
   },
   {
     "id": "pdb_3553",
@@ -19521,6 +19503,15 @@
     "peeringlan": "2001:43f8:6a2::/64"
   },
   {
+    "id": "pdb_4294",
+    "name": "GDL-IX",
+    "country": "MX",
+    "city": "Guadalajara",
+    "region": "North America",
+    "url": "https://www.gdlix.mx",
+    "peeringlan": "143.255.59.0/24"
+  },
+  {
     "id": "pdb_4296",
     "name": "INIXP Asia",
     "country": "JP",
@@ -19881,24 +19872,6 @@
     "peeringlan": "2406:4b00:1806::/64"
   },
   {
-    "id": "pdb_4343",
-    "name": "PIT Argentina - Buenos Aires",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "https://www.pit.ar/",
-    "peeringlan": "45.68.50.0/24"
-  },
-  {
-    "id": "pdb_4343",
-    "name": "PIT Argentina - Buenos Aires",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "https://www.pit.ar/",
-    "peeringlan": "2801:155:7:4158::/64"
-  },
-  {
     "id": "pdb_4345",
     "name": "OMGNET-SGIX",
     "country": "SG",
@@ -20194,6 +20167,24 @@
     "region": "North America",
     "url": "https://www.wvix.us",
     "peeringlan": "149.112.88.0/24"
+  },
+  {
+    "id": "pdb_4381",
+    "name": "KeFF-IX",
+    "country": "SE",
+    "city": "Stockholm, Gothenburg, Malm\u00f6, Amsterdam",
+    "region": "Europe",
+    "url": "https://ix.se",
+    "peeringlan": "193.243.183.128/26"
+  },
+  {
+    "id": "pdb_4381",
+    "name": "KeFF-IX",
+    "country": "SE",
+    "city": "Stockholm, Gothenburg, Malm\u00f6, Amsterdam",
+    "region": "Europe",
+    "url": "https://ix.se",
+    "peeringlan": "2001:7f8:153::/64"
   },
   {
     "id": "pdb_4384",
