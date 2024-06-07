@@ -19926,6 +19926,24 @@
     "peeringlan": "2001:504:138::/64"
   },
   {
+    "id": "pdb_4351",
+    "name": "PIT AR",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.pit.net.ar",
+    "peeringlan": "45.68.44.0/24"
+  },
+  {
+    "id": "pdb_4351",
+    "name": "PIT AR",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.pit.net.ar",
+    "peeringlan": "2803:7450:ba::/64"
+  },
+  {
     "id": "pdb_4352",
     "name": "DartNode IXP - Houston",
     "country": "US",
@@ -20239,15 +20257,6 @@
     "region": "Europe",
     "url": "https://tmw-ix.t-w.dev/",
     "peeringlan": "2a0e:b107:2888::/64"
-  },
-  {
-    "id": "pdb_4401",
-    "name": "TMW-iX",
-    "country": "DE",
-    "city": "Eisenach, Frankfurt am Main, Falkenstein, N\u00fcrnberg, Eygelshoven",
-    "region": "Europe",
-    "url": "https://tmw-ix.t-w.dev/",
-    "peeringlan": "44.130.30.0/24"
   },
   {
     "id": "pdb_4405",
@@ -20580,7 +20589,7 @@
     "city": "Santiago",
     "region": "North America",
     "url": "https://pitdominicano.com",
-    "peeringlan": "2801:19:7800::/64"
+    "peeringlan": "2801:19:7800:2::/64"
   },
   {
     "id": "pdb_4457",
@@ -20752,5 +20761,23 @@
     "region": "North America",
     "url": "https://h5datacenters.com/h5-cl-ix.html",
     "peeringlan": "149.112.73.0/24"
+  },
+  {
+    "id": "pdb_4492",
+    "name": "GTec Net",
+    "country": "BR",
+    "city": "Eldorado",
+    "region": "South America",
+    "url": "http://www.gtecnet.com.br",
+    "peeringlan": "131.221.124.0/22"
+  },
+  {
+    "id": "pdb_4492",
+    "name": "GTec Net",
+    "country": "BR",
+    "city": "Eldorado",
+    "region": "South America",
+    "url": "http://www.gtecnet.com.br",
+    "peeringlan": "143.0.4.0/22"
   }
 ]
