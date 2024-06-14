@@ -1026,24 +1026,6 @@
     "peeringlan": "2001:504:91::9/64"
   },
   {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "203.163.222.0/24"
-  },
-  {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "2406:d400:1:133:203:163:222::/112"
-  },
-  {
     "id": "he_Frys-IX",
     "name": "Frys-IX",
     "country": "NL",
@@ -1060,6 +1042,24 @@
     "region": "Europe",
     "url": "http://www.frys-IX.net",
     "peeringlan": "2001:7f8:10f::/64"
+  },
+  {
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "203.163.222.0/24"
+  },
+  {
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "2406:d400:1:133:203:163:222::/112"
   },
   {
     "id": "he_MICE",
@@ -1323,6 +1323,15 @@
     "peeringlan": "2620:124:2000::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_DE-CIX%20Marseille",
     "name": "DE-CIX Marseille",
     "country": "FR",
@@ -1339,15 +1348,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/marseille",
     "peeringlan": "2001:7f8:36::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_EdgeIX%20-%20Sydney",
@@ -2232,22 +2232,22 @@
     "peeringlan": "2001:7f8:8e::/48"
   },
   {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "223.31.200.0/24"
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "206.71.12.0/24"
   },
   {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "2001:e48:44:100b::/64"
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "2001:504:40:12::/64"
   },
   {
     "id": "he_Mass-IX",
@@ -2266,24 +2266,6 @@
     "region": "North America",
     "url": "https://www.mass-ix.net",
     "peeringlan": "2001:504:47::/64"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "206.71.12.0/24"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "2001:504:40:12::/64"
   },
   {
     "id": "he_DE-CIX%20Chennai",
@@ -2338,6 +2320,24 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/chennai",
     "peeringlan": "2001:de8:1:2::/64"
+  },
+  {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "223.31.200.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "2001:e48:44:100b::/64"
   },
   {
     "id": "he_NIX",
@@ -2592,6 +2592,24 @@
     "peeringlan": "2001:7f8:3f::/64"
   },
   {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "185.1.131.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "2001:7f8:d5::/64"
+  },
+  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2644,24 +2662,6 @@
     "region": "Europe",
     "url": "https://www.sol-ix.net",
     "peeringlan": "2001:7f8:21:11::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "185.1.131.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "2001:7f8:d5::/64"
   },
   {
     "id": "he_PITER-IX%20Rostov",
@@ -2808,6 +2808,24 @@
     "peeringlan": "2001:504:102::/64"
   },
   {
+    "id": "he_EdgeIX%20-%20Melbourne",
+    "name": "EdgeIX - Melbourne",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "202.77.90.0/23"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Melbourne",
+    "name": "EdgeIX - Melbourne",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:6::/64"
+  },
+  {
     "id": "he_GigaPix",
     "name": "GigaPix",
     "country": "PT",
@@ -2860,24 +2878,6 @@
     "region": "North America",
     "url": "http://www.houix.net",
     "peeringlan": "2001:504:9e::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Melbourne",
-    "name": "EdgeIX - Melbourne",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "202.77.90.0/23"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Melbourne",
-    "name": "EdgeIX - Melbourne",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:6::/64"
   },
   {
     "id": "he_LINX%20NoVA",
@@ -3591,6 +3591,24 @@
     "peeringlan": "2001:7f8:db::/64"
   },
   {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "206.108.115.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "2001:504:38:1::/64"
+  },
+  {
     "id": "he_angonix",
     "name": "angonix",
     "country": "AO",
@@ -3652,24 +3670,6 @@
     "region": "Europe",
     "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
     "peeringlan": "2001:7f8:46::/64"
-  },
-  {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "206.108.115.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "2001:504:38:1::/64"
   },
   {
     "id": "he_MBIX",
@@ -4266,6 +4266,24 @@
     "peeringlan": "2001:7f8:d1::/64"
   },
   {
+    "id": "he_AMS-IX%20Bay%20Area",
+    "name": "AMS-IX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/bay",
+    "peeringlan": "206.41.106.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Bay%20Area",
+    "name": "AMS-IX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/bay",
+    "peeringlan": "2001:504:3d:1::/64"
+  },
+  {
     "id": "he_SUPRnet",
     "name": "SUPRnet",
     "country": "US",
@@ -4489,24 +4507,6 @@
     "region": "Europe",
     "url": "http://www.romandix.ch",
     "peeringlan": "2001:7f8:b5::/48"
-  },
-  {
-    "id": "he_AMS-IX%20Bay%20Area",
-    "name": "AMS-IX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/bay",
-    "peeringlan": "206.41.106.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Bay%20Area",
-    "name": "AMS-IX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/bay",
-    "peeringlan": "2001:504:3d:1::/64"
   },
   {
     "id": "he_SEECIX",
