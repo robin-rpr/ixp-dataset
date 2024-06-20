@@ -1485,15 +1485,6 @@
     "peeringlan": "2001:504:30::/48"
   },
   {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
-  },
-  {
     "id": "he_1-IX%20Internet%20Exchange",
     "name": "1-IX Internet Exchange",
     "country": "UA",
@@ -1519,6 +1510,15 @@
     "region": "Europe",
     "url": "http://1-ix.net",
     "peeringlan": "2001:7f8:14d::/64"
+  },
+  {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_BIX%20Budapest",
@@ -3888,6 +3888,33 @@
     "peeringlan": "2001:7f8:b8::/48"
   },
   {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.60.104.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.49.90.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "2001:43f8:1690::/64"
+  },
+  {
     "id": "he_SOX%20Singapore",
     "name": "SOX Singapore",
     "country": "SG",
@@ -3994,33 +4021,6 @@
     "region": "Europe",
     "url": "http://www.anix.al",
     "peeringlan": "2001:7f8:bb::/48"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.60.104.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.49.90.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "2001:43f8:1690::/64"
   },
   {
     "id": "he_UIXP",
@@ -4545,6 +4545,24 @@
     "peeringlan": "2001:7f8:140::/64"
   },
   {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "185.0.28.0/24"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "2001:7f8:148::/64"
+  },
+  {
     "id": "he_MadIX",
     "name": "MadIX",
     "country": "US",
@@ -4579,24 +4597,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2001:13c7:6008::/64"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "185.0.28.0/24"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_ArmIX",
@@ -5103,6 +5103,24 @@
     "peeringlan": "2001:504:9a::/64"
   },
   {
+    "id": "he_AMS-IX%20Singapore",
+    "name": "AMS-IX Singapore",
+    "country": "SG",
+    "city": "Singapore",
+    "region": "Asia Pacific",
+    "url": "https://www.ams-ix.net/sin/",
+    "peeringlan": "112.137.24.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Singapore",
+    "name": "AMS-IX Singapore",
+    "country": "SG",
+    "city": "Singapore",
+    "region": "Asia Pacific",
+    "url": "https://www.ams-ix.net/sin/",
+    "peeringlan": "2a00:8422:ae5::/64"
+  },
+  {
     "id": "he_GraX",
     "name": "GraX",
     "country": "AT",
@@ -5254,24 +5272,6 @@
     "region": "North America",
     "url": "https://spokaneix.net/",
     "peeringlan": "2001:504:9f::/64"
-  },
-  {
-    "id": "he_AMS-IX%20Singapore",
-    "name": "AMS-IX Singapore",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.ams-ix.net/sin/",
-    "peeringlan": "112.137.24.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Singapore",
-    "name": "AMS-IX Singapore",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.ams-ix.net/sin/",
-    "peeringlan": "2a00:8422:ae5::/64"
   },
   {
     "id": "he_CHIX-NZ",
