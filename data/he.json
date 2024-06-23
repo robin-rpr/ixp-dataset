@@ -240,7 +240,7 @@
     "city": "Warsaw",
     "region": "Europe",
     "url": "https://www.tpix.pl/en/",
-    "peeringlan": "195.149.232.0/23"
+    "peeringlan": "195.149.232.0/22"
   },
   {
     "id": "he_TPIX",
@@ -1014,7 +1014,7 @@
     "city": "Taipei",
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
-    "peeringlan": "203.163.222.0/24"
+    "peeringlan": "203.163.222.0/23"
   },
   {
     "id": "he_TPIX-TW",
@@ -1023,7 +1023,7 @@
     "city": "Taipei",
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
-    "peeringlan": "2406:d400:1:133:203:163:222::/112"
+    "peeringlan": "2406:d400:1:133:203:163:222::/111"
   },
   {
     "id": "he_Frys-IX",
@@ -1323,6 +1323,15 @@
     "peeringlan": "2620:124:2000::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_DE-CIX%20Marseille",
     "name": "DE-CIX Marseille",
     "country": "FR",
@@ -1339,15 +1348,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/marseille",
     "peeringlan": "2001:7f8:36::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_EdgeIX%20-%20Sydney",
@@ -1809,24 +1809,6 @@
     "peeringlan": "2a0b:9fc0:1::/64"
   },
   {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
     "id": "he_IX-Denver",
     "name": "IX-Denver",
     "country": "US",
@@ -1843,6 +1825,24 @@
     "region": "North America",
     "url": "https://ix-denver.org",
     "peeringlan": "2001:504:58::/64"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
     "id": "he_BNIX",
@@ -3204,33 +3204,6 @@
     "peeringlan": "2001:504:33::/64"
   },
   {
-    "id": "he_SMILE-LV",
-    "name": "SMILE-LV",
-    "country": "LV",
-    "city": "Riga",
-    "region": "Europe",
-    "url": "http://www.smile-ixp.net",
-    "peeringlan": "195.246.227.0/24"
-  },
-  {
-    "id": "he_SMILE-LV",
-    "name": "SMILE-LV",
-    "country": "LV",
-    "city": "Riga",
-    "region": "Europe",
-    "url": "http://www.smile-ixp.net",
-    "peeringlan": "2001:7F8:16::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
-  },
-  {
     "id": "he_SLIX",
     "name": "SLIX",
     "country": "US",
@@ -3265,6 +3238,33 @@
     "region": "North America",
     "url": "http://slix.net",
     "peeringlan": "2001:504:105::/64"
+  },
+  {
+    "id": "he_SMILE-LV",
+    "name": "SMILE-LV",
+    "country": "LV",
+    "city": "Riga",
+    "region": "Europe",
+    "url": "http://www.smile-ixp.net",
+    "peeringlan": "195.246.227.0/24"
+  },
+  {
+    "id": "he_SMILE-LV",
+    "name": "SMILE-LV",
+    "country": "LV",
+    "city": "Riga",
+    "region": "Europe",
+    "url": "http://www.smile-ixp.net",
+    "peeringlan": "2001:7F8:16::/64"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_TWIX",
