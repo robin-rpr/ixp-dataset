@@ -14378,7 +14378,7 @@
     "country": "PE",
     "city": "Arequipa",
     "region": "South America",
-    "url": "http://www.peruix.net",
+    "url": "http://www.pit.net",
     "peeringlan": "45.183.46.0/24"
   },
   {
@@ -14387,7 +14387,7 @@
     "country": "PE",
     "city": "Arequipa",
     "region": "South America",
-    "url": "http://www.peruix.net",
+    "url": "http://www.pit.net",
     "peeringlan": "2803:cd60:6412:8::/64"
   },
   {
@@ -17087,7 +17087,7 @@
     "country": "CO",
     "city": "Bogota",
     "region": "South America",
-    "url": "http://www.pitcolombia.net",
+    "url": "http://www.pit.net",
     "peeringlan": "45.68.24.0/24"
   },
   {
@@ -17096,7 +17096,7 @@
     "country": "CO",
     "city": "Bogota",
     "region": "South America",
-    "url": "http://www.pitcolombia.net",
+    "url": "http://www.pit.net",
     "peeringlan": "2801:1a:5800:140::/64"
   },
   {
@@ -18545,7 +18545,7 @@
     "country": "CO",
     "city": "Cali",
     "region": "South America",
-    "url": "https://pitcolombia.net/",
+    "url": "https://www.pit.net/",
     "peeringlan": "2801:1a:5800:148::/64"
   },
   {
@@ -18554,7 +18554,7 @@
     "country": "CO",
     "city": "Cali",
     "region": "South America",
-    "url": "https://pitcolombia.net/",
+    "url": "https://www.pit.net/",
     "peeringlan": "45.68.36.0/24"
   },
   {
@@ -18677,19 +18677,19 @@
   {
     "id": "pdb_4150",
     "name": "PIT - Argentina - Buenos Aires",
-    "country": "PE",
-    "city": "Tacna",
+    "country": "AR",
+    "city": "Buenos Aires",
     "region": "South America",
-    "url": "https://peruix.net/peering-en-el-peru-ix-pit-peru-sac-tacna/",
+    "url": "http://www.pit.ar",
     "peeringlan": "2803:cd60:6414:7::/64"
   },
   {
     "id": "pdb_4150",
     "name": "PIT - Argentina - Buenos Aires",
-    "country": "PE",
-    "city": "Tacna",
+    "country": "AR",
+    "city": "Buenos Aires",
     "region": "South America",
-    "url": "https://peruix.net/peering-en-el-peru-ix-pit-peru-sac-tacna/",
+    "url": "http://www.pit.ar",
     "peeringlan": "38.56.106.0/24"
   },
   {
@@ -19330,6 +19330,15 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.in/",
     "peeringlan": "103.184.198.0/24"
+  },
+  {
+    "id": "pdb_4263",
+    "name": "DE-CIX Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/",
+    "peeringlan": "103.83.68.0/24"
   },
   {
     "id": "pdb_4269",
@@ -20133,15 +20142,6 @@
     "peeringlan": "2606:a980:0:c::/64"
   },
   {
-    "id": "pdb_4365",
-    "name": "MikeNetworks-IX",
-    "country": "BE",
-    "city": "Bruges, Hasselt",
-    "region": "Europe",
-    "url": "https://ix.mikenetworks.com/",
-    "peeringlan": "2a12:4946:3900::/64"
-  },
-  {
     "id": "pdb_4367",
     "name": "FIX Berlin",
     "country": "DE",
@@ -20817,6 +20817,15 @@
     "peeringlan": "185.0.16.0/24"
   },
   {
+    "id": "pdb_4480",
+    "name": "POM-IX",
+    "country": "PL",
+    "city": "Gda\u0144sk",
+    "region": "Europe",
+    "url": "https://pomix.pl",
+    "peeringlan": "2001:7f8:142::/64"
+  },
+  {
     "id": "pdb_4490",
     "name": "Equinix Kuala Lumpur",
     "country": "MY",
@@ -20887,5 +20896,23 @@
     "region": "Asia Pacific",
     "url": "http://airlink.id",
     "peeringlan": "157.15.118.0/24"
+  },
+  {
+    "id": "pdb_4498",
+    "name": "OnlineNet",
+    "country": "AM",
+    "city": "Artashat",
+    "region": "Europe",
+    "url": "https://onlinenet.am",
+    "peeringlan": "5.134.84.0/23"
+  },
+  {
+    "id": "pdb_4498",
+    "name": "OnlineNet",
+    "country": "AM",
+    "city": "Artashat",
+    "region": "Europe",
+    "url": "https://onlinenet.am",
+    "peeringlan": "216.113.26.0/24"
   }
 ]
