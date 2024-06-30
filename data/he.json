@@ -1395,6 +1395,33 @@
     "peeringlan": "2001:df0:680:5::/64"
   },
   {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "185.1.213.0/24"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "2001:7f8:115::/64"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "2001:7f8:14d::/64"
+  },
+  {
     "id": "he_INEX",
     "name": "INEX",
     "country": "IE",
@@ -1483,33 +1510,6 @@
     "region": "North America",
     "url": "https://sfmix.org/",
     "peeringlan": "2001:504:30::/48"
-  },
-  {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "185.1.213.0/24"
-  },
-  {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "2001:7f8:115::/64"
-  },
-  {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "2001:7f8:14d::/64"
   },
   {
     "id": "he_UNMETERED%20Exchange",
@@ -2115,24 +2115,6 @@
     "peeringlan": "2001:504:98::/64"
   },
   {
-    "id": "he_VANIX",
-    "name": "VANIX",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://www.vanix.ca",
-    "peeringlan": "206.41.104.0/24"
-  },
-  {
-    "id": "he_VANIX",
-    "name": "VANIX",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://www.vanix.ca",
-    "peeringlan": "2001:504:39::/64"
-  },
-  {
     "id": "he_WIX-NZ",
     "name": "WIX-NZ",
     "country": "NZ",
@@ -2185,6 +2167,24 @@
     "region": "North America",
     "url": "https://greatplains.io",
     "peeringlan": "2001:7f8:2:1::/64"
+  },
+  {
+    "id": "he_VANIX",
+    "name": "VANIX",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://www.vanix.ca",
+    "peeringlan": "206.41.104.0/24"
+  },
+  {
+    "id": "he_VANIX",
+    "name": "VANIX",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://www.vanix.ca",
+    "peeringlan": "2001:504:39::/64"
   },
   {
     "id": "he_ChIX",
@@ -2520,24 +2520,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "185.1.104.0/24"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "2001:7f8:be::/64"
-  },
-  {
     "id": "he_QCIX",
     "name": "QCIX",
     "country": "US",
@@ -2572,6 +2554,24 @@
     "region": "Europe",
     "url": "https://www.nix.sk/sk",
     "peeringlan": "2001:7f8:91::/64"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "185.1.104.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "2001:7f8:be::/64"
   },
   {
     "id": "he_DE-CIX%20Lisbon",
@@ -4509,6 +4509,24 @@
     "peeringlan": "2001:7f8:b5::/48"
   },
   {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "185.0.28.0/24"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "2001:7f8:148::/64"
+  },
+  {
     "id": "he_SEECIX",
     "name": "SEECIX",
     "country": "GR",
@@ -4543,24 +4561,6 @@
     "region": "Europe",
     "url": "https://sbg-ix.net/",
     "peeringlan": "2001:7f8:140::/64"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "185.0.28.0/24"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_MadIX",
