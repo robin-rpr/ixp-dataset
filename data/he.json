@@ -504,24 +504,6 @@
     "peeringlan": "185.1.222.0/23"
   },
   {
-    "id": "he_TORIX",
-    "name": "TORIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.torix.ca/",
-    "peeringlan": "206.108.34.0/23"
-  },
-  {
-    "id": "he_TORIX",
-    "name": "TORIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.torix.ca/",
-    "peeringlan": "2001:504:1a::34:0/111"
-  },
-  {
     "id": "he_Global-IX",
     "name": "Global-IX",
     "country": "NL",
@@ -556,6 +538,24 @@
     "region": "Asia Pacific",
     "url": "https://www.sgix.sg",
     "peeringlan": "2001:de8:12:100::/56"
+  },
+  {
+    "id": "he_TORIX",
+    "name": "TORIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.torix.ca/",
+    "peeringlan": "206.108.34.0/23"
+  },
+  {
+    "id": "he_TORIX",
+    "name": "TORIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.torix.ca/",
+    "peeringlan": "2001:504:1a::34:0/111"
   },
   {
     "id": "he_SwissIX",
@@ -945,6 +945,24 @@
     "peeringlan": "2001:504:40:108::/64"
   },
   {
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
+    "region": "Europe",
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "185.1.203.0/24"
+  },
+  {
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
+    "region": "Europe",
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "2001:7f8:10f::/64"
+  },
+  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1006,24 +1024,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2001:13c7:6001::/64"
-  },
-  {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
-    "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "185.1.203.0/24"
-  },
-  {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
-    "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "2001:7f8:10f::/64"
   },
   {
     "id": "he_TPIX-TW",
@@ -1278,6 +1278,15 @@
     "peeringlan": "2001:7f8:64:225::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_BIX.BG",
     "name": "BIX.BG",
     "country": "BG",
@@ -1321,15 +1330,6 @@
     "region": "North America",
     "url": "http://www.nwax.net",
     "peeringlan": "2620:124:2000::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_DE-CIX%20Marseille",
@@ -2268,33 +2268,6 @@
     "peeringlan": "2001:504:47::/64"
   },
   {
-    "id": "he_DE-CIX%20Chennai",
-    "name": "DE-CIX Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/locations/de-cix-chennai",
-    "peeringlan": "103.228.174.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chennai",
-    "name": "DE-CIX Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/locations/de-cix-chennai",
-    "peeringlan": "103.228.155.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chennai",
-    "name": "DE-CIX Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/locations/de-cix-chennai",
-    "peeringlan": "2400:d180:68::/64"
-  },
-  {
     "id": "he_NIXI%20Chennai",
     "name": "NIXI Chennai",
     "country": "IN",
@@ -2320,6 +2293,33 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/chennai",
     "peeringlan": "2001:de8:1:2::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Chennai",
+    "name": "DE-CIX Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/locations/de-cix-chennai",
+    "peeringlan": "103.228.174.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chennai",
+    "name": "DE-CIX Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/locations/de-cix-chennai",
+    "peeringlan": "103.228.155.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chennai",
+    "name": "DE-CIX Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/locations/de-cix-chennai",
+    "peeringlan": "2400:d180:68::/64"
   },
   {
     "id": "he_NIX",
@@ -3801,7 +3801,7 @@
     "id": "he_Lillix",
     "name": "Lillix",
     "country": "FR",
-    "city": "Lille",
+    "city": "Lille & Valenciennes Metropole (North of France)",
     "region": "Europe",
     "url": "http://www.lillix.fr",
     "peeringlan": "193.34.197.0/24"
@@ -3810,7 +3810,7 @@
     "id": "he_Lillix",
     "name": "Lillix",
     "country": "FR",
-    "city": "Lille",
+    "city": "Lille & Valenciennes Metropole (North of France)",
     "region": "Europe",
     "url": "http://www.lillix.fr",
     "peeringlan": "2001:7f8:6d::/64"
@@ -4338,6 +4338,24 @@
     "peeringlan": "2001:7f8:4a::/48"
   },
   {
+    "id": "he_NIXI%20Hyderabad",
+    "name": "NIXI Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/hyderabad",
+    "peeringlan": "218.100.49.64/26"
+  },
+  {
+    "id": "he_NIXI%20Hyderabad",
+    "name": "NIXI Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/hyderabad",
+    "peeringlan": "2001:de8:1:6::/64"
+  },
+  {
     "id": "he_CABASE-POS",
     "name": "CABASE-POS",
     "country": "AR",
@@ -4408,24 +4426,6 @@
     "region": "Africa",
     "url": "http://www.mixp.org/",
     "peeringlan": "2001:43f8:270:d0d0::/64"
-  },
-  {
-    "id": "he_NIXI%20Hyderabad",
-    "name": "NIXI Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/hyderabad",
-    "peeringlan": "218.100.49.64/26"
-  },
-  {
-    "id": "he_NIXI%20Hyderabad",
-    "name": "NIXI Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/hyderabad",
-    "peeringlan": "2001:de8:1:6::/64"
   },
   {
     "id": "he_CABASE-NQN",
@@ -5310,24 +5310,6 @@
     "peeringlan": "2001:7f8:55::/64"
   },
   {
-    "id": "he_CABASE-BHB",
-    "name": "CABASE-BHB",
-    "country": "AR",
-    "city": "Bah\u00eda Blanca",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.37.0/24"
-  },
-  {
-    "id": "he_CABASE-BHB",
-    "name": "CABASE-BHB",
-    "country": "AR",
-    "city": "Bah\u00eda Blanca",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:6009::/64"
-  },
-  {
     "id": "he_RO-CIX",
     "name": "RO-CIX",
     "country": "RO",
@@ -5407,6 +5389,24 @@
     "region": "Africa",
     "url": "http://www.renater.fr/spip.php?rubrique280",
     "peeringlan": "194.57.253.128/27"
+  },
+  {
+    "id": "he_CABASE-BHB",
+    "name": "CABASE-BHB",
+    "country": "AR",
+    "city": "Bah\u00eda Blanca",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.14.37.0/24"
+  },
+  {
+    "id": "he_CABASE-BHB",
+    "name": "CABASE-BHB",
+    "country": "AR",
+    "city": "Bah\u00eda Blanca",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13C7:6009::/64"
   },
   {
     "id": "he_CABASE-SFE",
