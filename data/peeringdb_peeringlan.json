@@ -9186,7 +9186,7 @@
     "city": "Concepcion",
     "region": "South America",
     "url": "http://www.pitconcepcion.cl",
-    "peeringlan": "45.71.9.0/24"
+    "peeringlan": "2803:3440:9026::/64"
   },
   {
     "id": "pdb_1915",
@@ -9195,7 +9195,7 @@
     "city": "Concepcion",
     "region": "South America",
     "url": "http://www.pitconcepcion.cl",
-    "peeringlan": "2803:3440:9026::/64"
+    "peeringlan": "45.71.9.0/26"
   },
   {
     "id": "pdb_1916",
@@ -9213,7 +9213,7 @@
     "city": "Temuco",
     "region": "South America",
     "url": "http://www.pitchile.cl",
-    "peeringlan": "45.71.10.0/24"
+    "peeringlan": "45.71.9.128/26"
   },
   {
     "id": "pdb_1923",
@@ -20979,6 +20979,15 @@
     "peeringlan": "206.53.206.0/25"
   },
   {
+    "id": "pdb_4507",
+    "name": "MegaIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:d::/64"
+  },
+  {
     "id": "pdb_4508",
     "name": "MegaIX Bay Area",
     "country": "US",
@@ -20986,5 +20995,14 @@
     "region": "North America",
     "url": "http://megaport.com",
     "peeringlan": "206.53.206.128/25"
+  },
+  {
+    "id": "pdb_4508",
+    "name": "MegaIX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "http://megaport.com",
+    "peeringlan": "2606:a980:0:e::/64"
   }
 ]
