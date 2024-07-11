@@ -504,6 +504,24 @@
     "peeringlan": "185.1.222.0/23"
   },
   {
+    "id": "he_Global-IX",
+    "name": "Global-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.gblnet.net",
+    "peeringlan": "109.239.136.0/23"
+  },
+  {
+    "id": "he_Global-IX",
+    "name": "Global-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.gblnet.net",
+    "peeringlan": "2001:b28:3ff::/64"
+  },
+  {
     "id": "he_SGIX",
     "name": "SGIX",
     "country": "SG",
@@ -538,24 +556,6 @@
     "region": "North America",
     "url": "https://www.torix.ca/",
     "peeringlan": "2001:504:1a::34:0/111"
-  },
-  {
-    "id": "he_Global-IX",
-    "name": "Global-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.gblnet.net",
-    "peeringlan": "109.239.136.0/23"
-  },
-  {
-    "id": "he_Global-IX",
-    "name": "Global-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.gblnet.net",
-    "peeringlan": "2001:b28:3ff::/64"
   },
   {
     "id": "he_SwissIX",
@@ -1512,15 +1512,6 @@
     "peeringlan": "2001:504:30::/48"
   },
   {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
-  },
-  {
     "id": "he_BIX%20Budapest",
     "name": "BIX Budapest",
     "country": "HU",
@@ -1537,6 +1528,15 @@
     "region": "Europe",
     "url": "https://bix.hu/en",
     "peeringlan": "2001:7f8:35::/64"
+  },
+  {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_IX%20Australia%20VIC",
@@ -2133,24 +2133,6 @@
     "peeringlan": "2001:7fa:3:ca07::/64"
   },
   {
-    "id": "he_IX%20Australia%20QLD",
-    "name": "IX Australia QLD",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.76.0/24"
-  },
-  {
-    "id": "he_IX%20Australia%20QLD",
-    "name": "IX Australia QLD",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:2::/64"
-  },
-  {
     "id": "he_GPC%20Missouri",
     "name": "GPC Missouri",
     "country": "US",
@@ -2230,6 +2212,24 @@
     "region": "Europe",
     "url": "http://www.b-ix.net/",
     "peeringlan": "2001:7f8:8e::/48"
+  },
+  {
+    "id": "he_IX%20Australia%20QLD",
+    "name": "IX Australia QLD",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.76.0/24"
+  },
+  {
+    "id": "he_IX%20Australia%20QLD",
+    "name": "IX Australia QLD",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:2::/64"
   },
   {
     "id": "he_CIX-ATL",
@@ -3411,24 +3411,6 @@
     "peeringlan": "2001:7f8:66::/64"
   },
   {
-    "id": "he_PIT-IX",
-    "name": "PIT-IX",
-    "country": "US",
-    "city": "Pittsburgh",
-    "region": "North America",
-    "url": "https://pit-ix.net",
-    "peeringlan": "206.71.141.0/24"
-  },
-  {
-    "id": "he_PIT-IX",
-    "name": "PIT-IX",
-    "country": "US",
-    "city": "Pittsburgh",
-    "region": "North America",
-    "url": "https://pit-ix.net",
-    "peeringlan": "2001:504:77::/64"
-  },
-  {
     "id": "he_SONIX",
     "name": "SONIX",
     "country": "SE",
@@ -3445,6 +3427,42 @@
     "region": "Europe",
     "url": "https://sonix.network",
     "peeringlan": "2001:7f8:117::/64"
+  },
+  {
+    "id": "he_SIX%20SI",
+    "name": "SIX SI",
+    "country": "SI",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
+    "peeringlan": "91.220.194.0/24"
+  },
+  {
+    "id": "he_SIX%20SI",
+    "name": "SIX SI",
+    "country": "SI",
+    "city": "Ljubljana",
+    "region": "Europe",
+    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
+    "peeringlan": "2001:7f8:46::/64"
+  },
+  {
+    "id": "he_PIT-IX",
+    "name": "PIT-IX",
+    "country": "US",
+    "city": "Pittsburgh",
+    "region": "North America",
+    "url": "https://pit-ix.net",
+    "peeringlan": "206.71.141.0/24"
+  },
+  {
+    "id": "he_PIT-IX",
+    "name": "PIT-IX",
+    "country": "US",
+    "city": "Pittsburgh",
+    "region": "North America",
+    "url": "https://pit-ix.net",
+    "peeringlan": "2001:504:77::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Frankfurt",
@@ -3544,24 +3562,6 @@
     "region": "Europe",
     "url": "http://www.lixp.lt/en/",
     "peeringlan": "2001:7f8:b4:4b::/48"
-  },
-  {
-    "id": "he_SIX%20SI",
-    "name": "SIX SI",
-    "country": "SI",
-    "city": "Ljubljana",
-    "region": "Europe",
-    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
-    "peeringlan": "91.220.194.0/24"
-  },
-  {
-    "id": "he_SIX%20SI",
-    "name": "SIX SI",
-    "country": "SI",
-    "city": "Ljubljana",
-    "region": "Europe",
-    "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
-    "peeringlan": "2001:7f8:46::/64"
   },
   {
     "id": "he_CN-IX%20Shanghai",
