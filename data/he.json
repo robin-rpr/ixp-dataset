@@ -504,6 +504,24 @@
     "peeringlan": "185.1.222.0/23"
   },
   {
+    "id": "he_Global-IX",
+    "name": "Global-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.gblnet.net",
+    "peeringlan": "109.239.136.0/23"
+  },
+  {
+    "id": "he_Global-IX",
+    "name": "Global-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.gblnet.net",
+    "peeringlan": "2001:b28:3ff::/64"
+  },
+  {
     "id": "he_SGIX",
     "name": "SGIX",
     "country": "SG",
@@ -538,24 +556,6 @@
     "region": "North America",
     "url": "https://www.torix.ca/",
     "peeringlan": "2001:504:1a::34:0/111"
-  },
-  {
-    "id": "he_Global-IX",
-    "name": "Global-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.gblnet.net",
-    "peeringlan": "109.239.136.0/23"
-  },
-  {
-    "id": "he_Global-IX",
-    "name": "Global-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.gblnet.net",
-    "peeringlan": "2001:b28:3ff::/64"
   },
   {
     "id": "he_SwissIX",
@@ -783,33 +783,6 @@
     "peeringlan": "2001:7f8:5d::/116"
   },
   {
-    "id": "he_Peering.cz",
-    "name": "Peering.cz",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.peering.cz",
-    "peeringlan": "91.213.211.0/24"
-  },
-  {
-    "id": "he_Peering.cz",
-    "name": "Peering.cz",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.peering.cz",
-    "peeringlan": "185.0.20.0/23"
-  },
-  {
-    "id": "he_Peering.cz",
-    "name": "Peering.cz",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.peering.cz",
-    "peeringlan": "2001:7f8:7f::/64"
-  },
-  {
     "id": "he_NaMeX",
     "name": "NaMeX",
     "country": "IT",
@@ -835,6 +808,33 @@
     "region": "Europe",
     "url": "https://www.namex.it",
     "peeringlan": "2001:7f8:10:b::/64"
+  },
+  {
+    "id": "he_Peering.cz",
+    "name": "Peering.cz",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.peering.cz",
+    "peeringlan": "91.213.211.0/24"
+  },
+  {
+    "id": "he_Peering.cz",
+    "name": "Peering.cz",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.peering.cz",
+    "peeringlan": "185.0.20.0/23"
+  },
+  {
+    "id": "he_Peering.cz",
+    "name": "Peering.cz",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.peering.cz",
+    "peeringlan": "2001:7f8:7f::/64"
   },
   {
     "id": "he_PITER-IX%20Helsinki",
@@ -1422,6 +1422,24 @@
     "peeringlan": "2001:7f8:14d::/64"
   },
   {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "206.197.187.0/24"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "2001:504:30::/48"
+  },
+  {
     "id": "he_INEX",
     "name": "INEX",
     "country": "IE",
@@ -1492,24 +1510,6 @@
     "region": "Europe",
     "url": "https://www.inex.ie/",
     "peeringlan": "2001:07F8:0018:72::/64"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "206.197.187.0/24"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "2001:504:30::/48"
   },
   {
     "id": "he_BIX%20Budapest",
@@ -3528,6 +3528,33 @@
     "peeringlan": "2001:43f8:ae1::/48"
   },
   {
+    "id": "he_NIXI%20Kolkata",
+    "name": "NIXI Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/kolkata",
+    "peeringlan": "218.100.48.192/26"
+  },
+  {
+    "id": "he_NIXI%20Kolkata",
+    "name": "NIXI Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/kolkata",
+    "peeringlan": "103.218.246.0/24"
+  },
+  {
+    "id": "he_NIXI%20Kolkata",
+    "name": "NIXI Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/kolkata",
+    "peeringlan": "2001:de8:1:5::/64"
+  },
+  {
     "id": "he_LIXP%20Vilnius",
     "name": "LIXP Vilnius",
     "country": "LT",
@@ -3645,33 +3672,6 @@
     "peeringlan": "2001:43f8:09d0::/64"
   },
   {
-    "id": "he_NIXI%20Kolkata",
-    "name": "NIXI Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/kolkata",
-    "peeringlan": "218.100.48.192/26"
-  },
-  {
-    "id": "he_NIXI%20Kolkata",
-    "name": "NIXI Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/kolkata",
-    "peeringlan": "103.218.246.0/24"
-  },
-  {
-    "id": "he_NIXI%20Kolkata",
-    "name": "NIXI Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/kolkata",
-    "peeringlan": "2001:de8:1:5::/64"
-  },
-  {
     "id": "he_MBIX",
     "name": "MBIX",
     "country": "CA",
@@ -3724,6 +3724,24 @@
     "region": "Europe",
     "url": "https://www.saix.at/",
     "peeringlan": "2001:7f8:11::/64"
+  },
+  {
+    "id": "he_Lillix",
+    "name": "Lillix",
+    "country": "FR",
+    "city": "Lille & Valenciennes Metropole (North of France)",
+    "region": "Europe",
+    "url": "http://www.lillix.fr",
+    "peeringlan": "193.34.197.0/24"
+  },
+  {
+    "id": "he_Lillix",
+    "name": "Lillix",
+    "country": "FR",
+    "city": "Lille & Valenciennes Metropole (North of France)",
+    "region": "Europe",
+    "url": "http://www.lillix.fr",
+    "peeringlan": "2001:7f8:6d::/64"
   },
   {
     "id": "he_N-IX",
@@ -3796,24 +3814,6 @@
     "region": "Africa",
     "url": "https://www.af-cix.net/",
     "peeringlan": "2001:43f8:1690::/64"
-  },
-  {
-    "id": "he_Lillix",
-    "name": "Lillix",
-    "country": "FR",
-    "city": "Lille & Valenciennes Metropole (North of France)",
-    "region": "Europe",
-    "url": "http://www.lillix.fr",
-    "peeringlan": "193.34.197.0/24"
-  },
-  {
-    "id": "he_Lillix",
-    "name": "Lillix",
-    "country": "FR",
-    "city": "Lille & Valenciennes Metropole (North of France)",
-    "region": "Europe",
-    "url": "http://www.lillix.fr",
-    "peeringlan": "2001:7f8:6d::/64"
   },
   {
     "id": "he_IX%20Leeds",
