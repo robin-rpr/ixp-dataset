@@ -504,24 +504,6 @@
     "peeringlan": "185.1.222.0/23"
   },
   {
-    "id": "he_Global-IX",
-    "name": "Global-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.gblnet.net",
-    "peeringlan": "109.239.136.0/23"
-  },
-  {
-    "id": "he_Global-IX",
-    "name": "Global-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.gblnet.net",
-    "peeringlan": "2001:b28:3ff::/64"
-  },
-  {
     "id": "he_SGIX",
     "name": "SGIX",
     "country": "SG",
@@ -538,6 +520,24 @@
     "region": "Asia Pacific",
     "url": "https://www.sgix.sg",
     "peeringlan": "2001:de8:12:100::/56"
+  },
+  {
+    "id": "he_Global-IX",
+    "name": "Global-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.gblnet.net",
+    "peeringlan": "109.239.136.0/23"
+  },
+  {
+    "id": "he_Global-IX",
+    "name": "Global-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.gblnet.net",
+    "peeringlan": "2001:b28:3ff::/64"
   },
   {
     "id": "he_TORIX",
@@ -1917,6 +1917,24 @@
     "peeringlan": "2a05:5840:0:ffff::/64"
   },
   {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "103.104.19.0/24"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "2401:fdc0::/64"
+  },
+  {
     "id": "he_YYCIX",
     "name": "YYCIX",
     "country": "CA",
@@ -1951,24 +1969,6 @@
     "region": "Europe",
     "url": "https://www.minap.it/",
     "peeringlan": "2001:7f8:c5::/48"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "103.104.19.0/24"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "2401:fdc0::/64"
   },
   {
     "id": "he_APE",
@@ -2664,24 +2664,6 @@
     "peeringlan": "2001:7f8:21:11::/64"
   },
   {
-    "id": "he_AMS-IX%20Hong%20Kong",
-    "name": "AMS-IX Hong Kong",
-    "country": "HK",
-    "city": "Hong Kong",
-    "region": "Asia Pacific",
-    "url": "http://www.ams-ix.hk",
-    "peeringlan": "103.247.139.0/25"
-  },
-  {
-    "id": "he_AMS-IX%20Hong%20Kong",
-    "name": "AMS-IX Hong Kong",
-    "country": "HK",
-    "city": "Hong Kong",
-    "region": "Asia Pacific",
-    "url": "http://www.ams-ix.hk",
-    "peeringlan": "2001:df0:296::/64"
-  },
-  {
     "id": "he_BKNIX",
     "name": "BKNIX",
     "country": "TH",
@@ -2707,6 +2689,24 @@
     "region": "Asia Pacific",
     "url": "https://bknix.co.th",
     "peeringlan": "2001:df5:b881::/64"
+  },
+  {
+    "id": "he_AMS-IX%20Hong%20Kong",
+    "name": "AMS-IX Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "http://www.ams-ix.hk",
+    "peeringlan": "103.247.139.0/25"
+  },
+  {
+    "id": "he_AMS-IX%20Hong%20Kong",
+    "name": "AMS-IX Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "http://www.ams-ix.hk",
+    "peeringlan": "2001:df0:296::/64"
   },
   {
     "id": "he_FIXO",
@@ -3240,6 +3240,15 @@
     "peeringlan": "2001:504:105::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_SMILE-LV",
     "name": "SMILE-LV",
     "country": "LV",
@@ -3256,15 +3265,6 @@
     "region": "Europe",
     "url": "http://www.smile-ixp.net",
     "peeringlan": "2001:7F8:16::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_TWIX",
@@ -3393,6 +3393,15 @@
     "peeringlan": "2403:4ac0:1::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_Rheintal%20IX",
     "name": "Rheintal IX",
     "country": "LI",
@@ -3463,15 +3472,6 @@
     "region": "Europe",
     "url": "https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/",
     "peeringlan": "2001:7f8:46::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_NDIX",
@@ -3672,6 +3672,24 @@
     "peeringlan": "2001:43f8:09d0::/64"
   },
   {
+    "id": "he_Lillix",
+    "name": "Lillix",
+    "country": "FR",
+    "city": "Lille & Valenciennes Metropole (North of France)",
+    "region": "Europe",
+    "url": "http://www.lillix.fr",
+    "peeringlan": "193.34.197.0/24"
+  },
+  {
+    "id": "he_Lillix",
+    "name": "Lillix",
+    "country": "FR",
+    "city": "Lille & Valenciennes Metropole (North of France)",
+    "region": "Europe",
+    "url": "http://www.lillix.fr",
+    "peeringlan": "2001:7f8:6d::/64"
+  },
+  {
     "id": "he_MBIX",
     "name": "MBIX",
     "country": "CA",
@@ -3724,24 +3742,6 @@
     "region": "Europe",
     "url": "https://www.saix.at/",
     "peeringlan": "2001:7f8:11::/64"
-  },
-  {
-    "id": "he_Lillix",
-    "name": "Lillix",
-    "country": "FR",
-    "city": "Lille & Valenciennes Metropole (North of France)",
-    "region": "Europe",
-    "url": "http://www.lillix.fr",
-    "peeringlan": "193.34.197.0/24"
-  },
-  {
-    "id": "he_Lillix",
-    "name": "Lillix",
-    "country": "FR",
-    "city": "Lille & Valenciennes Metropole (North of France)",
-    "region": "Europe",
-    "url": "http://www.lillix.fr",
-    "peeringlan": "2001:7f8:6d::/64"
   },
   {
     "id": "he_N-IX",
@@ -3814,6 +3814,24 @@
     "region": "Africa",
     "url": "https://www.af-cix.net/",
     "peeringlan": "2001:43f8:1690::/64"
+  },
+  {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.172.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:5::/64"
   },
   {
     "id": "he_IX%20Leeds",
@@ -3931,24 +3949,6 @@
     "region": "Asia Pacific",
     "url": "http://www.sox.net.sg/",
     "peeringlan": "2001:de8:d::/64"
-  },
-  {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.172.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:5::/64"
   },
   {
     "id": "he_GIX",
@@ -6291,6 +6291,24 @@
     "peeringlan": "2606:a980:0:6::/64"
   },
   {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.173.0/25"
+  },
+  {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:2::/64"
+  },
+  {
     "id": "he_DPE",
     "name": "DPE",
     "country": "NZ",
@@ -6325,23 +6343,5 @@
     "region": "Australia",
     "url": "http://www.nzix.net/hix.html",
     "peeringlan": "2001:7fa:3:b0df::/64"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.173.0/25"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:2::/64"
   }
 ]
