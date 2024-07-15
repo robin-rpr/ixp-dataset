@@ -20052,24 +20052,6 @@
     "peeringlan": "2001:7f8:d:200::/48"
   },
   {
-    "id": "pch_58_01",
-    "name": "NAP AEPROVI Quito",
-    "country": "EC",
-    "city": "Quito",
-    "region": "Latin America",
-    "url": "https://aeprovi.org.ec/",
-    "peeringlan": "200.1.6.0/24"
-  },
-  {
-    "id": "pch_58_02",
-    "name": "NAP AEPROVI Quito",
-    "country": "EC",
-    "city": "Quito",
-    "region": "Latin America",
-    "url": "https://aeprovi.org.ec/",
-    "peeringlan": "2001:13C7:6F00::/48"
-  },
-  {
     "id": "pch_1187_01",
     "name": "Istanbul Internet Exchange",
     "country": "TR",
@@ -20124,13 +20106,22 @@
     "peeringlan": "2001:7F8:4C::/48"
   },
   {
-    "id": "pch_51_01",
-    "name": "Croatian Internet Exchange",
-    "country": "HR",
-    "city": "Zagreb",
+    "id": "pch_613_01",
+    "name": "Neutral czFree eXchange",
+    "country": "CZ",
+    "city": "Prague",
     "region": "Europe",
-    "url": "https://www.cix.hr/",
-    "peeringlan": "2001:7f8:28::/48"
+    "url": "http://www.nfx.cz/",
+    "peeringlan": "81.201.48.192/26"
+  },
+  {
+    "id": "pch_1866_01",
+    "name": "Bangkok Neutral Internet Exchange",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th/en/index.php",
+    "peeringlan": "2001:deb:0:68::/64"
   },
   {
     "id": "pch_1233_01",
@@ -20151,22 +20142,22 @@
     "peeringlan": "2A01:658:FFFF::/48"
   },
   {
-    "id": "pch_613_01",
-    "name": "Neutral czFree eXchange",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.nfx.cz/",
-    "peeringlan": "81.201.48.192/26"
+    "id": "pch_58_01",
+    "name": "NAP AEPROVI Quito",
+    "country": "EC",
+    "city": "Quito",
+    "region": "Latin America",
+    "url": "https://aeprovi.org.ec/",
+    "peeringlan": "200.1.6.0/24"
   },
   {
-    "id": "pch_1866_01",
-    "name": "Bangkok Neutral Internet Exchange",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th/en/index.php",
-    "peeringlan": "2001:deb:0:68::/64"
+    "id": "pch_58_02",
+    "name": "NAP AEPROVI Quito",
+    "country": "EC",
+    "city": "Quito",
+    "region": "Latin America",
+    "url": "https://aeprovi.org.ec/",
+    "peeringlan": "2001:13C7:6F00::/48"
   },
   {
     "id": "pch_1872_01",
@@ -20176,6 +20167,15 @@
     "region": "North America",
     "url": "http://www.slix.net/",
     "peeringlan": "2001:504:105::/48"
+  },
+  {
+    "id": "pch_51_01",
+    "name": "Croatian Internet Exchange",
+    "country": "HR",
+    "city": "Zagreb",
+    "region": "Europe",
+    "url": "https://www.cix.hr/",
+    "peeringlan": "2001:7f8:28::/48"
   },
   {
     "id": "pch_88_01",
@@ -20358,6 +20358,15 @@
     "peeringlan": "91.230.210.0/23"
   },
   {
+    "id": "pch_1297_01",
+    "name": "Grenada Internet Exchange",
+    "country": "GD",
+    "city": "St. Georges",
+    "region": "Latin America",
+    "url": "http://ix.gd/",
+    "peeringlan": "206.126.244.0/24"
+  },
+  {
     "id": "pch_164_01",
     "name": "Auckland Peering Exchange",
     "country": "NZ",
@@ -20383,15 +20392,6 @@
     "region": "Africa",
     "url": "http://www.angonix.net/",
     "peeringlan": "2001:43f8:09d0::/48"
-  },
-  {
-    "id": "pch_1297_01",
-    "name": "Grenada Internet Exchange",
-    "country": "GD",
-    "city": "St. Georges",
-    "region": "Latin America",
-    "url": "http://ix.gd/",
-    "peeringlan": "206.126.244.0/24"
   },
   {
     "id": "pch_1839_01",
@@ -20556,15 +20556,6 @@
     "peeringlan": "193.34.203.0/24"
   },
   {
-    "id": "pch_1008_01",
-    "name": "IX Australia ACT",
-    "country": "AU",
-    "city": "Canberra",
-    "region": "Asia Pacific",
-    "url": "https://www.ix.asn.au/peering/",
-    "peeringlan": "2001:0DE8:0009::/48"
-  },
-  {
     "id": "pch_367_01",
     "name": "Botswana Internet Exchange",
     "country": "BW",
@@ -20572,6 +20563,15 @@
     "region": "Africa",
     "url": "http://www.info.bw/bispa/binx.html",
     "peeringlan": "192.168.179.0/24"
+  },
+  {
+    "id": "pch_1008_01",
+    "name": "IX Australia ACT",
+    "country": "AU",
+    "city": "Canberra",
+    "region": "Asia Pacific",
+    "url": "https://www.ix.asn.au/peering/",
+    "peeringlan": "2001:0DE8:0009::/48"
   },
   {
     "id": "pch_1407_01",
@@ -20655,15 +20655,6 @@
     "peeringlan": "193.156.125.0/24"
   },
   {
-    "id": "pch_159_01",
-    "name": "Nepal Internet Exchange - Putalisadak",
-    "country": "NP",
-    "city": "Kathmandu",
-    "region": "Asia Pacific",
-    "url": "http://www.npix.net.np/",
-    "peeringlan": "198.32.231.0/24"
-  },
-  {
     "id": "pch_1884_01",
     "name": "Internet Exchange Point of Nigeria - Abuja",
     "country": "NG",
@@ -20680,6 +20671,15 @@
     "region": "Europe",
     "url": "http://www.msk-ix.ru/eng/",
     "peeringlan": "194.85.177.0/24"
+  },
+  {
+    "id": "pch_159_01",
+    "name": "Nepal Internet Exchange - Putalisadak",
+    "country": "NP",
+    "city": "Kathmandu",
+    "region": "Asia Pacific",
+    "url": "http://www.npix.net.np/",
+    "peeringlan": "198.32.231.0/24"
   },
   {
     "id": "pch_2006_01",
@@ -21501,15 +21501,6 @@
     "peeringlan": "2001:43f8:16a0::/48"
   },
   {
-    "id": "pch_2264_01",
-    "name": "Denver Internet Exchange",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://www.denverix.com",
-    "peeringlan": "2001:504:109::/48"
-  },
-  {
     "id": "pch_2207_01",
     "name": "Nepal Internet Exchange - Jawalakhel",
     "country": "NP",
@@ -21517,6 +21508,15 @@
     "region": "Asia Pacific",
     "url": "https://www.npix.net.np",
     "peeringlan": "2001:def:8000::/64"
+  },
+  {
+    "id": "pch_2264_01",
+    "name": "Denver Internet Exchange",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://www.denverix.com",
+    "peeringlan": "2001:504:109::/48"
   },
   {
     "id": "pch_2173_01",
