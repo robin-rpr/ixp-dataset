@@ -522,24 +522,6 @@
     "peeringlan": "2001:b28:3ff::/64"
   },
   {
-    "id": "he_SGIX",
-    "name": "SGIX",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.sgix.sg",
-    "peeringlan": "103.16.102.0/23"
-  },
-  {
-    "id": "he_SGIX",
-    "name": "SGIX",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.sgix.sg",
-    "peeringlan": "2001:de8:12:100::/56"
-  },
-  {
     "id": "he_TORIX",
     "name": "TORIX",
     "country": "CA",
@@ -556,6 +538,24 @@
     "region": "North America",
     "url": "https://www.torix.ca/",
     "peeringlan": "2001:504:1a::34:0/111"
+  },
+  {
+    "id": "he_SGIX",
+    "name": "SGIX",
+    "country": "SG",
+    "city": "Singapore",
+    "region": "Asia Pacific",
+    "url": "https://www.sgix.sg",
+    "peeringlan": "103.16.102.0/23"
+  },
+  {
+    "id": "he_SGIX",
+    "name": "SGIX",
+    "country": "SG",
+    "city": "Singapore",
+    "region": "Asia Pacific",
+    "url": "https://www.sgix.sg",
+    "peeringlan": "2001:de8:12:100::/56"
   },
   {
     "id": "he_SwissIX",
@@ -1008,6 +1008,33 @@
     "peeringlan": "2001:43f8:1f0:1::/64"
   },
   {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:380:60::/80"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3::/64"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3806:60::/80"
+  },
+  {
     "id": "he_CABASE-BUE",
     "name": "CABASE-BUE",
     "country": "AR",
@@ -1098,33 +1125,6 @@
     "peeringlan": "2001:504:125:e1::/64"
   },
   {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:380:60::/80"
-  },
-  {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:3::/64"
-  },
-  {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:3806:60::/80"
-  },
-  {
     "id": "he_DE-CIX%20Dallas",
     "name": "DE-CIX Dallas",
     "country": "US",
@@ -1206,24 +1206,6 @@
     "peeringlan": "2001:7F8:4:2::/64"
   },
   {
-    "id": "he_NAPAfrica%20IX%20Durban",
-    "name": "NAPAfrica IX Durban",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
-    "peeringlan": "196.10.141.0/24"
-  },
-  {
-    "id": "he_NAPAfrica%20IX%20Durban",
-    "name": "NAPAfrica IX Durban",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
-    "peeringlan": "2001:43f8:6d2::/64"
-  },
-  {
     "id": "he_W-IX",
     "name": "W-IX",
     "country": "RU",
@@ -1240,6 +1222,24 @@
     "region": "Europe",
     "url": "http://www.w-ix.ru",
     "peeringlan": "2a00:1b30::/64"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Durban",
+    "name": "NAPAfrica IX Durban",
+    "country": "ZA",
+    "city": "Durban",
+    "region": "Africa",
+    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
+    "peeringlan": "196.10.141.0/24"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Durban",
+    "name": "NAPAfrica IX Durban",
+    "country": "ZA",
+    "city": "Durban",
+    "region": "Africa",
+    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
+    "peeringlan": "2001:43f8:6d2::/64"
   },
   {
     "id": "he_BCIX",
@@ -1809,24 +1809,6 @@
     "peeringlan": "2a0b:9fc0:1::/64"
   },
   {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
     "id": "he_IX-Denver",
     "name": "IX-Denver",
     "country": "US",
@@ -1843,6 +1825,24 @@
     "region": "North America",
     "url": "https://ix-denver.org",
     "peeringlan": "2001:504:58::/64"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
     "id": "he_DE-CIX%20Delhi",
@@ -2754,24 +2754,6 @@
     "peeringlan": "193.27.38.0/24"
   },
   {
-    "id": "he_npIX",
-    "name": "npIX",
-    "country": "NP",
-    "city": "Kathmandu",
-    "region": "Asia Pacific",
-    "url": "http://www.npix.net.np/",
-    "peeringlan": "198.32.231.0/24"
-  },
-  {
-    "id": "he_npIX",
-    "name": "npIX",
-    "country": "NP",
-    "city": "Kathmandu",
-    "region": "Asia Pacific",
-    "url": "http://www.npix.net.np/",
-    "peeringlan": "2404:2C00:FFFF:E::/64"
-  },
-  {
     "id": "he_DE-CIX%20Chicago",
     "name": "DE-CIX Chicago",
     "country": "US",
@@ -2788,6 +2770,24 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/united-states/chicago",
     "peeringlan": "2001:504:102::/64"
+  },
+  {
+    "id": "he_npIX",
+    "name": "npIX",
+    "country": "NP",
+    "city": "Kathmandu",
+    "region": "Asia Pacific",
+    "url": "http://www.npix.net.np/",
+    "peeringlan": "198.32.231.0/24"
+  },
+  {
+    "id": "he_npIX",
+    "name": "npIX",
+    "country": "NP",
+    "city": "Kathmandu",
+    "region": "Asia Pacific",
+    "url": "http://www.npix.net.np/",
+    "peeringlan": "2404:2C00:FFFF:E::/64"
   },
   {
     "id": "he_CRIX",
