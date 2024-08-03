@@ -5149,12 +5149,21 @@
   },
   {
     "id": "pdb_615",
-    "name": "LuIXP",
+    "name": "Lusaka Internet Exchange Point",
     "country": "ZM",
     "city": "Lusaka",
     "region": "Africa",
-    "url": "http://lusakaixp.co.zm",
-    "peeringlan": "196.223.2.0/24"
+    "url": "https://lusakaixp.co.zm",
+    "peeringlan": "196.60.94.0/24"
+  },
+  {
+    "id": "pdb_615",
+    "name": "Lusaka Internet Exchange Point",
+    "country": "ZM",
+    "city": "Lusaka",
+    "region": "Africa",
+    "url": "https://lusakaixp.co.zm",
+    "peeringlan": "2001:43f8:1680::/64"
   },
   {
     "id": "pdb_624",
@@ -21087,6 +21096,24 @@
     "peeringlan": "2801:18d::/64"
   },
   {
+    "id": "pdb_4525",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "45.68.64.0/24"
+  },
+  {
+    "id": "pdb_4526",
+    "name": "DE-CIX Mexico City",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "South America",
+    "url": "https://www.de-cix.net/locations/mexico",
+    "peeringlan": "2806:424:1::/64"
+  },
+  {
     "id": "pdb_4530",
     "name": "Exohost CA1",
     "country": "CA",
@@ -21102,6 +21129,6 @@
     "city": "Bradford",
     "region": "North America",
     "url": "https://exohost.io",
-    "peeringlan": "173.33.151.0/24"
+    "peeringlan": "23.185.136.0/24"
   }
 ]
