@@ -594,33 +594,6 @@
     "peeringlan": "2001:7fa:7:1::/64"
   },
   {
-    "id": "he_DE-CIX%20Madrid",
-    "name": "DE-CIX Madrid",
-    "country": "ES",
-    "city": "Madrid",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/madrid/",
-    "peeringlan": "185.1.68.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Madrid",
-    "name": "DE-CIX Madrid",
-    "country": "ES",
-    "city": "Madrid",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/madrid/",
-    "peeringlan": "185.1.192.0/23"
-  },
-  {
-    "id": "he_DE-CIX%20Madrid",
-    "name": "DE-CIX Madrid",
-    "country": "ES",
-    "city": "Madrid",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/madrid/",
-    "peeringlan": "2001:7f8:a0::/64"
-  },
-  {
     "id": "he_DE-CIX%20Munich",
     "name": "DE-CIX Munich",
     "country": "DE",
@@ -646,6 +619,33 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/munich",
     "peeringlan": "2001:7f8:44::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "185.1.68.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "185.1.192.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "2001:7f8:a0::/64"
   },
   {
     "id": "he_DE-CIX%20Hamburg",
@@ -675,24 +675,6 @@
     "peeringlan": "2001:7f8:3d::/64"
   },
   {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "206.51.7.0/24"
-  },
-  {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "2001:504:1B:1::/64"
-  },
-  {
     "id": "he_IX%20Australia%20NSW",
     "name": "IX Australia NSW",
     "country": "AU",
@@ -709,6 +691,24 @@
     "region": "Australia",
     "url": "https://internet.asn.au",
     "peeringlan": "2001:7fa:11:4::/64"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "206.51.7.0/24"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "2001:504:1B:1::/64"
   },
   {
     "id": "he_NYIIX",
@@ -1161,6 +1161,24 @@
     "peeringlan": "2001:504:61::/64"
   },
   {
+    "id": "he_VIX",
+    "name": "VIX",
+    "country": "AT",
+    "city": "Vienna",
+    "region": "Europe",
+    "url": "http://www.vix.at",
+    "peeringlan": "193.203.0.0/24"
+  },
+  {
+    "id": "he_VIX",
+    "name": "VIX",
+    "country": "AT",
+    "city": "Vienna",
+    "region": "Europe",
+    "url": "http://www.vix.at",
+    "peeringlan": "2001:7F8:30::/64"
+  },
+  {
     "id": "he_NetIX",
     "name": "NetIX",
     "country": "BG",
@@ -1186,24 +1204,6 @@
     "region": "Europe",
     "url": "http://www.netix.net",
     "peeringlan": "2001:67c:29f0::/64"
-  },
-  {
-    "id": "he_VIX",
-    "name": "VIX",
-    "country": "AT",
-    "city": "Vienna",
-    "region": "Europe",
-    "url": "http://www.vix.at",
-    "peeringlan": "193.203.0.0/24"
-  },
-  {
-    "id": "he_VIX",
-    "name": "VIX",
-    "country": "AT",
-    "city": "Vienna",
-    "region": "Europe",
-    "url": "http://www.vix.at",
-    "peeringlan": "2001:7F8:30::/64"
   },
   {
     "id": "he_IXManchester",
@@ -4356,24 +4356,6 @@
     "peeringlan": "2001:7f8:4a::/48"
   },
   {
-    "id": "he_AMS-IX%20Bay%20Area",
-    "name": "AMS-IX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/bay",
-    "peeringlan": "206.41.106.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Bay%20Area",
-    "name": "AMS-IX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/bay",
-    "peeringlan": "2001:504:3d:1::/64"
-  },
-  {
     "id": "he_NIXI%20Hyderabad",
     "name": "NIXI Hyderabad",
     "country": "IN",
@@ -4410,6 +4392,24 @@
     "peeringlan": "2001:13C7:6013::/64"
   },
   {
+    "id": "he_AMS-IX%20Bay%20Area",
+    "name": "AMS-IX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/bay",
+    "peeringlan": "206.41.106.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Bay%20Area",
+    "name": "AMS-IX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/bay",
+    "peeringlan": "2001:504:3d:1::/64"
+  },
+  {
     "id": "he_Breizh-IX",
     "name": "Breizh-IX",
     "country": "FR",
@@ -4426,6 +4426,24 @@
     "region": "Europe",
     "url": "https://www.breizh-ix.net/",
     "peeringlan": "2001:7f8:b1::/64"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "185.0.28.0/24"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_MIXP",
@@ -4525,24 +4543,6 @@
     "region": "Europe",
     "url": "http://www.romandix.ch",
     "peeringlan": "2001:7f8:b5::/48"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "185.0.28.0/24"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_CABASE-ROS",
