@@ -441,6 +441,15 @@
     "peeringlan": "2001:7f8:63::/64"
   },
   {
+    "id": "he_SPEED-IX",
+    "name": "SPEED-IX",
+    "country": "NL",
+    "city": "Dronten",
+    "region": "Europe",
+    "url": "https://speed-ix.net",
+    "peeringlan": "185.1.222.0/23"
+  },
+  {
     "id": "he_DE-CIX%20Dusseldorf",
     "name": "DE-CIX Dusseldorf",
     "country": "DE",
@@ -466,15 +475,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/dusseldorf",
     "peeringlan": "2001:7f8:9e::/64"
-  },
-  {
-    "id": "he_SPEED-IX",
-    "name": "SPEED-IX",
-    "country": "NL",
-    "city": "Dronten",
-    "region": "Europe",
-    "url": "https://speed-ix.net",
-    "peeringlan": "185.1.222.0/23"
   },
   {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
@@ -594,33 +594,6 @@
     "peeringlan": "2001:7fa:7:1::/64"
   },
   {
-    "id": "he_DE-CIX%20Munich",
-    "name": "DE-CIX Munich",
-    "country": "DE",
-    "city": "Munich",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/munich",
-    "peeringlan": "80.81.202.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Munich",
-    "name": "DE-CIX Munich",
-    "country": "DE",
-    "city": "Munich",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/munich",
-    "peeringlan": "185.1.208.0/23"
-  },
-  {
-    "id": "he_DE-CIX%20Munich",
-    "name": "DE-CIX Munich",
-    "country": "DE",
-    "city": "Munich",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/munich",
-    "peeringlan": "2001:7f8:44::/64"
-  },
-  {
     "id": "he_DE-CIX%20Madrid",
     "name": "DE-CIX Madrid",
     "country": "ES",
@@ -648,6 +621,51 @@
     "peeringlan": "2001:7f8:a0::/64"
   },
   {
+    "id": "he_DE-CIX%20Munich",
+    "name": "DE-CIX Munich",
+    "country": "DE",
+    "city": "Munich",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/munich",
+    "peeringlan": "80.81.202.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Munich",
+    "name": "DE-CIX Munich",
+    "country": "DE",
+    "city": "Munich",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/munich",
+    "peeringlan": "185.1.208.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Munich",
+    "name": "DE-CIX Munich",
+    "country": "DE",
+    "city": "Munich",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/munich",
+    "peeringlan": "2001:7f8:44::/64"
+  },
+  {
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.52.0/23"
+  },
+  {
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:4::/64"
+  },
+  {
     "id": "he_DE-CIX%20Hamburg",
     "name": "DE-CIX Hamburg",
     "country": "DE",
@@ -673,24 +691,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/hamburg",
     "peeringlan": "2001:7f8:3d::/64"
-  },
-  {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.52.0/23"
-  },
-  {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:4::/64"
   },
   {
     "id": "he_KCIX",
@@ -999,6 +999,24 @@
     "peeringlan": "2406:d400:1:133:203:163:222::/111"
   },
   {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.0.17.0/24"
+  },
+  {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13c7:6001::/64"
+  },
+  {
     "id": "he_BIX%20Jakarta",
     "name": "BIX Jakarta",
     "country": "ID",
@@ -1024,24 +1042,6 @@
     "region": "Asia Pacific",
     "url": "http://bix.id",
     "peeringlan": "2001:de8:11:3806:60::/80"
-  },
-  {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.0.17.0/24"
-  },
-  {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13c7:6001::/64"
   },
   {
     "id": "he_JINX",
@@ -1692,6 +1692,33 @@
     "peeringlan": "2001:7f8:23:ffff::/64"
   },
   {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "196.223.22.0/23"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1::/64"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1:1::/64"
+  },
+  {
     "id": "he_STUIX",
     "name": "STUIX",
     "country": "TW",
@@ -1726,33 +1753,6 @@
     "region": "Europe",
     "url": "https://www.era-ix.com/",
     "peeringlan": "2001:7f8:12a::/64"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "196.223.22.0/23"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1::/64"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
     "id": "he_DINX",
@@ -2772,24 +2772,6 @@
     "peeringlan": "2001:df0:296::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Melbourne",
-    "name": "EdgeIX - Melbourne",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "202.77.90.0/23"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Melbourne",
-    "name": "EdgeIX - Melbourne",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:6::/64"
-  },
-  {
     "id": "he_DE-CIX%20Chicago",
     "name": "DE-CIX Chicago",
     "country": "US",
@@ -2806,6 +2788,24 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/united-states/chicago",
     "peeringlan": "2001:504:102::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Melbourne",
+    "name": "EdgeIX - Melbourne",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "202.77.90.0/23"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Melbourne",
+    "name": "EdgeIX - Melbourne",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:6::/64"
   },
   {
     "id": "he_npIX",
@@ -5506,6 +5506,15 @@
     "region": "Africa",
     "url": "http://www.binx.org.bw/",
     "peeringlan": "192.168.179.0/24"
+  },
+  {
+    "id": "he_BINX",
+    "name": "BINX",
+    "country": "BW",
+    "city": "Gaborone",
+    "region": "Africa",
+    "url": "http://www.binx.org.bw/",
+    "peeringlan": "196.60.4.0/24"
   },
   {
     "id": "he_CABASE-SZP",
