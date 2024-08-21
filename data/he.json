@@ -594,33 +594,6 @@
     "peeringlan": "2001:7fa:7:1::/64"
   },
   {
-    "id": "he_DE-CIX%20Madrid",
-    "name": "DE-CIX Madrid",
-    "country": "ES",
-    "city": "Madrid",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/madrid/",
-    "peeringlan": "185.1.68.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Madrid",
-    "name": "DE-CIX Madrid",
-    "country": "ES",
-    "city": "Madrid",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/madrid/",
-    "peeringlan": "185.1.192.0/23"
-  },
-  {
-    "id": "he_DE-CIX%20Madrid",
-    "name": "DE-CIX Madrid",
-    "country": "ES",
-    "city": "Madrid",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/madrid/",
-    "peeringlan": "2001:7f8:a0::/64"
-  },
-  {
     "id": "he_DE-CIX%20Munich",
     "name": "DE-CIX Munich",
     "country": "DE",
@@ -646,6 +619,33 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/munich",
     "peeringlan": "2001:7f8:44::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "185.1.68.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "185.1.192.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "2001:7f8:a0::/64"
   },
   {
     "id": "he_DE-CIX%20Hamburg",
@@ -2610,24 +2610,6 @@
     "peeringlan": "2001:df0:680:3::/64"
   },
   {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "185.1.104.0/24"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "2001:7f8:be::/64"
-  },
-  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2680,6 +2662,24 @@
     "region": "Europe",
     "url": "https://www.sol-ix.net",
     "peeringlan": "2001:7f8:21:11::/64"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "185.1.104.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "2001:7f8:be::/64"
   },
   {
     "id": "he_FIXO",
@@ -3132,6 +3132,15 @@
     "peeringlan": "2a04:bc40:1dc5:3::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_CIX",
     "name": "CIX",
     "country": "HR",
@@ -3148,15 +3157,6 @@
     "region": "Europe",
     "url": "http://www.cix.hr/",
     "peeringlan": "2001:7f8:28::/48"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_SVAO-IX",
@@ -3195,6 +3195,15 @@
     "peeringlan": "2001:7f8:d9:2::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_OmahaIX",
     "name": "OmahaIX",
     "country": "US",
@@ -3211,15 +3220,6 @@
     "region": "North America",
     "url": "http://www.omahaix.com",
     "peeringlan": "2001:504:33::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_SLIX",
@@ -3789,33 +3789,6 @@
     "peeringlan": "2a03:67e0:0:9::/64"
   },
   {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.60.104.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.49.90.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "2001:43f8:1690::/64"
-  },
-  {
     "id": "he_DE-CIX%20Phoenix",
     "name": "DE-CIX Phoenix",
     "country": "US",
@@ -3877,6 +3850,33 @@
     "region": "Europe",
     "url": "https://www.epix.net.pl",
     "peeringlan": "2a10:f780::/64"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.60.104.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.49.90.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "2001:43f8:1690::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Auckland",
@@ -4131,6 +4131,24 @@
     "peeringlan": "2001:504:37:10::/64"
   },
   {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.14.38.0/24"
+  },
+  {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13C7:600B::/64"
+  },
+  {
     "id": "he_DE-CIX%20Palermo",
     "name": "DE-CIX Palermo",
     "country": "IT",
@@ -4246,24 +4264,6 @@
     "region": "Europe",
     "url": "http://www.trex.fi/",
     "peeringlan": "2001:7f8:1d:4::/64"
-  },
-  {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.38.0/24"
-  },
-  {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:600B::/64"
   },
   {
     "id": "he_JEDIX",
@@ -4779,6 +4779,24 @@
     "peeringlan": "2402:b740:15:388::/64"
   },
   {
+    "id": "he_MegaIX%20Seattle",
+    "name": "MegaIX Seattle",
+    "country": "US",
+    "city": "Seattle",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.171.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Seattle",
+    "name": "MegaIX Seattle",
+    "country": "US",
+    "city": "Seattle",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:4::/64"
+  },
+  {
     "id": "he_IXOR",
     "name": "IXOR",
     "country": "SE",
@@ -4867,24 +4885,6 @@
     "region": "North America",
     "url": "https://www.tahoeix.org",
     "peeringlan": "2001:504:3F::/64"
-  },
-  {
-    "id": "he_MegaIX%20Seattle",
-    "name": "MegaIX Seattle",
-    "country": "US",
-    "city": "Seattle",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.171.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Seattle",
-    "name": "MegaIX Seattle",
-    "country": "US",
-    "city": "Seattle",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:4::/64"
   },
   {
     "id": "he_Tirol-IX",
