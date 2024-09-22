@@ -441,6 +441,15 @@
     "peeringlan": "2001:7f8:63::/64"
   },
   {
+    "id": "he_SPEED-IX",
+    "name": "SPEED-IX",
+    "country": "NL",
+    "city": "Dronten",
+    "region": "Europe",
+    "url": "https://speed-ix.net",
+    "peeringlan": "185.1.222.0/23"
+  },
+  {
     "id": "he_DE-CIX%20Dusseldorf",
     "name": "DE-CIX Dusseldorf",
     "country": "DE",
@@ -466,15 +475,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/dusseldorf",
     "peeringlan": "2001:7f8:9e::/64"
-  },
-  {
-    "id": "he_SPEED-IX",
-    "name": "SPEED-IX",
-    "country": "NL",
-    "city": "Dronten",
-    "region": "Europe",
-    "url": "https://speed-ix.net",
-    "peeringlan": "185.1.222.0/23"
   },
   {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
@@ -2295,6 +2295,24 @@
     "peeringlan": "2400:d180:68::/64"
   },
   {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "223.31.200.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "2001:e48:44:100b::/64"
+  },
+  {
     "id": "he_NIX",
     "name": "NIX",
     "country": "NO",
@@ -2347,24 +2365,6 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/chennai",
     "peeringlan": "2001:de8:1:2::/64"
-  },
-  {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "223.31.200.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "2001:e48:44:100b::/64"
   },
   {
     "id": "he_PIRIX",
@@ -4131,24 +4131,6 @@
     "peeringlan": "2001:504:37:10::/64"
   },
   {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.38.0/24"
-  },
-  {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:600B::/64"
-  },
-  {
     "id": "he_DE-CIX%20Palermo",
     "name": "DE-CIX Palermo",
     "country": "IT",
@@ -4444,6 +4426,24 @@
     "region": "Africa",
     "url": "http://www.mixp.org/",
     "peeringlan": "2001:43f8:270:d0d0::/64"
+  },
+  {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.14.38.0/24"
+  },
+  {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13C7:600B::/64"
   },
   {
     "id": "he_CABASE-NQN",
@@ -6399,24 +6399,6 @@
     "peeringlan": "2606:a980:0:6::/64"
   },
   {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "185.1.128.0/24"
-  },
-  {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "2001:7f8:d3::/64"
-  },
-  {
     "id": "he_DPE",
     "name": "DPE",
     "country": "NZ",
@@ -6451,5 +6433,23 @@
     "region": "Australia",
     "url": "http://www.nzix.net/hix.html",
     "peeringlan": "2001:7fa:3:b0df::/64"
+  },
+  {
+    "id": "he_LNK-IX",
+    "name": "LNK-IX",
+    "country": "RO",
+    "city": "Targoviste",
+    "region": "Europe",
+    "url": "https://lnkix.lnksystems.com/",
+    "peeringlan": "185.1.128.0/24"
+  },
+  {
+    "id": "he_LNK-IX",
+    "name": "LNK-IX",
+    "country": "RO",
+    "city": "Targoviste",
+    "region": "Europe",
+    "url": "https://lnkix.lnksystems.com/",
+    "peeringlan": "2001:7f8:d3::/64"
   }
 ]
