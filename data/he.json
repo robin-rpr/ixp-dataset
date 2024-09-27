@@ -1845,24 +1845,6 @@
     "peeringlan": "2001:504:2f::/64"
   },
   {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
-  },
-  {
     "id": "he_MINAP",
     "name": "MINAP",
     "country": "IT",
@@ -1879,6 +1861,24 @@
     "region": "Europe",
     "url": "https://www.minap.it/",
     "peeringlan": "2001:7f8:c5::/48"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_BNIX",
@@ -3672,6 +3672,24 @@
     "peeringlan": "2001:7f8:db::/64"
   },
   {
+    "id": "he_DE-CIX%20Phoenix",
+    "name": "DE-CIX Phoenix",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/phoenix",
+    "peeringlan": "149.112.27.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Phoenix",
+    "name": "DE-CIX Phoenix",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/phoenix",
+    "peeringlan": "2001:504:116::/64"
+  },
+  {
     "id": "he_angonix",
     "name": "angonix",
     "country": "AO",
@@ -3690,6 +3708,33 @@
     "peeringlan": "2001:43f8:09d0::/64"
   },
   {
+    "id": "he_LITIX",
+    "name": "LITIX",
+    "country": "LT",
+    "city": "Vilnius",
+    "region": "Europe",
+    "url": "https://datalogistics.lt/en/litix/",
+    "peeringlan": "185.1.113.0/24"
+  },
+  {
+    "id": "he_LITIX",
+    "name": "LITIX",
+    "country": "LT",
+    "city": "Vilnius",
+    "region": "Europe",
+    "url": "https://datalogistics.lt/en/litix/",
+    "peeringlan": "2001:7f8:c4::/48"
+  },
+  {
+    "id": "he_LITIX",
+    "name": "LITIX",
+    "country": "LT",
+    "city": "Vilnius",
+    "region": "Europe",
+    "url": "https://datalogistics.lt/en/litix/",
+    "peeringlan": "2a03:67e0:0:9::/64"
+  },
+  {
     "id": "he_MBIX",
     "name": "MBIX",
     "country": "CA",
@@ -3706,24 +3751,6 @@
     "region": "North America",
     "url": "http://www.mbix.ca/",
     "peeringlan": "2001:504:26::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Phoenix",
-    "name": "DE-CIX Phoenix",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/phoenix",
-    "peeringlan": "149.112.27.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Phoenix",
-    "name": "DE-CIX Phoenix",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/phoenix",
-    "peeringlan": "2001:504:116::/64"
   },
   {
     "id": "he_SAIX",
@@ -3760,33 +3787,6 @@
     "region": "Europe",
     "url": "http://www.n-ix.net",
     "peeringlan": "2001:7f8:29:1::/64"
-  },
-  {
-    "id": "he_LITIX",
-    "name": "LITIX",
-    "country": "LT",
-    "city": "Vilnius",
-    "region": "Europe",
-    "url": "https://datalogistics.lt/en/litix/",
-    "peeringlan": "185.1.113.0/24"
-  },
-  {
-    "id": "he_LITIX",
-    "name": "LITIX",
-    "country": "LT",
-    "city": "Vilnius",
-    "region": "Europe",
-    "url": "https://datalogistics.lt/en/litix/",
-    "peeringlan": "2001:7f8:c4::/48"
-  },
-  {
-    "id": "he_LITIX",
-    "name": "LITIX",
-    "country": "LT",
-    "city": "Vilnius",
-    "region": "Europe",
-    "url": "https://datalogistics.lt/en/litix/",
-    "peeringlan": "2a03:67e0:0:9::/64"
   },
   {
     "id": "he_AMS-IX%20Chicago",
@@ -5436,24 +5436,6 @@
     "peeringlan": "2001:13c7:6020::/64"
   },
   {
-    "id": "he_OGIX",
-    "name": "OGIX",
-    "country": "CA",
-    "city": "Ottawa Gatineau",
-    "region": "North America",
-    "url": "http://www.ogix.ca",
-    "peeringlan": "206.82.110.0/23"
-  },
-  {
-    "id": "he_OGIX",
-    "name": "OGIX",
-    "country": "CA",
-    "city": "Ottawa Gatineau",
-    "region": "North America",
-    "url": "http://www.ogix.ca",
-    "peeringlan": "2001:504:96::/64"
-  },
-  {
     "id": "he_RO-CIX",
     "name": "RO-CIX",
     "country": "RO",
@@ -5605,6 +5587,24 @@
     "region": "Asia Pacific",
     "url": "http://www.cn-ix.com",
     "peeringlan": "103.114.240.0/24"
+  },
+  {
+    "id": "he_OGIX",
+    "name": "OGIX",
+    "country": "CA",
+    "city": "Ottawa Gatineau",
+    "region": "North America",
+    "url": "http://www.ogix.ca",
+    "peeringlan": "206.82.110.0/23"
+  },
+  {
+    "id": "he_OGIX",
+    "name": "OGIX",
+    "country": "CA",
+    "city": "Ottawa Gatineau",
+    "region": "North America",
+    "url": "http://www.ogix.ca",
+    "peeringlan": "2001:504:96::/64"
   },
   {
     "id": "he_Digital%20Realty%20Ashburn",
