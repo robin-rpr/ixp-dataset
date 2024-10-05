@@ -8253,24 +8253,6 @@
     "peeringlan": "2001:7f8:af::/64"
   },
   {
-    "id": "pdb_1468",
-    "name": "Asia Smart IX [BBIX Asia]",
-    "country": "JP",
-    "city": "Tokyo",
-    "region": "Asia Pacific",
-    "url": "https://www.bbix.net/en",
-    "peeringlan": "103.203.156.0/23"
-  },
-  {
-    "id": "pdb_1468",
-    "name": "Asia Smart IX [BBIX Asia]",
-    "country": "JP",
-    "city": "Tokyo",
-    "region": "Asia Pacific",
-    "url": "https://www.bbix.net/en",
-    "peeringlan": "2403:c780:a800:bb00::/64"
-  },
-  {
     "id": "pdb_1488",
     "name": "Ninja-IX Las Vegas-MTU-1500",
     "country": "US",
@@ -12778,6 +12760,15 @@
     "region": "Asia Pacific",
     "url": "http://www.summitcommunications.net",
     "peeringlan": "2405:1500:300:1::/64"
+  },
+  {
+    "id": "pdb_3079",
+    "name": "SUMMIT NIX",
+    "country": "BD",
+    "city": "Dhaka",
+    "region": "Asia Pacific",
+    "url": "http://www.summitcommunications.net",
+    "peeringlan": "103.102.43.0/24"
   },
   {
     "id": "pdb_3081",
@@ -18279,42 +18270,6 @@
     "peeringlan": "2401:ee00:58:501::/64"
   },
   {
-    "id": "pdb_4067",
-    "name": "BBIX MAPS",
-    "country": "JP",
-    "city": "Tokyo,Osaka",
-    "region": "Asia Pacific",
-    "url": "https://www.bbix.net/",
-    "peeringlan": "101.203.80.0/23"
-  },
-  {
-    "id": "pdb_4067",
-    "name": "BBIX MAPS",
-    "country": "JP",
-    "city": "Tokyo,Osaka",
-    "region": "Asia Pacific",
-    "url": "https://www.bbix.net/",
-    "peeringlan": "101.203.86.0/23"
-  },
-  {
-    "id": "pdb_4067",
-    "name": "BBIX MAPS",
-    "country": "JP",
-    "city": "Tokyo,Osaka",
-    "region": "Asia Pacific",
-    "url": "https://www.bbix.net/",
-    "peeringlan": "2001:de8:c:240::/64"
-  },
-  {
-    "id": "pdb_4067",
-    "name": "BBIX MAPS",
-    "country": "JP",
-    "city": "Tokyo,Osaka",
-    "region": "Asia Pacific",
-    "url": "https://www.bbix.net/",
-    "peeringlan": "2001:de8:c:241::/64"
-  },
-  {
     "id": "pdb_4069",
     "name": "DE-CIX Esbjerg",
     "country": "DK",
@@ -19068,6 +19023,15 @@
     "city": "Tucson",
     "region": "North America",
     "url": "https://tusix.net",
+    "peeringlan": "149.112.51.0/24"
+  },
+  {
+    "id": "pdb_4228",
+    "name": "TUSIX",
+    "country": "US",
+    "city": "Tucson",
+    "region": "North America",
+    "url": "https://tusix.net",
     "peeringlan": "2001:504:128::/64"
   },
   {
@@ -19648,7 +19612,7 @@
   },
   {
     "id": "pdb_4320",
-    "name": "AXCIX Dusseldorf",
+    "name": "exchange.ax (Dusseldorf)",
     "country": "DE",
     "city": "D\u00fcsseldorf",
     "region": "Europe",
@@ -19657,7 +19621,7 @@
   },
   {
     "id": "pdb_4320",
-    "name": "AXCIX Dusseldorf",
+    "name": "exchange.ax (Dusseldorf)",
     "country": "DE",
     "city": "D\u00fcsseldorf",
     "region": "Europe",
@@ -19666,7 +19630,7 @@
   },
   {
     "id": "pdb_4320",
-    "name": "AXCIX Dusseldorf",
+    "name": "exchange.ax (Dusseldorf)",
     "country": "DE",
     "city": "D\u00fcsseldorf",
     "region": "Europe",
@@ -20763,6 +20727,15 @@
     "peeringlan": "149.112.73.0/24"
   },
   {
+    "id": "pdb_4491",
+    "name": "CL-IX",
+    "country": "US",
+    "city": "Cleveland, OH",
+    "region": "North America",
+    "url": "https://h5datacenters.com/h5-cl-ix.html",
+    "peeringlan": "2001:504:a0::/64"
+  },
+  {
     "id": "pdb_4493",
     "name": "Free-IX Greece",
     "country": "GR",
@@ -21227,7 +21200,7 @@
     "country": "NL",
     "city": "Amsterdam",
     "region": "Europe",
-    "url": "https://214757.xyz/peersix",
+    "url": "https://peersix.ovh",
     "peeringlan": "2a09:54c6:dddd::/64"
   },
   {
@@ -21238,5 +21211,23 @@
     "region": "Asia Pacific",
     "url": "http://aksessedaya.com",
     "peeringlan": "103.166.8.0/24"
+  },
+  {
+    "id": "pdb_4556",
+    "name": "IX.br (PTT.br) Porto Velho",
+    "country": "BR",
+    "city": "Porto Velho",
+    "region": "South America",
+    "url": "http://ix.br",
+    "peeringlan": "187.16.200.0/24"
+  },
+  {
+    "id": "pdb_4556",
+    "name": "IX.br (PTT.br) Porto Velho",
+    "country": "BR",
+    "city": "Porto Velho",
+    "region": "South America",
+    "url": "http://ix.br",
+    "peeringlan": "2001:12f8:1:23::/64"
   }
 ]
