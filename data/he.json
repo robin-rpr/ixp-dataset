@@ -1665,24 +1665,6 @@
     "peeringlan": "2001:7fa:11:1::/64"
   },
   {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "103.158.187.0/24"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "2a0f:5707:ffe3::/64"
-  },
-  {
     "id": "he_CINX",
     "name": "CINX",
     "country": "ZA",
@@ -1708,6 +1690,24 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f1:1::/64"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "103.158.187.0/24"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
     "id": "he_TOP-IX",
@@ -2313,33 +2313,6 @@
     "peeringlan": "2400:d180:68::/64"
   },
   {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "193.156.90.0/24"
-  },
-  {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "185.1.55.0/24"
-  },
-  {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "2001:7f8:12:1::/64"
-  },
-  {
     "id": "he_NIXI%20Chennai",
     "name": "NIXI Chennai",
     "country": "IN",
@@ -2410,6 +2383,33 @@
     "region": "North America",
     "url": "http://www.phoenix-ix.net",
     "peeringlan": "2001:504:3b:1::/64"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "193.156.90.0/24"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "185.1.55.0/24"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "2001:7f8:12:1::/64"
   },
   {
     "id": "he_PIRIX",
@@ -2574,24 +2574,6 @@
     "peeringlan": "2001:7f8:91::/64"
   },
   {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "185.1.131.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "2001:7f8:d5::/64"
-  },
-  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2644,6 +2626,24 @@
     "region": "Europe",
     "url": "https://www.sol-ix.net",
     "peeringlan": "2001:7f8:21:11::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "185.1.131.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "2001:7f8:d5::/64"
   },
   {
     "id": "he_Equinix%20London",
@@ -3033,6 +3033,15 @@
     "peeringlan": "2001:7f8:10a::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_DIX",
     "name": "DIX",
     "country": "DK",
@@ -3069,13 +3078,13 @@
     "peeringlan": "2001:7F8:1F::/48"
   },
   {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
     "region": "Europe",
     "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
+    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Odesa",
@@ -3139,15 +3148,6 @@
     "region": "Europe",
     "url": "https://www.ll-ix.com",
     "peeringlan": "2a04:bc40:1dc5:3::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_CIX",
@@ -3933,6 +3933,24 @@
     "peeringlan": "2001:7f8:b8::/48"
   },
   {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "185.1.100.0/24"
+  },
+  {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "2001:7f8:bb::/48"
+  },
+  {
     "id": "he_UIXP",
     "name": "UIXP",
     "country": "UG",
@@ -4021,24 +4039,6 @@
     "region": "Europe",
     "url": "https://www.asteroidhq.com/ixp-locations/1",
     "peeringlan": "2001:7f8:b6::/64"
-  },
-  {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "185.1.100.0/24"
-  },
-  {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "2001:7f8:bb::/48"
   },
   {
     "id": "he_AMS-IX%20Chicago",
