@@ -1377,6 +1377,24 @@
     "peeringlan": "2001:DE8:1::/64"
   },
   {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "185.1.240.0/24"
+  },
+  {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "2001:7f8:12a::/64"
+  },
+  {
     "id": "he_1-IX%20Internet%20Exchange",
     "name": "1-IX Internet Exchange",
     "country": "UA",
@@ -1402,24 +1420,6 @@
     "region": "Europe",
     "url": "http://1-ix.net",
     "peeringlan": "2001:7f8:14d::/64"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "185.1.240.0/24"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "2001:7f8:12a::/64"
   },
   {
     "id": "he_SBIX",
@@ -1467,6 +1467,15 @@
     "peeringlan": "2001:504:30::/48"
   },
   {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
+  },
+  {
     "id": "he_EdgeIX%20-%20Sydney",
     "name": "EdgeIX - Sydney",
     "country": "AU",
@@ -1483,15 +1492,6 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:5::/64"
-  },
-  {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_INEX",
@@ -2232,24 +2232,6 @@
     "peeringlan": "2001:7fa:11:2::/64"
   },
   {
-    "id": "he_ChIX",
-    "name": "ChIX",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://unitedix.net/location/chicago",
-    "peeringlan": "206.41.110.0/24"
-  },
-  {
-    "id": "he_ChIX",
-    "name": "ChIX",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://unitedix.net/location/chicago",
-    "peeringlan": "2001:504:41:110::/64"
-  },
-  {
     "id": "he_AMS-IX%20India",
     "name": "AMS-IX India",
     "country": "IN",
@@ -2266,6 +2248,24 @@
     "region": "Asia Pacific",
     "url": "https://ams-ix.in/",
     "peeringlan": "2001:e48:44:100b::/64"
+  },
+  {
+    "id": "he_ChIX",
+    "name": "ChIX",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://unitedix.net/location/chicago",
+    "peeringlan": "206.41.110.0/24"
+  },
+  {
+    "id": "he_ChIX",
+    "name": "ChIX",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://unitedix.net/location/chicago",
+    "peeringlan": "2001:504:41:110::/64"
   },
   {
     "id": "he_Mass-IX",
@@ -2385,33 +2385,6 @@
     "peeringlan": "2001:504:3b:1::/64"
   },
   {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "193.156.90.0/24"
-  },
-  {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "185.1.55.0/24"
-  },
-  {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "2001:7f8:12:1::/64"
-  },
-  {
     "id": "he_PIRIX",
     "name": "PIRIX",
     "country": "RU",
@@ -2482,6 +2455,33 @@
     "region": "Europe",
     "url": "https://www.vs-ix.org/",
     "peeringlan": "2001:7f8:5f::/64"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "193.156.90.0/24"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "185.1.55.0/24"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "2001:7f8:12:1::/64"
   },
   {
     "id": "he_DE-CIX%20Istanbul",
@@ -2709,15 +2709,6 @@
     "peeringlan": "2001:7f8:41::/48"
   },
   {
-    "id": "he_PITER-IX%20Rostov",
-    "name": "PITER-IX Rostov",
-    "country": "RU",
-    "city": "Rostov",
-    "region": "Europe",
-    "url": "https://piter-ix.ru",
-    "peeringlan": "193.27.38.0/24"
-  },
-  {
     "id": "he_MegaIX%20Perth",
     "name": "MegaIX Perth",
     "country": "AU",
@@ -2734,6 +2725,15 @@
     "region": "Australia",
     "url": "https://megaport.com",
     "peeringlan": "2001:dea:0:50::/64"
+  },
+  {
+    "id": "he_PITER-IX%20Rostov",
+    "name": "PITER-IX Rostov",
+    "country": "RU",
+    "city": "Rostov",
+    "region": "Europe",
+    "url": "https://piter-ix.ru",
+    "peeringlan": "193.27.38.0/24"
   },
   {
     "id": "he_AMS-IX%20Hong%20Kong",
@@ -4239,24 +4239,6 @@
     "peeringlan": "2001:504:90::/48"
   },
   {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "185.1.218.0/24"
-  },
-  {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "2001:7f8:11b::/64"
-  },
-  {
     "id": "he_ROPN-IX",
     "name": "ROPN-IX",
     "country": "RO",
@@ -4336,6 +4318,24 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/palermo",
     "peeringlan": "2001:7f8:32::/64"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "185.1.218.0/24"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "2001:7f8:11b::/64"
   },
   {
     "id": "he_DE-CIX%20Malaysia",
