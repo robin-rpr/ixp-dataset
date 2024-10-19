@@ -900,6 +900,24 @@
     "peeringlan": "2001:7f8:60::/48"
   },
   {
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "203.163.222.0/23"
+  },
+  {
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "2406:d400:1:133:203:163:222::/111"
+  },
+  {
     "id": "he_NIXI%20Mumbai",
     "name": "NIXI Mumbai",
     "country": "IN",
@@ -925,24 +943,6 @@
     "region": "Asia Pacific",
     "url": "https://ix.nixi.in/en/running-noc/mumbai2",
     "peeringlan": "2001:de8:1:1::/64"
-  },
-  {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "203.163.222.0/23"
-  },
-  {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "2406:d400:1:133:203:163:222::/111"
   },
   {
     "id": "he_FL-IX",
@@ -1350,6 +1350,24 @@
     "peeringlan": "2620:124:2000::/64"
   },
   {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "185.1.240.0/24"
+  },
+  {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "2001:7f8:12a::/64"
+  },
+  {
     "id": "he_NIXI%20Delhi",
     "name": "NIXI Delhi",
     "country": "IN",
@@ -1375,24 +1393,6 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/delhi-noida",
     "peeringlan": "2001:DE8:1::/64"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "185.1.240.0/24"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "2001:7f8:12a::/64"
   },
   {
     "id": "he_1-IX%20Internet%20Exchange",
@@ -1773,6 +1773,24 @@
     "peeringlan": "2001:43f8:1f2::/64"
   },
   {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "103.104.19.0/24"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "2401:fdc0::/64"
+  },
+  {
     "id": "he_QIX%20Montreal",
     "name": "QIX Montreal",
     "country": "CA",
@@ -1807,24 +1825,6 @@
     "region": "Europe",
     "url": "http://www.milecom.ru",
     "peeringlan": "2a0b:9fc0:1::/64"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "103.104.19.0/24"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "2401:fdc0::/64"
   },
   {
     "id": "he_YYCIX",
@@ -5787,33 +5787,6 @@
     "peeringlan": "2001:504:37:30::/64"
   },
   {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "103.184.198.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "103.83.68.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "2400:d180:72::/64"
-  },
-  {
     "id": "he_MGIX",
     "name": "MGIX",
     "country": "MG",
@@ -5974,6 +5947,33 @@
     "region": "Asia Pacific",
     "url": "http://sr-ix.asia/",
     "peeringlan": "2a00:7160:5::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Hyderabad",
+    "name": "DE-CIX Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/",
+    "peeringlan": "103.184.198.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Hyderabad",
+    "name": "DE-CIX Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/",
+    "peeringlan": "103.83.68.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Hyderabad",
+    "name": "DE-CIX Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/",
+    "peeringlan": "2400:d180:72::/64"
   },
   {
     "id": "he_Free-IX%20Greece",
