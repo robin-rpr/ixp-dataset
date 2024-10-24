@@ -324,6 +324,15 @@
     "peeringlan": "2001:504:a::/64"
   },
   {
+    "id": "pdb_23",
+    "name": "NYIIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://www.nyiix.net/locations/nyiix-la/",
+    "peeringlan": "149.112.104.0/23"
+  },
+  {
     "id": "pdb_24",
     "name": "TorIX",
     "country": "CA",
@@ -1870,6 +1879,15 @@
     "region": "South America",
     "url": "http://ix.br",
     "peeringlan": "2001:12f8:0:4::/64"
+  },
+  {
+    "id": "pdb_174",
+    "name": "IX.br (PTT.br) Curitiba-ATM/MPLA",
+    "country": "BR",
+    "city": "Curitiba",
+    "region": "South America",
+    "url": "http://ix.br",
+    "peeringlan": "45.184.146.0/23"
   },
   {
     "id": "pdb_175",
@@ -17424,15 +17442,6 @@
     "peeringlan": "2a0e:8f01:1000:69::/64"
   },
   {
-    "id": "pdb_3939",
-    "name": "BGP.Exchange - Athens",
-    "country": "GR",
-    "city": "Athens",
-    "region": "Europe",
-    "url": "https://bgp.exchange",
-    "peeringlan": "2a0e:8f01:1000:70::/64"
-  },
-  {
     "id": "pdb_3940",
     "name": "BGP.Exchange - Accra",
     "country": "GH",
@@ -21292,5 +21301,32 @@
     "region": "North America",
     "url": "http://svgix.vc",
     "peeringlan": "206.83.47.0/24"
+  },
+  {
+    "id": "pdb_4575",
+    "name": "SVGIX",
+    "country": "VC",
+    "city": "kingstown",
+    "region": "North America",
+    "url": "http://svgix.vc",
+    "peeringlan": "2001:505:141::/64"
+  },
+  {
+    "id": "pdb_4578",
+    "name": "IX.br (PTT.br) Feira de Santana",
+    "country": "BR",
+    "city": "Feira de Santana",
+    "region": "South America",
+    "url": "http://ix.br",
+    "peeringlan": "200.219.131.0/24"
+  },
+  {
+    "id": "pdb_4578",
+    "name": "IX.br (PTT.br) Feira de Santana",
+    "country": "BR",
+    "city": "Feira de Santana",
+    "region": "South America",
+    "url": "http://ix.br",
+    "peeringlan": "2001:12f8:1:38::/64"
   }
 ]
