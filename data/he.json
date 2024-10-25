@@ -2124,6 +2124,24 @@
     "peeringlan": "2001:7f8:8e::/48"
   },
   {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "206.71.12.0/24"
+  },
+  {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "2001:504:40:12::/64"
+  },
+  {
     "id": "he_STLIX",
     "name": "STLIX",
     "country": "US",
@@ -2158,24 +2176,6 @@
     "region": "Asia Pacific",
     "url": "https://ams-ix.in/",
     "peeringlan": "2001:e48:44:100b::/64"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "206.71.12.0/24"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "2001:504:40:12::/64"
   },
   {
     "id": "he_WIX-NZ",
@@ -2232,24 +2232,6 @@
     "peeringlan": "2001:504:39::/64"
   },
   {
-    "id": "he_IX%20Australia%20QLD",
-    "name": "IX Australia QLD",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.76.0/24"
-  },
-  {
-    "id": "he_IX%20Australia%20QLD",
-    "name": "IX Australia QLD",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:2::/64"
-  },
-  {
     "id": "he_ChIX",
     "name": "ChIX",
     "country": "US",
@@ -2266,6 +2248,24 @@
     "region": "North America",
     "url": "https://unitedix.net/location/chicago",
     "peeringlan": "2001:504:41:110::/64"
+  },
+  {
+    "id": "he_IX%20Australia%20QLD",
+    "name": "IX Australia QLD",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.76.0/24"
+  },
+  {
+    "id": "he_IX%20Australia%20QLD",
+    "name": "IX Australia QLD",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:2::/64"
   },
   {
     "id": "he_Mass-IX",
@@ -3762,6 +3762,33 @@
     "peeringlan": "2a03:67e0:0:9::/64"
   },
   {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.60.104.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.49.90.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "2001:43f8:1690::/64"
+  },
+  {
     "id": "he_SAIX",
     "name": "SAIX",
     "country": "AT",
@@ -3796,33 +3823,6 @@
     "region": "Europe",
     "url": "http://www.n-ix.net",
     "peeringlan": "2001:7f8:29:1::/64"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.60.104.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.49.90.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "2001:43f8:1690::/64"
   },
   {
     "id": "he_AMS-IX%20Chicago",
@@ -3958,24 +3958,6 @@
     "region": "Europe",
     "url": "http://ix.if.ua/en/",
     "peeringlan": "2001:7f8:b8::/48"
-  },
-  {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "185.1.100.0/24"
-  },
-  {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "2001:7f8:bb::/48"
   },
   {
     "id": "he_UIXP",
@@ -4264,6 +4246,24 @@
     "region": "North America",
     "url": "http://phillyix.net",
     "peeringlan": "2001:504:90::/48"
+  },
+  {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "185.1.100.0/24"
+  },
+  {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "2001:7f8:bb::/48"
   },
   {
     "id": "he_ROPN-IX",
