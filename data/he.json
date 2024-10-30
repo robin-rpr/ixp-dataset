@@ -522,24 +522,6 @@
     "peeringlan": "2001:504:1a::34:0/111"
   },
   {
-    "id": "he_SwissIX",
-    "name": "SwissIX",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.swissix.ch/",
-    "peeringlan": "91.206.52.0/23"
-  },
-  {
-    "id": "he_SwissIX",
-    "name": "SwissIX",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.swissix.ch/",
-    "peeringlan": "2001:7f8:24::/64"
-  },
-  {
     "id": "he_JPNAP%20Tokyo",
     "name": "JPNAP Tokyo",
     "country": "JP",
@@ -556,6 +538,24 @@
     "region": "Asia Pacific",
     "url": "https://www.jpnap.net/en/",
     "peeringlan": "2001:7fa:7:1::/64"
+  },
+  {
+    "id": "he_SwissIX",
+    "name": "SwissIX",
+    "country": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "url": "https://www.swissix.ch/",
+    "peeringlan": "91.206.52.0/23"
+  },
+  {
+    "id": "he_SwissIX",
+    "name": "SwissIX",
+    "country": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "url": "https://www.swissix.ch/",
+    "peeringlan": "2001:7f8:24::/64"
   },
   {
     "id": "he_Global-IX",
@@ -1584,6 +1584,24 @@
     "peeringlan": "2001:7f8:35::/64"
   },
   {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "103.158.187.0/24"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "2a0f:5707:ffe3::/64"
+  },
+  {
     "id": "he_JPNAP%20Osaka",
     "name": "JPNAP Osaka",
     "country": "JP",
@@ -1627,24 +1645,6 @@
     "region": "Middle East",
     "url": "http://www.uae-ix.net",
     "peeringlan": "2001:7f8:73::/64"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "103.158.187.0/24"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
     "id": "he_France-IX%20Marseille",
@@ -2430,33 +2430,6 @@
     "peeringlan": "2001:7f8:5f::/64"
   },
   {
-    "id": "he_Phoenix%20IX",
-    "name": "Phoenix IX",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "http://www.phoenix-ix.net",
-    "peeringlan": "206.41.105.0/24"
-  },
-  {
-    "id": "he_Phoenix%20IX",
-    "name": "Phoenix IX",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "http://www.phoenix-ix.net",
-    "peeringlan": "2001:504:3B::/64"
-  },
-  {
-    "id": "he_Phoenix%20IX",
-    "name": "Phoenix IX",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "http://www.phoenix-ix.net",
-    "peeringlan": "2001:504:3b:1::/64"
-  },
-  {
     "id": "he_NIX",
     "name": "NIX",
     "country": "NO",
@@ -2482,6 +2455,33 @@
     "region": "Europe",
     "url": "https://www.nix.no",
     "peeringlan": "2001:7f8:12:1::/64"
+  },
+  {
+    "id": "he_Phoenix%20IX",
+    "name": "Phoenix IX",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "http://www.phoenix-ix.net",
+    "peeringlan": "206.41.105.0/24"
+  },
+  {
+    "id": "he_Phoenix%20IX",
+    "name": "Phoenix IX",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "http://www.phoenix-ix.net",
+    "peeringlan": "2001:504:3B::/64"
+  },
+  {
+    "id": "he_Phoenix%20IX",
+    "name": "Phoenix IX",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "http://www.phoenix-ix.net",
+    "peeringlan": "2001:504:3b:1::/64"
   },
   {
     "id": "he_DE-CIX%20Istanbul",
@@ -4419,6 +4419,24 @@
     "peeringlan": "2001:13C7:6013::/64"
   },
   {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "185.0.28.0/24"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "2001:7f8:148::/64"
+  },
+  {
     "id": "he_AMS-IX%20Bay%20Area",
     "name": "AMS-IX Bay Area",
     "country": "US",
@@ -4455,24 +4473,6 @@
     "peeringlan": "2001:7f8:b1::/64"
   },
   {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "185.0.28.0/24"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "2001:7f8:148::/64"
-  },
-  {
     "id": "he_MIXP",
     "name": "MIXP",
     "country": "MU",
@@ -4489,6 +4489,24 @@
     "region": "Africa",
     "url": "http://www.mixp.org/",
     "peeringlan": "2001:43f8:270:d0d0::/64"
+  },
+  {
+    "id": "he_YXEIX",
+    "name": "YXEIX",
+    "country": "CA",
+    "city": "Saskatoon",
+    "region": "North America",
+    "url": "http://yxeix.ca",
+    "peeringlan": "206.71.11.0/24"
+  },
+  {
+    "id": "he_YXEIX",
+    "name": "YXEIX",
+    "country": "CA",
+    "city": "Saskatoon",
+    "region": "North America",
+    "url": "http://yxeix.ca",
+    "peeringlan": "2001:504:69::/48"
   },
   {
     "id": "he_CABASE-NQN",
@@ -4534,24 +4552,6 @@
     "region": "Africa",
     "url": "http://www.djiboutidatacenter.com/",
     "peeringlan": "2001:43f8:9c0:1000::/64"
-  },
-  {
-    "id": "he_YXEIX",
-    "name": "YXEIX",
-    "country": "CA",
-    "city": "Saskatoon",
-    "region": "North America",
-    "url": "http://yxeix.ca",
-    "peeringlan": "206.71.11.0/24"
-  },
-  {
-    "id": "he_YXEIX",
-    "name": "YXEIX",
-    "country": "CA",
-    "city": "Saskatoon",
-    "region": "North America",
-    "url": "http://yxeix.ca",
-    "peeringlan": "2001:504:69::/48"
   },
   {
     "id": "he_RomandIX",
@@ -4662,24 +4662,6 @@
     "peeringlan": "2001:13C7:6011::/64"
   },
   {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "204.107.122.0/25"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2001:19e0:ffff::/64"
-  },
-  {
     "id": "he_DE-CIX%20Kolkata",
     "name": "DE-CIX Kolkata",
     "country": "IN",
@@ -4696,6 +4678,24 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.net/en/locations/india/kolkata",
     "peeringlan": "2400:d180:69::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "204.107.122.0/25"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2001:19e0:ffff::/64"
   },
   {
     "id": "he_Free-IX",

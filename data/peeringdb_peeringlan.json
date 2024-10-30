@@ -15441,7 +15441,7 @@
     "city": "Mumbai",
     "region": "Asia Pacific",
     "url": "https://ix.x3m.in",
-    "peeringlan": "2400:8660::/64"
+    "peeringlan": "2400:8660:0:2::/64"
   },
   {
     "id": "pdb_3708",
@@ -21274,6 +21274,24 @@
     "region": "South America",
     "url": "https://rpci.pe/",
     "peeringlan": "2803:350::/64"
+  },
+  {
+    "id": "pdb_4569",
+    "name": "RPCI",
+    "country": "PE",
+    "city": "Lima",
+    "region": "South America",
+    "url": "https://rpci.pe/",
+    "peeringlan": "2803:350:ccc:c::/64"
+  },
+  {
+    "id": "pdb_4569",
+    "name": "RPCI",
+    "country": "PE",
+    "city": "Lima",
+    "region": "South America",
+    "url": "https://rpci.pe/",
+    "peeringlan": "38.3.128.0/24"
   },
   {
     "id": "pdb_4570",
