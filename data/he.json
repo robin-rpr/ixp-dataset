@@ -630,24 +630,6 @@
     "peeringlan": "2001:7f8:a0::/64"
   },
   {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "206.51.7.0/24"
-  },
-  {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "2001:504:1B:1::/64"
-  },
-  {
     "id": "he_DE-CIX%20Hamburg",
     "name": "DE-CIX Hamburg",
     "country": "DE",
@@ -673,6 +655,24 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/hamburg",
     "peeringlan": "2001:7f8:3d::/64"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "206.51.7.0/24"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "2001:504:1B:1::/64"
   },
   {
     "id": "he_NYIIX",
@@ -2574,24 +2574,6 @@
     "peeringlan": "2001:7f8:91::/64"
   },
   {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "185.1.131.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "2001:7f8:d5::/64"
-  },
-  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2644,6 +2626,24 @@
     "region": "Europe",
     "url": "https://www.sol-ix.net",
     "peeringlan": "2001:7f8:21:11::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "185.1.131.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "2001:7f8:d5::/64"
   },
   {
     "id": "he_Equinix%20London",
@@ -3006,6 +3006,15 @@
     "peeringlan": "2001:de8:1d::/64"
   },
   {
+    "id": "he_NSPIXP6",
+    "name": "NSPIXP6",
+    "country": "JP",
+    "city": "Tokyo",
+    "region": "Asia Pacific",
+    "url": "http://www.wide.ad.jp/nspixp6/",
+    "peeringlan": "2001:200:0:1800::/64"
+  },
+  {
     "id": "he_DE-CIX%20Barcelona",
     "name": "DE-CIX Barcelona",
     "country": "ES",
@@ -3022,15 +3031,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/en/locations/barcelona",
     "peeringlan": "2001:7f8:10a::/64"
-  },
-  {
-    "id": "he_NSPIXP6",
-    "name": "NSPIXP6",
-    "country": "JP",
-    "city": "Tokyo",
-    "region": "Asia Pacific",
-    "url": "http://www.wide.ad.jp/nspixp6/",
-    "peeringlan": "2001:200:0:1800::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Warsaw",
@@ -3762,33 +3762,6 @@
     "peeringlan": "2a03:67e0:0:9::/64"
   },
   {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.60.104.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.49.90.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "2001:43f8:1690::/64"
-  },
-  {
     "id": "he_SAIX",
     "name": "SAIX",
     "country": "AT",
@@ -3823,6 +3796,33 @@
     "region": "Europe",
     "url": "http://www.n-ix.net",
     "peeringlan": "2001:7f8:29:1::/64"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.60.104.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.49.90.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "2001:43f8:1690::/64"
   },
   {
     "id": "he_AMS-IX%20Chicago",
@@ -4176,42 +4176,6 @@
     "peeringlan": "2001:7f8:1d:4::/64"
   },
   {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.38.0/24"
-  },
-  {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:600B::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Palermo",
-    "name": "DE-CIX Palermo",
-    "country": "IT",
-    "city": "Palermo",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/palermo",
-    "peeringlan": "185.1.46.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Palermo",
-    "name": "DE-CIX Palermo",
-    "country": "IT",
-    "city": "Palermo",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/palermo",
-    "peeringlan": "2001:7f8:32::/64"
-  },
-  {
     "id": "he_JEDIX",
     "name": "JEDIX",
     "country": "SA",
@@ -4327,6 +4291,24 @@
     "region": "Europe",
     "url": "https://ixp-manager.aaix.at",
     "peeringlan": "2001:7f8:4a::/48"
+  },
+  {
+    "id": "he_DE-CIX%20Palermo",
+    "name": "DE-CIX Palermo",
+    "country": "IT",
+    "city": "Palermo",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/palermo",
+    "peeringlan": "185.1.46.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Palermo",
+    "name": "DE-CIX Palermo",
+    "country": "IT",
+    "city": "Palermo",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/palermo",
+    "peeringlan": "2001:7f8:32::/64"
   },
   {
     "id": "he_Namex%20Bari%20IXP",
@@ -4507,6 +4489,24 @@
     "region": "North America",
     "url": "http://yxeix.ca",
     "peeringlan": "2001:504:69::/48"
+  },
+  {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.14.38.0/24"
+  },
+  {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13C7:600B::/64"
   },
   {
     "id": "he_CABASE-NQN",
