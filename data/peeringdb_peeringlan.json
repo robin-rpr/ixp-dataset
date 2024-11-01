@@ -4046,7 +4046,7 @@
     "country": "MD",
     "city": "Chisinau",
     "region": "Europe",
-    "url": "http://www.moldtelecom.md",
+    "url": "https://moldtelecom.md/en/mdix",
     "peeringlan": "193.17.78.0/24"
   },
   {
@@ -4055,7 +4055,7 @@
     "country": "MD",
     "city": "Chisinau",
     "region": "Europe",
-    "url": "http://www.moldtelecom.md",
+    "url": "https://moldtelecom.md/en/mdix",
     "peeringlan": "2001:7f8:6a::/64"
   },
   {
@@ -4451,7 +4451,7 @@
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
-    "url": "https://www.atman.pl/en/connectivity/thinx-ix/",
+    "url": "http://thinx.pl",
     "peeringlan": "212.91.0.0/22"
   },
   {
@@ -4460,7 +4460,7 @@
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
-    "url": "https://www.atman.pl/en/connectivity/thinx-ix/",
+    "url": "http://thinx.pl",
     "peeringlan": "2001:7f8:60::/48"
   },
   {
@@ -15598,7 +15598,7 @@
   },
   {
     "id": "pdb_3733",
-    "name": "CNIXP",
+    "name": "CNIXP (Qianhai, Shenzhen)",
     "country": "CN",
     "city": "Shenzhen",
     "region": "Asia Pacific",
@@ -15607,7 +15607,7 @@
   },
   {
     "id": "pdb_3733",
-    "name": "CNIXP",
+    "name": "CNIXP (Qianhai, Shenzhen)",
     "country": "CN",
     "city": "Shenzhen",
     "region": "Asia Pacific",
@@ -15616,16 +15616,7 @@
   },
   {
     "id": "pdb_3733",
-    "name": "CNIXP",
-    "country": "CN",
-    "city": "Shenzhen",
-    "region": "Asia Pacific",
-    "url": "https://www.cnix.cn",
-    "peeringlan": "2407:8f40:1:1::/64"
-  },
-  {
-    "id": "pdb_3733",
-    "name": "CNIXP",
+    "name": "CNIXP (Qianhai, Shenzhen)",
     "country": "CN",
     "city": "Shenzhen",
     "region": "Asia Pacific",
@@ -15634,12 +15625,21 @@
   },
   {
     "id": "pdb_3733",
-    "name": "CNIXP",
+    "name": "CNIXP (Qianhai, Shenzhen)",
     "country": "CN",
     "city": "Shenzhen",
     "region": "Asia Pacific",
     "url": "https://www.cnix.cn",
     "peeringlan": "202.46.224.0/20"
+  },
+  {
+    "id": "pdb_3733",
+    "name": "CNIXP (Qianhai, Shenzhen)",
+    "country": "CN",
+    "city": "Shenzhen",
+    "region": "Asia Pacific",
+    "url": "https://www.cnix.cn",
+    "peeringlan": "2407:8f40::/64"
   },
   {
     "id": "pdb_3734",
@@ -21346,5 +21346,14 @@
     "region": "South America",
     "url": "http://ix.br",
     "peeringlan": "2001:12f8:1:38::/64"
+  },
+  {
+    "id": "pdb_4582",
+    "name": "PTT-SP4",
+    "country": "BR",
+    "city": "S\u00e3o Paulo",
+    "region": "South America",
+    "url": "http://ix.br",
+    "peeringlan": "138.59.48.0/22"
   }
 ]
