@@ -36,6 +36,24 @@
     "peeringlan": "195.66.224.0/21"
   },
   {
+    "id": "he_4b42%20Internet%20Exchange%20Point",
+    "name": "4b42 Internet Exchange Point",
+    "country": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "url": "https://www.4ixp.com",
+    "peeringlan": "185.1.125.0/24"
+  },
+  {
+    "id": "he_4b42%20Internet%20Exchange%20Point",
+    "name": "4b42 Internet Exchange Point",
+    "country": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "url": "https://www.4ixp.com",
+    "peeringlan": "2001:7f8:d0::/64"
+  },
+  {
     "id": "he_AMS-IX",
     "name": "AMS-IX",
     "country": "NL",
@@ -61,24 +79,6 @@
     "region": "Europe",
     "url": "http://www.ams-ix.net/",
     "peeringlan": "2001:7f8:1::/64"
-  },
-  {
-    "id": "he_4b42%20Internet%20Exchange%20Point",
-    "name": "4b42 Internet Exchange Point",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.4ixp.com",
-    "peeringlan": "185.1.125.0/24"
-  },
-  {
-    "id": "he_4b42%20Internet%20Exchange%20Point",
-    "name": "4b42 Internet Exchange Point",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.4ixp.com",
-    "peeringlan": "2001:7f8:d0::/64"
   },
   {
     "id": "he_NL-IX",
@@ -729,42 +729,6 @@
     "peeringlan": "2001:7fa:11:4::/64"
   },
   {
-    "id": "he_NIX.CZ",
-    "name": "NIX.CZ",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.nix.cz/",
-    "peeringlan": "194.50.100.0/24"
-  },
-  {
-    "id": "he_NIX.CZ",
-    "name": "NIX.CZ",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.nix.cz/",
-    "peeringlan": "91.210.16.0/22"
-  },
-  {
-    "id": "he_NIX.CZ",
-    "name": "NIX.CZ",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.nix.cz/",
-    "peeringlan": "2001:7f8:14::/64"
-  },
-  {
-    "id": "he_NIX.CZ",
-    "name": "NIX.CZ",
-    "country": "CZ",
-    "city": "Prague",
-    "region": "Europe",
-    "url": "http://www.nix.cz/",
-    "peeringlan": "2001:7f8:14:5ec::/64"
-  },
-  {
     "id": "he_NaMeX",
     "name": "NaMeX",
     "country": "IT",
@@ -808,6 +772,42 @@
     "region": "Europe",
     "url": "http://www.ua-ix.net.ua/en",
     "peeringlan": "2001:7f8:5d::/116"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "194.50.100.0/24"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "91.210.16.0/22"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "2001:7f8:14::/64"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "2001:7f8:14:5ec::/64"
   },
   {
     "id": "he_PITER-IX%20Helsinki",
@@ -918,24 +918,6 @@
     "peeringlan": "2001:504:17:110::/64"
   },
   {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "212.91.0.0/22"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "2001:7f8:60::/48"
-  },
-  {
     "id": "he_ONIX",
     "name": "ONIX",
     "country": "CA",
@@ -952,6 +934,24 @@
     "region": "North America",
     "url": "https://www.onix.cx",
     "peeringlan": "2001:504:125:e1::/64"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "212.91.0.0/22"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "2001:7f8:60::/48"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -2538,42 +2538,6 @@
     "peeringlan": "2001:df0:680:3::/64"
   },
   {
-    "id": "he_NIX.SK",
-    "name": "NIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.nix.sk/sk",
-    "peeringlan": "194.30.187.0/24"
-  },
-  {
-    "id": "he_NIX.SK",
-    "name": "NIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.nix.sk/sk",
-    "peeringlan": "2001:7f8:91::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "185.1.131.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "2001:7f8:d5::/64"
-  },
-  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2626,6 +2590,42 @@
     "region": "Europe",
     "url": "https://www.sol-ix.net",
     "peeringlan": "2001:7f8:21:11::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "185.1.131.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "2001:7f8:d5::/64"
+  },
+  {
+    "id": "he_NIX.SK",
+    "name": "NIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.nix.sk/sk",
+    "peeringlan": "194.30.187.0/24"
+  },
+  {
+    "id": "he_NIX.SK",
+    "name": "NIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.nix.sk/sk",
+    "peeringlan": "2001:7f8:91::/64"
   },
   {
     "id": "he_FIXO",
