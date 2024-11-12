@@ -474,7 +474,7 @@
     "city": "Milan",
     "region": "Europe",
     "url": "https://www.mix-it.net/",
-    "peeringlan": "217.29.66.0/23"
+    "peeringlan": "2001:7f8:b:100::/64"
   },
   {
     "id": "pdb_35",
@@ -483,7 +483,7 @@
     "city": "Milan",
     "region": "Europe",
     "url": "https://www.mix-it.net/",
-    "peeringlan": "2001:7f8:b:100::/64"
+    "peeringlan": "217.29.64.0/21"
   },
   {
     "id": "pdb_42",
@@ -13190,7 +13190,7 @@
     "country": "GT",
     "city": "Guatemala City",
     "region": "North America",
-    "url": "http://www.pit.gt",
+    "url": "http://www.pit.net",
     "peeringlan": "45.68.48.0/24"
   },
   {
@@ -13199,7 +13199,7 @@
     "country": "GT",
     "city": "Guatemala City",
     "region": "North America",
-    "url": "http://www.pit.gt",
+    "url": "http://www.pit.net",
     "peeringlan": "2801:155:6:4157::/64"
   },
   {
@@ -14491,21 +14491,21 @@
   },
   {
     "id": "pdb_3467",
-    "name": "KLIX",
+    "name": "KTL-IX",
     "country": "BD",
     "city": "Dhaka",
     "region": "Asia Pacific",
-    "url": "http://kloudnix.com/",
-    "peeringlan": "103.164.91.0/24"
+    "url": "https://kloud.com.bd/",
+    "peeringlan": "160.191.82.0/23"
   },
   {
     "id": "pdb_3467",
-    "name": "KLIX",
+    "name": "KTL-IX",
     "country": "BD",
     "city": "Dhaka",
     "region": "Asia Pacific",
-    "url": "http://kloudnix.com/",
-    "peeringlan": "2001:df6:4480::/64"
+    "url": "https://kloud.com.bd/",
+    "peeringlan": "2001:df4:7c40::/64"
   },
   {
     "id": "pdb_3471",
@@ -21150,33 +21150,6 @@
     "peeringlan": "2806:425::/64"
   },
   {
-    "id": "pdb_4551",
-    "name": "DATACONNECT-AS",
-    "country": "CI",
-    "city": "ABIDJAN",
-    "region": "Africa",
-    "url": "https://dataconnect.africa/",
-    "peeringlan": "102.216.204.0/22"
-  },
-  {
-    "id": "pdb_4551",
-    "name": "DATACONNECT-AS",
-    "country": "CI",
-    "city": "ABIDJAN",
-    "region": "Africa",
-    "url": "https://dataconnect.africa/",
-    "peeringlan": "154.73.100.0/22"
-  },
-  {
-    "id": "pdb_4551",
-    "name": "DATACONNECT-AS",
-    "country": "CI",
-    "city": "ABIDJAN",
-    "region": "Africa",
-    "url": "https://dataconnect.africa/",
-    "peeringlan": "2c0f:e801::/64"
-  },
-  {
     "id": "pdb_4553",
     "name": "PeersIX",
     "country": "NL",
@@ -21321,6 +21294,15 @@
     "peeringlan": "185.188.82.0/24"
   },
   {
+    "id": "pdb_4577",
+    "name": "MIX Caserta",
+    "country": "IT",
+    "city": "Caserta",
+    "region": "Europe",
+    "url": "https://www.mix-it.net",
+    "peeringlan": "2001:7f8:101:16::/64"
+  },
+  {
     "id": "pdb_4578",
     "name": "IX.br (PTT.br) Feira de Santana",
     "country": "BR",
@@ -21382,5 +21364,14 @@
     "region": "South America",
     "url": "http://ix.br",
     "peeringlan": "2001:12f8:1:39::/64"
+  },
+  {
+    "id": "pdb_4589",
+    "name": "NSIX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://ns-ix.net",
+    "peeringlan": "193.192.12.0/26"
   }
 ]
