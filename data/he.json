@@ -1044,24 +1044,6 @@
     "peeringlan": "2a0d:e180::/64"
   },
   {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.0.17.0/24"
-  },
-  {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13c7:6001::/64"
-  },
-  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1105,6 +1087,24 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f0:1::/64"
+  },
+  {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.0.17.0/24"
+  },
+  {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13c7:6001::/64"
   },
   {
     "id": "he_FCIX",
@@ -1440,6 +1440,24 @@
     "peeringlan": "2001:7f8:14d::/64"
   },
   {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "206.197.187.0/24"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "2001:504:30::/48"
+  },
+  {
     "id": "he_SBIX",
     "name": "SBIX",
     "country": "CH",
@@ -1465,24 +1483,6 @@
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:1::/64"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "206.197.187.0/24"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "2001:504:30::/48"
   },
   {
     "id": "he_UNMETERED%20Exchange",
@@ -2988,6 +2988,15 @@
     "peeringlan": "2001:de8:1d::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_NSPIXP6",
     "name": "NSPIXP6",
     "country": "JP",
@@ -3015,13 +3024,13 @@
     "peeringlan": "2001:7f8:10a::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
     "region": "Europe",
     "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
+    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_DIX",
@@ -3058,15 +3067,6 @@
     "region": "Europe",
     "url": "http://www.dix.dk/",
     "peeringlan": "2001:7F8:1F::/48"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Odesa",
@@ -5742,6 +5742,24 @@
     "peeringlan": "2001:504:110::/64"
   },
   {
+    "id": "he_Free-IX%20Greece",
+    "name": "Free-IX Greece",
+    "country": "GR",
+    "city": "Thessaloniki & Athens",
+    "region": "Europe",
+    "url": "https://free-ix.gr/",
+    "peeringlan": "195.60.80.0/26"
+  },
+  {
+    "id": "he_Free-IX%20Greece",
+    "name": "Free-IX Greece",
+    "country": "GR",
+    "city": "Thessaloniki & Athens",
+    "region": "Europe",
+    "url": "https://free-ix.gr/",
+    "peeringlan": "2001:7f8:116::/64"
+  },
+  {
     "id": "he_COIX",
     "name": "COIX",
     "country": "US",
@@ -5812,24 +5830,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar",
     "peeringlan": "2001:13c7:6019::/64"
-  },
-  {
-    "id": "he_Free-IX%20Greece",
-    "name": "Free-IX Greece",
-    "country": "GR",
-    "city": "Thessaloniki & Athens",
-    "region": "Europe",
-    "url": "https://free-ix.gr/",
-    "peeringlan": "195.60.80.0/26"
-  },
-  {
-    "id": "he_Free-IX%20Greece",
-    "name": "Free-IX Greece",
-    "country": "GR",
-    "city": "Thessaloniki & Athens",
-    "region": "Europe",
-    "url": "https://free-ix.gr/",
-    "peeringlan": "2001:7f8:116::/64"
   },
   {
     "id": "he_MGIX",
