@@ -1044,24 +1044,6 @@
     "peeringlan": "2a0d:e180::/64"
   },
   {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.0.17.0/24"
-  },
-  {
-    "id": "he_CABASE-BUE",
-    "name": "CABASE-BUE",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13c7:6001::/64"
-  },
-  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1105,6 +1087,24 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f0:1::/64"
+  },
+  {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.0.17.0/24"
+  },
+  {
+    "id": "he_CABASE-BUE",
+    "name": "CABASE-BUE",
+    "country": "AR",
+    "city": "Buenos Aires",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13c7:6001::/64"
   },
   {
     "id": "he_FCIX",
@@ -1251,24 +1251,6 @@
     "peeringlan": "2001:7f8:64:225::/64"
   },
   {
-    "id": "he_BCIX",
-    "name": "BCIX",
-    "country": "DE",
-    "city": "Berlin",
-    "region": "Europe",
-    "url": "https://www.bcix.de/",
-    "peeringlan": "193.178.185.0/24"
-  },
-  {
-    "id": "he_BCIX",
-    "name": "BCIX",
-    "country": "DE",
-    "city": "Berlin",
-    "region": "Europe",
-    "url": "https://www.bcix.de/",
-    "peeringlan": "2001:7f8:19::/48"
-  },
-  {
     "id": "he_W-IX",
     "name": "W-IX",
     "country": "RU",
@@ -1285,6 +1267,24 @@
     "region": "Europe",
     "url": "http://www.w-ix.ru",
     "peeringlan": "2a00:1b30::/64"
+  },
+  {
+    "id": "he_BCIX",
+    "name": "BCIX",
+    "country": "DE",
+    "city": "Berlin",
+    "region": "Europe",
+    "url": "https://www.bcix.de/",
+    "peeringlan": "193.178.185.0/24"
+  },
+  {
+    "id": "he_BCIX",
+    "name": "BCIX",
+    "country": "DE",
+    "city": "Berlin",
+    "region": "Europe",
+    "url": "https://www.bcix.de/",
+    "peeringlan": "2001:7f8:19::/48"
   },
   {
     "id": "he_France-IX%20Marseille",
@@ -1575,6 +1575,33 @@
     "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
+    "id": "he_JPNAP%20Osaka",
+    "name": "JPNAP Osaka",
+    "country": "JP",
+    "city": "Osaka",
+    "region": "Asia Pacific",
+    "url": "https://www.jpnap.net/en/",
+    "peeringlan": "210.173.178.0/25"
+  },
+  {
+    "id": "he_JPNAP%20Osaka",
+    "name": "JPNAP Osaka",
+    "country": "JP",
+    "city": "Osaka",
+    "region": "Asia Pacific",
+    "url": "https://www.jpnap.net/en/",
+    "peeringlan": "210.173.184.0/23"
+  },
+  {
+    "id": "he_JPNAP%20Osaka",
+    "name": "JPNAP Osaka",
+    "country": "JP",
+    "city": "Osaka",
+    "region": "Asia Pacific",
+    "url": "https://www.jpnap.net/en/",
+    "peeringlan": "2001:7fa:7:2::/64"
+  },
+  {
     "id": "he_NWAX",
     "name": "NWAX",
     "country": "US",
@@ -1618,33 +1645,6 @@
     "region": "Europe",
     "url": "https://bix.hu/en",
     "peeringlan": "2001:7f8:35::/64"
-  },
-  {
-    "id": "he_JPNAP%20Osaka",
-    "name": "JPNAP Osaka",
-    "country": "JP",
-    "city": "Osaka",
-    "region": "Asia Pacific",
-    "url": "https://www.jpnap.net/en/",
-    "peeringlan": "210.173.178.0/25"
-  },
-  {
-    "id": "he_JPNAP%20Osaka",
-    "name": "JPNAP Osaka",
-    "country": "JP",
-    "city": "Osaka",
-    "region": "Asia Pacific",
-    "url": "https://www.jpnap.net/en/",
-    "peeringlan": "210.173.184.0/23"
-  },
-  {
-    "id": "he_JPNAP%20Osaka",
-    "name": "JPNAP Osaka",
-    "country": "JP",
-    "city": "Osaka",
-    "region": "Asia Pacific",
-    "url": "https://www.jpnap.net/en/",
-    "peeringlan": "2001:7fa:7:2::/64"
   },
   {
     "id": "he_UAE-IX",
@@ -4311,24 +4311,6 @@
     "peeringlan": "2001:7f8:67:9::/64"
   },
   {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
-  },
-  {
     "id": "he_AAIX",
     "name": "AAIX",
     "country": "AT",
@@ -4399,6 +4381,24 @@
     "region": "North America",
     "url": "https://suprnet.net",
     "peeringlan": "2001:504:60::/48"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_NIXI%20Hyderabad",
