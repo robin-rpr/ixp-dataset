@@ -1008,24 +1008,6 @@
     "peeringlan": "2001:de8:11:3806:60::/80"
   },
   {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "206.41.108.0/24"
-  },
-  {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "2001:504:40:108::/64"
-  },
-  {
     "id": "he_Eurasia%20Peering%20IX",
     "name": "Eurasia Peering IX",
     "country": "RU",
@@ -1042,6 +1024,24 @@
     "region": "Europe",
     "url": "https://www.eurasiapeering.com/",
     "peeringlan": "2a0d:e180::/64"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "206.41.108.0/24"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "2001:504:40:108::/64"
   },
   {
     "id": "he_CABASE-BUE",
@@ -1476,15 +1476,6 @@
     "peeringlan": "2001:7f8:d9:1::/64"
   },
   {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
-  },
-  {
     "id": "he_INEX",
     "name": "INEX",
     "country": "IE",
@@ -1557,22 +1548,13 @@
     "peeringlan": "2001:07F8:0018:72::/64"
   },
   {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "103.158.187.0/24"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "2a0f:5707:ffe3::/64"
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_JPNAP%20Osaka",
@@ -1618,6 +1600,24 @@
     "region": "Europe",
     "url": "https://bix.hu/en",
     "peeringlan": "2001:7f8:35::/64"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "103.158.187.0/24"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
     "id": "he_NWAX",
@@ -2313,51 +2313,6 @@
     "peeringlan": "2001:1ab8:8486::/64"
   },
   {
-    "id": "he_NIXI%20Chennai",
-    "name": "NIXI Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/chennai",
-    "peeringlan": "218.100.48.128/26"
-  },
-  {
-    "id": "he_NIXI%20Chennai",
-    "name": "NIXI Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/chennai",
-    "peeringlan": "103.218.247.0/24"
-  },
-  {
-    "id": "he_NIXI%20Chennai",
-    "name": "NIXI Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/chennai",
-    "peeringlan": "2001:de8:1:2::/64"
-  },
-  {
-    "id": "he_PIRIX",
-    "name": "PIRIX",
-    "country": "RU",
-    "city": "St.Petersburg",
-    "region": "Europe",
-    "url": "http://www.pirix.ru",
-    "peeringlan": "193.28.6.0/24"
-  },
-  {
-    "id": "he_PIRIX",
-    "name": "PIRIX",
-    "country": "RU",
-    "city": "St.Petersburg",
-    "region": "Europe",
-    "url": "http://www.pirix.ru",
-    "peeringlan": "2001:7f8:82::/64"
-  },
-  {
     "id": "he_VSIX",
     "name": "VSIX",
     "country": "IT",
@@ -2410,6 +2365,51 @@
     "region": "Europe",
     "url": "https://www.vs-ix.org/",
     "peeringlan": "2001:7f8:5f::/64"
+  },
+  {
+    "id": "he_NIXI%20Chennai",
+    "name": "NIXI Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/chennai",
+    "peeringlan": "218.100.48.128/26"
+  },
+  {
+    "id": "he_NIXI%20Chennai",
+    "name": "NIXI Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/chennai",
+    "peeringlan": "103.218.247.0/24"
+  },
+  {
+    "id": "he_NIXI%20Chennai",
+    "name": "NIXI Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/chennai",
+    "peeringlan": "2001:de8:1:2::/64"
+  },
+  {
+    "id": "he_PIRIX",
+    "name": "PIRIX",
+    "country": "RU",
+    "city": "St.Petersburg",
+    "region": "Europe",
+    "url": "http://www.pirix.ru",
+    "peeringlan": "193.28.6.0/24"
+  },
+  {
+    "id": "he_PIRIX",
+    "name": "PIRIX",
+    "country": "RU",
+    "city": "St.Petersburg",
+    "region": "Europe",
+    "url": "http://www.pirix.ru",
+    "peeringlan": "2001:7f8:82::/64"
   },
   {
     "id": "he_NIX",
