@@ -441,6 +441,15 @@
     "peeringlan": "2001:504:36::/64"
   },
   {
+    "id": "he_SPEED-IX",
+    "name": "SPEED-IX",
+    "country": "NL",
+    "city": "Dronten",
+    "region": "Europe",
+    "url": "https://speed-ix.net",
+    "peeringlan": "185.1.222.0/23"
+  },
+  {
     "id": "he_DTEL-IX",
     "name": "DTEL-IX",
     "country": "UA",
@@ -457,15 +466,6 @@
     "region": "Europe",
     "url": "https://dtel-ix.net/en/",
     "peeringlan": "2001:7f8:63::/64"
-  },
-  {
-    "id": "he_SPEED-IX",
-    "name": "SPEED-IX",
-    "country": "NL",
-    "city": "Dronten",
-    "region": "Europe",
-    "url": "https://speed-ix.net",
-    "peeringlan": "185.1.222.0/23"
   },
   {
     "id": "he_DE-CIX%20Dusseldorf",
@@ -828,6 +828,24 @@
     "peeringlan": "2001:7f8:7f::/64"
   },
   {
+    "id": "he_ONIX",
+    "name": "ONIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.onix.cx",
+    "peeringlan": "149.112.50.0/24"
+  },
+  {
+    "id": "he_ONIX",
+    "name": "ONIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.onix.cx",
+    "peeringlan": "2001:504:125:e1::/64"
+  },
+  {
     "id": "he_NIX.CZ",
     "name": "NIX.CZ",
     "country": "CZ",
@@ -862,24 +880,6 @@
     "region": "Europe",
     "url": "http://www.nix.cz/",
     "peeringlan": "2001:7f8:14:5ec::/64"
-  },
-  {
-    "id": "he_ONIX",
-    "name": "ONIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.onix.cx",
-    "peeringlan": "149.112.50.0/24"
-  },
-  {
-    "id": "he_ONIX",
-    "name": "ONIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.onix.cx",
-    "peeringlan": "2001:504:125:e1::/64"
   },
   {
     "id": "he_TPIX-TW",
@@ -1431,24 +1431,6 @@
     "peeringlan": "2001:df0:680:5::/64"
   },
   {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "206.197.187.0/24"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "2001:504:30::/48"
-  },
-  {
     "id": "he_SBIX",
     "name": "SBIX",
     "country": "CH",
@@ -1474,6 +1456,24 @@
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:1::/64"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "206.197.187.0/24"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "2001:504:30::/48"
   },
   {
     "id": "he_UNMETERED%20Exchange",
