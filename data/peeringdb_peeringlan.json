@@ -14901,7 +14901,7 @@
     "city": "Douala",
     "region": "Africa",
     "url": "https://www.douala-ix.net",
-    "peeringlan": "196.60.84.0/24"
+    "peeringlan": "2001:43fd:c000:d0ae::/64"
   },
   {
     "id": "pdb_3561",
@@ -14910,7 +14910,7 @@
     "city": "Douala",
     "region": "Africa",
     "url": "https://www.douala-ix.net",
-    "peeringlan": "2001:43fd:c000:d0a1::/64"
+    "peeringlan": "196.60.84.64/26"
   },
   {
     "id": "pdb_3562",
@@ -18852,7 +18852,7 @@
     "city": "Bandung",
     "region": "Asia Pacific",
     "url": "https://trustix.id",
-    "peeringlan": "103.143.245.0/24"
+    "peeringlan": "103.143.244.128/25"
   },
   {
     "id": "pdb_4200",
@@ -21580,5 +21580,23 @@
     "region": "Asia Pacific",
     "url": "https://hkgix.org/",
     "peeringlan": "2404:c140:101e::/64"
+  },
+  {
+    "id": "pdb_4630",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "pdb_4630",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com",
+    "peeringlan": "2001:7f8:15e::/64"
   }
 ]
