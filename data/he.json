@@ -1215,24 +1215,6 @@
     "peeringlan": "185.1.155.0/24"
   },
   {
-    "id": "he_NAPAfrica%20IX%20Durban",
-    "name": "NAPAfrica IX Durban",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
-    "peeringlan": "196.10.141.0/24"
-  },
-  {
-    "id": "he_NAPAfrica%20IX%20Durban",
-    "name": "NAPAfrica IX Durban",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
-    "peeringlan": "2001:43f8:6d2::/64"
-  },
-  {
     "id": "he_InterLAN",
     "name": "InterLAN",
     "country": "RO",
@@ -1249,6 +1231,24 @@
     "region": "Europe",
     "url": "https://www.interlan.ro/en/",
     "peeringlan": "2001:7f8:64:225::/64"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Durban",
+    "name": "NAPAfrica IX Durban",
+    "country": "ZA",
+    "city": "Durban",
+    "region": "Africa",
+    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
+    "peeringlan": "196.10.141.0/24"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Durban",
+    "name": "NAPAfrica IX Durban",
+    "country": "ZA",
+    "city": "Durban",
+    "region": "Africa",
+    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
+    "peeringlan": "2001:43f8:6d2::/64"
   },
   {
     "id": "he_BCIX",
@@ -3429,6 +3429,24 @@
     "peeringlan": "2001:504:77::/64"
   },
   {
+    "id": "he_Hyper%20Group%20Internet%20Exchange",
+    "name": "Hyper Group Internet Exchange",
+    "country": "US",
+    "city": "North Kansas City",
+    "region": "North America",
+    "url": "https://ix.hnhost.net/",
+    "peeringlan": "2a0f:85c1:357:1::/64"
+  },
+  {
+    "id": "he_Hyper%20Group%20Internet%20Exchange",
+    "name": "Hyper Group Internet Exchange",
+    "country": "US",
+    "city": "North Kansas City",
+    "region": "North America",
+    "url": "https://ix.hnhost.net/",
+    "peeringlan": "2a0f:85c1:363:1::/64"
+  },
+  {
     "id": "he_DE-CIX%20Phoenix",
     "name": "DE-CIX Phoenix",
     "country": "US",
@@ -3463,24 +3481,6 @@
     "region": "Europe",
     "url": "http://www.lillix.fr",
     "peeringlan": "2001:7f8:6d::/64"
-  },
-  {
-    "id": "he_Hyper%20Group%20Internet%20Exchange",
-    "name": "Hyper Group Internet Exchange",
-    "country": "US",
-    "city": "North Kansas City",
-    "region": "North America",
-    "url": "https://ix.hnhost.net/",
-    "peeringlan": "2a0f:85c1:357:1::/64"
-  },
-  {
-    "id": "he_Hyper%20Group%20Internet%20Exchange",
-    "name": "Hyper Group Internet Exchange",
-    "country": "US",
-    "city": "North Kansas City",
-    "region": "North America",
-    "url": "https://ix.hnhost.net/",
-    "peeringlan": "2a0f:85c1:363:1::/64"
   },
   {
     "id": "he_SIX%20SI",
@@ -3843,6 +3843,15 @@
     "peeringlan": "2001:de8:1:5::/64"
   },
   {
+    "id": "he_EPIX.Poznan",
+    "name": "EPIX.Poznan",
+    "country": "PL",
+    "city": "Poznan",
+    "region": "Europe",
+    "url": "https://www.epix.net.pl",
+    "peeringlan": "2a10:f780::/64"
+  },
+  {
     "id": "he_AMS-IX%20Chicago",
     "name": "AMS-IX Chicago",
     "country": "US",
@@ -3859,15 +3868,6 @@
     "region": "North America",
     "url": "https://www.ams-ix.net/chi",
     "peeringlan": "2001:504:38:1::/64"
-  },
-  {
-    "id": "he_EPIX.Poznan",
-    "name": "EPIX.Poznan",
-    "country": "PL",
-    "city": "Poznan",
-    "region": "Europe",
-    "url": "https://www.epix.net.pl",
-    "peeringlan": "2a10:f780::/64"
   },
   {
     "id": "he_IF-IX",
@@ -4491,6 +4491,24 @@
     "peeringlan": "2001:43f8:270:d0d0::/64"
   },
   {
+    "id": "he_YXEIX",
+    "name": "YXEIX",
+    "country": "CA",
+    "city": "Saskatoon",
+    "region": "North America",
+    "url": "http://yxeix.ca",
+    "peeringlan": "206.71.11.0/24"
+  },
+  {
+    "id": "he_YXEIX",
+    "name": "YXEIX",
+    "country": "CA",
+    "city": "Saskatoon",
+    "region": "North America",
+    "url": "http://yxeix.ca",
+    "peeringlan": "2001:504:69::/48"
+  },
+  {
     "id": "he_HFXIX",
     "name": "HFXIX",
     "country": "CA",
@@ -4552,24 +4570,6 @@
     "region": "Africa",
     "url": "https://www.ams-ix.net/dji",
     "peeringlan": "2001:43f8:9c0:1000::/64"
-  },
-  {
-    "id": "he_YXEIX",
-    "name": "YXEIX",
-    "country": "CA",
-    "city": "Saskatoon",
-    "region": "North America",
-    "url": "http://yxeix.ca",
-    "peeringlan": "206.71.11.0/24"
-  },
-  {
-    "id": "he_YXEIX",
-    "name": "YXEIX",
-    "country": "CA",
-    "city": "Saskatoon",
-    "region": "North America",
-    "url": "http://yxeix.ca",
-    "peeringlan": "2001:504:69::/48"
   },
   {
     "id": "he_RomandIX",
@@ -5022,6 +5022,24 @@
     "peeringlan": "2001:7f8:54:7::/64"
   },
   {
+    "id": "he_MegaIX%20Bay%20Area",
+    "name": "MegaIX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "http://megaport.com",
+    "peeringlan": "206.53.206.128/25"
+  },
+  {
+    "id": "he_MegaIX%20Bay%20Area",
+    "name": "MegaIX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "http://megaport.com",
+    "peeringlan": "2606:a980:0:e::/64"
+  },
+  {
     "id": "he_NIX2",
     "name": "NIX2",
     "country": "NO",
@@ -5263,24 +5281,6 @@
     "region": "North America",
     "url": "https://www.iX-OKC.net",
     "peeringlan": "2001:504:92::/64"
-  },
-  {
-    "id": "he_MegaIX%20Bay%20Area",
-    "name": "MegaIX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "http://megaport.com",
-    "peeringlan": "206.53.206.128/25"
-  },
-  {
-    "id": "he_MegaIX%20Bay%20Area",
-    "name": "MegaIX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "http://megaport.com",
-    "peeringlan": "2606:a980:0:e::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Phoenix",
