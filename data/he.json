@@ -936,24 +936,6 @@
     "peeringlan": "2001:504:125:e1::/64"
   },
   {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "212.91.0.0/22"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "2001:7f8:60::/48"
-  },
-  {
     "id": "he_NIXI%20Mumbai",
     "name": "NIXI Mumbai",
     "country": "IN",
@@ -981,22 +963,22 @@
     "peeringlan": "2001:de8:1:1::/64"
   },
   {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "206.41.108.0/24"
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "212.91.0.0/22"
   },
   {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "2001:504:40:108::/64"
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "2001:7f8:60::/48"
   },
   {
     "id": "he_BIX%20Jakarta",
@@ -1024,6 +1006,24 @@
     "region": "Asia Pacific",
     "url": "http://bix.id",
     "peeringlan": "2001:de8:11:3806:60::/80"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "206.41.108.0/24"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "2001:504:40:108::/64"
   },
   {
     "id": "he_JINX",
@@ -1341,6 +1341,24 @@
     "peeringlan": "2001:7f8:58::/64"
   },
   {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "202.77.88.0/23"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:5::/64"
+  },
+  {
     "id": "he_1-IX%20Internet%20Exchange",
     "name": "1-IX Internet Exchange",
     "country": "UA",
@@ -1366,24 +1384,6 @@
     "region": "Europe",
     "url": "http://1-ix.net",
     "peeringlan": "2001:7f8:14d::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "202.77.88.0/23"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:5::/64"
   },
   {
     "id": "he_NIXI%20Delhi",
@@ -3690,6 +3690,33 @@
     "peeringlan": "2001:504:26::/64"
   },
   {
+    "id": "he_NIXI%20Kolkata",
+    "name": "NIXI Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/kolkata",
+    "peeringlan": "218.100.48.192/26"
+  },
+  {
+    "id": "he_NIXI%20Kolkata",
+    "name": "NIXI Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/kolkata",
+    "peeringlan": "103.218.246.0/24"
+  },
+  {
+    "id": "he_NIXI%20Kolkata",
+    "name": "NIXI Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/kolkata",
+    "peeringlan": "2001:de8:1:5::/64"
+  },
+  {
     "id": "he_LITIX",
     "name": "LITIX",
     "country": "LT",
@@ -3796,33 +3823,6 @@
     "region": "Europe",
     "url": "http://www.n-ix.net",
     "peeringlan": "2001:7f8:29:1::/64"
-  },
-  {
-    "id": "he_NIXI%20Kolkata",
-    "name": "NIXI Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/kolkata",
-    "peeringlan": "218.100.48.192/26"
-  },
-  {
-    "id": "he_NIXI%20Kolkata",
-    "name": "NIXI Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/kolkata",
-    "peeringlan": "103.218.246.0/24"
-  },
-  {
-    "id": "he_NIXI%20Kolkata",
-    "name": "NIXI Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/kolkata",
-    "peeringlan": "2001:de8:1:5::/64"
   },
   {
     "id": "he_EPIX.Poznan",
@@ -5535,6 +5535,24 @@
     "peeringlan": "201.182.132.0/24"
   },
   {
+    "id": "he_Free-IX%20Greece",
+    "name": "Free-IX Greece",
+    "country": "GR",
+    "city": "Thessaloniki & Athens",
+    "region": "Europe",
+    "url": "https://free-ix.gr/",
+    "peeringlan": "195.60.80.0/26"
+  },
+  {
+    "id": "he_Free-IX%20Greece",
+    "name": "Free-IX Greece",
+    "country": "GR",
+    "city": "Thessaloniki & Athens",
+    "region": "Europe",
+    "url": "https://free-ix.gr/",
+    "peeringlan": "2001:7f8:116::/64"
+  },
+  {
     "id": "he_DE-CIX%20Singapore",
     "name": "DE-CIX Singapore",
     "country": "SG",
@@ -5758,24 +5776,6 @@
     "region": "North America",
     "url": "http://www.desmoinesix.net",
     "peeringlan": "2001:504:110::/64"
-  },
-  {
-    "id": "he_Free-IX%20Greece",
-    "name": "Free-IX Greece",
-    "country": "GR",
-    "city": "Thessaloniki & Athens",
-    "region": "Europe",
-    "url": "https://free-ix.gr/",
-    "peeringlan": "195.60.80.0/26"
-  },
-  {
-    "id": "he_Free-IX%20Greece",
-    "name": "Free-IX Greece",
-    "country": "GR",
-    "city": "Thessaloniki & Athens",
-    "region": "Europe",
-    "url": "https://free-ix.gr/",
-    "peeringlan": "2001:7f8:116::/64"
   },
   {
     "id": "he_COIX",
