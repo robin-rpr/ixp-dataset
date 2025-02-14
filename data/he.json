@@ -1323,24 +1323,6 @@
     "peeringlan": "2001:7f8:36::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "202.77.88.0/23"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:5::/64"
-  },
-  {
     "id": "he_BIX.BG",
     "name": "BIX.BG",
     "country": "BG",
@@ -1357,6 +1339,24 @@
     "region": "Europe",
     "url": "https://www.bix.bg/",
     "peeringlan": "2001:7f8:58::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "202.77.88.0/23"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:5::/64"
   },
   {
     "id": "he_1-IX%20Internet%20Exchange",
@@ -1413,6 +1413,24 @@
     "peeringlan": "2001:DE8:1::/64"
   },
   {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "206.197.187.0/24"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "2001:504:30::/48"
+  },
+  {
     "id": "he_SBIX",
     "name": "SBIX",
     "country": "CH",
@@ -1438,24 +1456,6 @@
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:1::/64"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "206.197.187.0/24"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "2001:504:30::/48"
   },
   {
     "id": "he_UNMETERED%20Exchange",
@@ -2457,24 +2457,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "103.136.102.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:3::/64"
-  },
-  {
     "id": "he_QCIX",
     "name": "QCIX",
     "country": "US",
@@ -2538,6 +2520,42 @@
     "peeringlan": "2001:7f8:d5::/64"
   },
   {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "103.136.102.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "149.112.11.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "2001:504:102::/64"
+  },
+  {
     "id": "he_BKNIX",
     "name": "BKNIX",
     "country": "TH",
@@ -2599,24 +2617,6 @@
     "region": "Europe",
     "url": "http://www.fixo.no",
     "peeringlan": "2001:7f8:41::/48"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "149.112.11.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "2001:504:102::/64"
   },
   {
     "id": "he_SOLIX",
@@ -6219,24 +6219,6 @@
     "peeringlan": "2001:504:131::/64"
   },
   {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
-  },
-  {
     "id": "he_MARTINIX",
     "name": "MARTINIX",
     "country": "MQ",
@@ -6298,6 +6280,24 @@
     "region": "North America",
     "url": "https://48ix.net",
     "peeringlan": "2001:504:14::/64"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_NYIIX%20Philadelphia",
