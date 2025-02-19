@@ -1170,6 +1170,15 @@
     "peeringlan": "2a0d:e180::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_DE-CIX%20Dallas",
     "name": "DE-CIX Dallas",
     "country": "US",
@@ -1186,15 +1195,6 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/dallas",
     "peeringlan": "2001:504:61::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_VIX",
@@ -2457,24 +2457,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_QCIX",
-    "name": "QCIX",
-    "country": "US",
-    "city": "Davenport",
-    "region": "North America",
-    "url": "http://www.qcix.net",
-    "peeringlan": "206.83.43.0/24"
-  },
-  {
-    "id": "he_QCIX",
-    "name": "QCIX",
-    "country": "US",
-    "city": "Davenport",
-    "region": "North America",
-    "url": "http://www.qcix.net",
-    "peeringlan": "2001:504:9b::/64"
-  },
-  {
     "id": "he_Phoenix%20IX",
     "name": "Phoenix IX",
     "country": "US",
@@ -2536,6 +2518,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_QCIX",
+    "name": "QCIX",
+    "country": "US",
+    "city": "Davenport",
+    "region": "North America",
+    "url": "http://www.qcix.net",
+    "peeringlan": "206.83.43.0/24"
+  },
+  {
+    "id": "he_QCIX",
+    "name": "QCIX",
+    "country": "US",
+    "city": "Davenport",
+    "region": "North America",
+    "url": "http://www.qcix.net",
+    "peeringlan": "2001:504:9b::/64"
   },
   {
     "id": "he_DE-CIX%20Chicago",
@@ -3825,6 +3825,15 @@
     "peeringlan": "2001:7f8:29:1::/64"
   },
   {
+    "id": "he_EPIX.Poznan",
+    "name": "EPIX.Poznan",
+    "country": "PL",
+    "city": "Poznan",
+    "region": "Europe",
+    "url": "https://www.epix.net.pl",
+    "peeringlan": "2a10:f780::/64"
+  },
+  {
     "id": "he_NetIX%20Greece",
     "name": "NetIX Greece",
     "country": "GR",
@@ -3841,33 +3850,6 @@
     "region": "Europe",
     "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
     "peeringlan": "2001:7f8:148::/64"
-  },
-  {
-    "id": "he_EPIX.Poznan",
-    "name": "EPIX.Poznan",
-    "country": "PL",
-    "city": "Poznan",
-    "region": "Europe",
-    "url": "https://www.epix.net.pl",
-    "peeringlan": "2a10:f780::/64"
-  },
-  {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "206.108.115.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "2001:504:38:1::/64"
   },
   {
     "id": "he_IF-IX",
@@ -3940,6 +3922,24 @@
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:5::/64"
+  },
+  {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "206.108.115.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "2001:504:38:1::/64"
   },
   {
     "id": "he_RIX",
@@ -4788,6 +4788,24 @@
     "peeringlan": "2606:a980:0:4::/64"
   },
   {
+    "id": "he_Tirol-IX",
+    "name": "Tirol-IX",
+    "country": "AT",
+    "city": "Innsbruck",
+    "region": "Europe",
+    "url": "http://www.tirol-ix.at/",
+    "peeringlan": "185.1.31.0/24"
+  },
+  {
+    "id": "he_Tirol-IX",
+    "name": "Tirol-IX",
+    "country": "AT",
+    "city": "Innsbruck",
+    "region": "Europe",
+    "url": "http://www.tirol-ix.at/",
+    "peeringlan": "2001:7f8:8d::/64"
+  },
+  {
     "id": "he_Kremen-IX",
     "name": "Kremen-IX",
     "country": "UA",
@@ -4831,24 +4849,6 @@
     "region": "North America",
     "url": "http://megaport.com",
     "peeringlan": "2606:a980:0:e::/64"
-  },
-  {
-    "id": "he_Tirol-IX",
-    "name": "Tirol-IX",
-    "country": "AT",
-    "city": "Innsbruck",
-    "region": "Europe",
-    "url": "http://www.tirol-ix.at/",
-    "peeringlan": "185.1.31.0/24"
-  },
-  {
-    "id": "he_Tirol-IX",
-    "name": "Tirol-IX",
-    "country": "AT",
-    "city": "Innsbruck",
-    "region": "Europe",
-    "url": "http://www.tirol-ix.at/",
-    "peeringlan": "2001:7f8:8d::/64"
   },
   {
     "id": "he_IXOR",
@@ -5859,6 +5859,24 @@
     "peeringlan": "2400:d180:72::/64"
   },
   {
+    "id": "he_MegaIX%20Atlanta",
+    "name": "MegaIX Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "206.53.169.128/26"
+  },
+  {
+    "id": "he_MegaIX%20Atlanta",
+    "name": "MegaIX Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "2606:a980:0:a::/64"
+  },
+  {
     "id": "he_Ruhr-CIX",
     "name": "Ruhr-CIX",
     "country": "DE",
@@ -6064,24 +6082,6 @@
     "region": "Asia Pacific",
     "url": "http://sr-ix.asia/",
     "peeringlan": "2a00:7160:5::/64"
-  },
-  {
-    "id": "he_MegaIX%20Atlanta",
-    "name": "MegaIX Atlanta",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "https://www.megaport.com",
-    "peeringlan": "206.53.169.128/26"
-  },
-  {
-    "id": "he_MegaIX%20Atlanta",
-    "name": "MegaIX Atlanta",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "https://www.megaport.com",
-    "peeringlan": "2606:a980:0:a::/64"
   },
   {
     "id": "he_GUYANIX",
