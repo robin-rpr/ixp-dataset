@@ -954,6 +954,24 @@
     "peeringlan": "2001:7f8:60::/48"
   },
   {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "206.41.108.0/24"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "2001:504:40:108::/64"
+  },
+  {
     "id": "he_NIXI%20Mumbai",
     "name": "NIXI Mumbai",
     "country": "IN",
@@ -979,24 +997,6 @@
     "region": "Asia Pacific",
     "url": "https://ix.nixi.in/en/running-noc/mumbai2",
     "peeringlan": "2001:de8:1:1::/64"
-  },
-  {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "206.41.108.0/24"
-  },
-  {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "2001:504:40:108::/64"
   },
   {
     "id": "he_BIX%20Jakarta",
@@ -3294,24 +3294,6 @@
     "peeringlan": "2001:504:105::/64"
   },
   {
-    "id": "he_SH-IX",
-    "name": "SH-IX",
-    "country": "AE",
-    "city": "Fujairah",
-    "region": "Middle East",
-    "url": "http://www.smarthubix.ae/",
-    "peeringlan": "185.1.15.0/24"
-  },
-  {
-    "id": "he_SH-IX",
-    "name": "SH-IX",
-    "country": "AE",
-    "city": "Fujairah",
-    "region": "Middle East",
-    "url": "http://www.smarthubix.ae/",
-    "peeringlan": "2001:7f8:7a::/64"
-  },
-  {
     "id": "he_CABASE-COR",
     "name": "CABASE-COR",
     "country": "AR",
@@ -3328,6 +3310,24 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2001:13C7:600E::/64"
+  },
+  {
+    "id": "he_SH-IX",
+    "name": "SH-IX",
+    "country": "AE",
+    "city": "Fujairah",
+    "region": "Middle East",
+    "url": "http://www.smarthubix.ae/",
+    "peeringlan": "185.1.15.0/24"
+  },
+  {
+    "id": "he_SH-IX",
+    "name": "SH-IX",
+    "country": "AE",
+    "city": "Fujairah",
+    "region": "Middle East",
+    "url": "http://www.smarthubix.ae/",
+    "peeringlan": "2001:7f8:7a::/64"
   },
   {
     "id": "he_Rheintal%20IX",
@@ -4905,6 +4905,42 @@
     "peeringlan": "2001:7f8:ad::/64"
   },
   {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "23.154.112.0/26"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "149.112.114.0/24"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "2602:802:b0ff::/64"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "2001:505:140::/64"
+  },
+  {
     "id": "he_TIX",
     "name": "TIX",
     "country": "IT",
@@ -4939,6 +4975,15 @@
     "region": "Europe",
     "url": "http://www.tix.it/",
     "peeringlan": "2001:7f8:57:1000::/64"
+  },
+  {
+    "id": "he_France-IX%20Toulouse",
+    "name": "France-IX Toulouse",
+    "country": "FR",
+    "city": "Toulouse",
+    "region": "Europe",
+    "url": "https://www.franceix.net/en/pops-en/franceix-toulouse",
+    "peeringlan": "2001:7f8:54:7::/64"
   },
   {
     "id": "he_MegaIX%20New%20York",
@@ -5011,51 +5056,6 @@
     "region": "North America",
     "url": "http://www.abqix.net",
     "peeringlan": "2001:504:9a::/64"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "23.154.112.0/26"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "149.112.114.0/24"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "2602:802:b0ff::/64"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "2001:505:140::/64"
-  },
-  {
-    "id": "he_France-IX%20Toulouse",
-    "name": "France-IX Toulouse",
-    "country": "FR",
-    "city": "Toulouse",
-    "region": "Europe",
-    "url": "https://www.franceix.net/en/pops-en/franceix-toulouse",
-    "peeringlan": "2001:7f8:54:7::/64"
   },
   {
     "id": "he_NIX2",
@@ -5877,6 +5877,24 @@
     "peeringlan": "2606:a980:0:a::/64"
   },
   {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
+  },
+  {
     "id": "he_Ruhr-CIX",
     "name": "Ruhr-CIX",
     "country": "DE",
@@ -6280,24 +6298,6 @@
     "region": "North America",
     "url": "https://48ix.net",
     "peeringlan": "2001:504:14::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_NYIIX%20Philadelphia",
