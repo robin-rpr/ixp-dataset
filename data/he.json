@@ -1170,15 +1170,6 @@
     "peeringlan": "2a0d:e180::/64"
   },
   {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
-  },
-  {
     "id": "he_DE-CIX%20Dallas",
     "name": "DE-CIX Dallas",
     "country": "US",
@@ -1195,6 +1186,15 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/dallas",
     "peeringlan": "2001:504:61::/64"
+  },
+  {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_VIX",
@@ -1494,6 +1494,24 @@
     "peeringlan": "2001:7fa:7:2::/64"
   },
   {
+    "id": "he_BIX%20Budapest",
+    "name": "BIX Budapest",
+    "country": "HU",
+    "city": "Budapest",
+    "region": "Europe",
+    "url": "https://bix.hu/en",
+    "peeringlan": "193.188.137.0/24"
+  },
+  {
+    "id": "he_BIX%20Budapest",
+    "name": "BIX Budapest",
+    "country": "HU",
+    "city": "Budapest",
+    "region": "Europe",
+    "url": "https://bix.hu/en",
+    "peeringlan": "2001:7f8:35::/64"
+  },
+  {
     "id": "he_INEX",
     "name": "INEX",
     "country": "IE",
@@ -1566,24 +1584,6 @@
     "peeringlan": "2001:07F8:0018:72::/64"
   },
   {
-    "id": "he_BIX%20Budapest",
-    "name": "BIX Budapest",
-    "country": "HU",
-    "city": "Budapest",
-    "region": "Europe",
-    "url": "https://bix.hu/en",
-    "peeringlan": "193.188.137.0/24"
-  },
-  {
-    "id": "he_BIX%20Budapest",
-    "name": "BIX Budapest",
-    "country": "HU",
-    "city": "Budapest",
-    "region": "Europe",
-    "url": "https://bix.hu/en",
-    "peeringlan": "2001:7f8:35::/64"
-  },
-  {
     "id": "he_STUIX",
     "name": "STUIX",
     "country": "TW",
@@ -1629,24 +1629,6 @@
     "peeringlan": "2620:124:2000::/64"
   },
   {
-    "id": "he_UAE-IX",
-    "name": "UAE-IX",
-    "country": "AE",
-    "city": "Dubai",
-    "region": "Middle East",
-    "url": "https://www.de-cix.net/en/locations/dubai",
-    "peeringlan": "185.1.8.0/24"
-  },
-  {
-    "id": "he_UAE-IX",
-    "name": "UAE-IX",
-    "country": "AE",
-    "city": "Dubai",
-    "region": "Middle East",
-    "url": "https://www.de-cix.net/en/locations/dubai",
-    "peeringlan": "2001:7f8:73::/64"
-  },
-  {
     "id": "he_CINX",
     "name": "CINX",
     "country": "ZA",
@@ -1672,6 +1654,24 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f1:1::/64"
+  },
+  {
+    "id": "he_UAE-IX",
+    "name": "UAE-IX",
+    "country": "AE",
+    "city": "Dubai",
+    "region": "Middle East",
+    "url": "https://www.uae-ix.net/",
+    "peeringlan": "185.1.8.0/24"
+  },
+  {
+    "id": "he_UAE-IX",
+    "name": "UAE-IX",
+    "country": "AE",
+    "city": "Dubai",
+    "region": "Middle East",
+    "url": "https://www.uae-ix.net/",
+    "peeringlan": "2001:7f8:73::/64"
   },
   {
     "id": "he_AKL-IX",
@@ -3654,6 +3654,33 @@
     "peeringlan": "2001:7f8:109::/64"
   },
   {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.60.104.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.49.90.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "2001:43f8:1690::/64"
+  },
+  {
     "id": "he_MBIX",
     "name": "MBIX",
     "country": "CA",
@@ -3724,33 +3751,6 @@
     "region": "Europe",
     "url": "https://delska.com/",
     "peeringlan": "2a03:67e0:0:9::/64"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.60.104.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.49.90.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "2001:43f8:1690::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Auckland",
@@ -4237,6 +4237,33 @@
     "region": "Europe",
     "url": "https://stacix.net",
     "peeringlan": "2001:7f8:fd::/64"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "185.0.27.0/24"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_IX%20Leeds",
@@ -5263,33 +5290,6 @@
     "region": "North America",
     "url": "https://www.iX-OKC.net",
     "peeringlan": "2001:504:92::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "185.0.27.0/24"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Phoenix",
