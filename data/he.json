@@ -1170,6 +1170,15 @@
     "peeringlan": "2a0d:e180::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_DE-CIX%20Dallas",
     "name": "DE-CIX Dallas",
     "country": "US",
@@ -1186,15 +1195,6 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/dallas",
     "peeringlan": "2001:504:61::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_VIX",
@@ -2889,6 +2889,24 @@
     "peeringlan": "2001:07F8:000A:2::/64"
   },
   {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
+  },
+  {
     "id": "he_Giganet%20IXN%20Frankfurt",
     "name": "Giganet IXN Frankfurt",
     "country": "DE",
@@ -2932,24 +2950,6 @@
     "region": "Asia Pacific",
     "url": "http://www.npix.net.np/",
     "peeringlan": "2404:2C00:FFFF:E::/64"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_Asteroid%20Mombasa",
@@ -3888,24 +3888,6 @@
     "peeringlan": "2001:7f8:11b::/64"
   },
   {
-    "id": "he_GIBIRIX",
-    "name": "GIBIRIX",
-    "country": "TR",
-    "city": "\u0130stanbul",
-    "region": "Europe",
-    "url": "https://ix.gibir.net.tr",
-    "peeringlan": "185.1.221.0/24"
-  },
-  {
-    "id": "he_GIBIRIX",
-    "name": "GIBIRIX",
-    "country": "TR",
-    "city": "\u0130stanbul",
-    "region": "Europe",
-    "url": "https://ix.gibir.net.tr",
-    "peeringlan": "2001:7f8:11d::/64"
-  },
-  {
     "id": "he_SBIX%20FRE",
     "name": "SBIX FRE",
     "country": "US",
@@ -4050,6 +4032,24 @@
     "peeringlan": "2001:7f8:b6::/64"
   },
   {
+    "id": "he_GIBIRIX",
+    "name": "GIBIRIX",
+    "country": "TR",
+    "city": "\u0130stanbul",
+    "region": "Europe",
+    "url": "https://ix.gibir.net.tr",
+    "peeringlan": "185.1.221.0/24"
+  },
+  {
+    "id": "he_GIBIRIX",
+    "name": "GIBIRIX",
+    "country": "TR",
+    "city": "\u0130stanbul",
+    "region": "Europe",
+    "url": "https://ix.gibir.net.tr",
+    "peeringlan": "2001:7f8:11d::/64"
+  },
+  {
     "id": "he_SOX%20Singapore",
     "name": "SOX Singapore",
     "country": "SG",
@@ -4120,6 +4120,33 @@
     "region": "Europe",
     "url": "http://www.sthix.net",
     "peeringlan": "2001:7f8:b0::/64"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "185.0.27.0/24"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_DE-CIX%20Palermo",
@@ -4237,33 +4264,6 @@
     "region": "Europe",
     "url": "https://stacix.net",
     "peeringlan": "2001:7f8:fd::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "185.0.27.0/24"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_IX%20Leeds",
