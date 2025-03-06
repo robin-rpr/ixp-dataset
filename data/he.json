@@ -1152,6 +1152,15 @@
     "peeringlan": "2001:67c:29f0::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_Eurasia%20Peering%20IX",
     "name": "Eurasia Peering IX",
     "country": "RU",
@@ -1168,15 +1177,6 @@
     "region": "Europe",
     "url": "https://www.eurasiapeering.com/",
     "peeringlan": "2a0d:e180::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_DE-CIX%20Dallas",
@@ -1674,6 +1674,24 @@
     "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
+  },
+  {
     "id": "he_AKL-IX",
     "name": "AKL-IX",
     "country": "NZ",
@@ -1771,24 +1789,6 @@
     "region": "Africa",
     "url": "https://www.inx.net.za/",
     "peeringlan": "2001:43f8:1f2::/64"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
     "id": "he_YYCIX",
@@ -2016,24 +2016,6 @@
     "peeringlan": "2001:504:40:12::/64"
   },
   {
-    "id": "he_STLIX",
-    "name": "STLIX",
-    "country": "US",
-    "city": "Saint Louis",
-    "region": "North America",
-    "url": "http://www.stlix.net",
-    "peeringlan": "206.83.12.0/24"
-  },
-  {
-    "id": "he_STLIX",
-    "name": "STLIX",
-    "country": "US",
-    "city": "Saint Louis",
-    "region": "North America",
-    "url": "http://www.stlix.net",
-    "peeringlan": "2001:504:98::/64"
-  },
-  {
     "id": "he_Digital%20Realty%20%7C%20Telx%20New%20York",
     "name": "Digital Realty | Telx New York",
     "country": "US",
@@ -2077,6 +2059,24 @@
     "region": "Europe",
     "url": "https://www.b-ix.net/",
     "peeringlan": "2001:7f8:8e::/48"
+  },
+  {
+    "id": "he_STLIX",
+    "name": "STLIX",
+    "country": "US",
+    "city": "Saint Louis",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "206.83.12.0/24"
+  },
+  {
+    "id": "he_STLIX",
+    "name": "STLIX",
+    "country": "US",
+    "city": "Saint Louis",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "2001:504:98::/64"
   },
   {
     "id": "he_Sibir-IX",
@@ -2691,24 +2691,6 @@
     "peeringlan": "2001:dea:0:50::/64"
   },
   {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "185.1.104.0/24"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "2001:7f8:be::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Melbourne",
     "name": "EdgeIX - Melbourne",
     "country": "AU",
@@ -2734,6 +2716,24 @@
     "region": "Europe",
     "url": "https://piter-ix.ru",
     "peeringlan": "193.27.38.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "185.1.104.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "2001:7f8:be::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Warsaw",
@@ -4338,24 +4338,6 @@
     "peeringlan": "2001:504:60::/48"
   },
   {
-    "id": "he_TREX",
-    "name": "TREX",
-    "country": "FI",
-    "city": "Tampere",
-    "region": "Europe",
-    "url": "http://www.trex.fi/",
-    "peeringlan": "195.140.192.0/24"
-  },
-  {
-    "id": "he_TREX",
-    "name": "TREX",
-    "country": "FI",
-    "city": "Tampere",
-    "region": "Europe",
-    "url": "http://www.trex.fi/",
-    "peeringlan": "2001:7f8:1d:4::/64"
-  },
-  {
     "id": "he_NIXI%20Hyderabad",
     "name": "NIXI Hyderabad",
     "country": "IN",
@@ -4408,6 +4390,24 @@
     "region": "North America",
     "url": "https://www.ams-ix.net/bay",
     "peeringlan": "2001:504:3d:1::/64"
+  },
+  {
+    "id": "he_TREX",
+    "name": "TREX",
+    "country": "FI",
+    "city": "Tampere",
+    "region": "Europe",
+    "url": "http://www.trex.fi/",
+    "peeringlan": "195.140.192.0/24"
+  },
+  {
+    "id": "he_TREX",
+    "name": "TREX",
+    "country": "FI",
+    "city": "Tampere",
+    "region": "Europe",
+    "url": "http://www.trex.fi/",
+    "peeringlan": "2001:7f8:1d:4::/64"
   },
   {
     "id": "he_Breizh-IX",

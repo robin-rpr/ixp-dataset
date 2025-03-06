@@ -204,7 +204,7 @@
     "city": "Seattle",
     "region": "North America",
     "url": "https://www.seattleix.net/",
-    "peeringlan": "206.81.80.0/23"
+    "peeringlan": "2001:504:16::/64"
   },
   {
     "id": "pdb_13",
@@ -213,7 +213,7 @@
     "city": "Seattle",
     "region": "North America",
     "url": "https://www.seattleix.net/",
-    "peeringlan": "2001:504:16::/64"
+    "peeringlan": "206.81.80.0/22"
   },
   {
     "id": "pdb_14",
@@ -7774,15 +7774,6 @@
     "region": "Asia Pacific",
     "url": "http://www.chn-ix.net",
     "peeringlan": "2405:3b01::/64"
-  },
-  {
-    "id": "pdb_1285",
-    "name": "SIX Seattle (Jumbo)-MTU 9000",
-    "country": "US",
-    "city": "Seattle",
-    "region": "North America",
-    "url": "https://www.seattleix.net/",
-    "peeringlan": "206.81.82.0/23"
   },
   {
     "id": "pdb_1285",
@@ -21481,5 +21472,14 @@
     "region": "Asia Pacific",
     "url": "http://Jetcyber.co.id",
     "peeringlan": "103.42.242.0/24"
+  },
+  {
+    "id": "pdb_4692",
+    "name": "KIXP-Nairobi",
+    "country": "KE",
+    "city": "Nairobi",
+    "region": "Africa",
+    "url": "https://www.tespok.co.ke",
+    "peeringlan": "102.213.216.0/22"
   }
 ]
