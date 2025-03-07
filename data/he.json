@@ -468,33 +468,6 @@
     "peeringlan": "185.1.222.0/23"
   },
   {
-    "id": "he_DE-CIX%20Dusseldorf",
-    "name": "DE-CIX Dusseldorf",
-    "country": "DE",
-    "city": "D\u00fcsseldorf",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/dusseldorf",
-    "peeringlan": "185.1.58.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Dusseldorf",
-    "name": "DE-CIX Dusseldorf",
-    "country": "DE",
-    "city": "D\u00fcsseldorf",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/dusseldorf",
-    "peeringlan": "185.1.170.0/23"
-  },
-  {
-    "id": "he_DE-CIX%20Dusseldorf",
-    "name": "DE-CIX Dusseldorf",
-    "country": "DE",
-    "city": "D\u00fcsseldorf",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/dusseldorf",
-    "peeringlan": "2001:7f8:9e::/64"
-  },
-  {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
     "name": "NAPAfrica IX Cape Town",
     "country": "ZA",
@@ -520,6 +493,33 @@
     "region": "Africa",
     "url": "http://www.teraco.co.za",
     "peeringlan": "2001:43f8:6d1::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Dusseldorf",
+    "name": "DE-CIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/dusseldorf",
+    "peeringlan": "185.1.58.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Dusseldorf",
+    "name": "DE-CIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/dusseldorf",
+    "peeringlan": "185.1.170.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Dusseldorf",
+    "name": "DE-CIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/dusseldorf",
+    "peeringlan": "2001:7f8:9e::/64"
   },
   {
     "id": "he_JPNAP%20Tokyo",
@@ -1152,15 +1152,6 @@
     "peeringlan": "2001:67c:29f0::/64"
   },
   {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
-  },
-  {
     "id": "he_Eurasia%20Peering%20IX",
     "name": "Eurasia Peering IX",
     "country": "RU",
@@ -1177,6 +1168,15 @@
     "region": "Europe",
     "url": "https://www.eurasiapeering.com/",
     "peeringlan": "2a0d:e180::/64"
+  },
+  {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_DE-CIX%20Dallas",
@@ -1629,6 +1629,24 @@
     "peeringlan": "2620:124:2000::/64"
   },
   {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
+  },
+  {
     "id": "he_UAE-IX",
     "name": "UAE-IX",
     "country": "AE",
@@ -1672,24 +1690,6 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f1:1::/64"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
     "id": "he_AKL-IX",
@@ -2763,6 +2763,15 @@
     "peeringlan": "2001:df0:296::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_HOUIX",
     "name": "HOUIX",
     "country": "US",
@@ -2779,15 +2788,6 @@
     "region": "North America",
     "url": "http://www.houix.net",
     "peeringlan": "2001:504:9e::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_CATNIX",
