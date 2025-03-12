@@ -167,7 +167,7 @@
     "country": "FR",
     "city": "Paris",
     "region": "Europe",
-    "url": "https://www.franceix.net/en/pops-en/france-ix-paris",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-paris/",
     "peeringlan": "37.49.236.0/22"
   },
   {
@@ -176,7 +176,7 @@
     "country": "FR",
     "city": "Paris",
     "region": "Europe",
-    "url": "https://www.franceix.net/en/pops-en/france-ix-paris",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-paris/",
     "peeringlan": "2001:7f8:54::/64"
   },
   {
@@ -1292,7 +1292,7 @@
     "country": "FR",
     "city": "Marseille",
     "region": "Europe",
-    "url": "https://www.franceix.net/en/france-ix-marseille/",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
     "peeringlan": "37.49.232.0/24"
   },
   {
@@ -1301,7 +1301,7 @@
     "country": "FR",
     "city": "Marseille",
     "region": "Europe",
-    "url": "https://www.franceix.net/en/france-ix-marseille/",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
     "peeringlan": "2001:7f8:54:5::/64"
   },
   {
@@ -1359,24 +1359,6 @@
     "peeringlan": "2001:7f8:58::/64"
   },
   {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
     "id": "he_NIXI%20Delhi",
     "name": "NIXI Delhi",
     "country": "IN",
@@ -1402,6 +1384,24 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/delhi-noida",
     "peeringlan": "2001:DE8:1::/64"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
     "id": "he_1-IX%20Internet%20Exchange",
@@ -1728,24 +1728,6 @@
     "peeringlan": "2001:7fa:11:1::/64"
   },
   {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "103.104.19.0/24"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "2401:fdc0::/64"
-  },
-  {
     "id": "he_TOP-IX",
     "name": "TOP-IX",
     "country": "IT",
@@ -1771,6 +1753,24 @@
     "region": "Europe",
     "url": "http://www.top-ix.org",
     "peeringlan": "2001:7f8:23:ffff::/64"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "103.104.19.0/24"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "2401:fdc0::/64"
   },
   {
     "id": "he_DINX",
@@ -1980,24 +1980,6 @@
     "peeringlan": "2001:7fa:11::/64"
   },
   {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "223.31.200.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "2001:e48:44:100b::/64"
-  },
-  {
     "id": "he_CIX-ATL",
     "name": "CIX-ATL",
     "country": "US",
@@ -2014,6 +1996,24 @@
     "region": "North America",
     "url": "http://www.communityix.org",
     "peeringlan": "2001:504:40:12::/64"
+  },
+  {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "223.31.200.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "2001:e48:44:100b::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20New%20York",
@@ -3411,24 +3411,6 @@
     "peeringlan": "2001:504:77::/64"
   },
   {
-    "id": "he_IX%20Australia%20SA",
-    "name": "IX Australia SA",
-    "country": "AU",
-    "city": "Adelaide",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.54.0/25"
-  },
-  {
-    "id": "he_IX%20Australia%20SA",
-    "name": "IX Australia SA",
-    "country": "AU",
-    "city": "Adelaide",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:3::/64"
-  },
-  {
     "id": "he_DE-CIX%20Phoenix",
     "name": "DE-CIX Phoenix",
     "country": "US",
@@ -3445,6 +3427,24 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/phoenix",
     "peeringlan": "2001:504:116::/64"
+  },
+  {
+    "id": "he_IX%20Australia%20SA",
+    "name": "IX Australia SA",
+    "country": "AU",
+    "city": "Adelaide",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.54.0/25"
+  },
+  {
+    "id": "he_IX%20Australia%20SA",
+    "name": "IX Australia SA",
+    "country": "AU",
+    "city": "Adelaide",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:3::/64"
   },
   {
     "id": "he_Lillix",
@@ -3978,6 +3978,24 @@
     "peeringlan": "2001:43f8:130::/64"
   },
   {
+    "id": "he_ArmIX",
+    "name": "ArmIX",
+    "country": "AM",
+    "city": "Yerevan",
+    "region": "Europe",
+    "url": "http://armix.am",
+    "peeringlan": "91.218.4.0/22"
+  },
+  {
+    "id": "he_ArmIX",
+    "name": "ArmIX",
+    "country": "AM",
+    "city": "Yerevan",
+    "region": "Europe",
+    "url": "http://armix.am",
+    "peeringlan": "2001:7f8:94::/64"
+  },
+  {
     "id": "he_RED-IX",
     "name": "RED-IX",
     "country": "RU",
@@ -4066,24 +4084,6 @@
     "region": "Asia Pacific",
     "url": "http://www.sox.net.sg/",
     "peeringlan": "2001:de8:d::/64"
-  },
-  {
-    "id": "he_ArmIX",
-    "name": "ArmIX",
-    "country": "AM",
-    "city": "Yerevan",
-    "region": "Europe",
-    "url": "http://armix.am",
-    "peeringlan": "91.218.4.0/22"
-  },
-  {
-    "id": "he_ArmIX",
-    "name": "ArmIX",
-    "country": "AM",
-    "city": "Yerevan",
-    "region": "Europe",
-    "url": "http://armix.am",
-    "peeringlan": "2001:7f8:94::/64"
   },
   {
     "id": "he_CABASE-MZA",
@@ -5045,7 +5045,7 @@
     "country": "FR",
     "city": "Toulouse",
     "region": "Europe",
-    "url": "https://www.franceix.net/en/pops-en/franceix-toulouse",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-toulouse/",
     "peeringlan": "2001:7f8:54:7::/64"
   },
   {
