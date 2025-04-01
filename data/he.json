@@ -1107,6 +1107,24 @@
     "peeringlan": "2001:504:91::9/64"
   },
   {
+    "id": "he_MICE",
+    "name": "MICE",
+    "country": "US",
+    "city": "Minneapolis",
+    "region": "North America",
+    "url": "https://micemn.net",
+    "peeringlan": "206.108.255.0/24"
+  },
+  {
+    "id": "he_MICE",
+    "name": "MICE",
+    "country": "US",
+    "city": "Minneapolis",
+    "region": "North America",
+    "url": "https://micemn.net",
+    "peeringlan": "2001:504:27::/64"
+  },
+  {
     "id": "he_NetIX",
     "name": "NetIX",
     "country": "BG",
@@ -1132,24 +1150,6 @@
     "region": "Europe",
     "url": "http://www.netix.net",
     "peeringlan": "2001:67c:29f0::/64"
-  },
-  {
-    "id": "he_MICE",
-    "name": "MICE",
-    "country": "US",
-    "city": "Minneapolis",
-    "region": "North America",
-    "url": "https://micemn.net",
-    "peeringlan": "206.108.255.0/24"
-  },
-  {
-    "id": "he_MICE",
-    "name": "MICE",
-    "country": "US",
-    "city": "Minneapolis",
-    "region": "North America",
-    "url": "https://micemn.net",
-    "peeringlan": "2001:504:27::/64"
   },
   {
     "id": "he_Eurasia%20Peering%20IX",
@@ -1305,24 +1305,6 @@
     "peeringlan": "2001:7f8:54:5::/64"
   },
   {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
     "id": "he_DE-CIX%20Marseille",
     "name": "DE-CIX Marseille",
     "country": "FR",
@@ -1341,24 +1323,6 @@
     "peeringlan": "2001:7f8:36::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "202.77.88.0/23"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:5::/64"
-  },
-  {
     "id": "he_BIX.BG",
     "name": "BIX.BG",
     "country": "BG",
@@ -1375,6 +1339,42 @@
     "region": "Europe",
     "url": "https://www.bix.bg/",
     "peeringlan": "2001:7f8:58::/64"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "202.77.88.0/23"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:5::/64"
   },
   {
     "id": "he_NIXI%20Delhi",
@@ -3717,6 +3717,24 @@
     "peeringlan": "2001:504:26::/64"
   },
   {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.172.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:5::/64"
+  },
+  {
     "id": "he_NIXI%20Kolkata",
     "name": "NIXI Kolkata",
     "country": "IN",
@@ -3805,24 +3823,6 @@
     "region": "Europe",
     "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
     "peeringlan": "2001:7f8:148::/64"
-  },
-  {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.172.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:5::/64"
   },
   {
     "id": "he_SAIX",
