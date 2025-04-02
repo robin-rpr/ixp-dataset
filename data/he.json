@@ -1323,42 +1323,6 @@
     "peeringlan": "2001:7f8:36::/64"
   },
   {
-    "id": "he_BIX.BG",
-    "name": "BIX.BG",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.bix.bg/",
-    "peeringlan": "193.169.198.0/23"
-  },
-  {
-    "id": "he_BIX.BG",
-    "name": "BIX.BG",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.bix.bg/",
-    "peeringlan": "2001:7f8:58::/64"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Sydney",
     "name": "EdgeIX - Sydney",
     "country": "AU",
@@ -1375,6 +1339,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:5::/64"
+  },
+  {
+    "id": "he_BIX.BG",
+    "name": "BIX.BG",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.bix.bg/",
+    "peeringlan": "193.169.198.0/23"
+  },
+  {
+    "id": "he_BIX.BG",
+    "name": "BIX.BG",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.bix.bg/",
+    "peeringlan": "2001:7f8:58::/64"
   },
   {
     "id": "he_NIXI%20Delhi",
@@ -1402,6 +1384,24 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/delhi-noida",
     "peeringlan": "2001:DE8:1::/64"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
     "id": "he_1-IX%20Internet%20Exchange",
@@ -2115,6 +2115,24 @@
     "peeringlan": "2001:7f8:ac:142::/64"
   },
   {
+    "id": "he_IX%20Australia%20QLD",
+    "name": "IX Australia QLD",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.76.0/24"
+  },
+  {
+    "id": "he_IX%20Australia%20QLD",
+    "name": "IX Australia QLD",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:2::/64"
+  },
+  {
     "id": "he_VANIX",
     "name": "VANIX",
     "country": "CA",
@@ -2176,24 +2194,6 @@
     "region": "Australia",
     "url": "http://wix.nzix.net/",
     "peeringlan": "2001:7fa:3:ca07::/64"
-  },
-  {
-    "id": "he_IX%20Australia%20QLD",
-    "name": "IX Australia QLD",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.76.0/24"
-  },
-  {
-    "id": "he_IX%20Australia%20QLD",
-    "name": "IX Australia QLD",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:2::/64"
   },
   {
     "id": "he_GPC%20Missouri",
@@ -2763,15 +2763,6 @@
     "peeringlan": "2001:504:9e::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
-  },
-  {
     "id": "he_AMS-IX%20Hong%20Kong",
     "name": "AMS-IX Hong Kong",
     "country": "HK",
@@ -2788,6 +2779,15 @@
     "region": "Asia Pacific",
     "url": "http://www.ams-ix.hk",
     "peeringlan": "2001:df0:296::/64"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_CATNIX",
