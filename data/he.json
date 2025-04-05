@@ -441,15 +441,6 @@
     "peeringlan": "2001:504:36::/64"
   },
   {
-    "id": "he_SPEED-IX",
-    "name": "SPEED-IX",
-    "country": "NL",
-    "city": "Dronten",
-    "region": "Europe",
-    "url": "https://speed-ix.net",
-    "peeringlan": "185.1.222.0/23"
-  },
-  {
     "id": "he_DTEL-IX",
     "name": "DTEL-IX",
     "country": "UA",
@@ -466,6 +457,15 @@
     "region": "Europe",
     "url": "https://dtel-ix.net/en/",
     "peeringlan": "2001:7f8:63::/64"
+  },
+  {
+    "id": "he_SPEED-IX",
+    "name": "SPEED-IX",
+    "country": "NL",
+    "city": "Dronten",
+    "region": "Europe",
+    "url": "https://speed-ix.net",
+    "peeringlan": "185.1.222.0/23"
   },
   {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
@@ -594,6 +594,24 @@
     "peeringlan": "2001:504:1a::34:0/111"
   },
   {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "206.51.7.0/24"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "2001:504:1B:1::/64"
+  },
+  {
     "id": "he_DE-CIX%20Munich",
     "name": "DE-CIX Munich",
     "country": "DE",
@@ -619,24 +637,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/munich",
     "peeringlan": "2001:7f8:44::/64"
-  },
-  {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "206.51.7.0/24"
-  },
-  {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "2001:504:1B:1::/64"
   },
   {
     "id": "he_DE-CIX%20Madrid",
@@ -1458,15 +1458,6 @@
     "peeringlan": "2001:7f8:58::/64"
   },
   {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
-  },
-  {
     "id": "he_SFMIX",
     "name": "SFMIX",
     "country": "US",
@@ -1483,6 +1474,15 @@
     "region": "North America",
     "url": "https://sfmix.org/",
     "peeringlan": "2001:504:30::/48"
+  },
+  {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_JPNAP%20Osaka",
@@ -2538,6 +2538,24 @@
     "peeringlan": "2001:504:3b:1::/64"
   },
   {
+    "id": "he_NIX.SK",
+    "name": "NIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.nix.sk/sk",
+    "peeringlan": "194.30.187.0/24"
+  },
+  {
+    "id": "he_NIX.SK",
+    "name": "NIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.nix.sk/sk",
+    "peeringlan": "2001:7f8:91::/64"
+  },
+  {
     "id": "he_BKNIX",
     "name": "BKNIX",
     "country": "TH",
@@ -2563,24 +2581,6 @@
     "region": "Asia Pacific",
     "url": "https://bknix.co.th",
     "peeringlan": "2001:df5:b881::/64"
-  },
-  {
-    "id": "he_NIX.SK",
-    "name": "NIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.nix.sk/sk",
-    "peeringlan": "194.30.187.0/24"
-  },
-  {
-    "id": "he_NIX.SK",
-    "name": "NIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.nix.sk/sk",
-    "peeringlan": "2001:7f8:91::/64"
   },
   {
     "id": "he_SOLIX",
@@ -2781,6 +2781,24 @@
     "peeringlan": "2001:df0:296::/64"
   },
   {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
+  },
+  {
     "id": "he_Giganet%20IXN%20Frankfurt",
     "name": "Giganet IXN Frankfurt",
     "country": "DE",
@@ -2806,24 +2824,6 @@
     "region": "Europe",
     "url": "http://www.catnix.net",
     "peeringlan": "2001:7f8:2a::/64"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_CRIX",
@@ -3375,6 +3375,24 @@
     "peeringlan": "149.112.104.0/23"
   },
   {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.180.190.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
     "id": "he_Hyper%20Group%20Internet%20Exchange",
     "name": "Hyper Group Internet Exchange",
     "country": "US",
@@ -3427,24 +3445,6 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/phoenix",
     "peeringlan": "2001:504:116::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.180.190.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:11::/64"
   },
   {
     "id": "he_Lillix",
