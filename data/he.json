@@ -1458,6 +1458,15 @@
     "peeringlan": "2001:7f8:58::/64"
   },
   {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
+  },
+  {
     "id": "he_EVIX",
     "name": "EVIX",
     "country": "US",
@@ -1474,15 +1483,6 @@
     "region": "North America",
     "url": "https://evix.org",
     "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_JPNAP%20Osaka",
@@ -2727,24 +2727,6 @@
     "peeringlan": "185.1.196.0/24"
   },
   {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "185.1.104.0/24"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "2001:7f8:be::/64"
-  },
-  {
     "id": "he_HOUIX",
     "name": "HOUIX",
     "country": "US",
@@ -2761,6 +2743,24 @@
     "region": "North America",
     "url": "http://www.houix.net",
     "peeringlan": "2001:504:9e::/64"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "185.1.104.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "2001:7f8:be::/64"
   },
   {
     "id": "he_SONIX",
