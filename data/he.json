@@ -1296,6 +1296,15 @@
     "peeringlan": "2a00:1b30::/64"
   },
   {
+    "id": "he_PITER-IX%20Frankfurt",
+    "name": "PITER-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "31.44.186.0/23"
+  },
+  {
     "id": "he_EdgeIX%20-%20Sydney",
     "name": "EdgeIX - Sydney",
     "country": "AU",
@@ -1312,15 +1321,6 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:5::/64"
-  },
-  {
-    "id": "he_PITER-IX%20Frankfurt",
-    "name": "PITER-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "31.44.186.0/23"
   },
   {
     "id": "he_DE-CIX%20Marseille",
@@ -1881,6 +1881,24 @@
     "peeringlan": "2a05:5840:0:ffff::/64"
   },
   {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "206.71.12.0/24"
+  },
+  {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "2001:504:40:12::/64"
+  },
+  {
     "id": "he_DET-IX",
     "name": "DET-IX",
     "country": "US",
@@ -1906,24 +1924,6 @@
     "region": "North America",
     "url": "http://www.detroitix.com",
     "peeringlan": "2607:f790:100::/64"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "206.71.12.0/24"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "2001:504:40:12::/64"
   },
   {
     "id": "he_APE",
@@ -2349,24 +2349,6 @@
     "peeringlan": "2400:d180:68::/64"
   },
   {
-    "id": "he_DE-CIX%20Istanbul",
-    "name": "DE-CIX Istanbul",
-    "country": "TR",
-    "city": "Istanbul",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/istanbul",
-    "peeringlan": "185.1.48.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Istanbul",
-    "name": "DE-CIX Istanbul",
-    "country": "TR",
-    "city": "Istanbul",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/istanbul",
-    "peeringlan": "2001:7f8:3f::/64"
-  },
-  {
     "id": "he_PIRIX",
     "name": "PIRIX",
     "country": "RU",
@@ -2428,6 +2410,24 @@
     "region": "Europe",
     "url": "https://www.nix.no",
     "peeringlan": "2001:7f8:12:1::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Istanbul",
+    "name": "DE-CIX Istanbul",
+    "country": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/istanbul",
+    "peeringlan": "185.1.48.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Istanbul",
+    "name": "DE-CIX Istanbul",
+    "country": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/istanbul",
+    "peeringlan": "2001:7f8:3f::/64"
   },
   {
     "id": "he_NIXI%20Chennai",
@@ -4464,24 +4464,6 @@
     "peeringlan": "2001:7f8:b1::/64"
   },
   {
-    "id": "he_DE-CIX%20Malaysia",
-    "name": "DE-CIX Malaysia",
-    "country": "MY",
-    "city": "Kuala Lumpur",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/de/locations/malaysia",
-    "peeringlan": "103.119.232.0/23"
-  },
-  {
-    "id": "he_DE-CIX%20Malaysia",
-    "name": "DE-CIX Malaysia",
-    "country": "MY",
-    "city": "Kuala Lumpur",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/de/locations/malaysia",
-    "peeringlan": "2403:4ac0::/64"
-  },
-  {
     "id": "he_IXPN%20Abuja",
     "name": "IXPN Abuja",
     "country": "NG",
@@ -4498,6 +4480,24 @@
     "region": "Africa",
     "url": "http://www.ixp.net.ng",
     "peeringlan": "2001:43f8:bb1:150::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Malaysia",
+    "name": "DE-CIX Malaysia",
+    "country": "MY",
+    "city": "Kuala Lumpur",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/de/locations/malaysia",
+    "peeringlan": "103.119.232.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Malaysia",
+    "name": "DE-CIX Malaysia",
+    "country": "MY",
+    "city": "Kuala Lumpur",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/de/locations/malaysia",
+    "peeringlan": "2403:4ac0::/64"
   },
   {
     "id": "he_CABASE-NQN",
@@ -4725,6 +4725,24 @@
     "peeringlan": "2001:504:58::/64"
   },
   {
+    "id": "he_JXIX",
+    "name": "JXIX",
+    "country": "US",
+    "city": "Jacksonville",
+    "region": "North America",
+    "url": "http://jxix.org",
+    "peeringlan": "206.123.7.0/24"
+  },
+  {
+    "id": "he_JXIX",
+    "name": "JXIX",
+    "country": "US",
+    "city": "Jacksonville",
+    "region": "North America",
+    "url": "http://jxix.org",
+    "peeringlan": "2001:504:95::/64"
+  },
+  {
     "id": "he_Tirol-IX",
     "name": "Tirol-IX",
     "country": "AT",
@@ -4795,24 +4813,6 @@
     "region": "North America",
     "url": "https://www.fd-ix.com",
     "peeringlan": "2001:504:45:10::/64"
-  },
-  {
-    "id": "he_JXIX",
-    "name": "JXIX",
-    "country": "US",
-    "city": "Jacksonville",
-    "region": "North America",
-    "url": "http://jxix.org",
-    "peeringlan": "206.123.7.0/24"
-  },
-  {
-    "id": "he_JXIX",
-    "name": "JXIX",
-    "country": "US",
-    "city": "Jacksonville",
-    "region": "North America",
-    "url": "http://jxix.org",
-    "peeringlan": "2001:504:95::/64"
   },
   {
     "id": "he_Kremen-IX",
