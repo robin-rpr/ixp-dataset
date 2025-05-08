@@ -27,15 +27,6 @@
     "peeringlan": "2001:7f8:e1::/64"
   },
   {
-    "id": "he_LINX%20LON1",
-    "name": "LINX LON1",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.linx.net/",
-    "peeringlan": "195.66.224.0/21"
-  },
-  {
     "id": "he_4b42%20Internet%20Exchange%20Point",
     "name": "4b42 Internet Exchange Point",
     "country": "CH",
@@ -52,6 +43,15 @@
     "region": "Europe",
     "url": "https://www.4ixp.com",
     "peeringlan": "2001:7f8:d0::/64"
+  },
+  {
+    "id": "he_LINX%20LON1",
+    "name": "LINX LON1",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.linx.net/",
+    "peeringlan": "195.66.224.0/21"
   },
   {
     "id": "he_AMS-IX",
@@ -1701,24 +1701,6 @@
     "peeringlan": "2001:7f8:73::/64"
   },
   {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "103.158.187.0/24"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "2a0f:5707:ffe3::/64"
-  },
-  {
     "id": "he_AKL-IX",
     "name": "AKL-IX",
     "country": "NZ",
@@ -1735,6 +1717,24 @@
     "region": "Australia",
     "url": "http://www.ix.nz",
     "peeringlan": "2001:7fa:11:6::/64"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "103.158.187.0/24"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
     "id": "he_IX%20Australia%20VIC",
@@ -2727,6 +2727,15 @@
     "peeringlan": "2001:504:9e::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_SONIX",
     "name": "SONIX",
     "country": "SE",
@@ -2752,15 +2761,6 @@
     "region": "Europe",
     "url": "https://piter-ix.ru",
     "peeringlan": "193.27.38.0/24"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_Equinix%20London",
@@ -3141,15 +3141,6 @@
     "peeringlan": "2001:df0:680:11::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Odesa",
-    "name": "Giganet IXN Odesa",
-    "country": "UA",
-    "city": "Odessa",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "193.34.196.128/25"
-  },
-  {
     "id": "he_CIX",
     "name": "CIX",
     "country": "HR",
@@ -3166,6 +3157,15 @@
     "region": "Europe",
     "url": "http://www.cix.hr/",
     "peeringlan": "2001:7f8:28::/48"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Odesa",
+    "name": "Giganet IXN Odesa",
+    "country": "UA",
+    "city": "Odessa",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "193.34.196.128/25"
   },
   {
     "id": "he_OmahaIX",
