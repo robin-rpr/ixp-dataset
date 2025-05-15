@@ -549,24 +549,6 @@
     "peeringlan": "2001:b28:3ff::/64"
   },
   {
-    "id": "he_SwissIX",
-    "name": "SwissIX",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.swissix.ch/",
-    "peeringlan": "91.206.52.0/23"
-  },
-  {
-    "id": "he_SwissIX",
-    "name": "SwissIX",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.swissix.ch/",
-    "peeringlan": "2001:7f8:24::/64"
-  },
-  {
     "id": "he_TORIX",
     "name": "TORIX",
     "country": "CA",
@@ -585,22 +567,22 @@
     "peeringlan": "2001:504:1a::34:0/111"
   },
   {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
+    "id": "he_SwissIX",
+    "name": "SwissIX",
+    "country": "CH",
+    "city": "Zurich",
     "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "185.1.203.0/24"
+    "url": "https://www.swissix.ch/",
+    "peeringlan": "91.206.52.0/23"
   },
   {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
+    "id": "he_SwissIX",
+    "name": "SwissIX",
+    "country": "CH",
+    "city": "Zurich",
     "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "2001:7f8:10f::/64"
+    "url": "https://www.swissix.ch/",
+    "peeringlan": "2001:7f8:24::/64"
   },
   {
     "id": "he_KCIX",
@@ -619,6 +601,24 @@
     "region": "North America",
     "url": "http://www.kcix.net/",
     "peeringlan": "2001:504:1B:1::/64"
+  },
+  {
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
+    "region": "Europe",
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "185.1.203.0/24"
+  },
+  {
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
+    "region": "Europe",
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "2001:7f8:10f::/64"
   },
   {
     "id": "he_DE-CIX%20Munich",
@@ -1368,33 +1368,6 @@
     "peeringlan": "2001:DE8:1::/64"
   },
   {
-    "id": "he_SBIX",
-    "name": "SBIX",
-    "country": "CH",
-    "city": "Lupfig",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "185.1.135.0/24"
-  },
-  {
-    "id": "he_SBIX",
-    "name": "SBIX",
-    "country": "CH",
-    "city": "Lupfig",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:5b::/64"
-  },
-  {
-    "id": "he_SBIX",
-    "name": "SBIX",
-    "country": "CH",
-    "city": "Lupfig",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:1::/64"
-  },
-  {
     "id": "he_1-IX%20Internet%20Exchange",
     "name": "1-IX Internet Exchange",
     "country": "UA",
@@ -1422,24 +1395,6 @@
     "peeringlan": "2001:7f8:14d::/64"
   },
   {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "206.197.187.0/24"
-  },
-  {
-    "id": "he_SFMIX",
-    "name": "SFMIX",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://sfmix.org/",
-    "peeringlan": "2001:504:30::/48"
-  },
-  {
     "id": "he_TOP-IX",
     "name": "TOP-IX",
     "country": "IT",
@@ -1465,6 +1420,51 @@
     "region": "Europe",
     "url": "http://www.top-ix.org",
     "peeringlan": "2001:7f8:23:ffff::/64"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "206.197.187.0/24"
+  },
+  {
+    "id": "he_SFMIX",
+    "name": "SFMIX",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://sfmix.org/",
+    "peeringlan": "2001:504:30::/48"
+  },
+  {
+    "id": "he_SBIX",
+    "name": "SBIX",
+    "country": "CH",
+    "city": "Lupfig",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "185.1.135.0/24"
+  },
+  {
+    "id": "he_SBIX",
+    "name": "SBIX",
+    "country": "CH",
+    "city": "Lupfig",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:5b::/64"
+  },
+  {
+    "id": "he_SBIX",
+    "name": "SBIX",
+    "country": "CH",
+    "city": "Lupfig",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:1::/64"
   },
   {
     "id": "he_UNMETERED%20Exchange",
@@ -2457,6 +2457,24 @@
     "peeringlan": "2001:7f8:3f::/64"
   },
   {
+    "id": "he_SIX.SK",
+    "name": "SIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.six.sk/",
+    "peeringlan": "192.108.148.0/24"
+  },
+  {
+    "id": "he_SIX.SK",
+    "name": "SIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.six.sk/",
+    "peeringlan": "2001:7f8:2f::/64"
+  },
+  {
     "id": "he_QCIX",
     "name": "QCIX",
     "country": "US",
@@ -2475,22 +2493,31 @@
     "peeringlan": "2001:504:9b::/64"
   },
   {
-    "id": "he_SIX.SK",
-    "name": "SIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.six.sk/",
-    "peeringlan": "192.108.148.0/24"
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "203.159.68.0/23"
   },
   {
-    "id": "he_SIX.SK",
-    "name": "SIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.six.sk/",
-    "peeringlan": "2001:7f8:2f::/64"
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "2001:deb:0:68::/64"
+  },
+  {
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "2001:df5:b881::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Perth",
@@ -2536,33 +2563,6 @@
     "region": "North America",
     "url": "http://www.phoenix-ix.net",
     "peeringlan": "2001:504:3b:1::/64"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "203.159.68.0/23"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "2001:deb:0:68::/64"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "2001:df5:b881::/64"
   },
   {
     "id": "he_NIX.SK",
@@ -2673,24 +2673,6 @@
     "peeringlan": "2001:7f8:21:11::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Melbourne",
-    "name": "EdgeIX - Melbourne",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "202.77.90.0/23"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Melbourne",
-    "name": "EdgeIX - Melbourne",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:6::/64"
-  },
-  {
     "id": "he_SONIX",
     "name": "SONIX",
     "country": "SE",
@@ -2707,6 +2689,24 @@
     "region": "Europe",
     "url": "https://sonix.network",
     "peeringlan": "2001:7f8:117::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Melbourne",
+    "name": "EdgeIX - Melbourne",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "202.77.90.0/23"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Melbourne",
+    "name": "EdgeIX - Melbourne",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:6::/64"
   },
   {
     "id": "he_FIXO",
@@ -3069,6 +3069,24 @@
     "peeringlan": "2001:7F8:1F::/48"
   },
   {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.180.190.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
     "id": "he_LL-IX",
     "name": "LL-IX",
     "country": "PL",
@@ -3123,24 +3141,6 @@
     "peeringlan": "2a04:bc40:1dc5:3::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.180.190.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:11::/64"
-  },
-  {
     "id": "he_CIX",
     "name": "CIX",
     "country": "HR",
@@ -3157,33 +3157,6 @@
     "region": "Europe",
     "url": "http://www.cix.hr/",
     "peeringlan": "2001:7f8:28::/48"
-  },
-  {
-    "id": "he_SBIX%20DUS",
-    "name": "SBIX DUS",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "185.1.154.0/24"
-  },
-  {
-    "id": "he_SBIX%20DUS",
-    "name": "SBIX DUS",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:5a::/64"
-  },
-  {
-    "id": "he_SBIX%20DUS",
-    "name": "SBIX DUS",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:2::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Odesa",
@@ -3220,6 +3193,33 @@
     "region": "Europe",
     "url": "http://www.svao-ix.ru/",
     "peeringlan": "89.222.236.0/24"
+  },
+  {
+    "id": "he_SBIX%20DUS",
+    "name": "SBIX DUS",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "185.1.154.0/24"
+  },
+  {
+    "id": "he_SBIX%20DUS",
+    "name": "SBIX DUS",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:5a::/64"
+  },
+  {
+    "id": "he_SBIX%20DUS",
+    "name": "SBIX DUS",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:2::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Brisbane",
@@ -3537,22 +3537,31 @@
     "peeringlan": "2001:7f8:46::/64"
   },
   {
-    "id": "he_SBIX%20FRE",
-    "name": "SBIX FRE",
-    "country": "US",
-    "city": "Fremont",
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
     "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "185.0.31.0/24"
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
   },
   {
-    "id": "he_SBIX%20FRE",
-    "name": "SBIX FRE",
-    "country": "US",
-    "city": "Fremont",
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
     "region": "Europe",
-    "url": "https://www.securebit.ch/internet/exchange",
-    "peeringlan": "2001:7f8:d9:5::/64"
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "185.0.27.0/24"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_MBIX",
@@ -3715,6 +3724,24 @@
     "region": "Africa",
     "url": "https://www.af-cix.net/",
     "peeringlan": "2001:43f8:1690::/64"
+  },
+  {
+    "id": "he_SBIX%20FRE",
+    "name": "SBIX FRE",
+    "country": "US",
+    "city": "Fremont",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "185.0.31.0/24"
+  },
+  {
+    "id": "he_SBIX%20FRE",
+    "name": "SBIX FRE",
+    "country": "US",
+    "city": "Fremont",
+    "region": "Europe",
+    "url": "https://www.securebit.ch/internet/exchange",
+    "peeringlan": "2001:7f8:d9:5::/64"
   },
   {
     "id": "he_NIXI%20Kolkata",
@@ -3886,33 +3913,6 @@
     "region": "Europe",
     "url": "https://www.epix.net.pl",
     "peeringlan": "2a10:f780::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "185.0.27.0/24"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_RIX",
