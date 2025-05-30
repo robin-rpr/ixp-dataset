@@ -414,6 +414,15 @@
     "peeringlan": "2001:7f8:f2:e1::/64"
   },
   {
+    "id": "he_SPEED-IX",
+    "name": "SPEED-IX",
+    "country": "NL",
+    "city": "Dronten",
+    "region": "Europe",
+    "url": "https://speed-ix.net",
+    "peeringlan": "185.1.222.0/23"
+  },
+  {
     "id": "he_DE-CIX%20New%20York",
     "name": "DE-CIX New York",
     "country": "US",
@@ -439,15 +448,6 @@
     "region": "North America",
     "url": "https://www.de-cix.net/locations/new-york",
     "peeringlan": "2001:504:36::/64"
-  },
-  {
-    "id": "he_SPEED-IX",
-    "name": "SPEED-IX",
-    "country": "NL",
-    "city": "Dronten",
-    "region": "Europe",
-    "url": "https://speed-ix.net",
-    "peeringlan": "185.1.222.0/23"
   },
   {
     "id": "he_DTEL-IX",
@@ -594,24 +594,6 @@
     "peeringlan": "2001:7f8:24::/64"
   },
   {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
-    "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "185.1.203.0/24"
-  },
-  {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
-    "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "2001:7f8:10f::/64"
-  },
-  {
     "id": "he_KCIX",
     "name": "KCIX",
     "country": "US",
@@ -630,31 +612,22 @@
     "peeringlan": "2001:504:1B:1::/64"
   },
   {
-    "id": "he_DE-CIX%20Munich",
-    "name": "DE-CIX Munich",
-    "country": "DE",
-    "city": "Munich",
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
     "region": "Europe",
-    "url": "https://www.de-cix.net/locations/munich",
-    "peeringlan": "80.81.202.0/24"
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "185.1.203.0/24"
   },
   {
-    "id": "he_DE-CIX%20Munich",
-    "name": "DE-CIX Munich",
-    "country": "DE",
-    "city": "Munich",
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
     "region": "Europe",
-    "url": "https://www.de-cix.net/locations/munich",
-    "peeringlan": "185.1.208.0/23"
-  },
-  {
-    "id": "he_DE-CIX%20Munich",
-    "name": "DE-CIX Munich",
-    "country": "DE",
-    "city": "Munich",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/munich",
-    "peeringlan": "2001:7f8:44::/64"
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "2001:7f8:10f::/64"
   },
   {
     "id": "he_DE-CIX%20Madrid",
@@ -682,6 +655,33 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/madrid/",
     "peeringlan": "2001:7f8:a0::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Munich",
+    "name": "DE-CIX Munich",
+    "country": "DE",
+    "city": "Munich",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/munich",
+    "peeringlan": "80.81.202.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Munich",
+    "name": "DE-CIX Munich",
+    "country": "DE",
+    "city": "Munich",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/munich",
+    "peeringlan": "185.1.208.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Munich",
+    "name": "DE-CIX Munich",
+    "country": "DE",
+    "city": "Munich",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/munich",
+    "peeringlan": "2001:7f8:44::/64"
   },
   {
     "id": "he_DE-CIX%20Hamburg",
@@ -2466,6 +2466,24 @@
     "peeringlan": "2001:de8:1:2::/64"
   },
   {
+    "id": "he_MegaIX%20Perth",
+    "name": "MegaIX Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://megaport.com",
+    "peeringlan": "202.12.243.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Perth",
+    "name": "MegaIX Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://megaport.com",
+    "peeringlan": "2001:dea:0:50::/64"
+  },
+  {
     "id": "he_EdgeIX%20-%20Perth",
     "name": "EdgeIX - Perth",
     "country": "AU",
@@ -2547,24 +2565,6 @@
     "peeringlan": "2001:7f8:3f::/64"
   },
   {
-    "id": "he_MegaIX%20Perth",
-    "name": "MegaIX Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://megaport.com",
-    "peeringlan": "202.12.243.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Perth",
-    "name": "MegaIX Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://megaport.com",
-    "peeringlan": "2001:dea:0:50::/64"
-  },
-  {
     "id": "he_SONIX",
     "name": "SONIX",
     "country": "SE",
@@ -2626,6 +2626,24 @@
     "region": "Europe",
     "url": "https://www.nix.sk/sk",
     "peeringlan": "2001:7f8:91::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "185.1.131.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "2001:7f8:d5::/64"
   },
   {
     "id": "he_HOUIX",
@@ -2698,24 +2716,6 @@
     "region": "Europe",
     "url": "https://www.sol-ix.net",
     "peeringlan": "2001:7f8:21:11::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "185.1.131.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "2001:7f8:d5::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Warsaw",
