@@ -963,24 +963,6 @@
     "peeringlan": "2001:de8:11:3806:60::/80"
   },
   {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "206.41.108.0/24"
-  },
-  {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "2001:504:40:108::/64"
-  },
-  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1024,6 +1006,24 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f0:1::/64"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "206.41.108.0/24"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "2001:504:40:108::/64"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -2340,6 +2340,33 @@
     "peeringlan": "2400:d180:68::/64"
   },
   {
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "203.159.68.0/23"
+  },
+  {
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "2001:deb:0:68::/64"
+  },
+  {
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "2001:df5:b881::/64"
+  },
+  {
     "id": "he_PIRIX",
     "name": "PIRIX",
     "country": "RU",
@@ -2374,33 +2401,6 @@
     "region": "Europe",
     "url": "https://www.six.sk/",
     "peeringlan": "2001:7f8:2f::/64"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "203.159.68.0/23"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "2001:deb:0:68::/64"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "2001:df5:b881::/64"
   },
   {
     "id": "he_NIX",
@@ -2763,24 +2763,6 @@
     "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
-    "id": "he_AMS-IX%20Hong%20Kong",
-    "name": "AMS-IX Hong Kong",
-    "country": "HK",
-    "city": "Hong Kong",
-    "region": "Asia Pacific",
-    "url": "http://www.ams-ix.hk",
-    "peeringlan": "103.247.139.0/25"
-  },
-  {
-    "id": "he_AMS-IX%20Hong%20Kong",
-    "name": "AMS-IX Hong Kong",
-    "country": "HK",
-    "city": "Hong Kong",
-    "region": "Asia Pacific",
-    "url": "http://www.ams-ix.hk",
-    "peeringlan": "2001:df0:296::/64"
-  },
-  {
     "id": "he_Equinix%20London",
     "name": "Equinix London",
     "country": "GB",
@@ -2797,6 +2779,24 @@
     "region": "Europe",
     "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
     "peeringlan": "2001:7f8:be::/64"
+  },
+  {
+    "id": "he_AMS-IX%20Hong%20Kong",
+    "name": "AMS-IX Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "http://www.ams-ix.hk",
+    "peeringlan": "103.247.139.0/25"
+  },
+  {
+    "id": "he_AMS-IX%20Hong%20Kong",
+    "name": "AMS-IX Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "http://www.ams-ix.hk",
+    "peeringlan": "2001:df0:296::/64"
   },
   {
     "id": "he_CATNIX",
@@ -3384,6 +3384,33 @@
     "peeringlan": "149.112.104.0/23"
   },
   {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "185.0.27.0/24"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
+  },
+  {
     "id": "he_DE-CIX%20Phoenix",
     "name": "DE-CIX Phoenix",
     "country": "US",
@@ -3436,33 +3463,6 @@
     "region": "Europe",
     "url": "http://www.rheintal-ix.net",
     "peeringlan": "2001:7f8:66::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "185.0.27.0/24"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_Hyper%20Group%20Internet%20Exchange",
