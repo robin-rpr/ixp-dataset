@@ -783,22 +783,22 @@
     "peeringlan": "193.27.37.0/24"
   },
   {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.52.0/23"
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "203.163.222.0/23"
   },
   {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:4::/64"
+    "id": "he_TPIX-TW",
+    "name": "TPIX-TW",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "http://www.tpix.net.tw/",
+    "peeringlan": "2406:d400:1:133:203:163:222::/111"
   },
   {
     "id": "he_Peering.cz",
@@ -828,22 +828,22 @@
     "peeringlan": "2001:7f8:7f::/64"
   },
   {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "203.163.222.0/23"
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.52.0/23"
   },
   {
-    "id": "he_TPIX-TW",
-    "name": "TPIX-TW",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "http://www.tpix.net.tw/",
-    "peeringlan": "2406:d400:1:133:203:163:222::/111"
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:4::/64"
   },
   {
     "id": "he_NIX.CZ",
@@ -2637,6 +2637,15 @@
     "peeringlan": "2001:df0:680:6::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2691,15 +2700,6 @@
     "peeringlan": "2001:7f8:21:11::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
-  },
-  {
     "id": "he_Phoenix%20IX",
     "name": "Phoenix IX",
     "country": "US",
@@ -2745,15 +2745,6 @@
     "peeringlan": "2001:7f8:41::/48"
   },
   {
-    "id": "he_PITER-IX%20Rostov",
-    "name": "PITER-IX Rostov",
-    "country": "RU",
-    "city": "Rostov",
-    "region": "Europe",
-    "url": "https://piter-ix.ru",
-    "peeringlan": "193.27.38.0/24"
-  },
-  {
     "id": "he_Giganet%20IXN%20Frankfurt",
     "name": "Giganet IXN Frankfurt",
     "country": "DE",
@@ -2761,6 +2752,15 @@
     "region": "Europe",
     "url": "http://giganet.ua/en",
     "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
+    "id": "he_PITER-IX%20Rostov",
+    "name": "PITER-IX Rostov",
+    "country": "RU",
+    "city": "Rostov",
+    "region": "Europe",
+    "url": "https://piter-ix.ru",
+    "peeringlan": "193.27.38.0/24"
   },
   {
     "id": "he_Equinix%20London",
@@ -5148,6 +5148,24 @@
     "peeringlan": "2001:505:140::/64"
   },
   {
+    "id": "he_YEGIX",
+    "name": "YEGIX",
+    "country": "CA",
+    "city": "Edmonton",
+    "region": "North America",
+    "url": "http://www.yegix.ca/",
+    "peeringlan": "206.53.140.0/24"
+  },
+  {
+    "id": "he_YEGIX",
+    "name": "YEGIX",
+    "country": "CA",
+    "city": "Edmonton",
+    "region": "North America",
+    "url": "http://www.yegix.ca/",
+    "peeringlan": "2001:504:46::/48"
+  },
+  {
     "id": "he_NIX2",
     "name": "NIX2",
     "country": "NO",
@@ -5290,24 +5308,6 @@
     "region": "North America",
     "url": "https://ix.digitalrealty.com",
     "peeringlan": "2001:504:17:114::/64"
-  },
-  {
-    "id": "he_YEGIX",
-    "name": "YEGIX",
-    "country": "CA",
-    "city": "Edmonton",
-    "region": "North America",
-    "url": "http://www.yegix.ca/",
-    "peeringlan": "206.53.140.0/24"
-  },
-  {
-    "id": "he_YEGIX",
-    "name": "YEGIX",
-    "country": "CA",
-    "city": "Edmonton",
-    "region": "North America",
-    "url": "http://www.yegix.ca/",
-    "peeringlan": "2001:504:46::/48"
   },
   {
     "id": "he_CABASE-MDQ",
