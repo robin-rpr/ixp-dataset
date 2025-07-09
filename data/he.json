@@ -765,24 +765,6 @@
     "peeringlan": "193.27.37.0/24"
   },
   {
-    "id": "he_UA-IX",
-    "name": "UA-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "http://www.ua-ix.net.ua/en",
-    "peeringlan": "185.1.50.0/23"
-  },
-  {
-    "id": "he_UA-IX",
-    "name": "UA-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "http://www.ua-ix.net.ua/en",
-    "peeringlan": "2001:7f8:5d::/116"
-  },
-  {
     "id": "he_TPIX-TW",
     "name": "TPIX-TW",
     "country": "TW",
@@ -799,6 +781,24 @@
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
     "peeringlan": "2406:d400:1:133:203:163:222::/111"
+  },
+  {
+    "id": "he_UA-IX",
+    "name": "UA-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "http://www.ua-ix.net.ua/en",
+    "peeringlan": "185.1.50.0/23"
+  },
+  {
+    "id": "he_UA-IX",
+    "name": "UA-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "http://www.ua-ix.net.ua/en",
+    "peeringlan": "2001:7f8:5d::/116"
   },
   {
     "id": "he_Peering.cz",
@@ -1872,24 +1872,6 @@
     "peeringlan": "2a0b:9fc0:1::/64"
   },
   {
-    "id": "he_Crimea-IX",
-    "name": "Crimea-IX",
-    "country": "RU",
-    "city": "Simferopol",
-    "region": "Europe",
-    "url": "http://crimea-ix.net/",
-    "peeringlan": "91.194.162.0/24"
-  },
-  {
-    "id": "he_Crimea-IX",
-    "name": "Crimea-IX",
-    "country": "RU",
-    "city": "Simferopol",
-    "region": "Europe",
-    "url": "http://crimea-ix.net/",
-    "peeringlan": "2a05:5840:0:ffff::/64"
-  },
-  {
     "id": "he_CIX-ATL",
     "name": "CIX-ATL",
     "country": "US",
@@ -1906,6 +1888,24 @@
     "region": "North America",
     "url": "http://www.communityix.org",
     "peeringlan": "2001:504:40:12::/64"
+  },
+  {
+    "id": "he_Crimea-IX",
+    "name": "Crimea-IX",
+    "country": "RU",
+    "city": "Simferopol",
+    "region": "Europe",
+    "url": "http://crimea-ix.net/",
+    "peeringlan": "91.194.162.0/24"
+  },
+  {
+    "id": "he_Crimea-IX",
+    "name": "Crimea-IX",
+    "country": "RU",
+    "city": "Simferopol",
+    "region": "Europe",
+    "url": "http://crimea-ix.net/",
+    "peeringlan": "2a05:5840:0:ffff::/64"
   },
   {
     "id": "he_DET-IX",
@@ -2430,60 +2430,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "103.136.102.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:3::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "149.112.11.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "2001:504:102::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Istanbul",
-    "name": "DE-CIX Istanbul",
-    "country": "TR",
-    "city": "Istanbul",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/istanbul",
-    "peeringlan": "185.1.48.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Istanbul",
-    "name": "DE-CIX Istanbul",
-    "country": "TR",
-    "city": "Istanbul",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/istanbul",
-    "peeringlan": "2001:7f8:3f::/64"
-  },
-  {
     "id": "he_NIXI%20Chennai",
     "name": "NIXI Chennai",
     "country": "IN",
@@ -2509,6 +2455,42 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/chennai",
     "peeringlan": "2001:de8:1:2::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "103.136.102.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Istanbul",
+    "name": "DE-CIX Istanbul",
+    "country": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/istanbul",
+    "peeringlan": "185.1.48.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Istanbul",
+    "name": "DE-CIX Istanbul",
+    "country": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/istanbul",
+    "peeringlan": "2001:7f8:3f::/64"
   },
   {
     "id": "he_QCIX",
@@ -2563,6 +2545,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:6::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "149.112.11.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "2001:504:102::/64"
   },
   {
     "id": "he_SONIX",
@@ -2637,6 +2637,15 @@
     "peeringlan": "2001:7f8:d5::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2691,15 +2700,6 @@
     "peeringlan": "2001:7f8:21:11::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
-  },
-  {
     "id": "he_FIXO",
     "name": "FIXO",
     "country": "NO",
@@ -2745,15 +2745,6 @@
     "peeringlan": "2001:504:3b:1::/64"
   },
   {
-    "id": "he_PITER-IX%20Rostov",
-    "name": "PITER-IX Rostov",
-    "country": "RU",
-    "city": "Rostov",
-    "region": "Europe",
-    "url": "https://piter-ix.ru",
-    "peeringlan": "193.27.38.0/24"
-  },
-  {
     "id": "he_Giganet%20IXN%20Frankfurt",
     "name": "Giganet IXN Frankfurt",
     "country": "DE",
@@ -2761,6 +2752,15 @@
     "region": "Europe",
     "url": "http://giganet.ua/en",
     "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
+    "id": "he_PITER-IX%20Rostov",
+    "name": "PITER-IX Rostov",
+    "country": "RU",
+    "city": "Rostov",
+    "region": "Europe",
+    "url": "https://piter-ix.ru",
+    "peeringlan": "193.27.38.0/24"
   },
   {
     "id": "he_Equinix%20London",
@@ -3231,6 +3231,33 @@
     "peeringlan": "89.222.236.0/24"
   },
   {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "185.0.27.0/24"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
+  },
+  {
     "id": "he_SLIX",
     "name": "SLIX",
     "country": "US",
@@ -3283,33 +3310,6 @@
     "region": "Middle East",
     "url": "http://www.smarthubix.ae/",
     "peeringlan": "2001:7f8:7a::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "185.0.27.0/24"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_SMILE-LV",
@@ -3870,24 +3870,6 @@
     "peeringlan": "2001:7f8:29:1::/64"
   },
   {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "185.1.218.0/24"
-  },
-  {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "2001:7f8:11b::/64"
-  },
-  {
     "id": "he_UIXP",
     "name": "UIXP",
     "country": "UG",
@@ -3904,6 +3886,24 @@
     "region": "Africa",
     "url": "https://uixp.co.ug/",
     "peeringlan": "2001:43f8:130::/64"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "185.1.218.0/24"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "2001:7f8:11b::/64"
   },
   {
     "id": "he_ArmIX",
@@ -4705,24 +4705,6 @@
     "region": "Europe",
     "url": "https://ixp.nixval.com",
     "peeringlan": "2A02:23A0:1111:9999::/64"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_JXIX",
@@ -6514,6 +6496,24 @@
     "region": "Asia Pacific",
     "url": "https://www.sumix.id/",
     "peeringlan": "2405:aac0:22::/64"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_BIX%20Bergen",
