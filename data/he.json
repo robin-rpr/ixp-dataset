@@ -540,6 +540,24 @@
     "peeringlan": "2001:7fa:7:1::/64"
   },
   {
+    "id": "he_SwissIX",
+    "name": "SwissIX",
+    "country": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "url": "https://www.swissix.ch/",
+    "peeringlan": "91.206.52.0/23"
+  },
+  {
+    "id": "he_SwissIX",
+    "name": "SwissIX",
+    "country": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "url": "https://www.swissix.ch/",
+    "peeringlan": "2001:7f8:24::/64"
+  },
+  {
     "id": "he_TORIX",
     "name": "TORIX",
     "country": "CA",
@@ -574,24 +592,6 @@
     "region": "Europe",
     "url": "https://www.gblnet.ru",
     "peeringlan": "2001:b28:3ff::/64"
-  },
-  {
-    "id": "he_SwissIX",
-    "name": "SwissIX",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.swissix.ch/",
-    "peeringlan": "91.206.52.0/23"
-  },
-  {
-    "id": "he_SwissIX",
-    "name": "SwissIX",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.swissix.ch/",
-    "peeringlan": "2001:7f8:24::/64"
   },
   {
     "id": "he_KCIX",
@@ -1908,6 +1908,24 @@
     "peeringlan": "2a05:5840:0:ffff::/64"
   },
   {
+    "id": "he_STLIX",
+    "name": "STLIX",
+    "country": "US",
+    "city": "Saint Louis",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "206.83.12.0/24"
+  },
+  {
+    "id": "he_STLIX",
+    "name": "STLIX",
+    "country": "US",
+    "city": "Saint Louis",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "2001:504:98::/64"
+  },
+  {
     "id": "he_DET-IX",
     "name": "DET-IX",
     "country": "US",
@@ -1933,24 +1951,6 @@
     "region": "North America",
     "url": "http://www.detroitix.com",
     "peeringlan": "2607:f790:100::/64"
-  },
-  {
-    "id": "he_STLIX",
-    "name": "STLIX",
-    "country": "US",
-    "city": "Saint Louis",
-    "region": "North America",
-    "url": "http://www.stlix.net",
-    "peeringlan": "206.83.12.0/24"
-  },
-  {
-    "id": "he_STLIX",
-    "name": "STLIX",
-    "country": "US",
-    "city": "Saint Louis",
-    "region": "North America",
-    "url": "http://www.stlix.net",
-    "peeringlan": "2001:504:98::/64"
   },
   {
     "id": "he_APE",
@@ -2223,24 +2223,6 @@
     "peeringlan": "2001:7f8:26:8000::/64"
   },
   {
-    "id": "he_ChIX",
-    "name": "ChIX",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://unitedix.net/location/chicago",
-    "peeringlan": "206.41.110.0/24"
-  },
-  {
-    "id": "he_ChIX",
-    "name": "ChIX",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://unitedix.net/location/chicago",
-    "peeringlan": "2001:504:41:110::/64"
-  },
-  {
     "id": "he_VSIX",
     "name": "VSIX",
     "country": "IT",
@@ -2293,6 +2275,24 @@
     "region": "Europe",
     "url": "https://www.vs-ix.org/",
     "peeringlan": "2001:7f8:5f::/64"
+  },
+  {
+    "id": "he_ChIX",
+    "name": "ChIX",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://unitedix.net/location/chicago",
+    "peeringlan": "206.41.110.0/24"
+  },
+  {
+    "id": "he_ChIX",
+    "name": "ChIX",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://unitedix.net/location/chicago",
+    "peeringlan": "2001:504:41:110::/64"
   },
   {
     "id": "he_BALT-IX",
@@ -2475,42 +2475,6 @@
     "peeringlan": "2001:df0:680:3::/64"
   },
   {
-    "id": "he_DE-CIX%20Istanbul",
-    "name": "DE-CIX Istanbul",
-    "country": "TR",
-    "city": "Istanbul",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/istanbul",
-    "peeringlan": "185.1.48.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Istanbul",
-    "name": "DE-CIX Istanbul",
-    "country": "TR",
-    "city": "Istanbul",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/istanbul",
-    "peeringlan": "2001:7f8:3f::/64"
-  },
-  {
-    "id": "he_QCIX",
-    "name": "QCIX",
-    "country": "US",
-    "city": "Davenport",
-    "region": "North America",
-    "url": "http://www.qcix.net",
-    "peeringlan": "206.83.43.0/24"
-  },
-  {
-    "id": "he_QCIX",
-    "name": "QCIX",
-    "country": "US",
-    "city": "Davenport",
-    "region": "North America",
-    "url": "http://www.qcix.net",
-    "peeringlan": "2001:504:9b::/64"
-  },
-  {
     "id": "he_HOUIX",
     "name": "HOUIX",
     "country": "US",
@@ -2547,24 +2511,6 @@
     "peeringlan": "2001:df0:680:6::/64"
   },
   {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "149.112.11.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "2001:504:102::/64"
-  },
-  {
     "id": "he_SONIX",
     "name": "SONIX",
     "country": "SE",
@@ -2581,6 +2527,60 @@
     "region": "Europe",
     "url": "https://sonix.network",
     "peeringlan": "2001:7f8:117::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Istanbul",
+    "name": "DE-CIX Istanbul",
+    "country": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/istanbul",
+    "peeringlan": "185.1.48.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Istanbul",
+    "name": "DE-CIX Istanbul",
+    "country": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/istanbul",
+    "peeringlan": "2001:7f8:3f::/64"
+  },
+  {
+    "id": "he_QCIX",
+    "name": "QCIX",
+    "country": "US",
+    "city": "Davenport",
+    "region": "North America",
+    "url": "http://www.qcix.net",
+    "peeringlan": "206.83.43.0/24"
+  },
+  {
+    "id": "he_QCIX",
+    "name": "QCIX",
+    "country": "US",
+    "city": "Davenport",
+    "region": "North America",
+    "url": "http://www.qcix.net",
+    "peeringlan": "2001:504:9b::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "149.112.11.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "2001:504:102::/64"
   },
   {
     "id": "he_MegaIX%20Perth",
@@ -2997,6 +2997,24 @@
     "peeringlan": "2001:7f8:10a::/64"
   },
   {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.180.190.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
     "id": "he_NSPIXP6",
     "name": "NSPIXP6",
     "country": "JP",
@@ -3022,24 +3040,6 @@
     "region": "Asia Pacific",
     "url": "https://cnx.net.kh",
     "peeringlan": "2001:de8:1d::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.180.190.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:11::/64"
   },
   {
     "id": "he_DIX",
@@ -3094,6 +3094,24 @@
     "region": "Europe",
     "url": "http://www.cix.hr/",
     "peeringlan": "2001:7f8:28::/48"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Brisbane",
+    "name": "EdgeIX - Brisbane",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.136.103.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Brisbane",
+    "name": "EdgeIX - Brisbane",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:4::/64"
   },
   {
     "id": "he_LL-IX",
@@ -3166,24 +3184,6 @@
     "region": "North America",
     "url": "http://www.omahaix.com",
     "peeringlan": "2001:504:33::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Brisbane",
-    "name": "EdgeIX - Brisbane",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.136.103.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Brisbane",
-    "name": "EdgeIX - Brisbane",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:4::/64"
   },
   {
     "id": "he_SBIX%20DUS",
@@ -3384,6 +3384,24 @@
     "peeringlan": "2001:7f8:6d::/64"
   },
   {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "91.232.229.0/24"
+  },
+  {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "2001:7f8:66::/64"
+  },
+  {
     "id": "he_TWIX",
     "name": "TWIX",
     "country": "TW",
@@ -3445,24 +3463,6 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/phoenix",
     "peeringlan": "2001:504:116::/64"
-  },
-  {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "91.232.229.0/24"
-  },
-  {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "2001:7f8:66::/64"
   },
   {
     "id": "he_Hyper%20Group%20Internet%20Exchange",
