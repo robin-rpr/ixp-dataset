@@ -18477,6 +18477,15 @@
     "peeringlan": "119.11.193.0/24"
   },
   {
+    "id": "pdb_4220",
+    "name": "JKT-IX Surabaya",
+    "country": "ID",
+    "city": "Surabaya",
+    "region": "Asia Pacific",
+    "url": "https://jktix.com/",
+    "peeringlan": "2404:c8:0:c::/64"
+  },
+  {
     "id": "pdb_4221",
     "name": "JKT-IX Bali",
     "country": "ID",
@@ -21363,16 +21372,7 @@
     "city": "Frankfurt",
     "region": "Europe",
     "url": "http://ix.lendnodes.cloud",
-    "peeringlan": "193.23.220.128/28"
-  },
-  {
-    "id": "pdb_4702",
-    "name": "LN-IX",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://ix.lendnodes.cloud",
-    "peeringlan": "2a01:ecc0:300:1::/64"
+    "peeringlan": "193.23.220.0/24"
   },
   {
     "id": "pdb_4705",
@@ -22068,13 +22068,31 @@
     "peeringlan": "103.185.105.0/27"
   },
   {
+    "id": "pdb_4795",
+    "name": "MMIX Tachileik",
+    "country": "MM",
+    "city": "Tachileik",
+    "region": "Asia Pacific",
+    "url": "https://www.mmix.net.mm/tclpeering.php",
+    "peeringlan": "2001:df3:1300:4::/64"
+  },
+  {
     "id": "pdb_4796",
     "name": "CIX-NoVA",
     "country": "US",
     "city": "Ashburn, Reston",
     "region": "North America",
     "url": "https://communityix.org",
-    "peeringlan": "2001:504:40:120::/64"
+    "peeringlan": "2001:504:40:69::/64"
+  },
+  {
+    "id": "pdb_4796",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn, Reston",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "149.112.69.0/24"
   },
   {
     "id": "pdb_4797",
