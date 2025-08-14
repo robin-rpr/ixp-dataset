@@ -5973,7 +5973,7 @@
     "city": "Taipei/Taiwan",
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
-    "peeringlan": "203.163.222.0/24"
+    "peeringlan": "203.163.222.0/23"
   },
   {
     "id": "pdb_823",
@@ -5982,7 +5982,7 @@
     "city": "Taipei/Taiwan",
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
-    "peeringlan": "2406:d400:1:133:203:163:222:0/112"
+    "peeringlan": "2406:d400:1:133:203:163:222:0/111"
   },
   {
     "id": "pdb_828",
@@ -21924,6 +21924,15 @@
     "peeringlan": "2001:505:144::/64"
   },
   {
+    "id": "pdb_4774",
+    "name": "OMNI-IX BATAM",
+    "country": "ID",
+    "city": "Batam",
+    "region": "Asia Pacific",
+    "url": "http://omnidc.co.id/",
+    "peeringlan": "43.255.59.0/24"
+  },
+  {
     "id": "pdb_4775",
     "name": "NVL-IX",
     "country": "GR",
@@ -22050,15 +22059,6 @@
     "peeringlan": "2001:7f8:159:1312::/64"
   },
   {
-    "id": "pdb_4793",
-    "name": "Betuni Fibra",
-    "country": "US",
-    "city": "Concei\u00e7\u00e3o de Castelo",
-    "region": "South America",
-    "url": "http://www.betinifibra.com.br",
-    "peeringlan": "191.6.0.0/22"
-  },
-  {
     "id": "pdb_4795",
     "name": "MMIX Tachileik",
     "country": "MM",
@@ -22111,5 +22111,14 @@
     "region": "Asia Pacific",
     "url": "https://network.lolinya.net",
     "peeringlan": "2a14:7581:30ff::/64"
+  },
+  {
+    "id": "pdb_4802",
+    "name": "AKIX - HKG",
+    "country": "HK",
+    "city": "HongKong",
+    "region": "Asia Pacific",
+    "url": "https://ixpm-hk.akae.re/",
+    "peeringlan": "2a14:67c1:a080:2::/64"
   }
 ]
