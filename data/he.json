@@ -1008,6 +1008,15 @@
     "peeringlan": "2001:43f8:1f0:1::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_FL-IX",
     "name": "FL-IX",
     "country": "US",
@@ -1024,15 +1033,6 @@
     "region": "North America",
     "url": "http://www.communityix.org/index.php/about-fl-ix/",
     "peeringlan": "2001:504:40:108::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -2772,24 +2772,6 @@
     "peeringlan": "193.27.38.0/24"
   },
   {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "185.1.104.0/24"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "2001:7f8:be::/64"
-  },
-  {
     "id": "he_GigaPix",
     "name": "GigaPix",
     "country": "PT",
@@ -2824,6 +2806,24 @@
     "region": "Europe",
     "url": "http://www.gigapix.pt",
     "peeringlan": "2001:07F8:000A:2::/64"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "185.1.104.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "2001:7f8:be::/64"
   },
   {
     "id": "he_AMS-IX%20Hong%20Kong",
@@ -6831,24 +6831,6 @@
     "peeringlan": "2001:7fa:3:b0df::/64"
   },
   {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "185.1.128.0/24"
-  },
-  {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "2001:7f8:d3::/64"
-  },
-  {
     "id": "he_DE-CIX%20Rio%20de%20Janeiro",
     "name": "DE-CIX Rio de Janeiro",
     "country": "BR",
@@ -6865,5 +6847,23 @@
     "region": "South America",
     "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
     "peeringlan": "2801:81:c0:2::/64"
+  },
+  {
+    "id": "he_LNK-IX",
+    "name": "LNK-IX",
+    "country": "RO",
+    "city": "Targoviste",
+    "region": "Europe",
+    "url": "https://lnkix.lnksystems.com/",
+    "peeringlan": "185.1.128.0/24"
+  },
+  {
+    "id": "he_LNK-IX",
+    "name": "LNK-IX",
+    "country": "RO",
+    "city": "Targoviste",
+    "region": "Europe",
+    "url": "https://lnkix.lnksystems.com/",
+    "peeringlan": "2001:7f8:d3::/64"
   }
 ]
