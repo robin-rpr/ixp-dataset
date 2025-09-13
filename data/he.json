@@ -1746,15 +1746,6 @@
     "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
-    "id": "he_DE-CIX%20Jakarta",
-    "name": "DE-CIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/jakarta",
-    "peeringlan": "103.159.71.0/25"
-  },
-  {
     "id": "he_AKL-IX",
     "name": "AKL-IX",
     "country": "NZ",
@@ -1771,6 +1762,15 @@
     "region": "Australia",
     "url": "http://www.ix.nz",
     "peeringlan": "2001:7fa:11:6::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Jakarta",
+    "name": "DE-CIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/jakarta",
+    "peeringlan": "103.159.71.0/25"
   },
   {
     "id": "he_IX%20Australia%20VIC",
@@ -2736,6 +2736,15 @@
     "peeringlan": "2001:504:3b:1::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_FIXO",
     "name": "FIXO",
     "country": "NO",
@@ -2752,15 +2761,6 @@
     "region": "Europe",
     "url": "http://www.fixo.no",
     "peeringlan": "2001:7f8:41::/48"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_PITER-IX%20Rostov",
@@ -3006,24 +3006,6 @@
     "peeringlan": "2001:df0:680:11::/64"
   },
   {
-    "id": "he_CNX",
-    "name": "CNX",
-    "country": "KH",
-    "city": "Phnom Penh",
-    "region": "Asia Pacific",
-    "url": "https://cnx.net.kh",
-    "peeringlan": "103.7.144.0/26"
-  },
-  {
-    "id": "he_CNX",
-    "name": "CNX",
-    "country": "KH",
-    "city": "Phnom Penh",
-    "region": "Asia Pacific",
-    "url": "https://cnx.net.kh",
-    "peeringlan": "2001:de8:1d::/64"
-  },
-  {
     "id": "he_DE-CIX%20Barcelona",
     "name": "DE-CIX Barcelona",
     "country": "ES",
@@ -3076,6 +3058,24 @@
     "region": "Asia Pacific",
     "url": "http://www.wide.ad.jp/nspixp6/",
     "peeringlan": "2001:200:0:1800::/64"
+  },
+  {
+    "id": "he_CNX",
+    "name": "CNX",
+    "country": "KH",
+    "city": "Phnom Penh",
+    "region": "Asia Pacific",
+    "url": "https://cnx.net.kh",
+    "peeringlan": "103.7.144.0/26"
+  },
+  {
+    "id": "he_CNX",
+    "name": "CNX",
+    "country": "KH",
+    "city": "Phnom Penh",
+    "region": "Asia Pacific",
+    "url": "https://cnx.net.kh",
+    "peeringlan": "2001:de8:1d::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Brisbane",
@@ -6768,6 +6768,24 @@
     "peeringlan": "2001:13C7:6016::/64"
   },
   {
+    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
+    "name": "DE-CIX Rio de Janeiro",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
+    "peeringlan": "45.68.93.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
+    "name": "DE-CIX Rio de Janeiro",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
+    "peeringlan": "2801:81:c0:2::/64"
+  },
+  {
     "id": "he_NIXI%20Ahmedabad",
     "name": "NIXI Ahmedabad",
     "country": "IN",
@@ -6793,24 +6811,6 @@
     "region": "Europe",
     "url": "http://www.gigapix.pt",
     "peeringlan": "2001:7f8:a:11::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
-    "name": "DE-CIX Rio de Janeiro",
-    "country": "BR",
-    "city": "Rio de Janeiro",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
-    "peeringlan": "45.68.93.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
-    "name": "DE-CIX Rio de Janeiro",
-    "country": "BR",
-    "city": "Rio de Janeiro",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
-    "peeringlan": "2801:81:c0:2::/64"
   },
   {
     "id": "he_DPE",
