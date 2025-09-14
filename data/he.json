@@ -1008,6 +1008,15 @@
     "peeringlan": "2001:43f8:1f0:1::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_FL-IX",
     "name": "FL-IX",
     "country": "US",
@@ -1024,15 +1033,6 @@
     "region": "North America",
     "url": "http://www.communityix.org/index.php/about-fl-ix/",
     "peeringlan": "2001:504:40:108::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -1593,6 +1593,15 @@
     "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
+    "id": "he_DE-CIX%20Jakarta",
+    "name": "DE-CIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/jakarta",
+    "peeringlan": "103.159.71.0/25"
+  },
+  {
     "id": "he_INEX",
     "name": "INEX",
     "country": "IE",
@@ -1762,15 +1771,6 @@
     "region": "Australia",
     "url": "http://www.ix.nz",
     "peeringlan": "2001:7fa:11:6::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Jakarta",
-    "name": "DE-CIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/jakarta",
-    "peeringlan": "103.159.71.0/25"
   },
   {
     "id": "he_IX%20Australia%20VIC",
@@ -3006,24 +3006,6 @@
     "peeringlan": "2001:df0:680:11::/64"
   },
   {
-    "id": "he_DE-CIX%20Barcelona",
-    "name": "DE-CIX Barcelona",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/barcelona",
-    "peeringlan": "185.1.119.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Barcelona",
-    "name": "DE-CIX Barcelona",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/barcelona",
-    "peeringlan": "2001:7f8:10a::/64"
-  },
-  {
     "id": "he_ERA-IX%20Frankfurt",
     "name": "ERA-IX Frankfurt",
     "country": "DE",
@@ -3049,6 +3031,24 @@
     "region": "Europe",
     "url": "https://www.era-ix.com/frankfurt",
     "peeringlan": "2001:7f8:15e::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Barcelona",
+    "name": "DE-CIX Barcelona",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/barcelona",
+    "peeringlan": "185.1.119.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Barcelona",
+    "name": "DE-CIX Barcelona",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/barcelona",
+    "peeringlan": "2001:7f8:10a::/64"
   },
   {
     "id": "he_NSPIXP6",
@@ -5337,33 +5337,6 @@
     "peeringlan": "2001:13C7:6012::/64"
   },
   {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "204.107.122.0/25"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2001:19e0:ffff::/64"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2602:f616::/64"
-  },
-  {
     "id": "he_CABASE-JUJ",
     "name": "CABASE-JUJ",
     "country": "AR",
@@ -5479,6 +5452,33 @@
     "region": "Europe",
     "url": "http://www.grax.at/",
     "peeringlan": "2001:7f8:71::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "204.107.122.0/25"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2001:19e0:ffff::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2602:f616::/64"
   },
   {
     "id": "he_Digital%20Realty%20Chicago",
