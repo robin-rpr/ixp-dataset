@@ -1269,24 +1269,6 @@
     "peeringlan": "2001:7f8:64:225::/64"
   },
   {
-    "id": "he_France-IX%20Marseille",
-    "name": "France-IX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
-    "peeringlan": "37.49.232.0/24"
-  },
-  {
-    "id": "he_France-IX%20Marseille",
-    "name": "France-IX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
-    "peeringlan": "2001:7f8:54:5::/64"
-  },
-  {
     "id": "he_BCIX",
     "name": "BCIX",
     "country": "DE",
@@ -1305,13 +1287,22 @@
     "peeringlan": "2001:7f8:19::/48"
   },
   {
-    "id": "he_PITER-IX%20Frankfurt",
-    "name": "PITER-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
+    "id": "he_France-IX%20Marseille",
+    "name": "France-IX Marseille",
+    "country": "FR",
+    "city": "Marseille",
     "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "31.44.186.0/23"
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
+    "peeringlan": "37.49.232.0/24"
+  },
+  {
+    "id": "he_France-IX%20Marseille",
+    "name": "France-IX Marseille",
+    "country": "FR",
+    "city": "Marseille",
+    "region": "Europe",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
+    "peeringlan": "2001:7f8:54:5::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Sydney",
@@ -1330,6 +1321,15 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:5::/64"
+  },
+  {
+    "id": "he_PITER-IX%20Frankfurt",
+    "name": "PITER-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "31.44.186.0/23"
   },
   {
     "id": "he_SBIX",
@@ -1404,24 +1404,6 @@
     "peeringlan": "2001:7f8:58::/64"
   },
   {
-    "id": "he_DE-CIX%20Marseille",
-    "name": "DE-CIX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/marseille",
-    "peeringlan": "185.1.47.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Marseille",
-    "name": "DE-CIX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/marseille",
-    "peeringlan": "2001:7f8:36::/64"
-  },
-  {
     "id": "he_1-IX%20Internet%20Exchange",
     "name": "1-IX Internet Exchange",
     "country": "UA",
@@ -1447,6 +1429,24 @@
     "region": "Europe",
     "url": "http://1-ix.net",
     "peeringlan": "2001:7f8:14d::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Marseille",
+    "name": "DE-CIX Marseille",
+    "country": "FR",
+    "city": "Marseille",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/marseille",
+    "peeringlan": "185.1.47.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Marseille",
+    "name": "DE-CIX Marseille",
+    "country": "FR",
+    "city": "Marseille",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/marseille",
+    "peeringlan": "2001:7f8:36::/64"
   },
   {
     "id": "he_SFMIX",
@@ -5058,24 +5058,6 @@
     "peeringlan": "2001:dea:0:60::/64"
   },
   {
-    "id": "he_TahoeIX",
-    "name": "TahoeIX",
-    "country": "US",
-    "city": "Reno",
-    "region": "North America",
-    "url": "https://www.tahoeix.org",
-    "peeringlan": "206.41.109.0/24"
-  },
-  {
-    "id": "he_TahoeIX",
-    "name": "TahoeIX",
-    "country": "US",
-    "city": "Reno",
-    "region": "North America",
-    "url": "https://www.tahoeix.org",
-    "peeringlan": "2001:504:3F::/64"
-  },
-  {
     "id": "he_MegaIX%20Seattle",
     "name": "MegaIX Seattle",
     "country": "US",
@@ -5146,6 +5128,24 @@
     "region": "North America",
     "url": "https://cloudsingularity.exchange",
     "peeringlan": "2001:504:9c::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "45.68.64.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "2806:424::/64"
   },
   {
     "id": "he_MegaIX%20Bay%20Area",
@@ -5229,6 +5229,24 @@
     "peeringlan": "2001:7F8:12:2::/64"
   },
   {
+    "id": "he_TahoeIX",
+    "name": "TahoeIX",
+    "country": "US",
+    "city": "Reno",
+    "region": "North America",
+    "url": "https://www.tahoeix.org",
+    "peeringlan": "206.41.109.0/24"
+  },
+  {
+    "id": "he_TahoeIX",
+    "name": "TahoeIX",
+    "country": "US",
+    "city": "Reno",
+    "region": "North America",
+    "url": "https://www.tahoeix.org",
+    "peeringlan": "2001:504:3F::/64"
+  },
+  {
     "id": "he_AuvernIX",
     "name": "AuvernIX",
     "country": "FR",
@@ -5245,24 +5263,6 @@
     "region": "Europe",
     "url": "http://www.auvernix.org",
     "peeringlan": "2001:7f8:81::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "45.68.64.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "2806:424::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Dallas",
@@ -5454,33 +5454,6 @@
     "peeringlan": "2001:7f8:71::/64"
   },
   {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "204.107.122.0/25"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2001:19e0:ffff::/64"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2602:f616::/64"
-  },
-  {
     "id": "he_Digital%20Realty%20Chicago",
     "name": "Digital Realty Chicago",
     "country": "US",
@@ -5650,6 +5623,33 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2001:13C7:6009::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "204.107.122.0/25"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2001:19e0:ffff::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2602:f616::/64"
   },
   {
     "id": "he_CABASE-SZP",
@@ -6003,6 +6003,33 @@
     "peeringlan": "2001:13c7:6019::/64"
   },
   {
+    "id": "he_MonctonIX",
+    "name": "MonctonIX",
+    "country": "CA",
+    "city": "Moncton",
+    "region": "North America",
+    "url": "http://monctonix.ca",
+    "peeringlan": "206.71.137.0/24"
+  },
+  {
+    "id": "he_MonctonIX",
+    "name": "MonctonIX",
+    "country": "CA",
+    "city": "Moncton",
+    "region": "North America",
+    "url": "http://monctonix.ca",
+    "peeringlan": "2001:504:73:cafe::/64"
+  },
+  {
+    "id": "he_MonctonIX",
+    "name": "MonctonIX",
+    "country": "CA",
+    "city": "Moncton",
+    "region": "North America",
+    "url": "http://monctonix.ca",
+    "peeringlan": "2001:504:37:30::/64"
+  },
+  {
     "id": "he_SR-IX",
     "name": "SR-IX",
     "country": "KG",
@@ -6262,33 +6289,6 @@
     "region": "Europe",
     "url": "http://www.ixliverpool.net",
     "peeringlan": "2001:7f8:a2:8000::/49"
-  },
-  {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "206.71.137.0/24"
-  },
-  {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "2001:504:73:cafe::/64"
-  },
-  {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "2001:504:37:30::/64"
   },
   {
     "id": "he_CABASE-UAQ",
