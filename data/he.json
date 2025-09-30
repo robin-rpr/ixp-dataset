@@ -1233,24 +1233,6 @@
     "peeringlan": "2001:504:125:e1::/64"
   },
   {
-    "id": "he_InterLAN",
-    "name": "InterLAN",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://www.interlan.ro/en/",
-    "peeringlan": "86.104.125.0/24"
-  },
-  {
-    "id": "he_InterLAN",
-    "name": "InterLAN",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://www.interlan.ro/en/",
-    "peeringlan": "2001:7f8:64:225::/64"
-  },
-  {
     "id": "he_NAPAfrica%20IX%20Durban",
     "name": "NAPAfrica IX Durban",
     "country": "ZA",
@@ -1267,6 +1249,24 @@
     "region": "Africa",
     "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
     "peeringlan": "2001:43f8:6d2::/64"
+  },
+  {
+    "id": "he_InterLAN",
+    "name": "InterLAN",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://www.interlan.ro/en/",
+    "peeringlan": "86.104.125.0/24"
+  },
+  {
+    "id": "he_InterLAN",
+    "name": "InterLAN",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://www.interlan.ro/en/",
+    "peeringlan": "2001:7f8:64:225::/64"
   },
   {
     "id": "he_BCIX",
@@ -1323,15 +1323,6 @@
     "peeringlan": "2001:df0:680:5::/64"
   },
   {
-    "id": "he_PITER-IX%20Frankfurt",
-    "name": "PITER-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "31.44.186.0/23"
-  },
-  {
     "id": "he_SBIX",
     "name": "SBIX",
     "country": "CH",
@@ -1357,6 +1348,15 @@
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:1::/64"
+  },
+  {
+    "id": "he_PITER-IX%20Frankfurt",
+    "name": "PITER-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "31.44.186.0/23"
   },
   {
     "id": "he_BIX.BG",
@@ -5634,33 +5634,6 @@
     "peeringlan": "2001:13C7:6009::/64"
   },
   {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "204.107.122.0/25"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2001:19e0:ffff::/64"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2602:f616::/64"
-  },
-  {
     "id": "he_CABASE-SZP",
     "name": "CABASE-SZP",
     "country": "AR",
@@ -5794,6 +5767,33 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/bangalore",
     "peeringlan": "2001:de8:1:4::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "204.107.122.0/25"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2001:19e0:ffff::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2602:f616::/64"
   },
   {
     "id": "he_BINX",
