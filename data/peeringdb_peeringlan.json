@@ -2422,7 +2422,7 @@
   },
   {
     "id": "pdb_249",
-    "name": "\u2600\u272a\u2301KCIX\u2301\u272a\u2600",
+    "name": "KCIX",
     "country": "US",
     "city": "Kansas City",
     "region": "North America",
@@ -2431,7 +2431,7 @@
   },
   {
     "id": "pdb_249",
-    "name": "\u2600\u272a\u2301KCIX\u2301\u272a\u2600",
+    "name": "KCIX",
     "country": "US",
     "city": "Kansas City",
     "region": "North America",
@@ -13096,7 +13096,7 @@
   },
   {
     "id": "pdb_3195",
-    "name": "\u2600\u272a\u2301SpringIX\u2301\u272a\u2600",
+    "name": "SpringIX",
     "country": "US",
     "city": "Springfield, MO",
     "region": "North America",
@@ -13105,7 +13105,7 @@
   },
   {
     "id": "pdb_3195",
-    "name": "\u2600\u272a\u2301SpringIX\u2301\u272a\u2600",
+    "name": "SpringIX",
     "country": "US",
     "city": "Springfield, MO",
     "region": "North America",
@@ -13632,15 +13632,6 @@
     "city": "Surabaya, East Java",
     "region": "Asia Pacific",
     "url": "http://www.biznetnetworks.com",
-    "peeringlan": "218.100.62.0/25"
-  },
-  {
-    "id": "pdb_3337",
-    "name": "BIX Surabaya",
-    "country": "ID",
-    "city": "Surabaya, East Java",
-    "region": "Asia Pacific",
-    "url": "http://www.biznetnetworks.com",
     "peeringlan": "218.100.62.128/25"
   },
   {
@@ -13650,7 +13641,7 @@
     "city": "Surabaya, East Java",
     "region": "Asia Pacific",
     "url": "http://www.biznetnetworks.com",
-    "peeringlan": "2001:de8:12:380::/64"
+    "peeringlan": "2001:de8:11::/64"
   },
   {
     "id": "pdb_3338",
@@ -13660,6 +13651,15 @@
     "region": "Asia Pacific",
     "url": "http://www.biznetnetworks.com",
     "peeringlan": "218.100.64.0/25"
+  },
+  {
+    "id": "pdb_3338",
+    "name": "BIX Malang",
+    "country": "ID",
+    "city": "Malang, East Java",
+    "region": "Asia Pacific",
+    "url": "http://www.biznetnetworks.com",
+    "peeringlan": "2001:de8:11:1::/64"
   },
   {
     "id": "pdb_3339",
@@ -14572,7 +14572,7 @@
   },
   {
     "id": "pdb_3560",
-    "name": "\u272a\u2301DesMoinesIX\u2301\u272a",
+    "name": "DesMoinesIX",
     "country": "US",
     "city": "Des Moines",
     "region": "North America",
@@ -14581,7 +14581,7 @@
   },
   {
     "id": "pdb_3560",
-    "name": "\u272a\u2301DesMoinesIX\u2301\u272a",
+    "name": "DesMoinesIX",
     "country": "US",
     "city": "Des Moines",
     "region": "North America",
@@ -22183,5 +22183,14 @@
     "region": "Europe",
     "url": "https://ittak.net/",
     "peeringlan": "93.170.122.0/24"
+  },
+  {
+    "id": "pdb_4850",
+    "name": "MandaIX",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://kyonix.com",
+    "peeringlan": "193.23.199.0/28"
   }
 ]
