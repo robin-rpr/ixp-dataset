@@ -423,24 +423,6 @@
     "peeringlan": "2001:7f8:f2:e1::/64"
   },
   {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "193.25.180.0/23"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "2001:7f8:63::/64"
-  },
-  {
     "id": "he_DE-CIX%20New%20York",
     "name": "DE-CIX New York",
     "country": "US",
@@ -466,6 +448,24 @@
     "region": "North America",
     "url": "https://www.de-cix.net/locations/new-york",
     "peeringlan": "2001:504:36::/64"
+  },
+  {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "193.25.180.0/23"
+  },
+  {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "2001:7f8:63::/64"
   },
   {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
@@ -963,6 +963,15 @@
     "peeringlan": "2001:7f8:60::/48"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_FL-IX",
     "name": "FL-IX",
     "country": "US",
@@ -1024,15 +1033,6 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f0:1::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -1359,33 +1359,6 @@
     "peeringlan": "2001:7f8:d9:1::/64"
   },
   {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "185.1.213.0/24"
-  },
-  {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "2001:7f8:115::/64"
-  },
-  {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "2001:7f8:14d::/64"
-  },
-  {
     "id": "he_NIXI%20Delhi",
     "name": "NIXI Delhi",
     "country": "IN",
@@ -1411,6 +1384,33 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/delhi-noida",
     "peeringlan": "2001:DE8:1::/64"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "185.1.213.0/24"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "2001:7f8:115::/64"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "2001:7f8:14d::/64"
   },
   {
     "id": "he_BIX.BG",
@@ -3843,6 +3843,24 @@
     "peeringlan": "2a03:67e0:0:9::/64"
   },
   {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "185.1.218.0/24"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "2001:7f8:11b::/64"
+  },
+  {
     "id": "he_PITER-IX%20Kiev",
     "name": "PITER-IX Kiev",
     "country": "UA",
@@ -3913,24 +3931,6 @@
     "region": "Africa",
     "url": "https://uixp.co.ug/",
     "peeringlan": "2001:43f8:130::/64"
-  },
-  {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "185.1.218.0/24"
-  },
-  {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "2001:7f8:11b::/64"
   },
   {
     "id": "he_MegaIX%20Los%20Angeles",
@@ -5589,6 +5589,24 @@
     "peeringlan": "201.182.132.0/24"
   },
   {
+    "id": "he_PIE%20Karachi",
+    "name": "PIE Karachi",
+    "country": "PK",
+    "city": "Karachi",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/karachi",
+    "peeringlan": "58.181.127.0/24"
+  },
+  {
+    "id": "he_PIE%20Karachi",
+    "name": "PIE Karachi",
+    "country": "PK",
+    "city": "Karachi",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/karachi",
+    "peeringlan": "2001:df2:b940::/64"
+  },
+  {
     "id": "he_ULN-IX",
     "name": "ULN-IX",
     "country": "RU",
@@ -5731,24 +5749,6 @@
     "region": "South America",
     "url": "http://www.ams-ix.cw/",
     "peeringlan": "2001:13c7:6004::/64"
-  },
-  {
-    "id": "he_PIE%20Karachi",
-    "name": "PIE Karachi",
-    "country": "PK",
-    "city": "Karachi",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/karachi",
-    "peeringlan": "58.181.127.0/24"
-  },
-  {
-    "id": "he_PIE%20Karachi",
-    "name": "PIE Karachi",
-    "country": "PK",
-    "city": "Karachi",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/karachi",
-    "peeringlan": "2001:df2:b940::/64"
   },
   {
     "id": "he_REUNIX",
@@ -6480,6 +6480,24 @@
     "peeringlan": "2606:a980:0:d::/64"
   },
   {
+    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
+    "name": "DE-CIX Rio de Janeiro",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
+    "peeringlan": "45.68.93.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
+    "name": "DE-CIX Rio de Janeiro",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
+    "peeringlan": "2801:81:c0:2::/64"
+  },
+  {
     "id": "he_MARTINIX",
     "name": "MARTINIX",
     "country": "MQ",
@@ -6577,24 +6595,6 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:a980:0:6::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
-    "name": "DE-CIX Rio de Janeiro",
-    "country": "BR",
-    "city": "Rio de Janeiro",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
-    "peeringlan": "45.68.93.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
-    "name": "DE-CIX Rio de Janeiro",
-    "country": "BR",
-    "city": "Rio de Janeiro",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
-    "peeringlan": "2801:81:c0:2::/64"
   },
   {
     "id": "he_Ninja-IX%20Bay%20Area",
