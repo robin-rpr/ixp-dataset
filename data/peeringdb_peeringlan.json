@@ -3502,20 +3502,20 @@
   },
   {
     "id": "pdb_355",
-    "name": "QIX Montreal",
+    "name": "CANIX Montreal",
     "country": "CA",
     "city": "Montreal",
     "region": "North America",
-    "url": "https://qix.ca/en/",
+    "url": "https://canix.ca/points-of-presence/montreal/",
     "peeringlan": "198.179.18.0/24"
   },
   {
     "id": "pdb_355",
-    "name": "QIX Montreal",
+    "name": "CANIX Montreal",
     "country": "CA",
     "city": "Montreal",
     "region": "North America",
-    "url": "https://qix.ca/en/",
+    "url": "https://canix.ca/points-of-presence/montreal/",
     "peeringlan": "2001:504:2d::18:0/111"
   },
   {
@@ -10936,20 +10936,20 @@
   },
   {
     "id": "pdb_2584",
-    "name": "OGIX-Main",
+    "name": "CANIX Ottawa-Main",
     "country": "CA",
     "city": "Ottawa Gatineau",
     "region": "North America",
-    "url": "http://ogix.ca",
+    "url": "https://canix.ca/points-of-presence/ottawa/",
     "peeringlan": "206.82.110.0/23"
   },
   {
     "id": "pdb_2584",
-    "name": "OGIX-Main",
+    "name": "CANIX Ottawa-Main",
     "country": "CA",
     "city": "Ottawa Gatineau",
     "region": "North America",
-    "url": "http://ogix.ca",
+    "url": "https://canix.ca/points-of-presence/ottawa/",
     "peeringlan": "2001:504:96::/64"
   },
   {
@@ -19180,7 +19180,7 @@
   },
   {
     "id": "pdb_4339",
-    "name": "American IX \u2588\u2588\u2592\u2592\u2592\u2605\u2605",
+    "name": "\u2605 American IX \u2605",
     "country": "US",
     "city": "Boston Springfield Syracuse Burlington Worcester",
     "region": "North America",
@@ -19189,7 +19189,7 @@
   },
   {
     "id": "pdb_4339",
-    "name": "American IX \u2588\u2588\u2592\u2592\u2592\u2605\u2605",
+    "name": "\u2605 American IX \u2605",
     "country": "US",
     "city": "Boston Springfield Syracuse Burlington Worcester",
     "region": "North America",
@@ -19198,7 +19198,7 @@
   },
   {
     "id": "pdb_4340",
-    "name": "American LX \u2588\u2588\u2592\u2592\u2592\u2605\u2605",
+    "name": "\u2605 American LX \u2605",
     "country": "US",
     "city": "United States",
     "region": "North America",
@@ -19207,7 +19207,7 @@
   },
   {
     "id": "pdb_4340",
-    "name": "American LX \u2588\u2588\u2592\u2592\u2592\u2605\u2605",
+    "name": "\u2605 American LX \u2605",
     "country": "US",
     "city": "United States",
     "region": "North America",
@@ -20926,20 +20926,20 @@
   },
   {
     "id": "pdb_4604",
-    "name": "QIX Quebec city",
+    "name": "CANIX Quebec city",
     "country": "CA",
     "city": "Quebec City",
     "region": "North America",
-    "url": "https://qix.ca",
+    "url": "https://canix.ca/points-of-presence/quebec/",
     "peeringlan": "149.112.119.0/24"
   },
   {
     "id": "pdb_4604",
-    "name": "QIX Quebec city",
+    "name": "CANIX Quebec city",
     "country": "CA",
     "city": "Quebec City",
     "region": "North America",
-    "url": "https://qix.ca",
+    "url": "https://canix.ca/points-of-presence/quebec/",
     "peeringlan": "2602:f777::/64"
   },
   {
@@ -22258,12 +22258,21 @@
   },
   {
     "id": "pdb_4857",
-    "name": "Tampa Bay Access Exchange",
+    "name": "TBAX",
     "country": "US",
     "city": "Tampa",
     "region": "North America",
     "url": "http://tbax.net",
     "peeringlan": "149.112.178.0/24"
+  },
+  {
+    "id": "pdb_4857",
+    "name": "TBAX",
+    "country": "US",
+    "city": "Tampa",
+    "region": "North America",
+    "url": "http://tbax.net",
+    "peeringlan": "2602:f527::/64"
   },
   {
     "id": "pdb_4860",
@@ -22273,5 +22282,23 @@
     "region": "Asia Pacific",
     "url": "http://computerfuture.net",
     "peeringlan": "103.157.94.0/23"
+  },
+  {
+    "id": "pdb_4861",
+    "name": "CANIX Toronto",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://canix.ca/points-of-presence/toronto/",
+    "peeringlan": "149.112.134.0/23"
+  },
+  {
+    "id": "pdb_4861",
+    "name": "CANIX Toronto",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://canix.ca/points-of-presence/toronto/",
+    "peeringlan": "2602:f777:400::/64"
   }
 ]
