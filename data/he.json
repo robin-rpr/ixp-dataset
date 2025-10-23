@@ -423,6 +423,24 @@
     "peeringlan": "2001:7f8:f2:e1::/64"
   },
   {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "193.25.180.0/23"
+  },
+  {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "2001:7f8:63::/64"
+  },
+  {
     "id": "he_DE-CIX%20New%20York",
     "name": "DE-CIX New York",
     "country": "US",
@@ -448,24 +466,6 @@
     "region": "North America",
     "url": "https://www.de-cix.net/locations/new-york",
     "peeringlan": "2001:504:36::/64"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "193.25.180.0/23"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "2001:7f8:63::/64"
   },
   {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
@@ -1404,6 +1404,24 @@
     "peeringlan": "2001:7f8:14d::/64"
   },
   {
+    "id": "he_DE-CIX%20Jakarta",
+    "name": "DE-CIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/jakarta",
+    "peeringlan": "103.159.71.0/25"
+  },
+  {
+    "id": "he_DE-CIX%20Jakarta",
+    "name": "DE-CIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/jakarta",
+    "peeringlan": "49.213.56.0/23"
+  },
+  {
     "id": "he_NIXI%20Delhi",
     "name": "NIXI Delhi",
     "country": "IN",
@@ -1447,24 +1465,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/marseille",
     "peeringlan": "2001:7f8:36::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Jakarta",
-    "name": "DE-CIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/jakarta",
-    "peeringlan": "103.159.71.0/25"
-  },
-  {
-    "id": "he_DE-CIX%20Jakarta",
-    "name": "DE-CIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/jakarta",
-    "peeringlan": "49.213.56.0/23"
   },
   {
     "id": "he_SFMIX",
@@ -1823,7 +1823,7 @@
     "country": "CA",
     "city": "Montreal",
     "region": "North America",
-    "url": "https://qix.ca/en/",
+    "url": "https://canix.ca/points-of-presence/montreal/",
     "peeringlan": "198.179.18.0/24"
   },
   {
@@ -1832,7 +1832,7 @@
     "country": "CA",
     "city": "Montreal",
     "region": "North America",
-    "url": "https://qix.ca/en/",
+    "url": "https://canix.ca/points-of-presence/montreal/",
     "peeringlan": "2001:504:2d::/64"
   },
   {
@@ -2772,15 +2772,6 @@
     "peeringlan": "2001:7f8:41::/48"
   },
   {
-    "id": "he_PITER-IX%20Rostov",
-    "name": "PITER-IX Rostov",
-    "country": "RU",
-    "city": "Rostov",
-    "region": "Europe",
-    "url": "https://piter-ix.ru",
-    "peeringlan": "193.27.38.0/24"
-  },
-  {
     "id": "he_LINX%20NoVA",
     "name": "LINX NoVA",
     "country": "US",
@@ -2797,6 +2788,15 @@
     "region": "North America",
     "url": "https://www.linx.net/about/our-network/linx-nova/",
     "peeringlan": "2001:504:31::/64"
+  },
+  {
+    "id": "he_PITER-IX%20Rostov",
+    "name": "PITER-IX Rostov",
+    "country": "RU",
+    "city": "Rostov",
+    "region": "Europe",
+    "url": "https://piter-ix.ru",
+    "peeringlan": "193.27.38.0/24"
   },
   {
     "id": "he_GigaPix",
@@ -2889,6 +2889,33 @@
     "peeringlan": "2001:7f8:be::/64"
   },
   {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "185.0.27.0/24"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
+  },
+  {
     "id": "he_CRIX",
     "name": "CRIX",
     "country": "CR",
@@ -2959,33 +2986,6 @@
     "region": "Africa",
     "url": "https://asteroidhq.com/ixp-locations/4",
     "peeringlan": "2001:7f8:b6:2::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "185.0.27.0/24"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_npIX",
@@ -4716,6 +4716,24 @@
     "peeringlan": "2001:7f8:f5::/64"
   },
   {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "45.68.64.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "2806:424::/64"
+  },
+  {
     "id": "he_DE-CIX%20Sao%20Paulo",
     "name": "DE-CIX Sao Paulo",
     "country": "BR",
@@ -4876,24 +4894,6 @@
     "region": "Europe",
     "url": "https://kremen-ix.net.ua",
     "peeringlan": "2001:7f8:107::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "45.68.64.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "2806:424::/64"
   },
   {
     "id": "he_France-IX%20Toulouse",
@@ -5103,6 +5103,33 @@
     "peeringlan": "2001:dea:0:60::/64"
   },
   {
+    "id": "he_CIX-NoVA",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "149.112.69.0/24"
+  },
+  {
+    "id": "he_CIX-NoVA",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "2001:504:40:120::/64"
+  },
+  {
+    "id": "he_CIX-NoVA",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "2001:504:40:69::/64"
+  },
+  {
     "id": "he_MegaIX%20Seattle",
     "name": "MegaIX Seattle",
     "country": "US",
@@ -5191,33 +5218,6 @@
     "region": "North America",
     "url": "http://megaport.com",
     "peeringlan": "2606:a980:0:e::/64"
-  },
-  {
-    "id": "he_CIX-NoVA",
-    "name": "CIX-NoVA",
-    "country": "US",
-    "city": "Ashburn",
-    "region": "North America",
-    "url": "https://communityix.org",
-    "peeringlan": "149.112.69.0/24"
-  },
-  {
-    "id": "he_CIX-NoVA",
-    "name": "CIX-NoVA",
-    "country": "US",
-    "city": "Ashburn",
-    "region": "North America",
-    "url": "https://communityix.org",
-    "peeringlan": "2001:504:40:120::/64"
-  },
-  {
-    "id": "he_CIX-NoVA",
-    "name": "CIX-NoVA",
-    "country": "US",
-    "city": "Ashburn",
-    "region": "North America",
-    "url": "https://communityix.org",
-    "peeringlan": "2001:504:40:69::/64"
   },
   {
     "id": "he_YEGIX",
@@ -5513,7 +5513,7 @@
     "country": "CA",
     "city": "Ottawa Gatineau",
     "region": "North America",
-    "url": "http://ogix.ca",
+    "url": "https://canix.ca/points-of-presence/ottawa/",
     "peeringlan": "206.82.110.0/23"
   },
   {
@@ -5522,7 +5522,7 @@
     "country": "CA",
     "city": "Ottawa Gatineau",
     "region": "North America",
-    "url": "http://ogix.ca",
+    "url": "https://canix.ca/points-of-presence/ottawa/",
     "peeringlan": "2001:504:96::/64"
   },
   {
@@ -5976,33 +5976,6 @@
     "peeringlan": "2001:13C7:6010::/64"
   },
   {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "204.107.122.0/25"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2001:19e0:ffff::/64"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2602:f616::/64"
-  },
-  {
     "id": "he_CABASE-NGB",
     "name": "CABASE-NGB",
     "country": "AR",
@@ -6237,6 +6210,33 @@
     "peeringlan": "2001:13C7:6015::/64"
   },
   {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "204.107.122.0/25"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2001:19e0:ffff::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2602:f616::/64"
+  },
+  {
     "id": "he_CABASE-DLC",
     "name": "CABASE-DLC",
     "country": "AR",
@@ -6381,6 +6381,24 @@
     "peeringlan": "2606:a980:0:b::/64"
   },
   {
+    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
+    "name": "DE-CIX Rio de Janeiro",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
+    "peeringlan": "45.68.93.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
+    "name": "DE-CIX Rio de Janeiro",
+    "country": "BR",
+    "city": "Rio de Janeiro",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
+    "peeringlan": "2801:81:c0:2::/64"
+  },
+  {
     "id": "he_GUYANIX",
     "name": "GUYANIX",
     "country": "GF",
@@ -6406,24 +6424,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/en/locations/kristiansand",
     "peeringlan": "2001:7f8:13b::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
-    "name": "DE-CIX Rio de Janeiro",
-    "country": "BR",
-    "city": "Rio de Janeiro",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
-    "peeringlan": "45.68.93.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Rio%20de%20Janeiro",
-    "name": "DE-CIX Rio de Janeiro",
-    "country": "BR",
-    "city": "Rio de Janeiro",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/rio-de-janeiro",
-    "peeringlan": "2801:81:c0:2::/64"
   },
   {
     "id": "he_JinIX",
