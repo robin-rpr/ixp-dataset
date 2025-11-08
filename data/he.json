@@ -1611,6 +1611,42 @@
     "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "103.158.187.0/24"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "2a0f:5707:ffe3::/64"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "103.104.19.0/24"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "2401:fdc0::/64"
+  },
+  {
     "id": "he_INEX",
     "name": "INEX",
     "country": "IE",
@@ -1681,42 +1717,6 @@
     "region": "Europe",
     "url": "https://www.inex.ie/",
     "peeringlan": "2001:07F8:0018:72::/64"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "103.158.187.0/24"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "2a0f:5707:ffe3::/64"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "103.104.19.0/24"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "2401:fdc0::/64"
   },
   {
     "id": "he_UAE-IX",
@@ -2538,15 +2538,6 @@
     "peeringlan": "2001:7f8:12:1::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
-  },
-  {
     "id": "he_DE-CIX%20Istanbul",
     "name": "DE-CIX Istanbul",
     "country": "TR",
@@ -2563,6 +2554,15 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/istanbul",
     "peeringlan": "2001:7f8:3f::/64"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_NIXI%20Chennai",
@@ -4626,6 +4626,33 @@
     "peeringlan": "2001:7f8:140::/64"
   },
   {
+    "id": "he_CIX-NoVA",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "149.112.69.0/24"
+  },
+  {
+    "id": "he_CIX-NoVA",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "2001:504:40:120::/64"
+  },
+  {
+    "id": "he_CIX-NoVA",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "2001:504:40:69::/64"
+  },
+  {
     "id": "he_AMS-IX%20Bay%20Area",
     "name": "AMS-IX Bay Area",
     "country": "US",
@@ -4732,33 +4759,6 @@
     "region": "South America",
     "url": "https://www.de-cix.net/en/locations/sao-paulo",
     "peeringlan": "2801:81:c0:1::/64"
-  },
-  {
-    "id": "he_CIX-NoVA",
-    "name": "CIX-NoVA",
-    "country": "US",
-    "city": "Ashburn",
-    "region": "North America",
-    "url": "https://communityix.org",
-    "peeringlan": "149.112.69.0/24"
-  },
-  {
-    "id": "he_CIX-NoVA",
-    "name": "CIX-NoVA",
-    "country": "US",
-    "city": "Ashburn",
-    "region": "North America",
-    "url": "https://communityix.org",
-    "peeringlan": "2001:504:40:120::/64"
-  },
-  {
-    "id": "he_CIX-NoVA",
-    "name": "CIX-NoVA",
-    "country": "US",
-    "city": "Ashburn",
-    "region": "North America",
-    "url": "https://communityix.org",
-    "peeringlan": "2001:504:40:69::/64"
   },
   {
     "id": "he_NIXVAL",
@@ -5220,6 +5220,24 @@
     "peeringlan": "2606:a980:0:e::/64"
   },
   {
+    "id": "he_Digital%20Realty%20%7C%20Telx%20Dallas",
+    "name": "Digital Realty | Telx Dallas",
+    "country": "US",
+    "city": "Dallas",
+    "region": "North America",
+    "url": "https://ix.digitalrealty.com",
+    "peeringlan": "206.126.114.0/24"
+  },
+  {
+    "id": "he_Digital%20Realty%20%7C%20Telx%20Dallas",
+    "name": "Digital Realty | Telx Dallas",
+    "country": "US",
+    "city": "Dallas",
+    "region": "North America",
+    "url": "https://ix.digitalrealty.com",
+    "peeringlan": "2001:504:17:114::/64"
+  },
+  {
     "id": "he_YEGIX",
     "name": "YEGIX",
     "country": "CA",
@@ -5299,24 +5317,6 @@
     "region": "Europe",
     "url": "http://www.auvernix.org",
     "peeringlan": "2001:7f8:81::/64"
-  },
-  {
-    "id": "he_Digital%20Realty%20%7C%20Telx%20Dallas",
-    "name": "Digital Realty | Telx Dallas",
-    "country": "US",
-    "city": "Dallas",
-    "region": "North America",
-    "url": "https://ix.digitalrealty.com",
-    "peeringlan": "206.126.114.0/24"
-  },
-  {
-    "id": "he_Digital%20Realty%20%7C%20Telx%20Dallas",
-    "name": "Digital Realty | Telx Dallas",
-    "country": "US",
-    "city": "Dallas",
-    "region": "North America",
-    "url": "https://ix.digitalrealty.com",
-    "peeringlan": "2001:504:17:114::/64"
   },
   {
     "id": "he_COIX",
@@ -6343,6 +6343,42 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2801:168:1::/48"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "212.81.56.0/24"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "185.0.0.0/24"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "2a10:fa80:56::/64"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "2001:7f8:133::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Zaporizhia",
