@@ -1908,24 +1908,6 @@
     "peeringlan": "2001:504:2f::/64"
   },
   {
-    "id": "he_STLIX",
-    "name": "STLIX",
-    "country": "US",
-    "city": "Saint Louis",
-    "region": "North America",
-    "url": "http://www.stlix.net",
-    "peeringlan": "206.83.12.0/24"
-  },
-  {
-    "id": "he_STLIX",
-    "name": "STLIX",
-    "country": "US",
-    "city": "Saint Louis",
-    "region": "North America",
-    "url": "http://www.stlix.net",
-    "peeringlan": "2001:504:98::/64"
-  },
-  {
     "id": "he_Crimea-IX",
     "name": "Crimea-IX",
     "country": "RU",
@@ -1942,6 +1924,24 @@
     "region": "Europe",
     "url": "http://crimea-ix.net/",
     "peeringlan": "2a05:5840:0:ffff::/64"
+  },
+  {
+    "id": "he_STLIX",
+    "name": "STLIX",
+    "country": "US",
+    "city": "Saint Louis",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "206.83.12.0/24"
+  },
+  {
+    "id": "he_STLIX",
+    "name": "STLIX",
+    "country": "US",
+    "city": "Saint Louis",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "2001:504:98::/64"
   },
   {
     "id": "he_DET-IX",
@@ -2439,24 +2439,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_HOUIX",
-    "name": "HOUIX",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "http://www.houix.net",
-    "peeringlan": "206.83.136.0/24"
-  },
-  {
-    "id": "he_HOUIX",
-    "name": "HOUIX",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "http://www.houix.net",
-    "peeringlan": "2001:504:9e::/64"
-  },
-  {
     "id": "he_DE-CIX%20Chicago",
     "name": "DE-CIX Chicago",
     "country": "US",
@@ -2473,6 +2455,24 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/united-states/chicago",
     "peeringlan": "2001:504:102::/64"
+  },
+  {
+    "id": "he_HOUIX",
+    "name": "HOUIX",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "206.83.136.0/24"
+  },
+  {
+    "id": "he_HOUIX",
+    "name": "HOUIX",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "2001:504:9e::/64"
   },
   {
     "id": "he_PIRIX",
@@ -2853,6 +2853,33 @@
     "peeringlan": "2001:7f8:2a::/64"
   },
   {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "185.0.27.0/24"
+  },
+  {
+    "id": "he_ERA-IX%20Frankfurt",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "2001:7f8:15e::/64"
+  },
+  {
     "id": "he_AMS-IX%20Hong%20Kong",
     "name": "AMS-IX Hong Kong",
     "country": "HK",
@@ -2887,33 +2914,6 @@
     "region": "Europe",
     "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
     "peeringlan": "2001:7f8:be::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "185.0.27.0/24"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "2001:7f8:15e::/64"
   },
   {
     "id": "he_CRIX",
@@ -4608,6 +4608,24 @@
     "peeringlan": "2001:13c7:6008::/64"
   },
   {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "45.68.64.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "2806:424::/64"
+  },
+  {
     "id": "he_SBG-IX",
     "name": "SBG-IX",
     "country": "FR",
@@ -4723,24 +4741,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar",
     "peeringlan": "2001:13C7:6011::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "45.68.64.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "2806:424::/64"
   },
   {
     "id": "he_DE-CIX%20Sao%20Paulo",
@@ -5391,6 +5391,24 @@
     "peeringlan": "2001:504:92::/64"
   },
   {
+    "id": "he_OGIX",
+    "name": "OGIX",
+    "country": "CA",
+    "city": "Ottawa Gatineau",
+    "region": "North America",
+    "url": "https://canix.ca/points-of-presence/ottawa/",
+    "peeringlan": "206.82.110.0/23"
+  },
+  {
+    "id": "he_OGIX",
+    "name": "OGIX",
+    "country": "CA",
+    "city": "Ottawa Gatineau",
+    "region": "North America",
+    "url": "https://canix.ca/points-of-presence/ottawa/",
+    "peeringlan": "2001:504:96::/64"
+  },
+  {
     "id": "he_VIXP",
     "name": "VIXP",
     "country": "NL",
@@ -5506,24 +5524,6 @@
     "region": "North America",
     "url": "https://ix.digitalrealty.com",
     "peeringlan": "2001:504:17:11::/64"
-  },
-  {
-    "id": "he_OGIX",
-    "name": "OGIX",
-    "country": "CA",
-    "city": "Ottawa Gatineau",
-    "region": "North America",
-    "url": "https://canix.ca/points-of-presence/ottawa/",
-    "peeringlan": "206.82.110.0/23"
-  },
-  {
-    "id": "he_OGIX",
-    "name": "OGIX",
-    "country": "CA",
-    "city": "Ottawa Gatineau",
-    "region": "North America",
-    "url": "https://canix.ca/points-of-presence/ottawa/",
-    "peeringlan": "2001:504:96::/64"
   },
   {
     "id": "he_BatamIX",
@@ -5850,6 +5850,33 @@
     "peeringlan": "103.114.240.0/24"
   },
   {
+    "id": "he_MonctonIX",
+    "name": "MonctonIX",
+    "country": "CA",
+    "city": "Moncton",
+    "region": "North America",
+    "url": "http://monctonix.ca",
+    "peeringlan": "206.71.137.0/24"
+  },
+  {
+    "id": "he_MonctonIX",
+    "name": "MonctonIX",
+    "country": "CA",
+    "city": "Moncton",
+    "region": "North America",
+    "url": "http://monctonix.ca",
+    "peeringlan": "2001:504:73:cafe::/64"
+  },
+  {
+    "id": "he_MonctonIX",
+    "name": "MonctonIX",
+    "country": "CA",
+    "city": "Moncton",
+    "region": "North America",
+    "url": "http://monctonix.ca",
+    "peeringlan": "2001:504:37:30::/64"
+  },
+  {
     "id": "he_RO-CIX",
     "name": "RO-CIX",
     "country": "RO",
@@ -5994,33 +6021,6 @@
     "peeringlan": "2001:13c7:6019::/64"
   },
   {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "206.71.137.0/24"
-  },
-  {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "2001:504:73:cafe::/64"
-  },
-  {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "2001:504:37:30::/64"
-  },
-  {
     "id": "he_SR-IX",
     "name": "SR-IX",
     "country": "KG",
@@ -6055,6 +6055,42 @@
     "region": "Europe",
     "url": "http://www.ixbradford.net",
     "peeringlan": "2001:7f8:f3::/64"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "212.81.56.0/24"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "185.0.0.0/24"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "2a10:fa80:56::/64"
+  },
+  {
+    "id": "he_DSIX",
+    "name": "DSIX",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://ix.dreamserver.ro",
+    "peeringlan": "2001:7f8:133::/64"
   },
   {
     "id": "he_DE-CIX%20Oslo",
@@ -6343,42 +6379,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2801:168:1::/48"
-  },
-  {
-    "id": "he_DSIX",
-    "name": "DSIX",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://ix.dreamserver.ro",
-    "peeringlan": "212.81.56.0/24"
-  },
-  {
-    "id": "he_DSIX",
-    "name": "DSIX",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://ix.dreamserver.ro",
-    "peeringlan": "185.0.0.0/24"
-  },
-  {
-    "id": "he_DSIX",
-    "name": "DSIX",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://ix.dreamserver.ro",
-    "peeringlan": "2a10:fa80:56::/64"
-  },
-  {
-    "id": "he_DSIX",
-    "name": "DSIX",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://ix.dreamserver.ro",
-    "peeringlan": "2001:7f8:133::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Zaporizhia",
