@@ -846,6 +846,33 @@
     "peeringlan": "2001:7fa:11:4::/64"
   },
   {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:380:60::/80"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3::/64"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3806:60::/80"
+  },
+  {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Atlanta",
     "name": "Digital Realty | Telx Atlanta",
     "country": "US",
@@ -880,33 +907,6 @@
     "region": "North America",
     "url": "https://ix.digitalrealty.com",
     "peeringlan": "2001:504:17:110::/64"
-  },
-  {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:380:60::/80"
-  },
-  {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:3::/64"
-  },
-  {
-    "id": "he_BIX%20Jakarta",
-    "name": "BIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "http://bix.id",
-    "peeringlan": "2001:de8:11:3806:60::/80"
   },
   {
     "id": "he_Thinx",
@@ -1395,33 +1395,6 @@
     "peeringlan": "2001:7f8:58::/64"
   },
   {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "185.1.213.0/24"
-  },
-  {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "2001:7f8:115::/64"
-  },
-  {
-    "id": "he_1-IX%20Internet%20Exchange",
-    "name": "1-IX Internet Exchange",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "2001:7f8:14d::/64"
-  },
-  {
     "id": "he_NIXI%20Delhi",
     "name": "NIXI Delhi",
     "country": "IN",
@@ -1447,6 +1420,33 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/delhi-noida",
     "peeringlan": "2001:DE8:1::/64"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "185.1.213.0/24"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "2001:7f8:115::/64"
+  },
+  {
+    "id": "he_1-IX%20Internet%20Exchange",
+    "name": "1-IX Internet Exchange",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "2001:7f8:14d::/64"
   },
   {
     "id": "he_SFMIX",
@@ -1611,24 +1611,6 @@
     "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "103.104.19.0/24"
-  },
-  {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "2401:fdc0::/64"
-  },
-  {
     "id": "he_STUIX",
     "name": "STUIX",
     "country": "TW",
@@ -1645,6 +1627,24 @@
     "region": "Asia Pacific",
     "url": "https://stuix.io",
     "peeringlan": "2a0f:5707:ffe3::/64"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "103.104.19.0/24"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "2401:fdc0::/64"
   },
   {
     "id": "he_INEX",
@@ -4887,6 +4887,24 @@
     "peeringlan": "2402:b740:15:388::/64"
   },
   {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.173.0/25"
+  },
+  {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:2::/64"
+  },
+  {
     "id": "he_MidWest-IX%20-%20St.%20Louis",
     "name": "MidWest-IX - St. Louis",
     "country": "US",
@@ -4948,24 +4966,6 @@
     "region": "Europe",
     "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-toulouse/",
     "peeringlan": "2001:7f8:54:7::/64"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.173.0/25"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:2::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Lviv",
@@ -6579,6 +6579,24 @@
     "peeringlan": "2001:504:115::/64"
   },
   {
+    "id": "he_DE-CIX%20Houston",
+    "name": "DE-CIX Houston",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/houston",
+    "peeringlan": "149.112.113.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Houston",
+    "name": "DE-CIX Houston",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/houston",
+    "peeringlan": "2001:504:13f::/64"
+  },
+  {
     "id": "he_MegaIX%20Chicago",
     "name": "MegaIX Chicago",
     "country": "US",
@@ -6694,24 +6712,6 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:a980:0:6::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Houston",
-    "name": "DE-CIX Houston",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/houston",
-    "peeringlan": "149.112.113.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Houston",
-    "name": "DE-CIX Houston",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/houston",
-    "peeringlan": "2001:504:13f::/64"
   },
   {
     "id": "he_NYIIX%20Philadelphia",
