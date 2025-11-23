@@ -540,6 +540,24 @@
     "peeringlan": "2001:7fa:7:1::/64"
   },
   {
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
+    "region": "Europe",
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "185.1.203.0/24"
+  },
+  {
+    "id": "he_Frys-IX",
+    "name": "Frys-IX",
+    "country": "NL",
+    "city": "Frysl\u00e2n",
+    "region": "Europe",
+    "url": "http://www.frys-IX.net",
+    "peeringlan": "2001:7f8:10f::/64"
+  },
+  {
     "id": "he_SwissIX",
     "name": "SwissIX",
     "country": "CH",
@@ -574,24 +592,6 @@
     "region": "North America",
     "url": "https://www.torix.ca/",
     "peeringlan": "2001:504:1a::34:0/111"
-  },
-  {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
-    "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "185.1.203.0/24"
-  },
-  {
-    "id": "he_Frys-IX",
-    "name": "Frys-IX",
-    "country": "NL",
-    "city": "Frysl\u00e2n",
-    "region": "Europe",
-    "url": "http://www.frys-IX.net",
-    "peeringlan": "2001:7f8:10f::/64"
   },
   {
     "id": "he_TPIX-TW",
@@ -2502,6 +2502,33 @@
     "peeringlan": "2001:504:102::/64"
   },
   {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "193.156.90.0/24"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "185.1.55.0/24"
+  },
+  {
+    "id": "he_NIX",
+    "name": "NIX",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "https://www.nix.no",
+    "peeringlan": "2001:7f8:12:1::/64"
+  },
+  {
     "id": "he_PIRIX",
     "name": "PIRIX",
     "country": "RU",
@@ -2536,33 +2563,6 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
-  },
-  {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "193.156.90.0/24"
-  },
-  {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "185.1.55.0/24"
-  },
-  {
-    "id": "he_NIX",
-    "name": "NIX",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "https://www.nix.no",
-    "peeringlan": "2001:7f8:12:1::/64"
   },
   {
     "id": "he_NIXI%20Chennai",
@@ -3258,15 +3258,6 @@
     "peeringlan": "2a04:bc40:1dc5:3::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Odesa",
-    "name": "Giganet IXN Odesa",
-    "country": "UA",
-    "city": "Odessa",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "193.34.196.128/25"
-  },
-  {
     "id": "he_SH-IX",
     "name": "SH-IX",
     "country": "AE",
@@ -3283,6 +3274,15 @@
     "region": "Middle East",
     "url": "http://www.smarthubix.ae/",
     "peeringlan": "2001:7f8:7a::/64"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Odesa",
+    "name": "Giganet IXN Odesa",
+    "country": "UA",
+    "city": "Odessa",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "193.34.196.128/25"
   },
   {
     "id": "he_SVAO-IX",
@@ -3438,6 +3438,51 @@
     "peeringlan": "2001:7f8:66::/64"
   },
   {
+    "id": "he_CABASE-COR",
+    "name": "CABASE-COR",
+    "country": "AR",
+    "city": "C\u00f3rdoba",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.14.75.0/24"
+  },
+  {
+    "id": "he_CABASE-COR",
+    "name": "CABASE-COR",
+    "country": "AR",
+    "city": "C\u00f3rdoba",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13C7:600E::/64"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.60.104.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.49.90.0/24"
+  },
+  {
+    "id": "he_AF-CIX",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "2001:43f8:1690::/64"
+  },
+  {
     "id": "he_NetIX%20Greece",
     "name": "NetIX Greece",
     "country": "GR",
@@ -3508,51 +3553,6 @@
     "region": "North America",
     "url": "https://pit-ix.net",
     "peeringlan": "2001:504:77::/64"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.60.104.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.49.90.0/24"
-  },
-  {
-    "id": "he_AF-CIX",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "2001:43f8:1690::/64"
-  },
-  {
-    "id": "he_CABASE-COR",
-    "name": "CABASE-COR",
-    "country": "AR",
-    "city": "C\u00f3rdoba",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.75.0/24"
-  },
-  {
-    "id": "he_CABASE-COR",
-    "name": "CABASE-COR",
-    "country": "AR",
-    "city": "C\u00f3rdoba",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:600E::/64"
   },
   {
     "id": "he_NIXI%20Kolkata",
