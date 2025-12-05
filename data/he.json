@@ -981,15 +981,6 @@
     "peeringlan": "2001:504:40:108::/64"
   },
   {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
-  },
-  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1033,6 +1024,15 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f0:1::/64"
+  },
+  {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -2592,6 +2592,24 @@
     "peeringlan": "2001:de8:1:2::/64"
   },
   {
+    "id": "he_MegaIX%20Perth",
+    "name": "MegaIX Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://megaport.com",
+    "peeringlan": "202.12.243.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Perth",
+    "name": "MegaIX Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://megaport.com",
+    "peeringlan": "2001:dea:0:50::/64"
+  },
+  {
     "id": "he_DE-CIX%20Lisbon",
     "name": "DE-CIX Lisbon",
     "country": "PT",
@@ -2626,24 +2644,6 @@
     "region": "Europe",
     "url": "https://www.nix.sk/sk",
     "peeringlan": "2001:7f8:91::/64"
-  },
-  {
-    "id": "he_MegaIX%20Perth",
-    "name": "MegaIX Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://megaport.com",
-    "peeringlan": "202.12.243.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Perth",
-    "name": "MegaIX Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://megaport.com",
-    "peeringlan": "2001:dea:0:50::/64"
   },
   {
     "id": "he_QCIX",
@@ -2988,24 +2988,6 @@
     "peeringlan": "2001:7f8:b6:2::/64"
   },
   {
-    "id": "he_npIX",
-    "name": "npIX",
-    "country": "NP",
-    "city": "Kathmandu",
-    "region": "Asia Pacific",
-    "url": "http://www.npix.net.np/",
-    "peeringlan": "198.32.231.0/25"
-  },
-  {
-    "id": "he_npIX",
-    "name": "npIX",
-    "country": "NP",
-    "city": "Kathmandu",
-    "region": "Asia Pacific",
-    "url": "http://www.npix.net.np/",
-    "peeringlan": "2404:2C00:FFFF:E::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Auckland",
     "name": "EdgeIX - Auckland",
     "country": "NZ",
@@ -3022,6 +3004,24 @@
     "region": "Australia",
     "url": "http://www.edgeix.net",
     "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
+    "id": "he_npIX",
+    "name": "npIX",
+    "country": "NP",
+    "city": "Kathmandu",
+    "region": "Asia Pacific",
+    "url": "http://www.npix.net.np/",
+    "peeringlan": "198.32.231.0/25"
+  },
+  {
+    "id": "he_npIX",
+    "name": "npIX",
+    "country": "NP",
+    "city": "Kathmandu",
+    "region": "Asia Pacific",
+    "url": "http://www.npix.net.np/",
+    "peeringlan": "2404:2C00:FFFF:E::/64"
   },
   {
     "id": "he_Balcan-IX",
@@ -3420,6 +3420,24 @@
     "peeringlan": "2a0f:85c1:363:1::/64"
   },
   {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "91.232.229.0/24"
+  },
+  {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "2001:7f8:66::/64"
+  },
+  {
     "id": "he_AF-CIX",
     "name": "AF-CIX",
     "country": "NG",
@@ -3463,24 +3481,6 @@
     "region": "Europe",
     "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
     "peeringlan": "2001:7f8:148::/64"
-  },
-  {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "91.232.229.0/24"
-  },
-  {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "2001:7f8:66::/64"
   },
   {
     "id": "he_CABASE-COR",
@@ -5040,6 +5040,24 @@
     "peeringlan": "2001:7f8:53::/48"
   },
   {
+    "id": "he_DE-CIX%20Kolkata",
+    "name": "DE-CIX Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/india/kolkata",
+    "peeringlan": "103.228.172.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Kolkata",
+    "name": "DE-CIX Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/india/kolkata",
+    "peeringlan": "2400:d180:69::/64"
+  },
+  {
     "id": "he_STHIX%20Gothenburg",
     "name": "STHIX Gothenburg",
     "country": "SE",
@@ -5200,24 +5218,6 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:A980:0:8:0:0:0:0/64"
-  },
-  {
-    "id": "he_DE-CIX%20Kolkata",
-    "name": "DE-CIX Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/india/kolkata",
-    "peeringlan": "103.228.172.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Kolkata",
-    "name": "DE-CIX Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/india/kolkata",
-    "peeringlan": "2400:d180:69::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Dallas",
@@ -6480,6 +6480,24 @@
     "peeringlan": "2001:7f8:13b::/64"
   },
   {
+    "id": "he_DE-CIX%20Houston",
+    "name": "DE-CIX Houston",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/houston",
+    "peeringlan": "149.112.113.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Houston",
+    "name": "DE-CIX Houston",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/houston",
+    "peeringlan": "2001:504:13f::/64"
+  },
+  {
     "id": "he_MegaIX%20Chicago",
     "name": "MegaIX Chicago",
     "country": "US",
@@ -6595,24 +6613,6 @@
     "region": "North America",
     "url": "https://ninja-ix.net/Market-Store/Auburn.html",
     "peeringlan": "2001:504:115::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Houston",
-    "name": "DE-CIX Houston",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/houston",
-    "peeringlan": "149.112.113.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Houston",
-    "name": "DE-CIX Houston",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/houston",
-    "peeringlan": "2001:504:13f::/64"
   },
   {
     "id": "he_Ninja-IX%20Bay%20Area",
