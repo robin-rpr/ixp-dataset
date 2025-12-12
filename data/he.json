@@ -963,6 +963,24 @@
     "peeringlan": "2001:504:40:108::/64"
   },
   {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "212.91.0.0/22"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "2001:7f8:60::/48"
+  },
+  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1015,24 +1033,6 @@
     "region": "Europe",
     "url": "https://locix.online",
     "peeringlan": "185.1.155.0/24"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "212.91.0.0/22"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "2001:7f8:60::/48"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -2007,33 +2007,6 @@
     "peeringlan": "2001:7fa:4:c0cb::/64"
   },
   {
-    "id": "he_DE-CIX%20Delhi",
-    "name": "DE-CIX Delhi",
-    "country": "IN",
-    "city": "Delhi",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/locations/de-cix-delhi",
-    "peeringlan": "103.27.168.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Delhi",
-    "name": "DE-CIX Delhi",
-    "country": "IN",
-    "city": "Delhi",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/locations/de-cix-delhi",
-    "peeringlan": "103.228.154.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Delhi",
-    "name": "DE-CIX Delhi",
-    "country": "IN",
-    "city": "Delhi",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/locations/de-cix-delhi",
-    "peeringlan": "2400:d180:67::/64"
-  },
-  {
     "id": "he_B-IX%20Balkans",
     "name": "B-IX Balkans",
     "country": "BG",
@@ -2059,6 +2032,33 @@
     "region": "Europe",
     "url": "https://www.b-ix.net/",
     "peeringlan": "2001:7f8:8e::/48"
+  },
+  {
+    "id": "he_DE-CIX%20Delhi",
+    "name": "DE-CIX Delhi",
+    "country": "IN",
+    "city": "Delhi",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/locations/de-cix-delhi",
+    "peeringlan": "103.27.168.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Delhi",
+    "name": "DE-CIX Delhi",
+    "country": "IN",
+    "city": "Delhi",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/locations/de-cix-delhi",
+    "peeringlan": "103.228.154.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Delhi",
+    "name": "DE-CIX Delhi",
+    "country": "IN",
+    "city": "Delhi",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/locations/de-cix-delhi",
+    "peeringlan": "2400:d180:67::/64"
   },
   {
     "id": "he_IX%20Australia%20WA",
@@ -2331,6 +2331,15 @@
     "peeringlan": "2001:7f8:5f::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_DE-CIX%20Chennai",
     "name": "DE-CIX Chennai",
     "country": "IN",
@@ -2392,15 +2401,6 @@
     "region": "Europe",
     "url": "https://sonix.network",
     "peeringlan": "2001:7f8:117::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_BKNIX",
@@ -2646,6 +2646,15 @@
     "peeringlan": "2001:504:9b::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_NIX.SK",
     "name": "NIX.SK",
     "country": "SK",
@@ -2662,15 +2671,6 @@
     "region": "Europe",
     "url": "https://www.nix.sk/sk",
     "peeringlan": "2001:7f8:91::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_SOLIX",
