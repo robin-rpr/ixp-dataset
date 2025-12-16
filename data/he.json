@@ -2826,6 +2826,24 @@
     "peeringlan": "2001:7f8:15e::/64"
   },
   {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "185.1.104.0/24"
+  },
+  {
+    "id": "he_Equinix%20London",
+    "name": "Equinix London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
+    "peeringlan": "2001:7f8:be::/64"
+  },
+  {
     "id": "he_GigaPix",
     "name": "GigaPix",
     "country": "PT",
@@ -2860,24 +2878,6 @@
     "region": "Europe",
     "url": "http://www.gigapix.pt",
     "peeringlan": "2001:07F8:000A:2::/64"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "185.1.104.0/24"
-  },
-  {
-    "id": "he_Equinix%20London",
-    "name": "Equinix London",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/",
-    "peeringlan": "2001:7f8:be::/64"
   },
   {
     "id": "he_AMS-IX%20Hong%20Kong",
@@ -3006,24 +3006,6 @@
     "peeringlan": "2404:2C00:FFFF:E::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.180.190.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:11::/64"
-  },
-  {
     "id": "he_Balcan-IX",
     "name": "Balcan-IX",
     "country": "RO",
@@ -3040,6 +3022,24 @@
     "region": "Europe",
     "url": "http://www.balcan-ix.net",
     "peeringlan": "2a02:d10:80::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.180.190.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:11::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Brisbane",
@@ -5319,6 +5319,24 @@
     "peeringlan": "2001:7f8:81::/64"
   },
   {
+    "id": "he_iX-OKC",
+    "name": "iX-OKC",
+    "country": "US",
+    "city": "Oklahoma City",
+    "region": "North America",
+    "url": "https://www.iX-OKC.net",
+    "peeringlan": "206.81.109.0/24"
+  },
+  {
+    "id": "he_iX-OKC",
+    "name": "iX-OKC",
+    "country": "US",
+    "city": "Oklahoma City",
+    "region": "North America",
+    "url": "https://www.iX-OKC.net",
+    "peeringlan": "2001:504:92::/64"
+  },
+  {
     "id": "he_DSIX",
     "name": "DSIX",
     "country": "RO",
@@ -5407,24 +5425,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar",
     "peeringlan": "2001:13c7:6022::/64"
-  },
-  {
-    "id": "he_iX-OKC",
-    "name": "iX-OKC",
-    "country": "US",
-    "city": "Oklahoma City",
-    "region": "North America",
-    "url": "https://www.iX-OKC.net",
-    "peeringlan": "206.81.109.0/24"
-  },
-  {
-    "id": "he_iX-OKC",
-    "name": "iX-OKC",
-    "country": "US",
-    "city": "Oklahoma City",
-    "region": "North America",
-    "url": "https://www.iX-OKC.net",
-    "peeringlan": "2001:504:92::/64"
   },
   {
     "id": "he_OGIX",
@@ -6714,6 +6714,15 @@
     "peeringlan": "2001:504:1:9::/64"
   },
   {
+    "id": "he_BIX%20Bergen",
+    "name": "BIX Bergen",
+    "country": "NO",
+    "city": "Bergen",
+    "region": "Europe",
+    "url": "https://www.nix.no/",
+    "peeringlan": "185.1.65.128/27"
+  },
+  {
     "id": "he_MegaIX%20Las%20Vegas",
     "name": "MegaIX Las Vegas",
     "country": "US",
@@ -6829,15 +6838,6 @@
     "region": "North America",
     "url": "https://ix-denver.org",
     "peeringlan": "2001:504:58::/64"
-  },
-  {
-    "id": "he_BIX%20Bergen",
-    "name": "BIX Bergen",
-    "country": "NO",
-    "city": "Bergen",
-    "region": "Europe",
-    "url": "https://www.nix.no/",
-    "peeringlan": "185.1.65.128/27"
   },
   {
     "id": "he_CABASE-SLU",
