@@ -45,15 +45,6 @@
     "peeringlan": "2001:7f8:d0::/64"
   },
   {
-    "id": "he_LINX%20LON1",
-    "name": "LINX LON1",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.linx.net/",
-    "peeringlan": "195.66.224.0/21"
-  },
-  {
     "id": "he_AMS-IX",
     "name": "AMS-IX",
     "country": "NL",
@@ -79,6 +70,15 @@
     "region": "Europe",
     "url": "http://www.ams-ix.net/",
     "peeringlan": "2001:7f8:1::/64"
+  },
+  {
+    "id": "he_LINX%20LON1",
+    "name": "LINX LON1",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://www.linx.net/",
+    "peeringlan": "195.66.224.0/21"
   },
   {
     "id": "he_NL-IX",
@@ -2187,6 +2187,24 @@
     "peeringlan": "2001:1ab8:8486::/64"
   },
   {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
+  },
+  {
     "id": "he_IX%20Australia%20QLD",
     "name": "IX Australia QLD",
     "country": "AU",
@@ -2329,24 +2347,6 @@
     "region": "North America",
     "url": "https://unitedix.net/location/chicago",
     "peeringlan": "2001:504:41:110::/64"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Warsaw",
@@ -2727,15 +2727,6 @@
     "peeringlan": "2001:7f8:21:11::/64"
   },
   {
-    "id": "he_PITER-IX%20Rostov",
-    "name": "PITER-IX Rostov",
-    "country": "RU",
-    "city": "Rostov",
-    "region": "Europe",
-    "url": "https://piter-ix.ru",
-    "peeringlan": "193.27.38.0/24"
-  },
-  {
     "id": "he_Phoenix%20IX",
     "name": "Phoenix IX",
     "country": "US",
@@ -2781,22 +2772,13 @@
     "peeringlan": "2001:7f8:41::/48"
   },
   {
-    "id": "he_LINX%20NoVA",
-    "name": "LINX NoVA",
-    "country": "US",
-    "city": "Northern Virginia",
-    "region": "North America",
-    "url": "https://www.linx.net/about/our-network/linx-nova/",
-    "peeringlan": "206.55.196.0/23"
-  },
-  {
-    "id": "he_LINX%20NoVA",
-    "name": "LINX NoVA",
-    "country": "US",
-    "city": "Northern Virginia",
-    "region": "North America",
-    "url": "https://www.linx.net/about/our-network/linx-nova/",
-    "peeringlan": "2001:504:31::/64"
+    "id": "he_PITER-IX%20Rostov",
+    "name": "PITER-IX Rostov",
+    "country": "RU",
+    "city": "Rostov",
+    "region": "Europe",
+    "url": "https://piter-ix.ru",
+    "peeringlan": "193.27.38.0/24"
   },
   {
     "id": "he_ERA-IX%20Frankfurt",
@@ -2896,6 +2878,24 @@
     "region": "Asia Pacific",
     "url": "http://www.ams-ix.hk",
     "peeringlan": "2001:df0:296::/64"
+  },
+  {
+    "id": "he_LINX%20NoVA",
+    "name": "LINX NoVA",
+    "country": "US",
+    "city": "Northern Virginia",
+    "region": "North America",
+    "url": "https://www.linx.net/about/our-network/linx-nova/",
+    "peeringlan": "206.55.196.0/23"
+  },
+  {
+    "id": "he_LINX%20NoVA",
+    "name": "LINX NoVA",
+    "country": "US",
+    "city": "Northern Virginia",
+    "region": "North America",
+    "url": "https://www.linx.net/about/our-network/linx-nova/",
+    "peeringlan": "2001:504:31::/64"
   },
   {
     "id": "he_CATNIX",
@@ -3501,6 +3501,24 @@
     "peeringlan": "2001:13C7:600E::/64"
   },
   {
+    "id": "he_LINX%20Mombasa",
+    "name": "LINX Mombasa",
+    "country": "KE",
+    "city": "Mombasa",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "196.60.124.0/24"
+  },
+  {
+    "id": "he_LINX%20Mombasa",
+    "name": "LINX Mombasa",
+    "country": "KE",
+    "city": "Mombasa",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "2001:43f8:1771::/64"
+  },
+  {
     "id": "he_DE-CIX%20Phoenix",
     "name": "DE-CIX Phoenix",
     "country": "US",
@@ -3580,6 +3598,24 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/kolkata",
     "peeringlan": "2001:de8:1:5::/64"
+  },
+  {
+    "id": "he_LINX%20Nairobi",
+    "name": "LINX Nairobi",
+    "country": "KE",
+    "city": "Nairobi",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "196.60.114.0/24"
+  },
+  {
+    "id": "he_LINX%20Nairobi",
+    "name": "LINX Nairobi",
+    "country": "KE",
+    "city": "Nairobi",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "2001:43f8:16d0::/64"
   },
   {
     "id": "he_angonix",
@@ -4039,24 +4075,6 @@
     "region": "Asia Pacific",
     "url": "http://www.globe.com.ph/business",
     "peeringlan": "2001:fe1:a518:3920::/64"
-  },
-  {
-    "id": "he_JEDIX",
-    "name": "JEDIX",
-    "country": "SA",
-    "city": "Jeddah",
-    "region": "Middle East",
-    "url": "https://center3.com/services/ix-port",
-    "peeringlan": "185.1.126.0/24"
-  },
-  {
-    "id": "he_JEDIX",
-    "name": "JEDIX",
-    "country": "SA",
-    "city": "Jeddah",
-    "region": "Middle East",
-    "url": "https://center3.com/services/ix-port",
-    "peeringlan": "2001:7f8:d1::/64"
   },
   {
     "id": "he_Asteroid%20Amsterdam",
@@ -6883,6 +6901,24 @@
     "region": "Europe",
     "url": "http://www.gigapix.pt",
     "peeringlan": "2001:7f8:a:11::/64"
+  },
+  {
+    "id": "he_LINX%20Accra",
+    "name": "LINX Accra",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "https://www.linx.net/about/network/linx-accra/",
+    "peeringlan": "196.60.160.0/24"
+  },
+  {
+    "id": "he_LINX%20Accra",
+    "name": "LINX Accra",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "https://www.linx.net/about/network/linx-accra/",
+    "peeringlan": "2001:43f8:1a00::/64"
   },
   {
     "id": "he_DPE",
