@@ -2349,15 +2349,6 @@
     "peeringlan": "2001:504:41:110::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
-  },
-  {
     "id": "he_DE-CIX%20Chennai",
     "name": "DE-CIX Chennai",
     "country": "IN",
@@ -2383,6 +2374,15 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.in/locations/de-cix-chennai",
     "peeringlan": "2400:d180:68::/64"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_EdgeIX%20-%20Melbourne",
@@ -2448,6 +2448,24 @@
     "peeringlan": "2001:7f8:3f::/64"
   },
   {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "149.112.11.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "2001:504:102::/64"
+  },
+  {
     "id": "he_NIX",
     "name": "NIX",
     "country": "NO",
@@ -2491,24 +2509,6 @@
     "region": "Europe",
     "url": "https://www.six.sk/",
     "peeringlan": "2001:7f8:2f::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "149.112.11.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "2001:504:102::/64"
   },
   {
     "id": "he_HOUIX",
@@ -2988,6 +2988,24 @@
     "peeringlan": "2001:7f8:b6:2::/64"
   },
   {
+    "id": "he_CNX",
+    "name": "CNX",
+    "country": "KH",
+    "city": "Phnom Penh",
+    "region": "Asia Pacific",
+    "url": "https://cnx.net.kh",
+    "peeringlan": "103.7.144.0/24"
+  },
+  {
+    "id": "he_CNX",
+    "name": "CNX",
+    "country": "KH",
+    "city": "Phnom Penh",
+    "region": "Asia Pacific",
+    "url": "https://cnx.net.kh",
+    "peeringlan": "2001:de8:1d::/64"
+  },
+  {
     "id": "he_npIX",
     "name": "npIX",
     "country": "NP",
@@ -3076,24 +3094,6 @@
     "region": "Europe",
     "url": "http://www.cix.hr/",
     "peeringlan": "2001:7f8:28::/48"
-  },
-  {
-    "id": "he_CNX",
-    "name": "CNX",
-    "country": "KH",
-    "city": "Phnom Penh",
-    "region": "Asia Pacific",
-    "url": "https://cnx.net.kh",
-    "peeringlan": "103.7.144.0/24"
-  },
-  {
-    "id": "he_CNX",
-    "name": "CNX",
-    "country": "KH",
-    "city": "Phnom Penh",
-    "region": "Asia Pacific",
-    "url": "https://cnx.net.kh",
-    "peeringlan": "2001:de8:1d::/64"
   },
   {
     "id": "he_DE-CIX%20Barcelona",
@@ -3375,6 +3375,24 @@
     "peeringlan": "2001:43f8:1690::/64"
   },
   {
+    "id": "he_LINX%20Mombasa",
+    "name": "LINX Mombasa",
+    "country": "KE",
+    "city": "Mombasa",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "196.60.124.0/24"
+  },
+  {
+    "id": "he_LINX%20Mombasa",
+    "name": "LINX Mombasa",
+    "country": "KE",
+    "city": "Mombasa",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "2001:43f8:1771::/64"
+  },
+  {
     "id": "he_SMILE-LV",
     "name": "SMILE-LV",
     "country": "LV",
@@ -3481,24 +3499,6 @@
     "region": "Europe",
     "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
     "peeringlan": "2001:7f8:148::/64"
-  },
-  {
-    "id": "he_LINX%20Mombasa",
-    "name": "LINX Mombasa",
-    "country": "KE",
-    "city": "Mombasa",
-    "region": "Africa",
-    "url": "https://www.linx.net",
-    "peeringlan": "196.60.124.0/24"
-  },
-  {
-    "id": "he_LINX%20Mombasa",
-    "name": "LINX Mombasa",
-    "country": "KE",
-    "city": "Mombasa",
-    "region": "Africa",
-    "url": "https://www.linx.net",
-    "peeringlan": "2001:43f8:1771::/64"
   },
   {
     "id": "he_CABASE-COR",
@@ -4176,6 +4176,24 @@
     "peeringlan": "2001:7f8:109::/64"
   },
   {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.14.38.0/24"
+  },
+  {
+    "id": "he_CABASE-MZA",
+    "name": "CABASE-MZA",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13C7:600B::/64"
+  },
+  {
     "id": "he_STHIX%20Copenhagen",
     "name": "STHIX Copenhagen",
     "country": "DK",
@@ -4509,6 +4527,24 @@
     "peeringlan": "2001:504:60::/48"
   },
   {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "45.68.92.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "2801:81:c0:1::/64"
+  },
+  {
     "id": "he_CABASE-NQN",
     "name": "CABASE-NQN",
     "country": "AR",
@@ -4572,24 +4608,6 @@
     "peeringlan": "2001:7f8:b5::/48"
   },
   {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "45.68.92.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "2801:81:c0:1::/64"
-  },
-  {
     "id": "he_CIX-NoVA",
     "name": "CIX-NoVA",
     "country": "US",
@@ -4633,24 +4651,6 @@
     "region": "North America",
     "url": "http://www.aixp.ca",
     "peeringlan": "2001:504:37:10::/64"
-  },
-  {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.38.0/24"
-  },
-  {
-    "id": "he_CABASE-MZA",
-    "name": "CABASE-MZA",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:600B::/64"
   },
   {
     "id": "he_CABASE-ROS",
@@ -5202,6 +5202,24 @@
     "peeringlan": "2606:a980:0:e::/64"
   },
   {
+    "id": "he_AuvernIX",
+    "name": "AuvernIX",
+    "country": "FR",
+    "city": "Clermont-Ferrand",
+    "region": "Europe",
+    "url": "http://www.auvernix.org",
+    "peeringlan": "185.1.2.0/24"
+  },
+  {
+    "id": "he_AuvernIX",
+    "name": "AuvernIX",
+    "country": "FR",
+    "city": "Clermont-Ferrand",
+    "region": "Europe",
+    "url": "http://www.auvernix.org",
+    "peeringlan": "2001:7f8:81::/64"
+  },
+  {
     "id": "he_MegaIX%20Seattle",
     "name": "MegaIX Seattle",
     "country": "US",
@@ -5317,24 +5335,6 @@
     "region": "North America",
     "url": "https://www.tahoeix.org",
     "peeringlan": "2001:504:3F::/64"
-  },
-  {
-    "id": "he_AuvernIX",
-    "name": "AuvernIX",
-    "country": "FR",
-    "city": "Clermont-Ferrand",
-    "region": "Europe",
-    "url": "http://www.auvernix.org",
-    "peeringlan": "185.1.2.0/24"
-  },
-  {
-    "id": "he_AuvernIX",
-    "name": "AuvernIX",
-    "country": "FR",
-    "city": "Clermont-Ferrand",
-    "region": "Europe",
-    "url": "http://www.auvernix.org",
-    "peeringlan": "2001:7f8:81::/64"
   },
   {
     "id": "he_iX-OKC",
