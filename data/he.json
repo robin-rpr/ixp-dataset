@@ -432,24 +432,6 @@
     "peeringlan": "2001:504:36::/64"
   },
   {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "193.25.180.0/23"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "2001:7f8:63::/64"
-  },
-  {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
     "name": "NAPAfrica IX Cape Town",
     "country": "ZA",
@@ -475,6 +457,24 @@
     "region": "Africa",
     "url": "http://www.teraco.co.za",
     "peeringlan": "2001:43f8:6d1::/64"
+  },
+  {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "193.25.180.0/23"
+  },
+  {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "2001:7f8:63::/64"
   },
   {
     "id": "he_LocIX%20Frankfurt",
@@ -1287,6 +1287,15 @@
     "peeringlan": "2001:43f8:6d2::/64"
   },
   {
+    "id": "he_PITER-IX%20Frankfurt",
+    "name": "PITER-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "31.44.186.0/23"
+  },
+  {
     "id": "he_BCIX",
     "name": "BCIX",
     "country": "DE",
@@ -1303,15 +1312,6 @@
     "region": "Europe",
     "url": "https://www.bcix.de/",
     "peeringlan": "2001:7f8:19::/48"
-  },
-  {
-    "id": "he_PITER-IX%20Frankfurt",
-    "name": "PITER-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "31.44.186.0/23"
   },
   {
     "id": "he_France-IX%20Marseille",
@@ -1773,6 +1773,24 @@
     "peeringlan": "2001:7f8:c5::/48"
   },
   {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "206.71.12.0/24"
+  },
+  {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "2001:504:40:12::/64"
+  },
+  {
     "id": "he_NWAX",
     "name": "NWAX",
     "country": "US",
@@ -1816,24 +1834,6 @@
     "region": "Australia",
     "url": "https://internet.asn.au",
     "peeringlan": "2001:7fa:11:1::/64"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "206.71.12.0/24"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "2001:504:40:12::/64"
   },
   {
     "id": "he_QIX%20Montreal",
@@ -4194,24 +4194,6 @@
     "peeringlan": "2001:43f8:bb1:150::/64"
   },
   {
-    "id": "he_PITER-IX%20Kiev",
-    "name": "PITER-IX Kiev",
-    "country": "UA",
-    "city": "\u041a\u0438\u0435\u0432",
-    "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "146.185.252.0/24"
-  },
-  {
-    "id": "he_PITER-IX%20Kiev",
-    "name": "PITER-IX Kiev",
-    "country": "UA",
-    "city": "\u041a\u0438\u0435\u0432",
-    "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "2001:7f8:109::/64"
-  },
-  {
     "id": "he_SOX%20Singapore",
     "name": "SOX Singapore",
     "country": "SG",
@@ -4291,6 +4273,24 @@
     "region": "Europe",
     "url": "https://www.ropnix.com",
     "peeringlan": "2001:7f8:fc:3f::/64"
+  },
+  {
+    "id": "he_PITER-IX%20Kiev",
+    "name": "PITER-IX Kiev",
+    "country": "UA",
+    "city": "\u041a\u0438\u0435\u0432",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "146.185.252.0/24"
+  },
+  {
+    "id": "he_PITER-IX%20Kiev",
+    "name": "PITER-IX Kiev",
+    "country": "UA",
+    "city": "\u041a\u0438\u0435\u0432",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "2001:7f8:109::/64"
   },
   {
     "id": "he_AAIX",
@@ -5058,6 +5058,24 @@
     "peeringlan": "2001:7f8:54:7::/64"
   },
   {
+    "id": "he_MegaIX%20Bay%20Area",
+    "name": "MegaIX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "http://megaport.com",
+    "peeringlan": "206.53.206.128/25"
+  },
+  {
+    "id": "he_MegaIX%20Bay%20Area",
+    "name": "MegaIX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "http://megaport.com",
+    "peeringlan": "2606:a980:0:e::/64"
+  },
+  {
     "id": "he_IXOR",
     "name": "IXOR",
     "country": "SE",
@@ -5184,24 +5202,6 @@
     "peeringlan": "2001:7f8:6c:60::/64"
   },
   {
-    "id": "he_MegaIX%20Bay%20Area",
-    "name": "MegaIX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "http://megaport.com",
-    "peeringlan": "206.53.206.128/25"
-  },
-  {
-    "id": "he_MegaIX%20Bay%20Area",
-    "name": "MegaIX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "http://megaport.com",
-    "peeringlan": "2606:a980:0:e::/64"
-  },
-  {
     "id": "he_AuvernIX",
     "name": "AuvernIX",
     "country": "FR",
@@ -5254,6 +5254,24 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:A980:0:8:0:0:0:0/64"
+  },
+  {
+    "id": "he_iX-OKC",
+    "name": "iX-OKC",
+    "country": "US",
+    "city": "Oklahoma City",
+    "region": "North America",
+    "url": "https://www.iX-OKC.net",
+    "peeringlan": "206.81.109.0/24"
+  },
+  {
+    "id": "he_iX-OKC",
+    "name": "iX-OKC",
+    "country": "US",
+    "city": "Oklahoma City",
+    "region": "North America",
+    "url": "https://www.iX-OKC.net",
+    "peeringlan": "2001:504:92::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Dallas",
@@ -5335,24 +5353,6 @@
     "region": "North America",
     "url": "https://www.tahoeix.org",
     "peeringlan": "2001:504:3F::/64"
-  },
-  {
-    "id": "he_iX-OKC",
-    "name": "iX-OKC",
-    "country": "US",
-    "city": "Oklahoma City",
-    "region": "North America",
-    "url": "https://www.iX-OKC.net",
-    "peeringlan": "206.81.109.0/24"
-  },
-  {
-    "id": "he_iX-OKC",
-    "name": "iX-OKC",
-    "country": "US",
-    "city": "Oklahoma City",
-    "region": "North America",
-    "url": "https://www.iX-OKC.net",
-    "peeringlan": "2001:504:92::/64"
   },
   {
     "id": "he_DSIX",
