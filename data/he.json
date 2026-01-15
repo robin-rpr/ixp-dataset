@@ -549,24 +549,6 @@
     "peeringlan": "2001:7f8:24::/64"
   },
   {
-    "id": "he_TORIX",
-    "name": "TORIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.torix.ca/",
-    "peeringlan": "206.108.34.0/23"
-  },
-  {
-    "id": "he_TORIX",
-    "name": "TORIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.torix.ca/",
-    "peeringlan": "2001:504:1a::34:0/111"
-  },
-  {
     "id": "he_TPIX-TW",
     "name": "TPIX-TW",
     "country": "TW",
@@ -583,6 +565,24 @@
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
     "peeringlan": "2406:d400:1:133:203:163:222::/111"
+  },
+  {
+    "id": "he_TORIX",
+    "name": "TORIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.torix.ca/",
+    "peeringlan": "206.108.34.0/23"
+  },
+  {
+    "id": "he_TORIX",
+    "name": "TORIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.torix.ca/",
+    "peeringlan": "2001:504:1a::34:0/111"
   },
   {
     "id": "he_DE-CIX%20Dusseldorf",
@@ -828,15 +828,6 @@
     "peeringlan": "2001:de8:11:3806:60::/80"
   },
   {
-    "id": "he_PITER-IX%20Helsinki",
-    "name": "PITER-IX Helsinki",
-    "country": "FI",
-    "city": "Helsinki",
-    "region": "Europe",
-    "url": "http://www.piter-ix.eu",
-    "peeringlan": "193.27.37.0/24"
-  },
-  {
     "id": "he_UA-IX",
     "name": "UA-IX",
     "country": "UA",
@@ -853,6 +844,15 @@
     "region": "Europe",
     "url": "http://www.ua-ix.net.ua/en",
     "peeringlan": "2001:7f8:5d::/116"
+  },
+  {
+    "id": "he_PITER-IX%20Helsinki",
+    "name": "PITER-IX Helsinki",
+    "country": "FI",
+    "city": "Helsinki",
+    "region": "Europe",
+    "url": "http://www.piter-ix.eu",
+    "peeringlan": "193.27.37.0/24"
   },
   {
     "id": "he_IX%20Australia%20NSW",
@@ -2223,60 +2223,6 @@
     "peeringlan": "2001:7fa:11:2::/64"
   },
   {
-    "id": "he_VSIX",
-    "name": "VSIX",
-    "country": "IT",
-    "city": "Padova",
-    "region": "Europe",
-    "url": "https://www.vs-ix.org/",
-    "peeringlan": "95.140.128.0/23"
-  },
-  {
-    "id": "he_VSIX",
-    "name": "VSIX",
-    "country": "IT",
-    "city": "Padova",
-    "region": "Europe",
-    "url": "https://www.vs-ix.org/",
-    "peeringlan": "95.140.130.0/23"
-  },
-  {
-    "id": "he_VSIX",
-    "name": "VSIX",
-    "country": "IT",
-    "city": "Padova",
-    "region": "Europe",
-    "url": "https://www.vs-ix.org/",
-    "peeringlan": "185.1.115.0/24"
-  },
-  {
-    "id": "he_VSIX",
-    "name": "VSIX",
-    "country": "IT",
-    "city": "Padova",
-    "region": "Europe",
-    "url": "https://www.vs-ix.org/",
-    "peeringlan": "2001:7f8:5f:ffff::/64"
-  },
-  {
-    "id": "he_VSIX",
-    "name": "VSIX",
-    "country": "IT",
-    "city": "Padova",
-    "region": "Europe",
-    "url": "https://www.vs-ix.org/",
-    "peeringlan": "2001:7f8:5f:ffef::/64"
-  },
-  {
-    "id": "he_VSIX",
-    "name": "VSIX",
-    "country": "IT",
-    "city": "Padova",
-    "region": "Europe",
-    "url": "https://www.vs-ix.org/",
-    "peeringlan": "2001:7f8:5f::/64"
-  },
-  {
     "id": "he_Mass-IX",
     "name": "Mass-IX",
     "country": "US",
@@ -2331,6 +2277,60 @@
     "peeringlan": "2001:7fa:3:ca07::/64"
   },
   {
+    "id": "he_VSIX",
+    "name": "VSIX",
+    "country": "IT",
+    "city": "Padova",
+    "region": "Europe",
+    "url": "https://www.vs-ix.org/",
+    "peeringlan": "95.140.128.0/23"
+  },
+  {
+    "id": "he_VSIX",
+    "name": "VSIX",
+    "country": "IT",
+    "city": "Padova",
+    "region": "Europe",
+    "url": "https://www.vs-ix.org/",
+    "peeringlan": "95.140.130.0/23"
+  },
+  {
+    "id": "he_VSIX",
+    "name": "VSIX",
+    "country": "IT",
+    "city": "Padova",
+    "region": "Europe",
+    "url": "https://www.vs-ix.org/",
+    "peeringlan": "185.1.115.0/24"
+  },
+  {
+    "id": "he_VSIX",
+    "name": "VSIX",
+    "country": "IT",
+    "city": "Padova",
+    "region": "Europe",
+    "url": "https://www.vs-ix.org/",
+    "peeringlan": "2001:7f8:5f:ffff::/64"
+  },
+  {
+    "id": "he_VSIX",
+    "name": "VSIX",
+    "country": "IT",
+    "city": "Padova",
+    "region": "Europe",
+    "url": "https://www.vs-ix.org/",
+    "peeringlan": "2001:7f8:5f:ffef::/64"
+  },
+  {
+    "id": "he_VSIX",
+    "name": "VSIX",
+    "country": "IT",
+    "city": "Padova",
+    "region": "Europe",
+    "url": "https://www.vs-ix.org/",
+    "peeringlan": "2001:7f8:5f::/64"
+  },
+  {
     "id": "he_Giganet%20IXN%20Warsaw",
     "name": "Giganet IXN Warsaw",
     "country": "PL",
@@ -2356,6 +2356,33 @@
     "region": "North America",
     "url": "https://unitedix.net/location/chicago",
     "peeringlan": "2001:504:41:110::/64"
+  },
+  {
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "203.159.68.0/23"
+  },
+  {
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "2001:deb:0:68::/64"
+  },
+  {
+    "id": "he_BKNIX",
+    "name": "BKNIX",
+    "country": "TH",
+    "city": "Bangkok",
+    "region": "Asia Pacific",
+    "url": "https://bknix.co.th",
+    "peeringlan": "2001:df5:b881::/64"
   },
   {
     "id": "he_DE-CIX%20Chennai",
@@ -2401,33 +2428,6 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:6::/64"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "203.159.68.0/23"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "2001:deb:0:68::/64"
-  },
-  {
-    "id": "he_BKNIX",
-    "name": "BKNIX",
-    "country": "TH",
-    "city": "Bangkok",
-    "region": "Asia Pacific",
-    "url": "https://bknix.co.th",
-    "peeringlan": "2001:df5:b881::/64"
   },
   {
     "id": "he_DE-CIX%20Chicago",
@@ -4848,7 +4848,25 @@
     "city": "Valencia",
     "region": "Europe",
     "url": "https://ixp.nixval.com",
+    "peeringlan": "185.1.237.0/24"
+  },
+  {
+    "id": "he_NIXVAL",
+    "name": "NIXVAL",
+    "country": "ES",
+    "city": "Valencia",
+    "region": "Europe",
+    "url": "https://ixp.nixval.com",
     "peeringlan": "2A02:23A0:1111:9999::/64"
+  },
+  {
+    "id": "he_NIXVAL",
+    "name": "NIXVAL",
+    "country": "ES",
+    "city": "Valencia",
+    "region": "Europe",
+    "url": "https://ixp.nixval.com",
+    "peeringlan": "2001:7f8:127::/64"
   },
   {
     "id": "he_Tirol-IX",
