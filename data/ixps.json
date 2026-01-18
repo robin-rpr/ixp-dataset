@@ -17281,7 +17281,7 @@
   },
   {
     "id": "pdb_4186_01",
-    "name": "TurkIX",
+    "name": "TURKIX BG",
     "country": "BG",
     "city": "Sofia",
     "region": "Europe",
@@ -17290,7 +17290,7 @@
   },
   {
     "id": "pdb_4186_02",
-    "name": "TurkIX",
+    "name": "TURKIX BG",
     "country": "BG",
     "city": "Sofia",
     "region": "Europe",
@@ -20651,7 +20651,7 @@
     "country": "ID",
     "city": "Batam",
     "region": "Asia Pacific",
-    "url": "http://omnidc.co.id/",
+    "url": "https://console.omni-ix.com",
     "peeringlan": "43.255.58.0/23"
   },
   {
@@ -20660,7 +20660,7 @@
     "country": "ID",
     "city": "Batam",
     "region": "Asia Pacific",
-    "url": "http://omnidc.co.id/",
+    "url": "https://console.omni-ix.com",
     "peeringlan": "2401:a320::/64"
   },
   {
@@ -21555,6 +21555,15 @@
     "peeringlan": "196.60.252.0/24"
   },
   {
+    "id": "pdb_4927_01",
+    "name": "TURKIX TR",
+    "country": "TR",
+    "city": "Istanbul",
+    "region": "Europe",
+    "url": "https://turkix.com.tr",
+    "peeringlan": "46.253.7.0/24"
+  },
+  {
     "id": "pch_83_01",
     "name": "Deutscher Commercial Internet Exchange DE-CIX Frankfurt",
     "country": "DE",
@@ -21636,6 +21645,15 @@
     "peeringlan": "2001:13C7:601A:0:0:0:0:0/48"
   },
   {
+    "id": "pch_1404_01",
+    "name": "CABASE IXP C\u00f3rdoba",
+    "country": "AR",
+    "city": "C\u00f3rdoba",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-cordoba.php",
+    "peeringlan": "2001:13C7:600E:0:0:0:0:0/48"
+  },
+  {
     "id": "pch_1198_01",
     "name": "CABASE IXP Neuqu\u00e9n",
     "country": "AR",
@@ -21654,13 +21672,13 @@
     "peeringlan": "2001:13C7:6009:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1405_01",
-    "name": "CABASE IXP De la Costa",
+    "id": "pch_1969_01",
+    "name": "CABASE IXP SALTA",
     "country": "AR",
-    "city": "De La Costa",
+    "city": "Salta",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-lacosta.php",
-    "peeringlan": "2001:13C7:600C:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
+    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
   },
   {
     "id": "pch_1822_01",
@@ -21672,13 +21690,13 @@
     "peeringlan": "2001:13C7:6015:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1969_01",
-    "name": "CABASE IXP SALTA",
+    "id": "pch_1405_01",
+    "name": "CABASE IXP De la Costa",
     "country": "AR",
-    "city": "Salta",
+    "city": "De La Costa",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
-    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-lacosta.php",
+    "peeringlan": "2001:13C7:600C:0:0:0:0:0/48"
   },
   {
     "id": "pch_1407_01",
@@ -21708,24 +21726,6 @@
     "peeringlan": "2001:13C7:6008:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1820_01",
-    "name": "CABASE IXP Posadas",
-    "country": "AR",
-    "city": "Posadas",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-posadas.php",
-    "peeringlan": "2001:13C7:6013:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1404_01",
-    "name": "CABASE IXP C\u00f3rdoba",
-    "country": "AR",
-    "city": "C\u00f3rdoba",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-cordoba.php",
-    "peeringlan": "2001:13C7:600E:0:0:0:0:0/48"
-  },
-  {
     "id": "pch_1406_01",
     "name": "CABASE IXP La Plata",
     "country": "AR",
@@ -21733,6 +21733,15 @@
     "region": "Latin America",
     "url": "https://ixp.cabase.org.ar/ixp-laplata.php",
     "peeringlan": "2001:13C7:6011:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1820_01",
+    "name": "CABASE IXP Posadas",
+    "country": "AR",
+    "city": "Posadas",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-posadas.php",
+    "peeringlan": "2001:13C7:6013:0:0:0:0:0/48"
   },
   {
     "id": "pch_1240_01",
@@ -21834,15 +21843,6 @@
     "peeringlan": "195.35.65.0/24"
   },
   {
-    "id": "pch_143_01",
-    "name": "Kenya Internet Exchange Point",
-    "country": "KE",
-    "city": "Nairobi",
-    "region": "Africa",
-    "url": "https://www.tespok.co.ke/?page_id=11648",
-    "peeringlan": "2001:43F8:60:0:0:0:0:0/48"
-  },
-  {
     "id": "pch_1781_01",
     "name": "Netnod Copenhagen",
     "country": "DK",
@@ -21868,6 +21868,15 @@
     "region": "Europe",
     "url": "https://www.netnod.se/",
     "peeringlan": "2001:7F8:D:200:0:0:0:0/48"
+  },
+  {
+    "id": "pch_143_01",
+    "name": "Kenya Internet Exchange Point",
+    "country": "KE",
+    "city": "Nairobi",
+    "region": "Africa",
+    "url": "https://www.tespok.co.ke/?page_id=11648",
+    "peeringlan": "2001:43F8:60:0:0:0:0:0/48"
   },
   {
     "id": "pch_51_01",
@@ -22869,15 +22878,6 @@
     "peeringlan": "146.185.252.0/24"
   },
   {
-    "id": "pch_2344_01",
-    "name": "TurkIX Internet Exchange",
-    "country": "TR",
-    "city": "Edirne",
-    "region": "Europe",
-    "url": "https://www.turkix.com.tr/",
-    "peeringlan": "2001:7F8:146:0:0:0:0:0/64"
-  },
-  {
     "id": "pch_2020_01",
     "name": "Myanmar Internet Exchange - Yangon",
     "country": "MM",
@@ -22885,6 +22885,15 @@
     "region": "Asia Pacific",
     "url": "http://www.mm-ix.net/index.php",
     "peeringlan": "103.103.194.0/24"
+  },
+  {
+    "id": "pch_2344_01",
+    "name": "TurkIX Internet Exchange",
+    "country": "TR",
+    "city": "Edirne",
+    "region": "Europe",
+    "url": "https://www.turkix.com.tr/",
+    "peeringlan": "2001:7F8:146:0:0:0:0:0/64"
   },
   {
     "id": "pch_2037_01",
@@ -22912,33 +22921,6 @@
     "region": "Africa",
     "url": "http://lusakaixp.co.zm",
     "peeringlan": "2001:43F8:140:0:0:0:0:0/64"
-  },
-  {
-    "id": "pch_2267_01",
-    "name": "DreamServer InternetExchange",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://dreamserver.ro/",
-    "peeringlan": "212.81.56.0/24"
-  },
-  {
-    "id": "pch_2267_02",
-    "name": "DreamServer InternetExchange",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://dreamserver.ro/",
-    "peeringlan": "2001:7F8:133:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_2267_03",
-    "name": "DreamServer InternetExchange",
-    "country": "RO",
-    "city": "Bucharest",
-    "region": "Europe",
-    "url": "https://dreamserver.ro/",
-    "peeringlan": "2A10:FA80:56:0:0:0:0:0/48"
   },
   {
     "id": "pch_2081_01",
@@ -22975,6 +22957,33 @@
     "region": "Latin America",
     "url": "https://ix.furb.br/",
     "peeringlan": "FDEF:44AD:F2B0:7F59:0:0:0:0/64"
+  },
+  {
+    "id": "pch_2267_01",
+    "name": "DreamServer InternetExchange",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://dreamserver.ro/",
+    "peeringlan": "212.81.56.0/24"
+  },
+  {
+    "id": "pch_2267_02",
+    "name": "DreamServer InternetExchange",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://dreamserver.ro/",
+    "peeringlan": "2001:7F8:133:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_2267_03",
+    "name": "DreamServer InternetExchange",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://dreamserver.ro/",
+    "peeringlan": "2A10:FA80:56:0:0:0:0:0/48"
   },
   {
     "id": "pch_2337_01",
