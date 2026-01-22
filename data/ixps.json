@@ -21663,13 +21663,13 @@
     "peeringlan": "2001:13C7:6015:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1969_01",
-    "name": "CABASE IXP SALTA",
+    "id": "pch_1406_01",
+    "name": "CABASE IXP La Plata",
     "country": "AR",
-    "city": "Salta",
+    "city": "La Plata",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
-    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-laplata.php",
+    "peeringlan": "2001:13C7:6011:0:0:0:0:0/48"
   },
   {
     "id": "pch_1405_01",
@@ -21681,13 +21681,22 @@
     "peeringlan": "2001:13C7:600C:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1820_01",
-    "name": "CABASE IXP Posadas",
+    "id": "pch_1404_01",
+    "name": "CABASE IXP C\u00f3rdoba",
     "country": "AR",
-    "city": "Posadas",
+    "city": "C\u00f3rdoba",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-posadas.php",
-    "peeringlan": "2001:13C7:6013:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-cordoba.php",
+    "peeringlan": "2001:13C7:600E:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1969_01",
+    "name": "CABASE IXP SALTA",
+    "country": "AR",
+    "city": "Salta",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
+    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
   },
   {
     "id": "pch_1410_01",
@@ -21717,13 +21726,13 @@
     "peeringlan": "2001:13C7:601A:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1404_01",
-    "name": "CABASE IXP C\u00f3rdoba",
+    "id": "pch_1198_01",
+    "name": "CABASE IXP Neuqu\u00e9n",
     "country": "AR",
-    "city": "C\u00f3rdoba",
+    "city": "Neuqu\u00e9n",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-cordoba.php",
-    "peeringlan": "2001:13C7:600E:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-neuquen.php",
+    "peeringlan": "2001:13C7:6007:0:0:0:0:0/48"
   },
   {
     "id": "pch_1408_01",
@@ -21735,15 +21744,6 @@
     "peeringlan": "2001:13C7:600B:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1198_01",
-    "name": "CABASE IXP Neuqu\u00e9n",
-    "country": "AR",
-    "city": "Neuqu\u00e9n",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-neuquen.php",
-    "peeringlan": "2001:13C7:6007:0:0:0:0:0/48"
-  },
-  {
     "id": "pch_1409_01",
     "name": "CABASE IXP Rosario",
     "country": "AR",
@@ -21753,13 +21753,13 @@
     "peeringlan": "2001:13C7:6008:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1406_01",
-    "name": "CABASE IXP La Plata",
+    "id": "pch_1820_01",
+    "name": "CABASE IXP Posadas",
     "country": "AR",
-    "city": "La Plata",
+    "city": "Posadas",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-laplata.php",
-    "peeringlan": "2001:13C7:6011:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-posadas.php",
+    "peeringlan": "2001:13C7:6013:0:0:0:0:0/48"
   },
   {
     "id": "pch_1407_01",
@@ -22032,15 +22032,6 @@
     "peeringlan": "2001:7F8:6A:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1946_01",
-    "name": "Punto de Intercambio de Tr\u00e1fico de Paraguay",
-    "country": "PY",
-    "city": "Asuncion",
-    "region": "Latin America",
-    "url": "http://ix.py/",
-    "peeringlan": "2001:1320:CAFE:0:0:0:0:0/48"
-  },
-  {
     "id": "pch_56_01",
     "name": "Danish Internet Exchange",
     "country": "DK",
@@ -22048,6 +22039,15 @@
     "region": "Europe",
     "url": "http://www.dix.dk/",
     "peeringlan": "2001:7F8:1F:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1946_01",
+    "name": "Punto de Intercambio de Tr\u00e1fico de Paraguay",
+    "country": "PY",
+    "city": "Asuncion",
+    "region": "Latin America",
+    "url": "http://ix.py/",
+    "peeringlan": "2001:1320:CAFE:0:0:0:0:0/48"
   },
   {
     "id": "pch_1839_01",
@@ -22329,6 +22329,15 @@
     "peeringlan": "172.16.97.0/24"
   },
   {
+    "id": "pch_1976_01",
+    "name": "SVAO-IX",
+    "country": "RU",
+    "city": "Moscow",
+    "region": "Europe",
+    "url": "http://www.svao-ix.ru/",
+    "peeringlan": "89.222.236.0/24"
+  },
+  {
     "id": "pch_317_01",
     "name": "Equinix New York IBX",
     "country": "US",
@@ -22354,15 +22363,6 @@
     "region": "North America",
     "url": "https://www.equinix.com/",
     "peeringlan": "198.32.117.0/24"
-  },
-  {
-    "id": "pch_1976_01",
-    "name": "SVAO-IX",
-    "country": "RU",
-    "city": "Moscow",
-    "region": "Europe",
-    "url": "http://www.svao-ix.ru/",
-    "peeringlan": "89.222.236.0/24"
   },
   {
     "id": "pch_41_01",
@@ -23076,15 +23076,6 @@
     "peeringlan": "2001:DEF:8000:0:0:0:0:0/64"
   },
   {
-    "id": "pch_2079_01",
-    "name": "4b42 Internet Exchange Point",
-    "country": "CH",
-    "city": "Zurich",
-    "region": "Europe",
-    "url": "https://www.4ixp.com/",
-    "peeringlan": "2A0C:3B80:415F:0:0:0:0:0/48"
-  },
-  {
     "id": "pch_2325_01",
     "name": "1-IX UA",
     "country": "UA",
@@ -23092,6 +23083,15 @@
     "region": "Europe",
     "url": "http://1-ix.net",
     "peeringlan": "2001:7F8:115:0:0:0:0:0/64"
+  },
+  {
+    "id": "pch_2079_01",
+    "name": "4b42 Internet Exchange Point",
+    "country": "CH",
+    "city": "Zurich",
+    "region": "Europe",
+    "url": "https://www.4ixp.com/",
+    "peeringlan": "2A0C:3B80:415F:0:0:0:0:0/48"
   },
   {
     "id": "pch_2317_01",
