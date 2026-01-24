@@ -477,24 +477,6 @@
     "peeringlan": "2001:7f8:63::/64"
   },
   {
-    "id": "he_LocIX%20Frankfurt",
-    "name": "LocIX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.166.0/23"
-  },
-  {
-    "id": "he_LocIX%20Frankfurt",
-    "name": "LocIX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "2001:7f8:f2:e1::/64"
-  },
-  {
     "id": "he_Frys-IX",
     "name": "Frys-IX",
     "country": "NL",
@@ -511,6 +493,24 @@
     "region": "Europe",
     "url": "http://www.frys-IX.net",
     "peeringlan": "2001:7f8:10f::/64"
+  },
+  {
+    "id": "he_LocIX%20Frankfurt",
+    "name": "LocIX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.166.0/23"
+  },
+  {
+    "id": "he_LocIX%20Frankfurt",
+    "name": "LocIX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "2001:7f8:f2:e1::/64"
   },
   {
     "id": "he_JPNAP%20Tokyo",
@@ -729,24 +729,6 @@
     "peeringlan": "2001:7f8:44::/64"
   },
   {
-    "id": "he_NYIIX",
-    "name": "NYIIX",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://www.nyiix.net/locations/nyiix-new-york/",
-    "peeringlan": "198.32.160.0/23"
-  },
-  {
-    "id": "he_NYIIX",
-    "name": "NYIIX",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://www.nyiix.net/locations/nyiix-new-york/",
-    "peeringlan": "2001:504:1::/64"
-  },
-  {
     "id": "he_DE-CIX%20Hamburg",
     "name": "DE-CIX Hamburg",
     "country": "DE",
@@ -772,6 +754,24 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/hamburg",
     "peeringlan": "2001:7f8:3d::/64"
+  },
+  {
+    "id": "he_NYIIX",
+    "name": "NYIIX",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://www.nyiix.net/locations/nyiix-new-york/",
+    "peeringlan": "198.32.160.0/23"
+  },
+  {
+    "id": "he_NYIIX",
+    "name": "NYIIX",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://www.nyiix.net/locations/nyiix-new-york/",
+    "peeringlan": "2001:504:1::/64"
   },
   {
     "id": "he_Peering.cz",
@@ -909,42 +909,6 @@
     "peeringlan": "2001:504:17:110::/64"
   },
   {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "206.41.108.0/24"
-  },
-  {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "2001:504:40:108::/64"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "212.91.0.0/22"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "2001:7f8:60::/48"
-  },
-  {
     "id": "he_NIX.CZ",
     "name": "NIX.CZ",
     "country": "CZ",
@@ -979,6 +943,42 @@
     "region": "Europe",
     "url": "http://www.nix.cz/",
     "peeringlan": "2001:7f8:14:5ec::/64"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "206.41.108.0/24"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "2001:504:40:108::/64"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "212.91.0.0/22"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "2001:7f8:60::/48"
   },
   {
     "id": "he_LocIX%20Dusseldorf",
@@ -1215,24 +1215,6 @@
     "peeringlan": "2a0d:e180::/64"
   },
   {
-    "id": "he_W-IX",
-    "name": "W-IX",
-    "country": "RU",
-    "city": "Moscow",
-    "region": "Europe",
-    "url": "http://www.w-ix.ru",
-    "peeringlan": "193.106.112.0/23"
-  },
-  {
-    "id": "he_W-IX",
-    "name": "W-IX",
-    "country": "RU",
-    "city": "Moscow",
-    "region": "Europe",
-    "url": "http://www.w-ix.ru",
-    "peeringlan": "2a00:1b30::/64"
-  },
-  {
     "id": "he_DE-CIX%20Jakarta",
     "name": "DE-CIX Jakarta",
     "country": "ID",
@@ -1249,6 +1231,24 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.net/en/locations/jakarta",
     "peeringlan": "49.213.56.0/23"
+  },
+  {
+    "id": "he_W-IX",
+    "name": "W-IX",
+    "country": "RU",
+    "city": "Moscow",
+    "region": "Europe",
+    "url": "http://www.w-ix.ru",
+    "peeringlan": "193.106.112.0/23"
+  },
+  {
+    "id": "he_W-IX",
+    "name": "W-IX",
+    "country": "RU",
+    "city": "Moscow",
+    "region": "Europe",
+    "url": "http://www.w-ix.ru",
+    "peeringlan": "2a00:1b30::/64"
   },
   {
     "id": "he_InterLAN",
@@ -1440,6 +1440,24 @@
     "peeringlan": "2001:504:30::/48"
   },
   {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "103.158.187.0/24"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "2a0f:5707:ffe3::/64"
+  },
+  {
     "id": "he_DE-CIX%20Marseille",
     "name": "DE-CIX Marseille",
     "country": "FR",
@@ -1474,24 +1492,6 @@
     "region": "North America",
     "url": "https://evix.org",
     "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "103.158.187.0/24"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
     "id": "he_UNMETERED%20Exchange",
@@ -4707,6 +4707,24 @@
     "peeringlan": "2001:7f8:140::/64"
   },
   {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.173.0/25"
+  },
+  {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:2::/64"
+  },
+  {
     "id": "he_AMS-IX%20Bay%20Area",
     "name": "AMS-IX Bay Area",
     "country": "US",
@@ -4795,24 +4813,6 @@
     "region": "Asia Pacific",
     "url": "https://www.fox.net.tw/en",
     "peeringlan": "2001:e10:5c00:21::/112"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.173.0/25"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:2::/64"
   },
   {
     "id": "he_MegaIX%20Adelaide",
