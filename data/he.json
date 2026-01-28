@@ -675,33 +675,6 @@
     "peeringlan": "2001:7f8:a0::/64"
   },
   {
-    "id": "he_NaMeX",
-    "name": "NaMeX",
-    "country": "IT",
-    "city": "Rome",
-    "region": "Europe",
-    "url": "https://www.namex.it",
-    "peeringlan": "193.201.28.0/23"
-  },
-  {
-    "id": "he_NaMeX",
-    "name": "NaMeX",
-    "country": "IT",
-    "city": "Rome",
-    "region": "Europe",
-    "url": "https://www.namex.it",
-    "peeringlan": "2001:7f8:10::/64"
-  },
-  {
-    "id": "he_NaMeX",
-    "name": "NaMeX",
-    "country": "IT",
-    "city": "Rome",
-    "region": "Europe",
-    "url": "https://www.namex.it",
-    "peeringlan": "2001:7f8:10:b::/64"
-  },
-  {
     "id": "he_DE-CIX%20Munich",
     "name": "DE-CIX Munich",
     "country": "DE",
@@ -727,6 +700,33 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/munich",
     "peeringlan": "2001:7f8:44::/64"
+  },
+  {
+    "id": "he_NaMeX",
+    "name": "NaMeX",
+    "country": "IT",
+    "city": "Rome",
+    "region": "Europe",
+    "url": "https://www.namex.it",
+    "peeringlan": "193.201.28.0/23"
+  },
+  {
+    "id": "he_NaMeX",
+    "name": "NaMeX",
+    "country": "IT",
+    "city": "Rome",
+    "region": "Europe",
+    "url": "https://www.namex.it",
+    "peeringlan": "2001:7f8:10::/64"
+  },
+  {
+    "id": "he_NaMeX",
+    "name": "NaMeX",
+    "country": "IT",
+    "city": "Rome",
+    "region": "Europe",
+    "url": "https://www.namex.it",
+    "peeringlan": "2001:7f8:10:b::/64"
   },
   {
     "id": "he_DE-CIX%20Hamburg",
@@ -2016,6 +2016,24 @@
     "peeringlan": "2400:d180:67::/64"
   },
   {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "223.31.200.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20India",
+    "name": "AMS-IX India",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ams-ix.in/",
+    "peeringlan": "2001:e48:44:100b::/64"
+  },
+  {
     "id": "he_B-IX%20Balkans",
     "name": "B-IX Balkans",
     "country": "BG",
@@ -2041,24 +2059,6 @@
     "region": "Europe",
     "url": "https://www.b-ix.net/",
     "peeringlan": "2001:7f8:8e::/48"
-  },
-  {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "223.31.200.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20India",
-    "name": "AMS-IX India",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ams-ix.in/",
-    "peeringlan": "2001:e48:44:100b::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20New%20York",
@@ -2511,24 +2511,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_HOUIX",
-    "name": "HOUIX",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "http://www.houix.net",
-    "peeringlan": "206.83.136.0/24"
-  },
-  {
-    "id": "he_HOUIX",
-    "name": "HOUIX",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "http://www.houix.net",
-    "peeringlan": "2001:504:9e::/64"
-  },
-  {
     "id": "he_PIRIX",
     "name": "PIRIX",
     "country": "RU",
@@ -2563,6 +2545,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_HOUIX",
+    "name": "HOUIX",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "206.83.136.0/24"
+  },
+  {
+    "id": "he_HOUIX",
+    "name": "HOUIX",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "2001:504:9e::/64"
   },
   {
     "id": "he_NIXI%20Chennai",
@@ -3591,6 +3591,24 @@
     "peeringlan": "2001:43f8:16d0::/64"
   },
   {
+    "id": "he_angonix",
+    "name": "angonix",
+    "country": "AO",
+    "city": "Luanda",
+    "region": "Africa",
+    "url": "http://angonix.net/",
+    "peeringlan": "196.11.234.0/24"
+  },
+  {
+    "id": "he_angonix",
+    "name": "angonix",
+    "country": "AO",
+    "city": "Luanda",
+    "region": "Africa",
+    "url": "http://angonix.net/",
+    "peeringlan": "2001:43f8:09d0::/64"
+  },
+  {
     "id": "he_NIXI%20Kolkata",
     "name": "NIXI Kolkata",
     "country": "IN",
@@ -3616,24 +3634,6 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/kolkata",
     "peeringlan": "2001:de8:1:5::/64"
-  },
-  {
-    "id": "he_angonix",
-    "name": "angonix",
-    "country": "AO",
-    "city": "Luanda",
-    "region": "Africa",
-    "url": "http://angonix.net/",
-    "peeringlan": "196.11.234.0/24"
-  },
-  {
-    "id": "he_angonix",
-    "name": "angonix",
-    "country": "AO",
-    "city": "Luanda",
-    "region": "Africa",
-    "url": "http://angonix.net/",
-    "peeringlan": "2001:43f8:09d0::/64"
   },
   {
     "id": "he_SIX%20SI",
@@ -4491,24 +4491,6 @@
     "peeringlan": "2001:7f8:df::/64"
   },
   {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "206.108.115.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "2001:504:38:1::/64"
-  },
-  {
     "id": "he_SUPRnet",
     "name": "SUPRnet",
     "country": "US",
@@ -4543,6 +4525,24 @@
     "region": "South America",
     "url": "https://www.de-cix.net/en/locations/sao-paulo",
     "peeringlan": "2801:81:c0:1::/64"
+  },
+  {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "206.108.115.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "2001:504:38:1::/64"
   },
   {
     "id": "he_CABASE-NQN",
