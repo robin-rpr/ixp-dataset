@@ -909,24 +909,6 @@
     "peeringlan": "2001:504:17:110::/64"
   },
   {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "212.91.0.0/22"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "2001:7f8:60::/48"
-  },
-  {
     "id": "he_NIX.CZ",
     "name": "NIX.CZ",
     "country": "CZ",
@@ -961,6 +943,24 @@
     "region": "Europe",
     "url": "http://www.nix.cz/",
     "peeringlan": "2001:7f8:14:5ec::/64"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "212.91.0.0/22"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "2001:7f8:60::/48"
   },
   {
     "id": "he_FL-IX",
@@ -2295,6 +2295,15 @@
     "peeringlan": "2001:7fa:11:2::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
+  },
+  {
     "id": "he_VANIX",
     "name": "VANIX",
     "country": "CA",
@@ -2329,15 +2338,6 @@
     "region": "Australia",
     "url": "http://wix.nzix.net/",
     "peeringlan": "2001:7fa:3:ca07::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_ChIX",
@@ -2592,6 +2592,15 @@
     "peeringlan": "2001:de8:1:2::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Frankfurt",
+    "name": "Giganet IXN Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "2001:7f8:6c:68::/64"
+  },
+  {
     "id": "he_MegaIX%20Perth",
     "name": "MegaIX Perth",
     "country": "AU",
@@ -2644,15 +2653,6 @@
     "region": "North America",
     "url": "http://www.qcix.net",
     "peeringlan": "2001:504:9b::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Frankfurt",
-    "name": "Giganet IXN Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "2001:7f8:6c:68::/64"
   },
   {
     "id": "he_ERA-IX%20Frankfurt",
@@ -3483,24 +3483,6 @@
     "peeringlan": "2a0f:85c1:363:1::/64"
   },
   {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "91.232.229.0/24"
-  },
-  {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "2001:7f8:66::/64"
-  },
-  {
     "id": "he_CABASE-COR",
     "name": "CABASE-COR",
     "country": "AR",
@@ -3535,6 +3517,24 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/phoenix",
     "peeringlan": "2001:504:116::/64"
+  },
+  {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "91.232.229.0/24"
+  },
+  {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "2001:7f8:66::/64"
   },
   {
     "id": "he_TWIX",
@@ -5040,6 +5040,24 @@
     "peeringlan": "2402:b740:15:388::/64"
   },
   {
+    "id": "he_Giganet%20IXN%20Lviv",
+    "name": "Giganet IXN Lviv",
+    "country": "UA",
+    "city": "Lviv",
+    "region": "Europe",
+    "url": "https://giganet.ua/uk",
+    "peeringlan": "185.1.66.0/24"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Lviv",
+    "name": "Giganet IXN Lviv",
+    "country": "UA",
+    "city": "Lviv",
+    "region": "Europe",
+    "url": "https://giganet.ua/uk",
+    "peeringlan": "2001:7f8:6c:60::/64"
+  },
+  {
     "id": "he_MegaIX%20Bay%20Area",
     "name": "MegaIX Bay Area",
     "country": "US",
@@ -5200,24 +5218,6 @@
     "region": "Europe",
     "url": "http://www.tix.it/",
     "peeringlan": "2001:7f8:57:1000::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Lviv",
-    "name": "Giganet IXN Lviv",
-    "country": "UA",
-    "city": "Lviv",
-    "region": "Europe",
-    "url": "https://giganet.ua/uk",
-    "peeringlan": "185.1.66.0/24"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Lviv",
-    "name": "Giganet IXN Lviv",
-    "country": "UA",
-    "city": "Lviv",
-    "region": "Europe",
-    "url": "https://giganet.ua/uk",
-    "peeringlan": "2001:7f8:6c:60::/64"
   },
   {
     "id": "he_AuvernIX",
