@@ -963,15 +963,6 @@
     "peeringlan": "2001:7f8:60::/48"
   },
   {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
-  },
-  {
     "id": "he_FL-IX",
     "name": "FL-IX",
     "country": "US",
@@ -1033,6 +1024,15 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f0:1::/64"
+  },
+  {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_NIXI%20Mumbai",
@@ -1368,33 +1368,6 @@
     "peeringlan": "2001:df0:680:5::/64"
   },
   {
-    "id": "he_NIXI%20Delhi",
-    "name": "NIXI Delhi",
-    "country": "IN",
-    "city": "Delhi",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/delhi-noida",
-    "peeringlan": "218.100.48.0/26"
-  },
-  {
-    "id": "he_NIXI%20Delhi",
-    "name": "NIXI Delhi",
-    "country": "IN",
-    "city": "Delhi",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/delhi-noida",
-    "peeringlan": "103.218.244.0/23"
-  },
-  {
-    "id": "he_NIXI%20Delhi",
-    "name": "NIXI Delhi",
-    "country": "IN",
-    "city": "Delhi",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/delhi-noida",
-    "peeringlan": "2001:DE8:1::/64"
-  },
-  {
     "id": "he_SBIX",
     "name": "SBIX",
     "country": "CH",
@@ -1420,6 +1393,33 @@
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:1::/64"
+  },
+  {
+    "id": "he_NIXI%20Delhi",
+    "name": "NIXI Delhi",
+    "country": "IN",
+    "city": "Delhi",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/delhi-noida",
+    "peeringlan": "218.100.48.0/26"
+  },
+  {
+    "id": "he_NIXI%20Delhi",
+    "name": "NIXI Delhi",
+    "country": "IN",
+    "city": "Delhi",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/delhi-noida",
+    "peeringlan": "103.218.244.0/23"
+  },
+  {
+    "id": "he_NIXI%20Delhi",
+    "name": "NIXI Delhi",
+    "country": "IN",
+    "city": "Delhi",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/delhi-noida",
+    "peeringlan": "2001:DE8:1::/64"
   },
   {
     "id": "he_SFMIX",
@@ -2862,24 +2862,6 @@
     "peeringlan": "2001:7f8:be::/64"
   },
   {
-    "id": "he_AMS-IX%20Hong%20Kong",
-    "name": "AMS-IX Hong Kong",
-    "country": "HK",
-    "city": "Hong Kong",
-    "region": "Asia Pacific",
-    "url": "http://www.ams-ix.hk",
-    "peeringlan": "103.247.139.0/25"
-  },
-  {
-    "id": "he_AMS-IX%20Hong%20Kong",
-    "name": "AMS-IX Hong Kong",
-    "country": "HK",
-    "city": "Hong Kong",
-    "region": "Asia Pacific",
-    "url": "http://www.ams-ix.hk",
-    "peeringlan": "2001:df0:296::/64"
-  },
-  {
     "id": "he_LINX%20NoVA",
     "name": "LINX NoVA",
     "country": "US",
@@ -2968,6 +2950,24 @@
     "region": "North America",
     "url": "https://crix.cr/",
     "peeringlan": "2001:db9:aaaa:1::/64"
+  },
+  {
+    "id": "he_AMS-IX%20Hong%20Kong",
+    "name": "AMS-IX Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "http://www.ams-ix.hk",
+    "peeringlan": "103.247.139.0/25"
+  },
+  {
+    "id": "he_AMS-IX%20Hong%20Kong",
+    "name": "AMS-IX Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "http://www.ams-ix.hk",
+    "peeringlan": "2001:df0:296::/64"
   },
   {
     "id": "he_Asteroid%20Mombasa",
@@ -3699,6 +3699,24 @@
     "peeringlan": "2001:7f8:e::/64"
   },
   {
+    "id": "he_UIXP",
+    "name": "UIXP",
+    "country": "UG",
+    "city": "Kampala",
+    "region": "Africa",
+    "url": "https://uixp.co.ug/",
+    "peeringlan": "196.223.25.0/24"
+  },
+  {
+    "id": "he_UIXP",
+    "name": "UIXP",
+    "country": "UG",
+    "city": "Kampala",
+    "region": "Africa",
+    "url": "https://uixp.co.ug/",
+    "peeringlan": "2001:43f8:130::/64"
+  },
+  {
     "id": "he_ArmIX",
     "name": "ArmIX",
     "country": "AM",
@@ -3769,24 +3787,6 @@
     "region": "North America",
     "url": "http://www.mbix.ca/",
     "peeringlan": "2001:504:26::/64"
-  },
-  {
-    "id": "he_UIXP",
-    "name": "UIXP",
-    "country": "UG",
-    "city": "Kampala",
-    "region": "Africa",
-    "url": "https://uixp.co.ug/",
-    "peeringlan": "196.223.25.0/24"
-  },
-  {
-    "id": "he_UIXP",
-    "name": "UIXP",
-    "country": "UG",
-    "city": "Kampala",
-    "region": "Africa",
-    "url": "https://uixp.co.ug/",
-    "peeringlan": "2001:43f8:130::/64"
   },
   {
     "id": "he_GIXA",
@@ -4212,6 +4212,24 @@
     "peeringlan": "2001:43f8:bb1:150::/64"
   },
   {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "45.68.92.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "2801:81:c0:1::/64"
+  },
+  {
     "id": "he_SOX%20Singapore",
     "name": "SOX Singapore",
     "country": "SG",
@@ -4509,24 +4527,6 @@
     "peeringlan": "2001:504:60::/48"
   },
   {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "45.68.92.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "2801:81:c0:1::/64"
-  },
-  {
     "id": "he_AMS-IX%20Chicago",
     "name": "AMS-IX Chicago",
     "country": "US",
@@ -4608,6 +4608,24 @@
     "peeringlan": "2001:7f8:b5::/48"
   },
   {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "45.68.64.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Mexico",
+    "name": "DE-CIX Mexico",
+    "country": "MX",
+    "city": "Mexico City",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/mexico",
+    "peeringlan": "2806:424::/64"
+  },
+  {
     "id": "he_CIX-NoVA",
     "name": "CIX-NoVA",
     "country": "US",
@@ -4669,24 +4687,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2001:13c7:6008::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "45.68.64.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Mexico",
-    "name": "DE-CIX Mexico",
-    "country": "MX",
-    "city": "Mexico City",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/mexico",
-    "peeringlan": "2806:424::/64"
   },
   {
     "id": "he_SBG-IX",
@@ -5094,24 +5094,6 @@
     "peeringlan": "2001:7f8:53::/48"
   },
   {
-    "id": "he_DE-CIX%20Kolkata",
-    "name": "DE-CIX Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/india/kolkata",
-    "peeringlan": "103.228.172.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Kolkata",
-    "name": "DE-CIX Kolkata",
-    "country": "IN",
-    "city": "Kolkata",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/india/kolkata",
-    "peeringlan": "2400:d180:69::/64"
-  },
-  {
     "id": "he_STHIX%20Gothenburg",
     "name": "STHIX Gothenburg",
     "country": "SE",
@@ -5272,6 +5254,24 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:A980:0:8:0:0:0:0/64"
+  },
+  {
+    "id": "he_DE-CIX%20Kolkata",
+    "name": "DE-CIX Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/india/kolkata",
+    "peeringlan": "103.228.172.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Kolkata",
+    "name": "DE-CIX Kolkata",
+    "country": "IN",
+    "city": "Kolkata",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/india/kolkata",
+    "peeringlan": "2400:d180:69::/64"
   },
   {
     "id": "he_iX-OKC",
