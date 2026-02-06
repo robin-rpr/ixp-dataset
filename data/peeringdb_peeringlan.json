@@ -3291,7 +3291,7 @@
     "city": "Sofia",
     "region": "Europe",
     "url": "https://www.b-ix.net/",
-    "peeringlan": "2001:7f8:8e::/48"
+    "peeringlan": "2001:7f8:8e:4::/64"
   },
   {
     "id": "pdb_327",
@@ -21174,7 +21174,16 @@
     "city": "Frankfurt",
     "region": "Europe",
     "url": "http://ix.lendnodes.cloud",
-    "peeringlan": "2a09:54c7:2000::/64"
+    "peeringlan": "2a12:bec4:1572:1::/64"
+  },
+  {
+    "id": "pdb_4702",
+    "name": "LN-IX",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "http://ix.lendnodes.cloud",
+    "peeringlan": "193.23.220.192/28"
   },
   {
     "id": "pdb_4705",
