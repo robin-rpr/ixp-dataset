@@ -20386,29 +20386,29 @@
   },
   {
     "id": "pdb_4721_01",
-    "name": "CXIX",
+    "name": "CXIX - Great Lakes",
     "country": "CA",
     "city": "Montreal/NewYork",
     "region": "North America",
-    "url": "https://ix.dyc.im",
+    "url": "https://cxix.net",
     "peeringlan": "2a0f:7803:fc60::/64"
   },
   {
     "id": "pdb_4721_02",
-    "name": "CXIX",
+    "name": "CXIX - Great Lakes",
     "country": "CA",
     "city": "Montreal/NewYork",
     "region": "North America",
-    "url": "https://ix.dyc.im",
+    "url": "https://cxix.net",
     "peeringlan": "2a0f:7803:fc60:aaaa::/64"
   },
   {
     "id": "pdb_4721_03",
-    "name": "CXIX",
+    "name": "CXIX - Great Lakes",
     "country": "CA",
     "city": "Montreal/NewYork",
     "region": "North America",
-    "url": "https://ix.dyc.im",
+    "url": "https://cxix.net",
     "peeringlan": "33.0.0.0/23"
   },
   {
@@ -21232,12 +21232,12 @@
   },
   {
     "id": "pdb_4866_01",
-    "name": "MILU-IX",
-    "country": "US",
-    "city": "Las Vegas",
-    "region": "North America",
-    "url": "https://www.locyan.cn",
-    "peeringlan": "2a14:7581:3090::/64"
+    "name": "CXIX - Yangtze Delta",
+    "country": "CN",
+    "city": "SHA/HGH",
+    "region": "Asia Pacific",
+    "url": "https://cxix.net",
+    "peeringlan": "2a0f:7803:fcc0::/64"
   },
   {
     "id": "pdb_4867_01",
@@ -21591,6 +21591,24 @@
     "peeringlan": "196.60.252.0/24"
   },
   {
+    "id": "pdb_4921_01",
+    "name": "KAZ-GOV-IX Qaraganda",
+    "country": "KZ",
+    "city": "Qaraganda",
+    "region": "Asia Pacific",
+    "url": "https://sts.kz/toit",
+    "peeringlan": "2001:67c:9e8:f::/64"
+  },
+  {
+    "id": "pdb_4923_01",
+    "name": "KAZ-GOV-IX Pavlodar",
+    "country": "KZ",
+    "city": "Pavlodar",
+    "region": "Asia Pacific",
+    "url": "https://sts.kz/toit",
+    "peeringlan": "2001:67c:9e8:12::/64"
+  },
+  {
     "id": "pdb_4924_01",
     "name": "Protocol 7 IX - Lycheen Japan",
     "country": "JP",
@@ -21598,6 +21616,24 @@
     "region": "Asia Pacific",
     "url": "https://p7ix.jianyuelab.net",
     "peeringlan": "2602:f92a:1315::/64"
+  },
+  {
+    "id": "pdb_4925_01",
+    "name": "KAZ-GOV-IX Semey",
+    "country": "KZ",
+    "city": "Semey",
+    "region": "Asia Pacific",
+    "url": "https://sts.kz",
+    "peeringlan": "2001:67c:9e8:13::/64"
+  },
+  {
+    "id": "pdb_4926_01",
+    "name": "KAZ-GOV-IX Aktobe",
+    "country": "KZ",
+    "city": "Aktobe",
+    "region": "Asia Pacific",
+    "url": "https://sts.kz/en/toit",
+    "peeringlan": "2001:67c:9e8:d::/64"
   },
   {
     "id": "pdb_4927_01",
@@ -21616,6 +21652,15 @@
     "region": "Asia Pacific",
     "url": "https://p7ix.jianyuelab.net",
     "peeringlan": "2602:f92a:1315:2::/64"
+  },
+  {
+    "id": "pdb_4935_01",
+    "name": "KAZ-GOV-IX Aqtau",
+    "country": "KZ",
+    "city": "Aqtau",
+    "region": "Asia Pacific",
+    "url": "https://sts.kz/en/toit",
+    "peeringlan": "195.12.118.0/27"
   },
   {
     "id": "pdb_4937_01",
@@ -21690,13 +21735,13 @@
     "peeringlan": "202.40.160.0/23"
   },
   {
-    "id": "pch_1410_01",
-    "name": "CABASE IXP Santa Fe",
+    "id": "pch_1407_01",
+    "name": "CABASE IXP Mar del Plata",
     "country": "AR",
-    "city": "Santa Fe",
+    "city": "Mar del Plata",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-santafe.php",
-    "peeringlan": "2001:13C7:600D:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-mardelplata.php",
+    "peeringlan": "2001:13C7:6012:0:0:0:0:0/48"
   },
   {
     "id": "pch_1405_01",
@@ -21708,58 +21753,13 @@
     "peeringlan": "2001:13C7:600C:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1969_01",
-    "name": "CABASE IXP SALTA",
+    "id": "pch_1409_01",
+    "name": "CABASE IXP Rosario",
     "country": "AR",
-    "city": "Salta",
+    "city": "Rosario",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
-    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1403_01",
-    "name": "CABASE IXP Bah\u00eda Blanca",
-    "country": "AR",
-    "city": "Bah\u00eda Blanca",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-bahia-blanca.php",
-    "peeringlan": "2001:13C7:6009:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1404_01",
-    "name": "CABASE IXP C\u00f3rdoba",
-    "country": "AR",
-    "city": "C\u00f3rdoba",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-cordoba.php",
-    "peeringlan": "2001:13C7:600E:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1198_01",
-    "name": "CABASE IXP Neuqu\u00e9n",
-    "country": "AR",
-    "city": "Neuqu\u00e9n",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-neuquen.php",
-    "peeringlan": "2001:13C7:6007:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1822_01",
-    "name": "CABASE IXP Bariloche",
-    "country": "AR",
-    "city": "Bariloche",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-bariloche.php",
-    "peeringlan": "2001:13C7:6015:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1407_01",
-    "name": "CABASE IXP Mar del Plata",
-    "country": "AR",
-    "city": "Mar del Plata",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-mardelplata.php",
-    "peeringlan": "2001:13C7:6012:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-rosario.php",
+    "peeringlan": "2001:13C7:6008:0:0:0:0:0/48"
   },
   {
     "id": "pch_1408_01",
@@ -21780,6 +21780,33 @@
     "peeringlan": "2001:13C7:6011:0:0:0:0:0/48"
   },
   {
+    "id": "pch_1822_01",
+    "name": "CABASE IXP Bariloche",
+    "country": "AR",
+    "city": "Bariloche",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-bariloche.php",
+    "peeringlan": "2001:13C7:6015:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1404_01",
+    "name": "CABASE IXP C\u00f3rdoba",
+    "country": "AR",
+    "city": "C\u00f3rdoba",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-cordoba.php",
+    "peeringlan": "2001:13C7:600E:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1410_01",
+    "name": "CABASE IXP Santa Fe",
+    "country": "AR",
+    "city": "Santa Fe",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-santafe.php",
+    "peeringlan": "2001:13C7:600D:0:0:0:0:0/48"
+  },
+  {
     "id": "pch_1820_01",
     "name": "CABASE IXP Posadas",
     "country": "AR",
@@ -21787,6 +21814,15 @@
     "region": "Latin America",
     "url": "https://ixp.cabase.org.ar/ixp-posadas.php",
     "peeringlan": "2001:13C7:6013:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1969_01",
+    "name": "CABASE IXP SALTA",
+    "country": "AR",
+    "city": "Salta",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
+    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
   },
   {
     "id": "pch_1941_01",
@@ -21798,13 +21834,22 @@
     "peeringlan": "2001:13C7:601A:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1409_01",
-    "name": "CABASE IXP Rosario",
+    "id": "pch_1403_01",
+    "name": "CABASE IXP Bah\u00eda Blanca",
     "country": "AR",
-    "city": "Rosario",
+    "city": "Bah\u00eda Blanca",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-rosario.php",
-    "peeringlan": "2001:13C7:6008:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-bahia-blanca.php",
+    "peeringlan": "2001:13C7:6009:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1198_01",
+    "name": "CABASE IXP Neuqu\u00e9n",
+    "country": "AR",
+    "city": "Neuqu\u00e9n",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-neuquen.php",
+    "peeringlan": "2001:13C7:6007:0:0:0:0:0/48"
   },
   {
     "id": "pch_1240_01",
@@ -22086,15 +22131,6 @@
     "peeringlan": "2001:7F8:1F:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1946_01",
-    "name": "Punto de Intercambio de Tr\u00e1fico de Paraguay",
-    "country": "PY",
-    "city": "Asuncion",
-    "region": "Latin America",
-    "url": "http://ix.py/",
-    "peeringlan": "2001:1320:CAFE:0:0:0:0:0/48"
-  },
-  {
     "id": "pch_1839_01",
     "name": "BFIX Ouagadougou",
     "country": "BF",
@@ -22102,6 +22138,15 @@
     "region": "Africa",
     "url": "HTTP://www.bfix.bf/",
     "peeringlan": "196.13.207.128/26"
+  },
+  {
+    "id": "pch_1946_01",
+    "name": "Punto de Intercambio de Tr\u00e1fico de Paraguay",
+    "country": "PY",
+    "city": "Asuncion",
+    "region": "Latin America",
+    "url": "http://ix.py/",
+    "peeringlan": "2001:1320:CAFE:0:0:0:0:0/48"
   },
   {
     "id": "pch_1906_01",
@@ -22374,15 +22419,6 @@
     "peeringlan": "172.16.97.0/24"
   },
   {
-    "id": "pch_323_01",
-    "name": "Equinix-NY(former Paix)",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://www.equinix.com/",
-    "peeringlan": "198.32.117.0/24"
-  },
-  {
     "id": "pch_317_01",
     "name": "Equinix New York IBX",
     "country": "US",
@@ -22408,6 +22444,15 @@
     "region": "Europe",
     "url": "http://www.svao-ix.ru/",
     "peeringlan": "89.222.236.0/24"
+  },
+  {
+    "id": "pch_323_01",
+    "name": "Equinix-NY(former Paix)",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://www.equinix.com/",
+    "peeringlan": "198.32.117.0/24"
   },
   {
     "id": "pch_336_01",
@@ -22968,33 +23013,6 @@
     "peeringlan": "2001:7F8:146:0:0:0:0:0/64"
   },
   {
-    "id": "pch_2346_01",
-    "name": "Lusaka Internet Exchange Point",
-    "country": "ZM",
-    "city": "Lusaka",
-    "region": "Africa",
-    "url": "http://lusakaixp.co.zm",
-    "peeringlan": "196.223.2.0/24"
-  },
-  {
-    "id": "pch_2346_02",
-    "name": "Lusaka Internet Exchange Point",
-    "country": "ZM",
-    "city": "Lusaka",
-    "region": "Africa",
-    "url": "http://lusakaixp.co.zm",
-    "peeringlan": "2001:43F8:140:0:0:0:0:0/64"
-  },
-  {
-    "id": "pch_2153_01",
-    "name": "UEPG Internet Exchange",
-    "country": "BR",
-    "city": "Ponta Grossa",
-    "region": "Latin America",
-    "url": "https://ix.uepg.br/",
-    "peeringlan": "2801:80:330:0:0:0:0:0/64"
-  },
-  {
     "id": "pch_2267_01",
     "name": "DreamServer InternetExchange",
     "country": "RO",
@@ -23031,6 +23049,15 @@
     "peeringlan": "2602:FFB1:4000:0:0:0:0:0/48"
   },
   {
+    "id": "pch_2153_01",
+    "name": "UEPG Internet Exchange",
+    "country": "BR",
+    "city": "Ponta Grossa",
+    "region": "Latin America",
+    "url": "https://ix.uepg.br/",
+    "peeringlan": "2801:80:330:0:0:0:0:0/64"
+  },
+  {
     "id": "pch_2407_01",
     "name": "OpenIX Beirut",
     "country": "LB",
@@ -23047,6 +23074,24 @@
     "region": "Latin America",
     "url": "https://ix.furb.br/",
     "peeringlan": "FDEF:44AD:F2B0:7F59:0:0:0:0/64"
+  },
+  {
+    "id": "pch_2346_01",
+    "name": "Lusaka Internet Exchange Point",
+    "country": "ZM",
+    "city": "Lusaka",
+    "region": "Africa",
+    "url": "http://lusakaixp.co.zm",
+    "peeringlan": "196.223.2.0/24"
+  },
+  {
+    "id": "pch_2346_02",
+    "name": "Lusaka Internet Exchange Point",
+    "country": "ZM",
+    "city": "Lusaka",
+    "region": "Africa",
+    "url": "http://lusakaixp.co.zm",
+    "peeringlan": "2001:43F8:140:0:0:0:0:0/64"
   },
   {
     "id": "pch_2337_01",
@@ -23076,15 +23121,6 @@
     "peeringlan": "200.26.191.0/24"
   },
   {
-    "id": "pch_2350_01",
-    "name": "Douala Internet Exchange",
-    "country": "CM",
-    "city": "Douala",
-    "region": "Africa",
-    "url": "https://www.douala-ix.net",
-    "peeringlan": "196.60.84.0/24"
-  },
-  {
     "id": "pch_2145_01",
     "name": "N'Djamena Internet Exchange Point ",
     "country": "TD",
@@ -23092,6 +23128,15 @@
     "region": "Africa",
     "url": "http://www.djamix.td/",
     "peeringlan": "2001:43F8:16A0:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_2350_01",
+    "name": "Douala Internet Exchange",
+    "country": "CM",
+    "city": "Douala",
+    "region": "Africa",
+    "url": "https://www.douala-ix.net",
+    "peeringlan": "196.60.84.0/24"
   },
   {
     "id": "pch_2264_01",
@@ -23112,15 +23157,6 @@
     "peeringlan": "2001:DEF:8000:0:0:0:0:0/64"
   },
   {
-    "id": "pch_2325_01",
-    "name": "1-IX UA",
-    "country": "UA",
-    "city": "Kyiv",
-    "region": "Europe",
-    "url": "http://1-ix.net",
-    "peeringlan": "2001:7F8:115:0:0:0:0:0/64"
-  },
-  {
     "id": "pch_2079_01",
     "name": "4b42 Internet Exchange Point",
     "country": "CH",
@@ -23128,6 +23164,15 @@
     "region": "Europe",
     "url": "https://www.4ixp.com/",
     "peeringlan": "2A0C:3B80:415F:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_2325_01",
+    "name": "1-IX UA",
+    "country": "UA",
+    "city": "Kyiv",
+    "region": "Europe",
+    "url": "http://1-ix.net",
+    "peeringlan": "2001:7F8:115:0:0:0:0:0/64"
   },
   {
     "id": "pch_2371_01",
@@ -24210,15 +24255,6 @@
     "peeringlan": "2801:168:1::/48"
   },
   {
-    "id": "he_IXPN%20Kano_01",
-    "name": "IXPN Kano",
-    "country": "NG",
-    "city": "Kano",
-    "region": "Africa",
-    "url": "http://www.ixp.net.ng",
-    "peeringlan": "196.216.149.0/24"
-  },
-  {
     "id": "he_DE-CIX%20Houston_01",
     "name": "DE-CIX Houston",
     "country": "US",
@@ -24226,6 +24262,15 @@
     "region": "North America",
     "url": "https://www.de-cix.net/en/locations/houston",
     "peeringlan": "149.112.113.0/24"
+  },
+  {
+    "id": "he_IXPN%20Kano_01",
+    "name": "IXPN Kano",
+    "country": "NG",
+    "city": "Kano",
+    "region": "Africa",
+    "url": "http://www.ixp.net.ng",
+    "peeringlan": "196.216.149.0/24"
   },
   {
     "id": "he_KM-IX_01",
