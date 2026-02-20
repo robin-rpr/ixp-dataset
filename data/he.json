@@ -45,69 +45,6 @@
     "peeringlan": "2001:7f8:d0::/64"
   },
   {
-    "id": "he_AMS-IX",
-    "name": "AMS-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "http://www.ams-ix.net/",
-    "peeringlan": "80.249.208.0/21"
-  },
-  {
-    "id": "he_AMS-IX",
-    "name": "AMS-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "http://www.ams-ix.net/",
-    "peeringlan": "193.105.101.0/24"
-  },
-  {
-    "id": "he_AMS-IX",
-    "name": "AMS-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "http://www.ams-ix.net/",
-    "peeringlan": "2001:7f8:1::/64"
-  },
-  {
-    "id": "he_LINX%20LON1",
-    "name": "LINX LON1",
-    "country": "GB",
-    "city": "London",
-    "region": "Europe",
-    "url": "https://www.linx.net/",
-    "peeringlan": "195.66.224.0/21"
-  },
-  {
-    "id": "he_NL-IX",
-    "name": "NL-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.nl-ix.net/",
-    "peeringlan": "194.246.39.224/27"
-  },
-  {
-    "id": "he_NL-IX",
-    "name": "NL-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.nl-ix.net/",
-    "peeringlan": "193.239.116.0/22"
-  },
-  {
-    "id": "he_NL-IX",
-    "name": "NL-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.nl-ix.net/",
-    "peeringlan": "2001:7F8:13::/64"
-  },
-  {
     "id": "he_NAPAfrica%20IX%20Johannesburg",
     "name": "NAPAfrica IX Johannesburg",
     "country": "ZA",
@@ -963,6 +900,15 @@
     "peeringlan": "2001:7f8:60::/48"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_FL-IX",
     "name": "FL-IX",
     "country": "US",
@@ -979,15 +925,6 @@
     "region": "North America",
     "url": "http://www.communityix.org/index.php/about-fl-ix/",
     "peeringlan": "2001:504:40:108::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_JINX",
@@ -1269,6 +1206,15 @@
     "peeringlan": "2001:7f8:64:225::/64"
   },
   {
+    "id": "he_PITER-IX%20Frankfurt",
+    "name": "PITER-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "31.44.186.0/23"
+  },
+  {
     "id": "he_NAPAfrica%20IX%20Durban",
     "name": "NAPAfrica IX Durban",
     "country": "ZA",
@@ -1285,15 +1231,6 @@
     "region": "Africa",
     "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
     "peeringlan": "2001:43f8:6d2::/64"
-  },
-  {
-    "id": "he_PITER-IX%20Frankfurt",
-    "name": "PITER-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "31.44.186.0/23"
   },
   {
     "id": "he_BIX.BG",
@@ -2169,15 +2106,6 @@
     "peeringlan": "2001:7f8:ac:142::/64"
   },
   {
-    "id": "he_Giganet%20IXN%20Warsaw",
-    "name": "Giganet IXN Warsaw",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://giganet.ua/en",
-    "peeringlan": "185.1.196.0/24"
-  },
-  {
     "id": "he_Mass-IX",
     "name": "Mass-IX",
     "country": "US",
@@ -2194,6 +2122,33 @@
     "region": "North America",
     "url": "https://www.mass-ix.net",
     "peeringlan": "2001:504:47::/64"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
+  },
+  {
+    "id": "he_Giganet%20IXN%20Warsaw",
+    "name": "Giganet IXN Warsaw",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://giganet.ua/en",
+    "peeringlan": "185.1.196.0/24"
   },
   {
     "id": "he_IX%20Australia%20QLD",
@@ -2284,24 +2239,6 @@
     "region": "Europe",
     "url": "http://www.balt-ix.lt",
     "peeringlan": "2001:1ab8:8486::/64"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_VANIX",
@@ -2511,24 +2448,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_PIRIX",
-    "name": "PIRIX",
-    "country": "RU",
-    "city": "St.Petersburg",
-    "region": "Europe",
-    "url": "http://www.pirix.ru",
-    "peeringlan": "193.28.6.0/24"
-  },
-  {
-    "id": "he_PIRIX",
-    "name": "PIRIX",
-    "country": "RU",
-    "city": "St.Petersburg",
-    "region": "Europe",
-    "url": "http://www.pirix.ru",
-    "peeringlan": "2001:7f8:82::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Perth",
     "name": "EdgeIX - Perth",
     "country": "AU",
@@ -2545,6 +2464,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_PIRIX",
+    "name": "PIRIX",
+    "country": "RU",
+    "city": "St.Petersburg",
+    "region": "Europe",
+    "url": "http://www.pirix.ru",
+    "peeringlan": "193.28.6.0/24"
+  },
+  {
+    "id": "he_PIRIX",
+    "name": "PIRIX",
+    "country": "RU",
+    "city": "St.Petersburg",
+    "region": "Europe",
+    "url": "http://www.pirix.ru",
+    "peeringlan": "2001:7f8:82::/64"
   },
   {
     "id": "he_HOUIX",
