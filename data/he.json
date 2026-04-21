@@ -549,24 +549,6 @@
     "peeringlan": "2001:7f8:24::/64"
   },
   {
-    "id": "he_TORIX",
-    "name": "TORIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.torix.ca/",
-    "peeringlan": "206.108.34.0/23"
-  },
-  {
-    "id": "he_TORIX",
-    "name": "TORIX",
-    "country": "CA",
-    "city": "Toronto",
-    "region": "North America",
-    "url": "https://www.torix.ca/",
-    "peeringlan": "2001:504:1a::34:0/111"
-  },
-  {
     "id": "he_LocIX%20Frankfurt",
     "name": "LocIX Frankfurt",
     "country": "DE",
@@ -583,6 +565,24 @@
     "region": "Europe",
     "url": "https://locix.online",
     "peeringlan": "2001:7f8:f2:e1::/64"
+  },
+  {
+    "id": "he_TORIX",
+    "name": "TORIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.torix.ca/",
+    "peeringlan": "206.108.34.0/23"
+  },
+  {
+    "id": "he_TORIX",
+    "name": "TORIX",
+    "country": "CA",
+    "city": "Toronto",
+    "region": "North America",
+    "url": "https://www.torix.ca/",
+    "peeringlan": "2001:504:1a::34:0/111"
   },
   {
     "id": "he_Global-IX",
@@ -846,15 +846,6 @@
     "peeringlan": "2001:7f8:5d::/116"
   },
   {
-    "id": "he_PITER-IX%20Helsinki",
-    "name": "PITER-IX Helsinki",
-    "country": "FI",
-    "city": "Helsinki",
-    "region": "Europe",
-    "url": "http://www.piter-ix.eu",
-    "peeringlan": "193.27.37.0/24"
-  },
-  {
     "id": "he_LocIX%20Dusseldorf",
     "name": "LocIX Dusseldorf",
     "country": "DE",
@@ -862,6 +853,15 @@
     "region": "Europe",
     "url": "https://locix.online",
     "peeringlan": "185.1.155.0/24"
+  },
+  {
+    "id": "he_PITER-IX%20Helsinki",
+    "name": "PITER-IX Helsinki",
+    "country": "FI",
+    "city": "Helsinki",
+    "region": "Europe",
+    "url": "http://www.piter-ix.eu",
+    "peeringlan": "193.27.37.0/24"
   },
   {
     "id": "he_Thinx",
@@ -918,6 +918,24 @@
     "peeringlan": "2001:7f8:14:5ec::/64"
   },
   {
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.52.0/23"
+  },
+  {
+    "id": "he_IX%20Australia%20NSW",
+    "name": "IX Australia NSW",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:4::/64"
+  },
+  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -961,24 +979,6 @@
     "region": "Africa",
     "url": "https://www.inx.net.za",
     "peeringlan": "2001:43f8:1f0:1::/64"
-  },
-  {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.52.0/23"
-  },
-  {
-    "id": "he_IX%20Australia%20NSW",
-    "name": "IX Australia NSW",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:4::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Atlanta",
@@ -4293,6 +4293,42 @@
     "peeringlan": "2001:43f8:bb1:150::/64"
   },
   {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "185.0.26.0/24"
+  },
+  {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "194.42.47.0/26"
+  },
+  {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "2001:7f8:146::/64"
+  },
+  {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "2001:7f8:161::/64"
+  },
+  {
     "id": "he_SOX%20Singapore",
     "name": "SOX Singapore",
     "country": "SG",
@@ -4635,24 +4671,6 @@
     "peeringlan": "2001:504:60::/48"
   },
   {
-    "id": "he_RomandIX",
-    "name": "RomandIX",
-    "country": "CH",
-    "city": "Lausanne",
-    "region": "Europe",
-    "url": "http://www.romandix.ch",
-    "peeringlan": "185.1.93.0/24"
-  },
-  {
-    "id": "he_RomandIX",
-    "name": "RomandIX",
-    "country": "CH",
-    "city": "Lausanne",
-    "region": "Europe",
-    "url": "http://www.romandix.ch",
-    "peeringlan": "2001:7f8:b5::/48"
-  },
-  {
     "id": "he_FOX-TW",
     "name": "FOX-TW",
     "country": "TW",
@@ -4669,6 +4687,24 @@
     "region": "Asia Pacific",
     "url": "https://www.fox.net.tw/en",
     "peeringlan": "2001:e10:5c00:21::/112"
+  },
+  {
+    "id": "he_RomandIX",
+    "name": "RomandIX",
+    "country": "CH",
+    "city": "Lausanne",
+    "region": "Europe",
+    "url": "http://www.romandix.ch",
+    "peeringlan": "185.1.93.0/24"
+  },
+  {
+    "id": "he_RomandIX",
+    "name": "RomandIX",
+    "country": "CH",
+    "city": "Lausanne",
+    "region": "Europe",
+    "url": "http://www.romandix.ch",
+    "peeringlan": "2001:7f8:b5::/48"
   },
   {
     "id": "he_MIX%20Roma",
@@ -6867,6 +6903,24 @@
     "peeringlan": "2606:a980:0:6::/64"
   },
   {
+    "id": "he_LINX%20Accra",
+    "name": "LINX Accra",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "https://www.linx.net/about/network/linx-accra/",
+    "peeringlan": "196.60.160.0/24"
+  },
+  {
+    "id": "he_LINX%20Accra",
+    "name": "LINX Accra",
+    "country": "GH",
+    "city": "Accra",
+    "region": "Africa",
+    "url": "https://www.linx.net/about/network/linx-accra/",
+    "peeringlan": "2001:43f8:1a00::/64"
+  },
+  {
     "id": "he_NYIIX%20Philadelphia",
     "name": "NYIIX Philadelphia",
     "country": "US",
@@ -6993,24 +7047,6 @@
     "peeringlan": "2405:aac0:22::/64"
   },
   {
-    "id": "he_LINX%20Accra",
-    "name": "LINX Accra",
-    "country": "GH",
-    "city": "Accra",
-    "region": "Africa",
-    "url": "https://www.linx.net/about/network/linx-accra/",
-    "peeringlan": "196.60.160.0/24"
-  },
-  {
-    "id": "he_LINX%20Accra",
-    "name": "LINX Accra",
-    "country": "GH",
-    "city": "Accra",
-    "region": "Africa",
-    "url": "https://www.linx.net/about/network/linx-accra/",
-    "peeringlan": "2001:43f8:1a00::/64"
-  },
-  {
     "id": "he_CABASE-SLU",
     "name": "CABASE-SLU",
     "country": "AR",
@@ -7027,6 +7063,24 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar",
     "peeringlan": "2001:13C7:6016::/64"
+  },
+  {
+    "id": "he_MegaIX%20Osaka",
+    "name": "MegaIX Osaka",
+    "country": "JP",
+    "city": "Osaka",
+    "region": "Asia Pacific",
+    "url": "https://www.megaport.com",
+    "peeringlan": "103.48.48.128/25"
+  },
+  {
+    "id": "he_MegaIX%20Osaka",
+    "name": "MegaIX Osaka",
+    "country": "JP",
+    "city": "Osaka",
+    "region": "Asia Pacific",
+    "url": "https://www.megaport.com",
+    "peeringlan": "2001:ded:1::/64"
   },
   {
     "id": "he_NIXI%20Ahmedabad",
