@@ -756,6 +756,15 @@
     "peeringlan": "2001:7f8:7f::/64"
   },
   {
+    "id": "he_1-IX%20Europe",
+    "name": "1-IX Europe",
+    "country": "PL",
+    "city": "New-York",
+    "region": "Europe",
+    "url": "https://1-ix.eu",
+    "peeringlan": "185.0.42.0/23"
+  },
+  {
     "id": "he_DE-CIX%20Hamburg",
     "name": "DE-CIX Hamburg",
     "country": "DE",
@@ -1422,24 +1431,6 @@
     "peeringlan": "2001:7f8:d9:1::/64"
   },
   {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
     "id": "he_NIXI%20Delhi",
     "name": "NIXI Delhi",
     "country": "IN",
@@ -1465,6 +1456,24 @@
     "region": "Asia Pacific",
     "url": "https://nixi.in/en/running-noc/delhi-noida",
     "peeringlan": "2001:DE8:1::/64"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
     "id": "he_STUIX",
@@ -2826,24 +2835,6 @@
     "peeringlan": "2001:504:3b:1::/64"
   },
   {
-    "id": "he_FIXO",
-    "name": "FIXO",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "http://www.fixo.no",
-    "peeringlan": "91.198.176.0/24"
-  },
-  {
-    "id": "he_FIXO",
-    "name": "FIXO",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "http://www.fixo.no",
-    "peeringlan": "2001:7f8:41::/48"
-  },
-  {
     "id": "he_GigaPix",
     "name": "GigaPix",
     "country": "PT",
@@ -2878,6 +2869,24 @@
     "region": "Europe",
     "url": "http://www.gigapix.pt",
     "peeringlan": "2001:07F8:000A:2::/64"
+  },
+  {
+    "id": "he_FIXO",
+    "name": "FIXO",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.fixo.no",
+    "peeringlan": "91.198.176.0/24"
+  },
+  {
+    "id": "he_FIXO",
+    "name": "FIXO",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.fixo.no",
+    "peeringlan": "2001:7f8:41::/48"
   },
   {
     "id": "he_PITER-IX%20Rostov",
@@ -2961,6 +2970,24 @@
     "peeringlan": "2001:de8:1d::/64"
   },
   {
+    "id": "he_LINX%20Nairobi",
+    "name": "LINX Nairobi",
+    "country": "KE",
+    "city": "Nairobi",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "196.60.114.0/24"
+  },
+  {
+    "id": "he_LINX%20Nairobi",
+    "name": "LINX Nairobi",
+    "country": "KE",
+    "city": "Nairobi",
+    "region": "Africa",
+    "url": "https://www.linx.net",
+    "peeringlan": "2001:43f8:16d0::/64"
+  },
+  {
     "id": "he_CRIX",
     "name": "CRIX",
     "country": "CR",
@@ -3031,24 +3058,6 @@
     "region": "Africa",
     "url": "https://www.asteroidhq.com/",
     "peeringlan": "2001:7f8:b6:2::/64"
-  },
-  {
-    "id": "he_LINX%20Nairobi",
-    "name": "LINX Nairobi",
-    "country": "KE",
-    "city": "Nairobi",
-    "region": "Africa",
-    "url": "https://www.linx.net",
-    "peeringlan": "196.60.114.0/24"
-  },
-  {
-    "id": "he_LINX%20Nairobi",
-    "name": "LINX Nairobi",
-    "country": "KE",
-    "city": "Nairobi",
-    "region": "Africa",
-    "url": "https://www.linx.net",
-    "peeringlan": "2001:43f8:16d0::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Auckland",
@@ -3175,6 +3184,33 @@
     "region": "Africa",
     "url": "https://www.linx.net",
     "peeringlan": "2001:43f8:1771::/64"
+  },
+  {
+    "id": "he_1-NL",
+    "name": "1-NL",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1nl",
+    "peeringlan": "194.180.226.64/26"
+  },
+  {
+    "id": "he_1-NL",
+    "name": "1-NL",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1nl",
+    "peeringlan": "185.0.2.0/24"
+  },
+  {
+    "id": "he_1-NL",
+    "name": "1-NL",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1nl",
+    "peeringlan": "2001:7f8:16d::/64"
   },
   {
     "id": "he_OmahaIX",
@@ -4725,6 +4761,15 @@
     "peeringlan": "2001:7f8:101:14::/64"
   },
   {
+    "id": "he_1-DE",
+    "name": "1-DE",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1de",
+    "peeringlan": "194.180.226.0/26"
+  },
+  {
     "id": "he_CABASE-NQN",
     "name": "CABASE-NQN",
     "country": "AR",
@@ -5004,6 +5049,24 @@
     "peeringlan": "2001:7f8:127::/64"
   },
   {
+    "id": "he_MidWest-IX%20-%20St.%20Louis",
+    "name": "MidWest-IX - St. Louis",
+    "country": "US",
+    "city": "St. Louis",
+    "region": "North America",
+    "url": "https://www.fd-ix.com",
+    "peeringlan": "206.71.10.0/24"
+  },
+  {
+    "id": "he_MidWest-IX%20-%20St.%20Louis",
+    "name": "MidWest-IX - St. Louis",
+    "country": "US",
+    "city": "St. Louis",
+    "region": "North America",
+    "url": "https://www.fd-ix.com",
+    "peeringlan": "2001:504:45:10::/64"
+  },
+  {
     "id": "he_Tirol-IX",
     "name": "Tirol-IX",
     "country": "AT",
@@ -5112,24 +5175,6 @@
     "peeringlan": "2001:7f8:6c:60::/64"
   },
   {
-    "id": "he_MidWest-IX%20-%20St.%20Louis",
-    "name": "MidWest-IX - St. Louis",
-    "country": "US",
-    "city": "St. Louis",
-    "region": "North America",
-    "url": "https://www.fd-ix.com",
-    "peeringlan": "206.71.10.0/24"
-  },
-  {
-    "id": "he_MidWest-IX%20-%20St.%20Louis",
-    "name": "MidWest-IX - St. Louis",
-    "country": "US",
-    "city": "St. Louis",
-    "region": "North America",
-    "url": "https://www.fd-ix.com",
-    "peeringlan": "2001:504:45:10::/64"
-  },
-  {
     "id": "he_ABQIX",
     "name": "ABQIX",
     "country": "US",
@@ -5173,6 +5218,24 @@
     "region": "Europe",
     "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-toulouse/",
     "peeringlan": "2001:7f8:54:7::/64"
+  },
+  {
+    "id": "he_MIX%20Thessaloniki",
+    "name": "MIX Thessaloniki",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.mix-it.net",
+    "peeringlan": "185.188.81.0/24"
+  },
+  {
+    "id": "he_MIX%20Thessaloniki",
+    "name": "MIX Thessaloniki",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.mix-it.net",
+    "peeringlan": "2001:7f8:101:17::/64"
   },
   {
     "id": "he_MegaIX%20Toronto",
@@ -5335,24 +5398,6 @@
     "region": "Asia Pacific",
     "url": "https://ams-ix.net/ban/",
     "peeringlan": "2402:b740:15:388::/64"
-  },
-  {
-    "id": "he_MIX%20Thessaloniki",
-    "name": "MIX Thessaloniki",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.mix-it.net",
-    "peeringlan": "185.188.81.0/24"
-  },
-  {
-    "id": "he_MIX%20Thessaloniki",
-    "name": "MIX Thessaloniki",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.mix-it.net",
-    "peeringlan": "2001:7f8:101:17::/64"
   },
   {
     "id": "he_AuvernIX",
