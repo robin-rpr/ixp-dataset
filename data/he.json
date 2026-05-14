@@ -567,24 +567,6 @@
     "peeringlan": "2001:504:1a::34:0/111"
   },
   {
-    "id": "he_LocIX%20Frankfurt",
-    "name": "LocIX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.166.0/23"
-  },
-  {
-    "id": "he_LocIX%20Frankfurt",
-    "name": "LocIX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "2001:7f8:f2:e1::/64"
-  },
-  {
     "id": "he_Global-IX",
     "name": "Global-IX",
     "country": "NL",
@@ -657,24 +639,6 @@
     "peeringlan": "2001:7f8:a0::/64"
   },
   {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "206.51.7.0/24"
-  },
-  {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "2001:504:1B:1::/64"
-  },
-  {
     "id": "he_NaMeX",
     "name": "NaMeX",
     "country": "IT",
@@ -700,6 +664,24 @@
     "region": "Europe",
     "url": "https://www.namex.it",
     "peeringlan": "2001:7f8:10:b::/64"
+  },
+  {
+    "id": "he_LocIX%20Frankfurt",
+    "name": "LocIX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.166.0/23"
+  },
+  {
+    "id": "he_LocIX%20Frankfurt",
+    "name": "LocIX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "2001:7f8:f2:e1::/64"
   },
   {
     "id": "he_DE-CIX%20Munich",
@@ -763,6 +745,24 @@
     "region": "Europe",
     "url": "https://1-ix.eu",
     "peeringlan": "185.0.42.0/23"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "206.51.7.0/24"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "2001:504:1B:1::/64"
   },
   {
     "id": "he_DE-CIX%20Hamburg",
@@ -972,6 +972,24 @@
     "peeringlan": "2001:43f8:1f0:1::/64"
   },
   {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "206.41.108.0/24"
+  },
+  {
+    "id": "he_FL-IX",
+    "name": "FL-IX",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "http://www.communityix.org/index.php/about-fl-ix/",
+    "peeringlan": "2001:504:40:108::/64"
+  },
+  {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Atlanta",
     "name": "Digital Realty | Telx Atlanta",
     "country": "US",
@@ -1006,24 +1024,6 @@
     "region": "North America",
     "url": "https://ix.digitalrealty.com",
     "peeringlan": "2001:504:17:110::/64"
-  },
-  {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "206.41.108.0/24"
-  },
-  {
-    "id": "he_FL-IX",
-    "name": "FL-IX",
-    "country": "US",
-    "city": "Miami",
-    "region": "North America",
-    "url": "http://www.communityix.org/index.php/about-fl-ix/",
-    "peeringlan": "2001:504:40:108::/64"
   },
   {
     "id": "he_IX%20Australia%20NSW",
@@ -1269,6 +1269,15 @@
     "peeringlan": "2a0d:e180::/64"
   },
   {
+    "id": "he_PITER-IX%20Frankfurt",
+    "name": "PITER-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://piter-ix.eu",
+    "peeringlan": "31.44.186.0/23"
+  },
+  {
     "id": "he_W-IX",
     "name": "W-IX",
     "country": "RU",
@@ -1285,15 +1294,6 @@
     "region": "Europe",
     "url": "http://www.w-ix.ru",
     "peeringlan": "2a00:1b30::/64"
-  },
-  {
-    "id": "he_PITER-IX%20Frankfurt",
-    "name": "PITER-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://piter-ix.eu",
-    "peeringlan": "31.44.186.0/23"
   },
   {
     "id": "he_InterLAN",
@@ -1791,24 +1791,6 @@
     "peeringlan": "2001:07F8:0018:72::/64"
   },
   {
-    "id": "he_MINAP",
-    "name": "MINAP",
-    "country": "IT",
-    "city": "Milan",
-    "region": "Europe",
-    "url": "https://www.minap.it/",
-    "peeringlan": "185.1.114.0/24"
-  },
-  {
-    "id": "he_MINAP",
-    "name": "MINAP",
-    "country": "IT",
-    "city": "Milan",
-    "region": "Europe",
-    "url": "https://www.minap.it/",
-    "peeringlan": "2001:7f8:c5::/48"
-  },
-  {
     "id": "he_CIX-ATL",
     "name": "CIX-ATL",
     "country": "US",
@@ -1825,6 +1807,24 @@
     "region": "North America",
     "url": "http://www.communityix.org",
     "peeringlan": "2001:504:40:12::/64"
+  },
+  {
+    "id": "he_MINAP",
+    "name": "MINAP",
+    "country": "IT",
+    "city": "Milan",
+    "region": "Europe",
+    "url": "https://www.minap.it/",
+    "peeringlan": "185.1.114.0/24"
+  },
+  {
+    "id": "he_MINAP",
+    "name": "MINAP",
+    "country": "IT",
+    "city": "Milan",
+    "region": "Europe",
+    "url": "https://www.minap.it/",
+    "peeringlan": "2001:7f8:c5::/48"
   },
   {
     "id": "he_nine-ix",
@@ -3078,6 +3078,24 @@
     "peeringlan": "2001:df0:680:11::/64"
   },
   {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "45.68.92.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "2801:81:c0:1::/64"
+  },
+  {
     "id": "he_AMS-IX%20Hong%20Kong",
     "name": "AMS-IX Hong Kong",
     "country": "HK",
@@ -3130,24 +3148,6 @@
     "region": "Australia",
     "url": "http://www.edgeix.net",
     "peeringlan": "2001:df0:680:4::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "45.68.92.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "2801:81:c0:1::/64"
   },
   {
     "id": "he_Balcan-IX",
@@ -4086,6 +4086,24 @@
     "peeringlan": "2001:7f8:bb::/48"
   },
   {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.172.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Los%20Angeles",
+    "name": "MegaIX Los Angeles",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:5::/64"
+  },
+  {
     "id": "he_PhillyIX",
     "name": "PhillyIX",
     "country": "US",
@@ -4165,24 +4183,6 @@
     "region": "Europe",
     "url": "https://www.turkix.bg",
     "peeringlan": "2001:7f8:161::/64"
-  },
-  {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.172.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Los%20Angeles",
-    "name": "MegaIX Los Angeles",
-    "country": "US",
-    "city": "Los Angeles",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:5::/64"
   },
   {
     "id": "he_TREX",
