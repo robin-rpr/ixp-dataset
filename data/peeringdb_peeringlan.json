@@ -21839,7 +21839,7 @@
     "country": "NL",
     "city": "Amsterdam",
     "region": "Europe",
-    "url": "https://lynqia.org",
+    "url": "https://lynqia.company",
     "peeringlan": "2a14:7580:eff0:ab9e::/64"
   },
   {
@@ -22776,6 +22776,15 @@
     "city": "Taldyqorgan",
     "region": "North America",
     "url": "https://sts.kz/en/toit",
+    "peeringlan": "2001:67c:9e8:19::/64"
+  },
+  {
+    "id": "pdb_4948",
+    "name": "KAZ-GOV-IX Taldyqorgan",
+    "country": "KZ",
+    "city": "Taldyqorgan",
+    "region": "North America",
+    "url": "https://sts.kz/en/toit",
     "peeringlan": "195.12.119.96/27"
   },
   {
@@ -22933,9 +22942,18 @@
   },
   {
     "id": "pdb_4971",
-    "name": "LMIX - Amsterdam",
+    "name": "LMIX EU",
     "country": "NL",
-    "city": "Amsterdam",
+    "city": "Amsterdam, Dusseldorf",
+    "region": "Europe",
+    "url": "https://sfix.lytrix.fun",
+    "peeringlan": "2a14:7585:d0fc:2::/64"
+  },
+  {
+    "id": "pdb_4971",
+    "name": "LMIX EU",
+    "country": "NL",
+    "city": "Amsterdam, Dusseldorf",
     "region": "Europe",
     "url": "https://sfix.lytrix.fun",
     "peeringlan": "2a14:7585:d0fc:1::/64"
@@ -23166,15 +23184,6 @@
     "peeringlan": "2001:7f8:174::/64"
   },
   {
-    "id": "pdb_4998",
-    "name": "LMIX - Dusseldorf",
-    "country": "DE",
-    "city": "D\u00fcsseldorf",
-    "region": "Europe",
-    "url": "https://sfix.lytrix.fun",
-    "peeringlan": "2a14:7585:d0fc:2::/64"
-  },
-  {
     "id": "pdb_5002",
     "name": "Digital Delta IX",
     "country": "BW",
@@ -23254,5 +23263,14 @@
     "region": "Africa",
     "url": "http://lixp.org.ls",
     "peeringlan": "196.223.24.0/24"
+  },
+  {
+    "id": "pdb_5020",
+    "name": "Brothers Online BD",
+    "country": "BD",
+    "city": "Pabna",
+    "region": "Asia Pacific",
+    "url": "https://bobd.net/",
+    "peeringlan": "138.252.238.0/23"
   }
 ]
