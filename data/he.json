@@ -423,33 +423,6 @@
     "peeringlan": "2001:7f8:10f::/64"
   },
   {
-    "id": "he_NAPAfrica%20IX%20Cape%20Town",
-    "name": "NAPAfrica IX Cape Town",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "http://www.teraco.co.za",
-    "peeringlan": "196.10.140.0/24"
-  },
-  {
-    "id": "he_NAPAfrica%20IX%20Cape%20Town",
-    "name": "NAPAfrica IX Cape Town",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "http://www.teraco.co.za",
-    "peeringlan": "196.60.70.0/23"
-  },
-  {
-    "id": "he_NAPAfrica%20IX%20Cape%20Town",
-    "name": "NAPAfrica IX Cape Town",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "http://www.teraco.co.za",
-    "peeringlan": "2001:43f8:6d1::/64"
-  },
-  {
     "id": "he_DE-CIX%20New%20York",
     "name": "DE-CIX New York",
     "country": "US",
@@ -475,6 +448,33 @@
     "region": "North America",
     "url": "https://www.de-cix.net/locations/new-york",
     "peeringlan": "2001:504:36::/64"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Cape%20Town",
+    "name": "NAPAfrica IX Cape Town",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "http://www.teraco.co.za",
+    "peeringlan": "196.10.140.0/24"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Cape%20Town",
+    "name": "NAPAfrica IX Cape Town",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "http://www.teraco.co.za",
+    "peeringlan": "196.60.70.0/23"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Cape%20Town",
+    "name": "NAPAfrica IX Cape Town",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "http://www.teraco.co.za",
+    "peeringlan": "2001:43f8:6d1::/64"
   },
   {
     "id": "he_DTEL-IX",
@@ -1530,6 +1530,15 @@
     "peeringlan": "2001:504:30::/48"
   },
   {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
+  },
+  {
     "id": "he_DE-CIX%20Marseille",
     "name": "DE-CIX Marseille",
     "country": "FR",
@@ -1546,15 +1555,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/marseille",
     "peeringlan": "2001:7f8:36::/64"
-  },
-  {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_CINX",
@@ -2592,24 +2592,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "185.1.131.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Lisbon",
-    "name": "DE-CIX Lisbon",
-    "country": "PT",
-    "city": "Lisbon",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/locations/lisbon",
-    "peeringlan": "2001:7f8:d5::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Perth",
     "name": "EdgeIX - Perth",
     "country": "AU",
@@ -2626,6 +2608,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "185.1.131.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Lisbon",
+    "name": "DE-CIX Lisbon",
+    "country": "PT",
+    "city": "Lisbon",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/lisbon",
+    "peeringlan": "2001:7f8:d5::/64"
   },
   {
     "id": "he_QCIX",
@@ -3150,24 +3150,6 @@
     "peeringlan": "2001:df0:680:4::/64"
   },
   {
-    "id": "he_DE-CIX%20Barcelona",
-    "name": "DE-CIX Barcelona",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/barcelona",
-    "peeringlan": "185.1.119.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Barcelona",
-    "name": "DE-CIX Barcelona",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/barcelona",
-    "peeringlan": "2001:7f8:10a::/64"
-  },
-  {
     "id": "he_LINX%20Mombasa",
     "name": "LINX Mombasa",
     "country": "KE",
@@ -3202,6 +3184,24 @@
     "region": "Europe",
     "url": "http://www.balcan-ix.net",
     "peeringlan": "2a02:d10:80::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Barcelona",
+    "name": "DE-CIX Barcelona",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/barcelona",
+    "peeringlan": "185.1.119.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Barcelona",
+    "name": "DE-CIX Barcelona",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/barcelona",
+    "peeringlan": "2001:7f8:10a::/64"
   },
   {
     "id": "he_1-NL",
@@ -4491,6 +4491,24 @@
     "peeringlan": "2001:504:40:69::/64"
   },
   {
+    "id": "he_1-PL",
+    "name": "1-PL",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1pl",
+    "peeringlan": "194.246.39.0/26"
+  },
+  {
+    "id": "he_1-PL",
+    "name": "1-PL",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1pl",
+    "peeringlan": "2001:7f8:16e::/64"
+  },
+  {
     "id": "he_AAIX",
     "name": "AAIX",
     "country": "AT",
@@ -4561,24 +4579,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/en/locations/leipzig",
     "peeringlan": "2001:7f8:df::/64"
-  },
-  {
-    "id": "he_1-PL",
-    "name": "1-PL",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "https://1-ix.eu/1pl",
-    "peeringlan": "194.246.39.0/26"
-  },
-  {
-    "id": "he_1-PL",
-    "name": "1-PL",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "https://1-ix.eu/1pl",
-    "peeringlan": "2001:7f8:16e::/64"
   },
   {
     "id": "he_IX%20Leeds",
@@ -5679,6 +5679,24 @@
     "peeringlan": "2801:81:c0:2::/64"
   },
   {
+    "id": "he_ERA-IX%20Paris",
+    "name": "ERA-IX Paris",
+    "country": "FR",
+    "city": "Paris",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "195.60.85.128/26"
+  },
+  {
+    "id": "he_ERA-IX%20Paris",
+    "name": "ERA-IX Paris",
+    "country": "FR",
+    "city": "Paris",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "2001:7f8:16f::/64"
+  },
+  {
     "id": "he_COIX",
     "name": "COIX",
     "country": "US",
@@ -5749,24 +5767,6 @@
     "region": "Asia Pacific",
     "url": "https://www.ams-ix.net/sin/",
     "peeringlan": "2a00:8422:ae5::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Paris",
-    "name": "ERA-IX Paris",
-    "country": "FR",
-    "city": "Paris",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "195.60.85.128/26"
-  },
-  {
-    "id": "he_ERA-IX%20Paris",
-    "name": "ERA-IX Paris",
-    "country": "FR",
-    "city": "Paris",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "2001:7f8:16f::/64"
   },
   {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Phoenix",
