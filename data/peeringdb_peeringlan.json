@@ -586,7 +586,7 @@
   },
   {
     "id": "pdb_55",
-    "name": "BiX",
+    "name": "BIX",
     "country": "HU",
     "city": "Budapest",
     "region": "Europe",
@@ -595,7 +595,7 @@
   },
   {
     "id": "pdb_55",
-    "name": "BiX",
+    "name": "BIX",
     "country": "HU",
     "city": "Budapest",
     "region": "Europe",
@@ -8269,24 +8269,6 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:a980:0:9::/64"
-  },
-  {
-    "id": "pdb_1634",
-    "name": "SCL-IX Chile-Main",
-    "country": "CL",
-    "city": "Santiago",
-    "region": "South America",
-    "url": "https://www.sclix.cl",
-    "peeringlan": "170.246.67.0/24"
-  },
-  {
-    "id": "pdb_1634",
-    "name": "SCL-IX Chile-Main",
-    "country": "CL",
-    "city": "Santiago",
-    "region": "South America",
-    "url": "https://www.sclix.cl",
-    "peeringlan": "2803:dc40::/64"
   },
   {
     "id": "pdb_1658",
@@ -16890,15 +16872,6 @@
     "city": "Amsterdam",
     "region": "Europe",
     "url": "https://www.inter-ix.net/",
-    "peeringlan": "185.0.1.0/24"
-  },
-  {
-    "id": "pdb_3990",
-    "name": "INTERIX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.inter-ix.net/",
     "peeringlan": "2001:7f8:134::/64"
   },
   {
@@ -18532,20 +18505,20 @@
   },
   {
     "id": "pdb_4296",
-    "name": "INIXP Asia",
+    "name": "INIXP",
     "country": "JP",
-    "city": "Tokyo,Osaka,Sapporo",
+    "city": "Japan",
     "region": "Asia Pacific",
-    "url": "https://ixpmanager.inixp.io/customer/details",
+    "url": "https://jcix.net/",
     "peeringlan": "2401:3fa0::/64"
   },
   {
     "id": "pdb_4296",
-    "name": "INIXP Asia",
+    "name": "INIXP",
     "country": "JP",
-    "city": "Tokyo,Osaka,Sapporo",
+    "city": "Japan",
     "region": "Asia Pacific",
-    "url": "https://ixpmanager.inixp.io/customer/details",
+    "url": "https://jcix.net/",
     "peeringlan": "103.115.3.0/25"
   },
   {
@@ -18923,7 +18896,7 @@
     "country": "US",
     "city": "Burlington White River Junction Hanover, NH Montpelier",
     "region": "North America",
-    "url": "https://american-lx.net",
+    "url": "https://vermont-ix.net",
     "peeringlan": "2001:504:137::/64"
   },
   {
@@ -18932,7 +18905,7 @@
     "country": "US",
     "city": "Burlington White River Junction Hanover, NH Montpelier",
     "region": "North America",
-    "url": "https://american-lx.net",
+    "url": "https://vermont-ix.net",
     "peeringlan": "149.112.81.0/25"
   },
   {
@@ -21348,15 +21321,6 @@
     "peeringlan": "2001:7f8:59::/64"
   },
   {
-    "id": "pdb_4730",
-    "name": "LOCIX",
-    "country": "DE",
-    "city": "D\u00fcsseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "206.83.45.0/24"
-  },
-  {
     "id": "pdb_4737",
     "name": "ISCX Internet Exchange",
     "country": "ID",
@@ -23001,7 +22965,7 @@
     "city": "Delhi",
     "region": "Asia Pacific",
     "url": "https://www.mx-ix.com",
-    "peeringlan": "103.162.77.0/24"
+    "peeringlan": "103.162.77.0/25"
   },
   {
     "id": "pdb_4983",
@@ -23247,6 +23211,24 @@
     "peeringlan": "2a14:ae00:10::/64"
   },
   {
+    "id": "pdb_5011",
+    "name": "nine - six in Paris",
+    "country": "FR",
+    "city": "Paris",
+    "region": "Europe",
+    "url": "https://nine-ix.net",
+    "peeringlan": "185.0.19.0/24"
+  },
+  {
+    "id": "pdb_5011",
+    "name": "nine - six in Paris",
+    "country": "FR",
+    "city": "Paris",
+    "region": "Europe",
+    "url": "https://nine-ix.net",
+    "peeringlan": "2001:7f8:12e:1::/64"
+  },
+  {
     "id": "pdb_5012",
     "name": "Cotel Ltda",
     "country": "AR",
@@ -23272,5 +23254,14 @@
     "region": "Asia Pacific",
     "url": "https://bobd.net/",
     "peeringlan": "138.252.238.0/23"
+  },
+  {
+    "id": "pdb_5023",
+    "name": "3AM Network IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://3am.network",
+    "peeringlan": "2a0b:4e04:3a:1::/64"
   }
 ]
