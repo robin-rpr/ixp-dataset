@@ -1512,6 +1512,24 @@
     "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
+    "id": "he_nine-ix",
+    "name": "nine-ix",
+    "country": "FR",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://nine-ix.net/",
+    "peeringlan": "185.1.14.0/24"
+  },
+  {
+    "id": "he_nine-ix",
+    "name": "nine-ix",
+    "country": "FR",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://nine-ix.net/",
+    "peeringlan": "2001:7f8:12e::/64"
+  },
+  {
     "id": "he_SFMIX",
     "name": "SFMIX",
     "country": "US",
@@ -1629,24 +1647,6 @@
     "peeringlan": "2001:7fa:7:2::/64"
   },
   {
-    "id": "he_nine-ix",
-    "name": "nine-ix",
-    "country": "FR",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://nine-ix.net/",
-    "peeringlan": "185.1.14.0/24"
-  },
-  {
-    "id": "he_nine-ix",
-    "name": "nine-ix",
-    "country": "FR",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://nine-ix.net/",
-    "peeringlan": "2001:7f8:12e::/64"
-  },
-  {
     "id": "he_TOP-IX",
     "name": "TOP-IX",
     "country": "IT",
@@ -1672,24 +1672,6 @@
     "region": "Europe",
     "url": "http://www.top-ix.org",
     "peeringlan": "2001:7f8:23:ffff::/64"
-  },
-  {
-    "id": "he_AKL-IX",
-    "name": "AKL-IX",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.ix.nz",
-    "peeringlan": "43.243.21.0/24"
-  },
-  {
-    "id": "he_AKL-IX",
-    "name": "AKL-IX",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.ix.nz",
-    "peeringlan": "2001:7fa:11:6::/64"
   },
   {
     "id": "he_CIX-ATL",
@@ -1753,6 +1735,24 @@
     "region": "Middle East",
     "url": "https://www.uae-ix.net/",
     "peeringlan": "2001:7f8:73::/64"
+  },
+  {
+    "id": "he_AKL-IX",
+    "name": "AKL-IX",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.ix.nz",
+    "peeringlan": "43.243.21.0/24"
+  },
+  {
+    "id": "he_AKL-IX",
+    "name": "AKL-IX",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.ix.nz",
+    "peeringlan": "2001:7fa:11:6::/64"
   },
   {
     "id": "he_INEX",
@@ -2070,33 +2070,6 @@
     "peeringlan": "2001:7fa:4:c0cb::/64"
   },
   {
-    "id": "he_B-IX%20Balkans",
-    "name": "B-IX Balkans",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.b-ix.net/",
-    "peeringlan": "185.1.30.0/24"
-  },
-  {
-    "id": "he_B-IX%20Balkans",
-    "name": "B-IX Balkans",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.b-ix.net/",
-    "peeringlan": "217.174.157.0/24"
-  },
-  {
-    "id": "he_B-IX%20Balkans",
-    "name": "B-IX Balkans",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.b-ix.net/",
-    "peeringlan": "2001:7f8:8e::/48"
-  },
-  {
     "id": "he_AMS-IX%20India",
     "name": "AMS-IX India",
     "country": "IN",
@@ -2131,6 +2104,33 @@
     "region": "North America",
     "url": "https://ix.digitalrealty.com",
     "peeringlan": "2001:504:17:115::/64"
+  },
+  {
+    "id": "he_B-IX%20Balkans",
+    "name": "B-IX Balkans",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.b-ix.net/",
+    "peeringlan": "185.1.30.0/24"
+  },
+  {
+    "id": "he_B-IX%20Balkans",
+    "name": "B-IX Balkans",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.b-ix.net/",
+    "peeringlan": "217.174.157.0/24"
+  },
+  {
+    "id": "he_B-IX%20Balkans",
+    "name": "B-IX Balkans",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.b-ix.net/",
+    "peeringlan": "2001:7f8:8e::/48"
   },
   {
     "id": "he_IX%20Australia%20WA",
@@ -2988,6 +2988,24 @@
     "peeringlan": "2001:de8:1d::/64"
   },
   {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.180.190.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
     "id": "he_CRIX",
     "name": "CRIX",
     "country": "CR",
@@ -3076,24 +3094,6 @@
     "region": "Africa",
     "url": "https://www.asteroidhq.com/",
     "peeringlan": "2001:7f8:b6:2::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.180.190.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:11::/64"
   },
   {
     "id": "he_AMS-IX%20Hong%20Kong",
@@ -3303,6 +3303,24 @@
     "peeringlan": "2001:7f8:28::/48"
   },
   {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "185.0.28.0/24"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "2001:7f8:148::/64"
+  },
+  {
     "id": "he_DIX",
     "name": "DIX",
     "country": "DK",
@@ -3337,24 +3355,6 @@
     "region": "Europe",
     "url": "http://www.dix.dk/",
     "peeringlan": "2001:7F8:1F::/48"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "185.0.28.0/24"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_LL-IX",
@@ -4482,6 +4482,24 @@
     "peeringlan": "2806:424::/64"
   },
   {
+    "id": "he_DE-CIX%20Leipzig",
+    "name": "DE-CIX Leipzig",
+    "country": "DE",
+    "city": "Leipzig",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/leipzig",
+    "peeringlan": "185.1.245.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Leipzig",
+    "name": "DE-CIX Leipzig",
+    "country": "DE",
+    "city": "Leipzig",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/leipzig",
+    "peeringlan": "2001:7f8:df::/64"
+  },
+  {
     "id": "he_CIX-NoVA",
     "name": "CIX-NoVA",
     "country": "US",
@@ -4561,24 +4579,6 @@
     "region": "North America",
     "url": "http://yxeix.ca",
     "peeringlan": "2001:504:69::/48"
-  },
-  {
-    "id": "he_DE-CIX%20Leipzig",
-    "name": "DE-CIX Leipzig",
-    "country": "DE",
-    "city": "Leipzig",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/leipzig",
-    "peeringlan": "185.1.245.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Leipzig",
-    "name": "DE-CIX Leipzig",
-    "country": "DE",
-    "city": "Leipzig",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/leipzig",
-    "peeringlan": "2001:7f8:df::/64"
   },
   {
     "id": "he_IX%20Leeds",
