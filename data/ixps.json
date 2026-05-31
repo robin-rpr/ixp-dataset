@@ -17550,24 +17550,6 @@
     "peeringlan": "2001:deb:c001::/64"
   },
   {
-    "id": "pdb_4270_01",
-    "name": "VOIXP",
-    "country": "AT",
-    "city": "Vienna",
-    "region": "Europe",
-    "url": "https://voixp.com",
-    "peeringlan": "185.0.39.0/24"
-  },
-  {
-    "id": "pdb_4270_02",
-    "name": "VOIXP",
-    "country": "AT",
-    "city": "Vienna",
-    "region": "Europe",
-    "url": "https://voixp.com",
-    "peeringlan": "2001:7f8:152::/64"
-  },
-  {
     "id": "pdb_4271_01",
     "name": "Pakistan Internet Exchange (PIE) Karachi",
     "country": "PK",
@@ -22428,85 +22410,13 @@
     "peeringlan": "119.27.63.0/24"
   },
   {
-    "id": "pch_1822_01",
-    "name": "CABASE IXP Bariloche",
+    "id": "pch_1407_01",
+    "name": "CABASE IXP Mar del Plata",
     "country": "AR",
-    "city": "Bariloche",
+    "city": "Mar del Plata",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-bariloche.php",
-    "peeringlan": "2001:13C7:6015:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1406_01",
-    "name": "CABASE IXP La Plata",
-    "country": "AR",
-    "city": "La Plata",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-laplata.php",
-    "peeringlan": "2001:13C7:6011:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1410_01",
-    "name": "CABASE IXP Santa Fe",
-    "country": "AR",
-    "city": "Santa Fe",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-santafe.php",
-    "peeringlan": "2001:13C7:600D:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1409_01",
-    "name": "CABASE IXP Rosario",
-    "country": "AR",
-    "city": "Rosario",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-rosario.php",
-    "peeringlan": "2001:13C7:6008:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1969_01",
-    "name": "CABASE IXP SALTA",
-    "country": "AR",
-    "city": "Salta",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
-    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1408_01",
-    "name": "CABASE IXP Mendoza",
-    "country": "AR",
-    "city": "Mendoza",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-mendoza.php",
-    "peeringlan": "2001:13C7:600B:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1405_01",
-    "name": "CABASE IXP De la Costa",
-    "country": "AR",
-    "city": "De La Costa",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-lacosta.php",
-    "peeringlan": "2001:13C7:600C:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1198_01",
-    "name": "CABASE IXP Neuqu\u00e9n",
-    "country": "AR",
-    "city": "Neuqu\u00e9n",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-neuquen.php",
-    "peeringlan": "2001:13C7:6007:0:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1820_01",
-    "name": "CABASE IXP Posadas",
-    "country": "AR",
-    "city": "Posadas",
-    "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-posadas.php",
-    "peeringlan": "2001:13C7:6013:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-mardelplata.php",
+    "peeringlan": "2001:13C7:6012:0:0:0:0:0/48"
   },
   {
     "id": "pch_1404_01",
@@ -22518,22 +22428,22 @@
     "peeringlan": "2001:13C7:600E:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1403_01",
-    "name": "CABASE IXP Bah\u00eda Blanca",
+    "id": "pch_1822_01",
+    "name": "CABASE IXP Bariloche",
     "country": "AR",
-    "city": "Bah\u00eda Blanca",
+    "city": "Bariloche",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-bahia-blanca.php",
-    "peeringlan": "2001:13C7:6009:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-bariloche.php",
+    "peeringlan": "2001:13C7:6015:0:0:0:0:0/48"
   },
   {
-    "id": "pch_1407_01",
-    "name": "CABASE IXP Mar del Plata",
+    "id": "pch_1405_01",
+    "name": "CABASE IXP De la Costa",
     "country": "AR",
-    "city": "Mar del Plata",
+    "city": "De La Costa",
     "region": "Latin America",
-    "url": "https://ixp.cabase.org.ar/ixp-mardelplata.php",
-    "peeringlan": "2001:13C7:6012:0:0:0:0:0/48"
+    "url": "https://ixp.cabase.org.ar/ixp-lacosta.php",
+    "peeringlan": "2001:13C7:600C:0:0:0:0:0/48"
   },
   {
     "id": "pch_1941_01",
@@ -22543,6 +22453,78 @@
     "region": "Latin America",
     "url": "https://ixp.cabase.org.ar/ixp-saenzpenia.php",
     "peeringlan": "2001:13C7:601A:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1408_01",
+    "name": "CABASE IXP Mendoza",
+    "country": "AR",
+    "city": "Mendoza",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-mendoza.php",
+    "peeringlan": "2001:13C7:600B:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1406_01",
+    "name": "CABASE IXP La Plata",
+    "country": "AR",
+    "city": "La Plata",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-laplata.php",
+    "peeringlan": "2001:13C7:6011:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1820_01",
+    "name": "CABASE IXP Posadas",
+    "country": "AR",
+    "city": "Posadas",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-posadas.php",
+    "peeringlan": "2001:13C7:6013:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1403_01",
+    "name": "CABASE IXP Bah\u00eda Blanca",
+    "country": "AR",
+    "city": "Bah\u00eda Blanca",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-bahia-blanca.php",
+    "peeringlan": "2001:13C7:6009:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1409_01",
+    "name": "CABASE IXP Rosario",
+    "country": "AR",
+    "city": "Rosario",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-rosario.php",
+    "peeringlan": "2001:13C7:6008:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1410_01",
+    "name": "CABASE IXP Santa Fe",
+    "country": "AR",
+    "city": "Santa Fe",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-santafe.php",
+    "peeringlan": "2001:13C7:600D:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1198_01",
+    "name": "CABASE IXP Neuqu\u00e9n",
+    "country": "AR",
+    "city": "Neuqu\u00e9n",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-neuquen.php",
+    "peeringlan": "2001:13C7:6007:0:0:0:0:0/48"
+  },
+  {
+    "id": "pch_1969_01",
+    "name": "CABASE IXP SALTA",
+    "country": "AR",
+    "city": "Salta",
+    "region": "Latin America",
+    "url": "https://ixp.cabase.org.ar/ixp-salta.php",
+    "peeringlan": "2001:13C7:601B:0:0:0:0:0/48"
   },
   {
     "id": "pch_96_01",
@@ -22588,15 +22570,6 @@
     "region": "Asia Pacific",
     "url": "http://www.bbix.net/en/service/ix/",
     "peeringlan": "2001:DE8:C:2:0:0:0:0/48"
-  },
-  {
-    "id": "pch_1872_01",
-    "name": "Salt Lake Internet Exchange",
-    "country": "US",
-    "city": "Salt Lake City",
-    "region": "North America",
-    "url": "http://www.slix.net/",
-    "peeringlan": "2001:504:105:0:0:0:0:0/48"
   },
   {
     "id": "pch_1935_01",
@@ -22660,6 +22633,15 @@
     "region": "Europe",
     "url": "https://gigapix.pt/en/index/",
     "peeringlan": "2001:7F8:A:11:0:0:0:0/64"
+  },
+  {
+    "id": "pch_1872_01",
+    "name": "Salt Lake Internet Exchange",
+    "country": "US",
+    "city": "Salt Lake City",
+    "region": "North America",
+    "url": "http://www.slix.net/",
+    "peeringlan": "2001:504:105:0:0:0:0:0/48"
   },
   {
     "id": "pch_1781_01",
@@ -23913,6 +23895,15 @@
     "peeringlan": "198.32.212.0/24"
   },
   {
+    "id": "he_ERA-IX%20Frankfurt_01",
+    "name": "ERA-IX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/frankfurt",
+    "peeringlan": "193.201.155.0/26"
+  },
+  {
     "id": "he_BNIX_01",
     "name": "BNIX",
     "country": "BE",
@@ -23974,15 +23965,6 @@
     "region": "Europe",
     "url": "https://www.vs-ix.org/",
     "peeringlan": "2001:7f8:5f::/64"
-  },
-  {
-    "id": "he_ERA-IX%20Frankfurt_01",
-    "name": "ERA-IX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/frankfurt",
-    "peeringlan": "193.201.155.0/26"
   },
   {
     "id": "he_DE-CIX%20Chennai_01",
